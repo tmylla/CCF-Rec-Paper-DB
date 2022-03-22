@@ -1,0 +1,327 @@
+[
+    {
+        "name": "EURASIP Journal on Information Security",
+        "year": "2022",
+        "info": "2022",
+        "count": 2,
+        "papers": [
+            "Secure machine learning against adversarial samples at test time.",
+            "DIPPAS: a deep image prior PRNU anonymization scheme."
+        ]
+    },
+    {
+        "name": "EURASIP Journal on Information Security",
+        "year": "2021",
+        "info": "2021",
+        "count": 12,
+        "papers": [
+            "Use of SHDM in commutative watermarking encryption.",
+            "Synthetic speech detection through short-term and long-term prediction traces.",
+            "Research on gray correlation analysis and situation prediction of network information security.",
+            "Media forensics on social media platforms: a survey.",
+            "Boosting CNN-based primary quantization matrix estimation of double JPEG images via a classification-like architecture.",
+            "On the information leakage quantification of camera fingerprint estimates.",
+            "Proposing a reliable method of securing and verifying the credentials of graduates through blockchain.",
+            "Estimating Previous Quantization Factors on Multiple JPEG Compressed Images.",
+            "Potential advantages and limitations of using information fusion in media forensics - a discussion on the example of detecting face morphing attacks.",
+            "Multitask adversarial attack with dispersion amplification.",
+            "Detection of illicit cryptomining using network metadata.",
+            "Feature partitioning for robust tree ensembles and their certification in adversarial scenarios."
+        ]
+    },
+    {
+        "name": "EURASIP Journal on Information Security",
+        "year": "2020",
+        "info": "2020",
+        "count": 15,
+        "papers": [
+            "Combining PRNU and noiseprint for robust and efficient device source identification.",
+            "Keystroke biometrics in the encrypted domain: a first study on search suggestion functions of web search engines.",
+            "Understanding visual lip-based biometric authentication for mobile devices.",
+            "Evaluation of stability of swipe gesture authentication across usage scenarios of mobile device.",
+            "Deep neural rejection against adversarial examples.",
+            "Swapped face detection using deep learning and subjective assessment.",
+            "Low-cost data partitioning and encrypted backup scheme for defending against co-resident attacks.",
+            "IoT cyber risk: a holistic analysis of cyber risk assessment frameworks, risk vectors, and risk ranking process.",
+            "ELSA: efficient long-term secure storage of large datasets (full version) \u2217.",
+            "Machine learning through cryptographic glasses: combating adversarial attacks by key-based diversified aggregation.",
+            "Reversible data hiding for binary images based on adaptive overlapping pattern.",
+            "Trembling triggers: exploring the sensitivity of backdoors in DNN-based face recognition.",
+            "Scalable, efficient, and secure RFID with elliptic curve cryptosystem for Internet of Things in healthcare environment.",
+            "A novel technique to prevent SQL injection and cross-site scripting attacks using Knuth-Morris-Pratt string match algorithm.",
+            "Smooth adversarial examples."
+        ]
+    },
+    {
+        "name": "EURASIP Journal on Information Security",
+        "year": "2019",
+        "info": "2019",
+        "count": 16,
+        "papers": [
+            "Transfer learning for detecting unknown network attacks.",
+            "Implementing a blockchain from scratch: why, how, and what we learned.",
+            "Spark-based real-time proactive image tracking protection model.",
+            "Machine learning-based dynamic analysis of Android apps with improved code coverage.",
+            "A deep learning framework for predicting cyber attacks rates.",
+            "Accuracy enhancement of biometric recognition using iterative weights optimization algorithm.",
+            "Metadata filtering for user-friendly centralized biometric authentication.",
+            "A new method of generating hard random lattices with short bases.",
+            "Towards the application of recommender systems to secure coding.",
+            "Fine-grain watermarking for intellectual property protection.",
+            "Crowdsourcing for click fraud detection.",
+            "Fingerprint template protection using minutia-pair spectral representations.",
+            "Situation prediction of large-scale Internet of Things network security.",
+            "Managing confidentiality leaks through private algorithms on Software Guard eXtensions (SGX) enclaves.",
+            "Long-term integrity protection of genomic data.",
+            "Multi-layer intrusion detection system with ExtraTrees feature selection, extreme learning machine ensemble, and softmax aggregation."
+        ]
+    },
+    {
+        "name": "EURASIP Journal on Information Security",
+        "year": "2018",
+        "info": "2018",
+        "count": 13,
+        "papers": [
+            "A trusted measurement model based on dynamic policy and privacy protection in IaaS security domain.",
+            "Towards constructive approach to end-to-end slice isolation in 5G networks.",
+            "Security evaluation of Tree Parity Re-keying Machine implementations utilizing side-channel emissions.",
+            "Foundations and applications of artificial Intelligence for zero-day and multi-step attack detection.",
+            "POS-originated transaction traces as a source of contextual information for risk management systems in EFT transactions.",
+            "OMMA: open architecture for Operator-guided Monitoring of Multi-step Attacks.",
+            "Secrecy outage of threshold-based cooperative relay network with and without direct links.",
+            "Towards 5G cellular network forensics.",
+            "Detection of spoofed and non-spoofed DDoS attacks and discriminating them from flash crowds.",
+            "Cybersecurity: trends, issues, and challenges.",
+            "HADEC: Hadoop-based live DDoS detection framework.",
+            "A generic integrity verification algorithm of version files for cloud deduplication data storage.",
+            "Detecting data manipulation attacks on physiological sensor measurements in wearable medical systems."
+        ]
+    },
+    {
+        "name": "EURASIP Journal on Information Security",
+        "year": "2017",
+        "info": "2017",
+        "count": 18,
+        "papers": [
+            "A novel quality assessment for visual secret sharing schemes.",
+            "Polymorphic malware detection using sequence classification methods and ensembles.",
+            "Improved privacy of dynamic group services.",
+            "Honeypots and honeynets: issues of privacy.",
+            "Anomaly detection through information sharing under different topologies.",
+            "Multi-resolution privacy-enhancing technologies for smart metering.",
+            "An artificial immunity approach to malware detection in a mobile platform.",
+            "On the use of watermark-based schemes to detect cyber-physical attacks.",
+            "Pattern matching of signature-based IDS using Myers algorithm under MapReduce framework.",
+            "Sensor Guardian: prevent privacy inference on Android sensors.",
+            "Hybrid focused crawling on the Surface and the Dark Web.",
+            "Selection of Pareto-efficient response plans based on financial and operational assessments.",
+            "A new approach for managing Android permissions: learning users' preferences.",
+            "Byzantine set-union consensus using efficient set reconciliation.",
+            "VISION: a video and image dataset for source identification.",
+            "Secure first-price sealed-bid auction scheme.",
+            "Research on transmission of technology of downward information security for wellbore trajectory control.",
+            "Research on fault diagnosis system of hall for workshop of meta-synthetic engineering based on information fusion."
+        ]
+    },
+    {
+        "name": "EURASIP Journal on Information Security",
+        "year": "2016",
+        "info": "2016",
+        "count": 28,
+        "papers": [
+            "Markov process-based retrieval for encrypted JPEG images.",
+            "Combating online fraud attacks in mobile-based advertising.",
+            "Asymptotics of fingerprinting and group testing: capacity-achieving log-likelihood decoders.",
+            "A landmark calibration-based IP geolocation approach.",
+            "Secured ECG signal transmission for human emotional stress classification in wireless body area networks.",
+            "HTTPS traffic analysis and client identification using passive SSL/TLS fingerprinting.",
+            "A new usage control protocol for data protection of cloud environment.",
+            "Software control and intellectual property protection in cyber-physical systems.",
+            "A novel approach to protect against phishing attacks at client side using auto-updated white-list.",
+            "ASIC implementation of random number generators using SR latches and its evaluation.",
+            "An efficient privacy-preserving comparison protocol in smart metering systems.",
+            "Generalized weighted tree similarity algorithms for taxonomy trees.",
+            "A secure cloud storage system combining time-based one-time password and automatic blocker protocol.",
+            "An adaptive approach for Linux memory analysis based on kernel code reconstruction.",
+            "Experimental comparison of simulation tools for efficient cloud and mobile cloud computing applications.",
+            "DB-SECaaS: a cloud-based protection system for document-oriented NoSQL databases.",
+            "A flexible framework for mobile device forensics based on cold boot attacks.",
+            "The role and security of firewalls in cyber-physical cloud computing.",
+            "Adaptive identity and access management - contextual data based policies.",
+            "DST approach to enhance audio quality on lost audio packet steganography.",
+            "Privacy-preserving load profile matching for tariff decisions in smart grids.",
+            "Hidost: a static machine-learning-based detector of malicious files.",
+            "Double JPEG compression forensics based on a convolutional neural network.",
+            "Identification performance of evidential value estimation for ridge-based biometrics.",
+            "Quality-based iris segmentation-level fusion.",
+            "Unlinkable improved multi-biometric iris fuzzy vault.",
+            "Guest editorial special issues on security trends in mobile cloud computing, web, and social networking.",
+            "Fuzzing binaries with L\u00e9vy flight swarms."
+        ]
+    },
+    {
+        "name": "EURASIP Journal on Information Security",
+        "year": "2015",
+        "info": "2015",
+        "count": 7,
+        "papers": [
+            "Laribus: privacy-preserving detection of fake SSL certificates with a social P2P notary network.",
+            "Steganalysis of JSteg algorithm using hypothesis testing theory.",
+            "Fingerprint-based crypto-biometric system for network security.",
+            "A survey on security attacks and countermeasures with primary user detection in cognitive radio networks.",
+            "Texture based features for robust palmprint recognition: a comparative study.",
+            "Anticollusion solutions for asymmetric fingerprinting protocols based on client side embedding.",
+            "Private function evaluation by local two-party computation."
+        ]
+    },
+    {
+        "name": "EURASIP Journal on Information Security",
+        "year": "2014",
+        "info": "2014",
+        "count": 16,
+        "papers": [
+            "Universal distortion function for steganography in an arbitrary domain.",
+            "An enhanced audio ownership protection scheme based on visual cryptography.",
+            "ADLU: a novel anomaly detection and location-attribution algorithm for UWB wireless sensor networks.",
+            "Inside the SCAM Jungle: A Closer Look at 419 Scam Email Operations.",
+            "How can sliding HyperLogLog and EWMA detect port scan attacks in IP traffic?",
+            "A detailed evaluation of format-compliant encryption methods for JPEG XR-compressed images.",
+            "Enhancing the security of LTE networks against jamming attacks.",
+            "Edge-based image steganography.",
+            "Document authentication using graphical codes: reliable performance analysis and channel optimization.",
+            "Detection and localization of double compression in MP3 audio tracks.",
+            "Taxonomy of social network data types.",
+            "Conflict detection in obligation with deadline policies.",
+            "Optimized combined-clustering methods for finding replicated criminal websites.",
+            "PeerShark: flow-clustering and conversation-generation for malicious peer-to-peer traffic identification.",
+            "DNSSEC for cyber forensics.",
+            "MUSE: asset risk scoring in enterprise network with mutually reinforced reputation propagation."
+        ]
+    },
+    {
+        "name": "EURASIP Journal on Information Security",
+        "year": "2013",
+        "info": "2013",
+        "count": 8,
+        "papers": [
+            "Error correcting codes for robust color wavelet watermarking.",
+            "Detection and analysis of the Chameleon WiFi access point virus.",
+            "Cross-country analysis of spambots.",
+            "Privacy-preserving distributed clustering.",
+            "IP traceback through (authenticated) deterministic flow marking: an empirical evaluation.",
+            "Do private and portable web browsers leave incriminating evidence?: a forensic analysis of residual artifacts from private and portable web browsing sessions.",
+            "A quality metric for IDS signatures: in the wild the size matters.",
+            "Removal and injection of keypoints for SIFT-based copy-move counter-forensics."
+        ]
+    },
+    {
+        "name": "EURASIP Journal on Information Security",
+        "year": "2012",
+        "info": "2012",
+        "count": 2,
+        "papers": [
+            "phishGILLNET-phishing detection using probabilistic latent semantic analysis.",
+            "Assessing JPEG2000 encryption with key-dependent wavelet packets."
+        ]
+    },
+    {
+        "name": "EURASIP Journal on Information Security",
+        "year": "2011",
+        "info": "2011",
+        "count": 8,
+        "papers": [
+            "Video-Object Oriented Biometrics Hiding for User Authentication under Error-Prone Transmissions.",
+            "Hierarchical Spread Spectrum Fingerprinting Scheme Based on the CDMA Technique.",
+            "Binary Biometric Representation through Pairwise Adaptive Phase Quantization.",
+            "Research of Spatial Domain Image Digital Watermarking Payload.",
+            "2DPCA fractal features and genetic algorithm for efficient face representation and recognition.",
+            "Intrusion detection model based on selective packet sampling.",
+            "A survey on biometric cryptosystems and cancelable biometrics.",
+            "Protected control packets to prevent denial of services attacks in IEEE 802.11 wireless networks."
+        ]
+    },
+    {
+        "name": "EURASIP Journal on Information Security",
+        "year": "2010",
+        "info": "2010",
+        "count": 6,
+        "papers": [
+            "On the Implementation of Spread Spectrum Fingerprinting in Asymmetric Cryptographic Protocol.",
+            "Reversible Watermarking Techniques: An Overview and a Classification.",
+            "GUC100 Multisensor Fingerprint Database for In-House (Semipublic) Performance Test.",
+            "Secure Arithmetic Coding with Error Detection Capability.",
+            "Logistic Map-Based Fragile Watermarking for Pixel Level Tamper Detection and Resistance.",
+            "A Simple Scheme for Constructing Fault-Tolerant Passwords from Biometric Data."
+        ]
+    },
+    {
+        "name": "EURASIP Journal on Information Security",
+        "year": "2009",
+        "info": "2009",
+        "count": 16,
+        "papers": [
+            "How Reed-Solomon Codes Can Improve Steganographic Schemes.",
+            "Peak-Shaped-Based Steganographic Technique for JPEG Images.",
+            "Improving the Security of CardSpace.",
+            "Steganography in 3D Geometries and Images by Adjacent Bin Mapping.",
+            "A Novel Image Data Hiding Scheme with Diamond Encoding.",
+            "Reliable Steganalysis Using a Minimum Set of Samples and Features.",
+            "Secure Steganography in Multimedia Content.",
+            "Video Data Hiding for Managing Privacy Information in Surveillance Systems.",
+            "Anonymous Biometric Access Control.",
+            "High-Rate Data-Hiding Robust to Linear Filtering for Colored Hosts.",
+            "Encrypted Domain DCT Based on Homomorphic Cryptosystems.",
+            "An Extended Image Hashing Concept: Content-Based Fingerprinting Using FJLT.",
+            "One-Time Key Based Phase Scrambling for Phase-Only Correlation between Visually Protected Images.",
+            "Recoverable Privacy Protection for Video Content Distribution.",
+            "Compression Independent Reversible Encryption for Privacy in Video Surveillance.",
+            "Enhancing Privacy Protection in Multimedia Systems."
+        ]
+    },
+    {
+        "name": "EURASIP Journal on Information Security",
+        "year": "2008",
+        "info": "2008",
+        "count": 9,
+        "papers": [
+            "Markov Modelling of Fingerprinting Systems for Collision Analysis.",
+            "Key-Dependent JPEG2000-Based Robust Hashing for Secure Image Authentication.",
+            "Stochastic Image Warping for Improved Watermark Desynchronization.",
+            "Design and Evaluation of a Pressure-Based Typing Biometric Authentication System.",
+            "Novel Attacks on Spread-Spectrum Fingerprinting.",
+            "Broken Arrows.",
+            "An Efficient Watermarking Technique for the Protection of Fingerprint Images.",
+            "Experimental Assessment of the Reliability for Watermarking and Fingerprinting Schemes.",
+            "Overview on Selective Encryption of Image and Video: Challenges and Perspectives."
+        ]
+    },
+    {
+        "name": "EURASIP Journal on Information Security",
+        "year": "2007",
+        "info": "2007",
+        "count": 21,
+        "papers": [
+            "Oblivious Neural Network Computing via Homomorphic Encryption.",
+            "Digital Video Encryption Algorithms Based on Correlation-Preserving Permutations.",
+            "Joint Source, Channel Coding, and Secrecy.",
+            "Design and Analysis of the First BOWS Contest.",
+            "Audio Watermarking through Deterministic plus Stochastic Signal Decomposition.",
+            "Transmission Error and Compression Robustness of 2D Chaotic Map Image Encryption Schemes.",
+            "Multimedia Encryption with Joint Randomized Entropy Coding and Rotation in Partitioned Bitstream.",
+            "Anonymous Fingerprinting with Robust QIM Watermarking Techniques.",
+            "A Survey of Homomorphic Encryption for Nonspecialists.",
+            "Reverse-Engineering a Watermark Detector Using an Oracle.",
+            "Secure Multiparty Computation between Distrusted Networks Terminals.",
+            "Breaking the BOWS Watermarking System: Key Guessing and Sensitivity Attacks.",
+            "An Efficient Objective Intelligibility Measure for Frequency Domain Scramblers.",
+            "Efficient Zero-Knowledge Watermark Detection with Improved Robustness to Sensitivity Attacks.",
+            "A Workbench for the BOWS Contest.",
+            "Format-Compliant JPEG2000 Encryption in JPSEC: Security, Applicability, and the Impact of Compression Parameters.",
+            "Joint Encryption and Compression of Correlated Sources with Side Information.",
+            "Efficient and Syntax-Compliant JPEG 2000 Encryption Preserving Original Fine Granularity of Scalability.",
+            "The Interplay between Compression and Security for Image and Video Communication and Adaptation over Networks.",
+            "Protection and Retrieval of Encrypted Multimedia Content: When Cryptography Meets Signal Processing.",
+            "Signal Processing in the Encrypted Domain."
+        ]
+    }
+]

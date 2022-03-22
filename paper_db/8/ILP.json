@@ -1,0 +1,1096 @@
+[
+    {
+        "year": "2021",
+        "name": "30th ILP 2021",
+        "info": "[virtual]",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ilp/2021",
+                "sub_name": "Inductive Logic Programming - 30th International Conference, ILP 2021, Virtual Event, October 25-27, 2021, Proceedings.",
+                "count": 19,
+                "papers": [
+                    "Embedding Models for Knowledge Graphs Induced by Clusters of Relations and Background Knowledge.",
+                    "Automatic Conjecturing of P-Recursions Using Lifted Inference.",
+                    "Machine Learning of Microbial Interactions Using Abductive ILP and Hypothesis Frequency/Compression Estimation.",
+                    "Answer-Set Programs for Reasoning About Counterfactual Interventions and Responsibility Scores for Classification.",
+                    "Synthetic Datasets and Evaluation Tools for Inductive Neural Reasoning.",
+                    "Using Domain-Knowledge to Assist Lead Discovery in Early-Stage Drug Design.",
+                    "Non-parametric Learning of Embeddings for Relational Data Using Gaifman Locality Theorem.",
+                    "Ontology Graph Embeddings and ILP for Financial Forecasting.",
+                    "Transfer Learning for Boosted Relational Dependency Networks Through Genetic Algorithm.",
+                    "Online Learning of Logic Based Neural Network Structures.",
+                    "Programmatic Policy Extraction by Iterative Local Search.",
+                    "Mapping Across Relational Domains for Transfer Learning with Word Embeddings-Based Similarity.",
+                    "A First Step Towards Even More Sparse Encodings of Probability Distributions.",
+                    "Feature Learning by Least Generalization.",
+                    "Learning Logic Programs Using Neural Networks by Exploiting Symbolic Invariance.",
+                    "Learning and Revising Dynamic Temporal Theories in the Full Discrete Event Calculus.",
+                    "Human-Like Rule Learning from Images Using One-Shot Hypothesis Derivation.",
+                    "Generative Clausal Networks: Relational Decision Trees as Probabilistic Circuits.",
+                    "A Simulated Annealing Meta-heuristic for Concept Learning in Description Logics."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "29th ILP 2019",
+        "info": "Plovdiv, Bulgaria",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ilp/2019",
+                "sub_name": "Inductive Logic Programming - 29th International Conference, ILP 2019, Plovdiv, Bulgaria, September 3-5, 2019, Proceedings.",
+                "count": 11,
+                "papers": [
+                    "CONNER: A Concurrent ILP Learner in Description Logic.",
+                    "Towards Meta-interpretive Learning of Programming Language Semantics.",
+                    "Towards an ILP Application in Machine Ethics.",
+                    "On the Relation Between Loss Functions and T-Norms.",
+                    "Rapid Restart Hill Climbing for Learning Description Logic Concepts.",
+                    "Neural Networks for Relational Data.",
+                    "Learning Logic Programs from Noisy State Transition Data.",
+                    "A New Algorithm for Computing Least Generalization of a Set of Atoms.",
+                    "LazyBum: Decision Tree Learning Using Lazy Propositionalization.",
+                    "Weight Your Words: The Effect of Different Weighting Schemes on Wordification Performance.",
+                    "Learning Probabilistic Logic Programs over Continuous Data."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "28th ILP 2018",
+        "info": "Ferrara, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ilp/2018",
+                "sub_name": "Inductive Logic Programming - 28th International Conference, ILP 2018, Ferrara, Italy, September 2-4, 2018, Proceedings.",
+                "count": 10,
+                "papers": [
+                    "Derivation Reduction of Metarules in Meta-interpretive Learning.",
+                    "Large-Scale Assessment of Deep Relational Machines.",
+                    "How Much Can Experimental Cost Be Reduced in Active Learning of Agent Strategies?",
+                    "Diagnostics of Trains with Semantic Diagnostics Rules.",
+                    "The Game of Bridge: A Challenge for ILP.",
+                    "Sampling-Based SAT/ASP Multi-model Optimization as a Framework for Probabilistic Inference.",
+                    "Explaining Black-Box Classifiers with ILP - Empowering LIME with Aleph to Approximate Non-linear Decisions with Relational Rules.",
+                    "Learning Dynamics with Synchronous, Asynchronous and General Semantics.",
+                    "Was the Year 2000 a Leap Year? Step-Wise Narrowing Theories with Metagol.",
+                    "Targeted End-to-End Knowledge Graph Decomposition."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/ilp/2018ucs",
+                "sub_name": "Up-and-Coming and Short Papers of the 28th International Conference on Inductive Logic Programming (ILP 2018), Ferrara, Italy, September 2-4, 2018.",
+                "count": 8,
+                "papers": [
+                    "GPU-Accelerated Hypothesis Cover Set Testing for Learning in Logic.",
+                    "Context-Aware End-To-End Relation Extracting from Clinical Texts with Attention-based Bi-Tree-GRU.",
+                    "Heuristic Based Induction of Answer Set Programs, From Default theories to Combinatorial problems.",
+                    "Using Binary Decision Diagrams to Enumerate Inductive Logic Programming Solutions.",
+                    "Tensor-Based Abduction in Horn Propositional Programs.",
+                    "Concept Learning in Engineering based on Refinement Operator.",
+                    "Lifted Relational Team Embeddings for Predictive Sports Analytics.",
+                    "Mining the Web of Data with Metaqueries."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/ilp/2018plp",
+                "sub_name": "Proceedings of the 5th International Workshop on Probabilistic Logic Programming, PLP 2018, co-located with the 28th International Conference on Inductive Logic Programming (ILP 2018), Ferrara, Italy, September 1, 2018.",
+                "count": 8,
+                "papers": [
+                    "Set-Valued Probabilistic Sentential Decision Diagrams.",
+                    "Learning the Parameters of Deep Probabilistic Logic Programs.",
+                    "Probabilistic Inference in SWI-Prolog.",
+                    "Interval-based Activity Recognition.",
+                    "Causal Modeling with Probabilistic Simulation Models.",
+                    "Modeling Bitcoin Protocols with Probabilistic Logic Programming.",
+                    "Differentiable SAT/ASP.",
+                    "Information-relational Semantics of the Fifth System."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "27th ILP 2017",
+        "info": "Orl\u00e9ans, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ilp/2017",
+                "sub_name": "Inductive Logic Programming - 27th International Conference, ILP 2017, Orl\u00e9ans, France, September 4-6, 2017, Revised Selected Papers.",
+                "count": 12,
+                "papers": [
+                    "Relational Affordance Learning for Task-Dependent Robot Grasping.",
+                    "Positive and Unlabeled Relational Classification Through Label Frequency Estimation.",
+                    "On Applying Probabilistic Logic Programming to Breast Cancer Data.",
+                    "Logical Vision: One-Shot Meta-Interpretive Learning from Real Images.",
+                    "Demystifying Relational Latent Representations.",
+                    "Parallel Online Learning of Event Definitions.",
+                    "Relational Restricted Boltzmann Machines: A Probabilistic Logic Learning Approach.",
+                    "Parallel Inductive Logic Programming System for Superlinear Speedup.",
+                    "Inductive Learning from State Transitions over Continuous Domains.",
+                    "Stacked Structure Learning for Lifted Relational Neural Networks.",
+                    "Pruning Hypothesis Spaces Using Learned Domain Theories.",
+                    "An Investigation into the Role of Domain-Knowledge on the Use of Embeddings."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/ilp/2017lb",
+                "sub_name": "Late Breaking Papers of the 27th International Conference on Inductive Logic Programming, Orl\u00e9ans, France, September 4-6, 2017.",
+                "count": 9,
+                "papers": [
+                    "A First-Order Axiomatization for Transition Learning with Rich Constraints.",
+                    "PU-learning Disjunctive Concepts in ILP.",
+                    "Clustering Multi-relationnal TV Data by Diverting Supervised ILP.",
+                    "The Effect of Predicate Order on Curriculum Learning in ILP.",
+                    "Adaptive Incremental Learning for Statistical Relational Models Using Gradient-Based Boosting.",
+                    "Learning Logic Program Representation for Delayed Systems With Limited Training Data.",
+                    "Learning from Ordinal Data with Inductive Logic Programming in Description Logic.",
+                    "Mining Rare Sequential Patterns with ASP.",
+                    "Learning of Primitive Formal Systems Defining Labelled Ordered Tree Languages via Queries."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/ilp/2017plp",
+                "sub_name": "Proceedings of the Workshop on Probabilistic Logic Programming 2017 co-located with 27th International Conference on Inductive Logic Programming (ILP 2017), Orl\u00e9ans, France, September 7, 2017.",
+                "count": 4,
+                "papers": [
+                    "Deep Probabilistic Logic Programming.",
+                    "Information-Gain Computation.",
+                    "From PRISM to ProbLog and Back Again.",
+                    "A Distribution Semantics for non-DL-Safe Probabilistic Hybrid Knowledge Bases."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "26th ILP 2016",
+        "info": "London, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ilp/2016",
+                "sub_name": "Inductive Logic Programming - 26th International Conference, ILP 2016, London, UK, September 4-6, 2016, Revised Selected Papers.",
+                "count": 10,
+                "papers": [
+                    "Estimation-Based Search Space Traversal in PILP Environments.",
+                    "Inductive Logic Programming Meets Relational Databases: Efficient Learning of Markov Logic Networks.",
+                    "Online Structure Learning for Traffic Management.",
+                    "Learning Through Advice-Seeking via Transfer.",
+                    "How Does Predicate Invention Affect Human Comprehensibility?",
+                    "Distributional Learning of Regular Formal Graph System of Bounded Degree.",
+                    "Learning Relational Dependency Networks for Relation Extraction.",
+                    "Towards Nonmonotonic Relational Learning from Knowledge Graphs.",
+                    "Learning Predictive Categories Using Lifted Relational Neural Networks.",
+                    "Generation of Near-Optimal Solutions Using ILP-Guided Sampling."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/ilp/2016s",
+                "sub_name": "Proceedings of the 26th International Conference on Inductive Logic Programming (Short papers), London, UK, 2016.",
+                "count": 13,
+                "papers": [
+                    "Reduction of ILP Search Space with Bottom-Up Propositionalisation.",
+                    "Identifying Non-Redundant Literals in Clauses with Uniqueness Propagation.",
+                    "A Simple Framework for Theta-Subsumption Testing in Prolog.",
+                    "An Abductive-Inductive Algorithm for Probabilistic Inductive Logic Programming.",
+                    "Learning from Interpretation Transition using Feed-Forward Neural Networks.",
+                    "Learning Disjunctive Logic Programs from Interpretation Transition.",
+                    "A new Model for Scalable \u03b8-subsumption.",
+                    "Behavior Analysis of Executed and Attacked Players in Werewolf Game by ILP.",
+                    "Using ILP to Analyse Ransomware Attacks.",
+                    "An Experimental Analysis of Whispers' Effect in Werewolf BBS by Relational Association Rules.",
+                    "Activity Recognition in Multiple Contexts for Smart-House Data.",
+                    "Deeply Semantic Inductive Spatio-Temporal Learning.",
+                    "Learning Datalog Programs from Input and Output."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/ilp/2016plp",
+                "sub_name": "Proceedings of the 3rd International Workshop on Probabilistic Logic Programming co-located with 26th International Conference on Inductive Logic Programming (ILP 2016), London, UK, September 3, 2016.",
+                "count": 5,
+                "papers": [
+                    "The Structure and Complexity of Credal Semantics.",
+                    "Probabilistic Constraint Logic Theories.",
+                    "Toward Computing Conflict-Based Diagnoses in Probabilistic Logic Programming.",
+                    "Sampling Random Bioinformatics Puzzles using Adaptive Probability Distributions.",
+                    "Notes on the Implementation of FAM."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "25th ILP 2015",
+        "info": "Kyoto, Japan",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ilp/2015",
+                "sub_name": "Inductive Logic Programming - 25th International Conference, ILP 2015, Kyoto, Japan, August 20-22, 2015, Revised Selected Papers.",
+                "count": 14,
+                "papers": [
+                    "Relational Kernel-Based Grasping with Numerical Features.",
+                    "CARAF: Complex Aggregates within Random Forests.",
+                    "Distributed Parameter Learning for Probabilistic Ontologies.",
+                    "Meta-Interpretive Learning of Data Transformation Programs.",
+                    "Statistical Relational Learning with Soft Quantifiers.",
+                    "Ontology Learning from Interpretations in Lightweight Description Logics.",
+                    "Constructing Markov Logic Networks from First-Order Default Rules.",
+                    "Mine 'Em All: A Note on Mining All Graphs.",
+                    "Processing Markov Logic Networks with GPUs: Accelerating Network Grounding.",
+                    "Using ILP to Identify Pathway Activation Patterns in Systems Biology.",
+                    "kProbLog: An Algebraic Prolog for Kernel Programming.",
+                    "An Exercise in Declarative Modeling for Relational Query Mining.",
+                    "Learning Inference by Induction.",
+                    "Identification of Transition Models of Biological Systems in the Presence of Transition Noise."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/ilp/2015lbr",
+                "sub_name": "Late Breaking Papers of the 25th International Conference on Inductive Logic Programming, Kyoto University, Kyoto, Japan, August 20th to 22nd, 2015.",
+                "count": 10,
+                "papers": [
+                    "Logical Vision: Meta-Interpretive Learning for Simple Geometrical Concepts.",
+                    "Typed meta-interpretive learning for proof strategies.",
+                    "Case Studies on Extracting the Characteristics of the Reachable States of State Machines Formalizing Communication Protocols with Inductive Logic Programing.",
+                    "Brave Induction Revisited.",
+                    "A Note on Restricted Forms of LGG.",
+                    "Extracting the Common Structure of Compounds to Induce Plant Immunity Activation using ILP.",
+                    "Extracting rules to detect cognitive distractions through driving simulation.",
+                    "Yet Another Parallel Hypothesis Search for Inverse Entailment.",
+                    "Completing signaling networks by abductive reasoning with perturbation experiments.",
+                    "The Robot Engineer."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "24th ILP 2014",
+        "info": "Nancy, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ilp/2014",
+                "sub_name": "Inductive Logic Programming - 24th International Conference, ILP 2014, Nancy, France, September 14-16, 2014, Revised Selected Papers.",
+                "count": 14,
+                "papers": [
+                    "Reframing on Relational Data.",
+                    "Inductive Learning Using Constraint-Driven Bias.",
+                    "Nonmonotonic Learning in Large Biological Networks.",
+                    "Construction of Complex Aggregates with Random Restart Hill-Climbing.",
+                    "Logical Minimisation of Meta-Rules Within Meta-Interpretive Learning.",
+                    "Goal and Plan Recognition via Parse Trees Using Prefix and Infix Probability Computation.",
+                    "Effectively Creating Weakly Labeled Training Examples via Approximate Domain Knowledge.",
+                    "Learning Prime Implicant Conditions from Interpretation Transition.",
+                    "Statistical Relational Learning for Handwriting Recognition.",
+                    "The Most Probable Explanation for Probabilistic Logic Programs with Annotated Disjunctions.",
+                    "Towards Machine Learning of Predictive Models from Ecological Data.",
+                    "PageRank, ProPPR, and Stochastic Logic Programs.",
+                    "Complex Aggregates over Clusters of Elements.",
+                    "On the Complexity of Frequent Subtree Mining in Very Simple Structures."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "23rd ILP 2013",
+        "info": "Rio de Janeiro, Brazil",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ilp/2013",
+                "sub_name": "Inductive Logic Programming - 23rd International Conference, ILP 2013, Rio de Janeiro, Brazil, August 28-30, 2013, Revised Selected Papers.",
+                "count": 9,
+                "papers": [
+                    "MetaBayes: Bayesian Meta-Interpretative Learning Using Higher-Order Stochastic Refinement.",
+                    "On Differentially Private Inductive Logic Programming.",
+                    "Learning Through Hypothesis Refinement Using Answer Set Programming.",
+                    "A BDD-Based Algorithm for Learning from Interpretation Transition.",
+                    "Accelerating Imitation Learning in Relational Domains via Transfer by Initialization.",
+                    "A Direct Policy-Search Algorithm for Relational Reinforcement Learning.",
+                    "AND Parallelism for ILP: The APIS System.",
+                    "Generalized Counting for Lifted Variable Elimination.",
+                    "A FOIL-Like Method for Learning under Incompleteness and Vagueness."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/ilp/2013lbr",
+                "sub_name": "Late Breaking Papers of the 23rd International Conference on Inductive Logic Programming, Rio de Janeiro, Brazil, August 28th - to - 30th, 2013.",
+                "count": 9,
+                "papers": [
+                    "Preface.",
+                    "Incremental Construction of Complex Aggregates: Counting over a Secondary Table.",
+                    "Modeling of Resilient Systems in Default Logic.",
+                    "Learning Multiple Description Logics Concepts.",
+                    "Background Knowledge-enrichment for Bottom Clauses Improving.",
+                    "Comparison between Explicit Learning and Implicit Modeling of Relational Features in Structured Output Spaces.",
+                    "Uplift Modeling with ROC: An SRL Case Study.",
+                    "Learning the Parameters of Probabilistic Description Logics.",
+                    "Predicting Top-k Trends on Twitter using Graphlets and Time Features."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "22nd ILP 2012",
+        "info": "Dubrovnik, Croatia",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ilp/2012",
+                "sub_name": "Inductive Logic Programming - 22nd International Conference, ILP 2012, Dubrovnik, Croatia, September 17-19, 2012, Revised Selected Papers.",
+                "count": 18,
+                "papers": [
+                    "A Relational Approach to Tool-Use Learning in Robots.",
+                    "A Refinement Operator for Inducing Threaded-Variable Clauses.",
+                    "Propositionalisation of Continuous Attributes beyond Simple Aggregation.",
+                    "Topic Models with Relational Features for Drug Design.",
+                    "Pairwise Markov Logic.",
+                    "Evaluating Inference Algorithms for the Prolog Factor Language.",
+                    "Polynomial Time Pattern Matching Algorithm for Ordered Graph Patterns.",
+                    "Fast Parameter Learning for Markov Logic Networks Using Bayes Nets.",
+                    "Bounded Least General Generalization.",
+                    "Itemset-Based Variable Construction in Multi-relational Supervised Learning.",
+                    "A Declarative Modeling Language for Concept Learning in Description Logics.",
+                    "Identifying Driver's Cognitive Load Using Inductive Logic Programming.",
+                    "Opening Doors: An Initial SRL Approach.",
+                    "Probing the Space of Optimal Markov Logic Networks for Sequence Labeling.",
+                    "What Kinds of Relational Features Are Useful for Statistical Learning?",
+                    "Learning Dishonesty.",
+                    "Heuristic Inverse Subsumption in Full-Clausal Theories.",
+                    "Learning Unordered Tree Contraction Patterns in Polynomial Time."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/ilp/2012lbr",
+                "sub_name": "Late Breaking Papers of the 22nd International Conference on Inductive Logic Programming, Dubrovnik, Croatia, September 17-19, 2012.",
+                "count": 9,
+                "papers": [
+                    "A Link-Based Method for Propositionalization.",
+                    "MicroRNAs Robustness in Genetic Regulatory Networks.",
+                    "A Problog Model for Analyzing Gene Regulatory Networks.",
+                    "Creative Problem Solving by Concept Generation Using Relation Structure.",
+                    "On Computing Minimal Generators in Multi-Relational Data Mining with respect to theta-Subsumption.",
+                    "A Wordification Approach to Relational Data Mining: Early Results.",
+                    "Hybrid Logical Bayesian Networks.",
+                    "Towards an Automated Pattern Selection Procedure in Software Models.",
+                    "Non-monotone Dualization via Monotone Dualization."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "21st ILP 2011",
+        "info": "Windsor Great Park, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ilp/2011",
+                "sub_name": "Inductive Logic Programming - 21st International Conference, ILP 2011, Windsor Great Park, UK, July 31 - August 3, 2011, Revised Selected Papers.",
+                "count": 32,
+                "papers": [
+                    "Inference and Learning in Planning.",
+                    "Beyond Reward: The Problem of Knowledge and Data.",
+                    "Exploiting Constraints.",
+                    "Online Bayesian Inference for the Parameters of PRISM Programs.",
+                    "Learning Compact Markov Logic Networks with Decision Trees.",
+                    "Relational Networks of Conditional Preferences - (Extended Abstract).",
+                    "k-Optimal: A Novel Approximate Inference Algorithm for ProbLog.",
+                    "Learning Directed Relational Models with Recursive Dependencies.",
+                    "Integrating Model Checking and Inductive Logic Programming.",
+                    "Learning the Structure of Probabilistic Logic Programs.",
+                    "Subgroup Discovery Using Bump Hunting on Multi-relational Histograms.",
+                    "Inductive Logic Programming in Answer Set Programming.",
+                    "Graph-Based Relational Learning with a Polynomial Time Projection Algorithm.",
+                    "Interleaved Inductive-Abductive Reasoning for Learning Complex Event Models.",
+                    "Predictive Sequence Miner in ILP Learning.",
+                    "Conceptual Clustering of Multi-Relational Data.",
+                    "Expressive Power of Safe First-Order Logical Decision Trees.",
+                    "DNF Hypotheses in Explanatory Induction.",
+                    "Variational Bayes Inference for Logic-Based Probabilistic Models on BDDs.",
+                    "Relational Learning for Spatial Relation Extraction from Natural Language.",
+                    "Does Multi-Clause Learning Help in Real-World Applications?",
+                    "MC-TopLog: Complete Multi-clause Learning Guided by a Top Theory.",
+                    "Integrating Relational Reinforcement Learning with Reasoning about Actions and Change.",
+                    "Efficient Operations in Feature Terms Using Constraint Programming.",
+                    "Learning Theories Using Estimation Distribution Algorithms and (Reduced) Bottom Clauses.",
+                    "Active Learning of Relational Action Models.",
+                    "Knowledge-Guided Identification of Petri Net Models of Large Biological Systems.",
+                    "Machine Learning a Probabilistic Network of Ecological Interactions.",
+                    "Kernel-Based Logical and Relational Learning with kLog for Hedge Cue Detection.",
+                    "Projection-Based PILP: Computational Learning Theory with Empirical Results.",
+                    "Comparison of Upward and Downward Generalizations in CF-Induction.",
+                    "Polynomial Time Inductive Inference of Cograph Pattern Languages from Positive Data."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/ilp/2011lbp",
+                "sub_name": "Latest Advances in Inductive Logic Programming, ILP 2011, Late Breaking Papers, Windsor Great Park, UK, July 31 - August 3, 2011.",
+                "count": 25,
+                "papers": [
+                    "Can ILP Learn Complete and Correct Game Strategies?",
+                    "Induction in Nonmonotonic Causal Theories for a Domestic Service Robot.",
+                    "Using Ontologies in Semantic Data Mining with g-SEGS and Aleph.",
+                    "Improving Search Engine Query Expansion Techniques with ILP.",
+                    "ILP for Cosmetic Product Selection.",
+                    "Learning User Behaviours in Real Mobile Domains.",
+                    "Discovering Ligands for TRP Ion Channels Using Formal Concept Analysis.",
+                    "Predictive Learning in Two-Way Datasets.",
+                    "Model of Double-Strand Break of DNA in Logic-Based Hypothesis Finding.",
+                    "The PITA System for Logical-Probabilistic Inference.",
+                    "Learning a Generative Failure-Free PRISM Clause.",
+                    "Statistical Relational Learning of Object Affordances for Robotic Manipulation.",
+                    "Learning from Linked Data by Markov Logic.",
+                    "Satisfiability Machines.",
+                    "Customisable Multi-Processor Acceleration of Inductive Logic Programming.",
+                    "Multivalue Learning in ILP.",
+                    "Learning Dependent-Concepts in ILP: Application to Model-Driven Data Warehouses.",
+                    "Graph Contraction Pattern Matching for Graphs of Bounded Treewidth.",
+                    "mLynx: Relational Mutual Information.",
+                    "Machine Learning Coalgebraic Proofs.",
+                    "Can ILP Deal with Incomplete and Vague Structured Knowledge?",
+                    "Towards Efficient Higher-Order Logic Learning in a First-Order Datalog Framework.",
+                    "Automatic Invention of Functional Abstractions.",
+                    "Using Machine-Generated Soft Constraints for Roster Problems.",
+                    "Relational Learning for Football-Related Predictions."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "20th ILP 2010",
+        "info": "Florence, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ilp/2010",
+                "sub_name": "Inductive Logic Programming - 20th International Conference, ILP 2010, Florence, Italy, June 27-30, 2010. Revised Papers.",
+                "count": 29,
+                "papers": [
+                    "Rule Interchange Format: Logic Programming's Second Wind?",
+                    "Practical Probabilistic Programming.",
+                    "Probabilistic Relational Learning and Inductive Logic Programming at a Global Scale.",
+                    "Learning Multi-class Theories in ILP.",
+                    "A Numerical Refinement Operator Based on Multi-Instance Learning.",
+                    "Not Far Away from Home: A Relational Distance-Based Approach to Understanding Images of Houses.",
+                    "Approximate Inference for Logic Programs with Annotated Disjunctions.",
+                    "Approximate Bayesian Computation for the Parameters of PRISM Programs.",
+                    "Probabilistic Rule Learning.",
+                    "Interactive Discriminative Mining of Chemical Fragments.",
+                    "MMRF for Proteome Annotation Applied to Human Protein Disease Prediction.",
+                    "Extending ProbLog with Continuous Distributions.",
+                    "Multivariate Prediction for Learning on the Semantic Web.",
+                    "Learning Action Descriptions of Opponent Behaviour in the Robocup 2D Simulation Environment.",
+                    "Hypothesizing about Causal Networks with Positive and Negative Effects by Meta-level Abduction.",
+                    "BET : An Inductive Logic Programming Workbench.",
+                    "Seeing the World through Homomorphism: An Experimental Study on Reducibility of Examples.",
+                    "Learning Discriminant Rules as a Minimal Saturation Search.",
+                    "Variation of Background Knowledge in an Industrial Application of ILP.",
+                    "Pruning Search Space for Weighted First Order Horn Clause Satisfiability.",
+                    "Multi-relational Pattern Mining Based-on Combination of Properties with Preserving Their Structure in Examples.",
+                    "Learning from Noisy Data Using a Non-covering ILP Algorithm.",
+                    "Can HOLL Outperform FOLL?",
+                    "Incremental Learning of Relational Action Models in Noisy Environments.",
+                    "When Does It Pay Off to Use Sophisticated Entailment Engines in ILP?",
+                    "Stochastic Refinement.",
+                    "Fire! Firing Inductive Rules from Economic Geography for Fire Risk Detection.",
+                    "Automating the ILP Setup Task: Converting User Advice about Specific Examples into General Background Knowledge.",
+                    "Speeding Up Planning through Minimal Generalizations of Partially Ordered Plans."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "19th ILP 2009",
+        "info": "Leuven, Belgium",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ilp/2009",
+                "sub_name": "Inductive Logic Programming, 19th International Conference, ILP 2009, Leuven, Belgium, July 02-04, 2009. Revised Papers.",
+                "count": 24,
+                "papers": [
+                    "Knowledge-Directed Theory Revision.",
+                    "Towards Clausal Discovery for Stream Mining.",
+                    "On the Relationship between Logical Bayesian Networks and Probabilistic Logic Programming Based on the Distribution Semantics.",
+                    "Induction of Relational Algebra Expressions.",
+                    "A Logic-Based Approach to Relation Extraction from Texts.",
+                    "Discovering Rules by Meta-level Abduction.",
+                    "Inductive Generalization of Analytically Learned Goal Hierarchies.",
+                    "Ideal Downward Refinement in the EL Description Logic.",
+                    "Nonmonotonic Onto-Relational Learning.",
+                    "CP-Logic Theory Inference with Contextual Variable Elimination and Comparison to BDD Based Inference Methods.",
+                    "Speeding Up Inference in Statistical Relational Learning by Clustering Similar Query Literals.",
+                    "Chess Revision: Acquiring the Rules of Chess Variants through FOL Theory Revision from Examples.",
+                    "ProGolem: A System Based on Relative Minimal Generalisation.",
+                    "An Inductive Logic Programming Approach to Validate Hexose Binding Biochemical Knowledge.",
+                    "Boosting First-Order Clauses for Large, Skewed Data Sets.",
+                    "Incorporating Linguistic Expertise Using ILP for Named Entity Recognition in Data Hungry Indian Languages.",
+                    "Transfer Learning via Relational Templates.",
+                    "Automatic Revision of Metabolic Networks through Logical Analysis of Experimental Data.",
+                    "Finding Relational Associations in HIV Resistance Mutation Data.",
+                    "ILP, the Blind, and the Elephant: Euclidean Embedding of Co-proven Queries.",
+                    "Parameter Screening and Optimisation for ILP Using Designed Experiments.",
+                    "Don't Fear Optimality: Sampling for Probabilistic-Logic Sequence Models.",
+                    "Policy Transfer via Markov Logic Networks.",
+                    "Can ILP Be Applied to Large Datasets?"
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "18th ILP 2008",
+        "info": "Prague, Czech Republic",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ilp/2008",
+                "sub_name": "Inductive Logic Programming, 18th International Conference, ILP 2008, Prague, Czech Republic, September 10-12, 2008, Proceedings.",
+                "count": 25,
+                "papers": [
+                    "Building Theories of the World: Human and Machine Learning Perspectives.",
+                    "SRL without Tears: An ILP Perspective.",
+                    "Semantic Web Meets ILP: Unconsumated Love, or No Love Lost?.",
+                    "Learning Expressive Models of Gene Regulation.",
+                    "Information Overload and FP7 Funding Opportunities in 2009-10.",
+                    "A Model to Study Phase Transition and Plateaus in Relational Learning.",
+                    "Top-Down Induction of Relational Model Trees in Multi-instance Learning.",
+                    "Challenges in Relational Learning for Real-Time Systems Applications.",
+                    "Discriminative Structure Learning of Markov Logic Networks.",
+                    "An Experiment in Robot Discovery with ILP.",
+                    "Using the Bottom Clause and Mode Declarations on FOL Theory Revision from Examples.",
+                    "DL-FOIL Concept Learning in Description Logics.",
+                    "Feature Discovery with Type Extension Trees.",
+                    "Feature Construction Using Theory-Guided Sampling and Randomised Search.",
+                    "Foundations of Onto-Relational Learning.",
+                    "L-Modified ILP Evaluation Functions for Positive-Only Biological Grammar Learning.",
+                    "Logical Hierarchical Hidden Markov Models for Modeling User Activities.",
+                    "Learning with Kernels in Description Logics.",
+                    "Querying and Merging Heterogeneous Data by Approximate Joins on Higher-Order Terms.",
+                    "A Comparison between Two Statistical Relational Models.",
+                    "Brave Induction.",
+                    "A Statistical Approach to Incremental Induction of First-Order Hierarchical Knowledge Bases.",
+                    "A Note on Refinement Operators for IE-Based ILP Systems.",
+                    "Learning Aggregate Functions with Neural Networks Using a Cascade-Correlation Approach.",
+                    "Learning Block-Preserving Outerplanar Graph Patterns and Its Application to Data Mining."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "17th ILP 2007",
+        "info": "Corvallis, Oregon, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ilp/2007",
+                "sub_name": "Inductive Logic Programming, 17th International Conference, ILP 2007, Corvallis, OR, USA, June 19-21, 2007, Revised Selected Papers.",
+                "count": 28,
+                "papers": [
+                    "Learning with Kernels and Logical Representations.",
+                    "Beyond Prediction: Directions for Probabilistic and Relational Learning.",
+                    "Learning Probabilistic Logic Models from Probabilistic Examples (Extended Abstract).",
+                    "Learning Directed Probabilistic Logical Models Using Ordering-Search.",
+                    "Learning to Assign Degrees of Belief in Relational Domains.",
+                    "Bias/Variance Analysis for Relational Domains.",
+                    "Induction of Optimal Semantic Semi-distances for Clausal Knowledge Bases.",
+                    "Clustering Relational Data Based on Randomized Propositionalization.",
+                    "Structural Statistical Software Testing with Active Learning in a Graph.",
+                    "Learning Declarative Bias.",
+                    "ILP : - Just Trie It.",
+                    "Learning Relational Options for Inductive Transfer in Relational Reinforcement Learning.",
+                    "Empirical Comparison of \"Hard\" and \"Soft\" Label Propagation for Relational Classification.",
+                    "A Phase Transition-Based Perspective on Multiple Instance Kernels.",
+                    "Combining Clauses with Various Precisions and Recalls to Produce Accurate Probabilistic Estimates.",
+                    "Applying Inductive Logic Programming to Process Mining.",
+                    "A Refinement Operator Based Learning Algorithm for the ALC Description Logic.",
+                    "Foundations of Refinement Operators for Description Logics.",
+                    "A Relational Hierarchical Model for Decision-Theoretic Assistance.",
+                    "Using Bayesian Networks to Direct Stochastic Search in Inductive Logic Programming.",
+                    "Revising First-Order Logic Theories from Examples Through Stochastic Local Search.",
+                    "Using ILP to Construct Features for Information Extraction from Semi-structured Text.",
+                    "Mode-Directed Inverse Entailment for Full Clausal Theories.",
+                    "Mining of Frequent Block Preserving Outerplanar Graph Structured Patterns.",
+                    "Relational Macros for Transfer in Reinforcement Learning.",
+                    "Seeing the Forest Through the Trees.",
+                    "Building Relational World Models for Reinforcement Learning.",
+                    "An Inductive Learning System for XML Documents."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "16th ILP 2006",
+        "info": "Santiago de Compostela, Spain",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ilp/2006",
+                "sub_name": "Inductive Logic Programming, 16th International Conference, ILP 2006, Santiago de Compostela, Spain, August 24-27, 2006, Revised Selected Papers.",
+                "count": 39,
+                "papers": [
+                    "Actions, Causation and Logic Programming.",
+                    "Challenges to Machine Learning: Relations Between Reality and Appearance.",
+                    "First-Order Probabilistic Languages: Into the Unknown.",
+                    "Integration of Learning and Reasoning Techniques.",
+                    "Injecting Life with Computers.",
+                    "On the Connection Between the Phase Transition of the Covering Test and the Learning Success Rate.",
+                    "Revising Probabilistic Prolog Programs.",
+                    "Inductive Logic Programming for Gene Regulation Prediction.",
+                    "QG/GA: A Stochastic Search for Progol.",
+                    "Generalized Ordering-Search for Learning Directed Probabilistic Logical Models.",
+                    "ALLPAD: Approximate Learning of Logic Programs with Annotated Disjunctions.",
+                    "Margin-Based First-Order Rule Learning.",
+                    "Extension of the Top-Down Data-Driven Strategy to ILP.",
+                    "Extracting Requirements from Scenarios with ILP.",
+                    "Learning Recursive Patterns for Biomedical Information Extraction.",
+                    "Towards Learning Non-recursive LPADs by Transforming Them into Bayesian Networks.",
+                    "Multi-class Prediction Using Stochastic Logic Programs.",
+                    "Structuring Natural Language Data by Learning Rewriting Rules.",
+                    "An Efficient Algorithm for Computing Kernel Function Defined with Anti-unification.",
+                    "Towards Automating Simulation-Based Design Verification Using ILP.",
+                    "Minimal Distance-Based Generalisation Operators for First-Order Objects.",
+                    "Efficient and Scalable Induction of Logic Programs Using a Deductive Database System.",
+                    "Inductive Mercury Programming.",
+                    "An ILP Refinement Operator for Biological Grammar Learning.",
+                    "Combining Macro-operators with Control Knowledge.",
+                    "Frequent Hypergraph Mining.",
+                    "Induction of Fuzzy and Annotated Logic Programs.",
+                    "Boosting Descriptive ILP for Predictive Learning in Bioinformatics.",
+                    "Relational Sequence Alignments and Logos.",
+                    "On the Missing Link Between Frequent Pattern Discovery and Concept Formation.",
+                    "Learning Modal Theories.",
+                    "A Mining Algorithm Using Property Items Extracted from Sampled Examples.",
+                    "The Complexity of Translating BLPs to RMMs.",
+                    "Inferring Regulatory Networks from Time Series Expression Data and Relational Data Via Inductive Logic Programming.",
+                    "ILP Through Propositionalization and Stochastic k-Term DNF Learning.",
+                    "theta -Subsumption Based on Object Context.",
+                    "Word Sense Disambiguation Using Inductive Logic Programming.",
+                    "ReMauve: A Relational Model Tree Learner.",
+                    "Relational Data Mining Applied to Virtual Engineering of Product Designs."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "15th ILP 2005",
+        "info": "Bonn, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ilp/2005",
+                "sub_name": "Inductive Logic Programming, 15th International Conference, ILP 2005, Bonn, Germany, August 10-13, 2005, Proceedings.",
+                "count": 28,
+                "papers": [
+                    "An Output-Polynomial Time Algorithm for Mining Frequent Closed Attribute Trees.",
+                    "Guiding Inference Through Relational Reinforcement Learning.",
+                    "Converting Semantic Meta-knowledge into Inductive Bias.",
+                    "Learning Teleoreactive Logic Programs from Problem Solving.",
+                    "A Framework for Set-Oriented Computation in Inductive Logic Programming and Its Application in Generalizing Inverse Entailment.",
+                    "Distance Based Generalisation.",
+                    "Automatic Induction of Abduction and Abstraction Theories from Observations.",
+                    "Logical Bayesian Networks and Their Relation to Other Probabilistic Logical Models.",
+                    "Strategies to Parallelize ILP Systems.",
+                    "Inducing Causal Laws by Regular Inference.",
+                    "Online Closure-Based Learning of Relational Theories.",
+                    "Learning Closed Sets of Labeled Graphs for Chemical Applications.",
+                    "ILP Meets Knowledge Engineering: A Case Study.",
+                    "Spatial Clustering of Structured Objects.",
+                    "Generalization Behaviour of Alkemic Decision Trees.",
+                    "Predicate Selection for Structural Decision Trees.",
+                    "Induction of the Indirect Effects of Actions by Monotonic Methods.",
+                    "Probabilistic First-Order Theory Revision from Examples.",
+                    "Inductive Equivalence of Logic Programs.",
+                    "Deriving a Stationary Dynamic Bayesian Network from a Logic Program with Recursive Loops.",
+                    "A Study of Applying Dimensionality Reduction to Restrict the Size of a Hypothesis Space.",
+                    "Polynomial Time Inductive Inference of TTSP Graph Languages from Positive Data.",
+                    "Classifying Relational Data with Neural Networks.",
+                    "Efficient Sampling in Relational Feature Spaces.",
+                    "Why Computers Need to Learn About Music.",
+                    "Tutorial on Statistical Relational Learning.",
+                    "Machine Learning for Systems Biology.",
+                    "Five Problems in Five Areas for Five Years."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "14th ILP 2004",
+        "info": "Porto, Portugal",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ilp/2004",
+                "sub_name": "Inductive Logic Programming, 14th International Conference, ILP 2004, Porto, Portugal, September 6-8, 2004, Proceedings.",
+                "count": 26,
+                "papers": [
+                    "Automated Synthesis of Data Analysis Programs: Learning in Logic.",
+                    "At the Interface of Inductive Logic Programming and Statistics.",
+                    "From Promising to Profitable Applications of ILP: A Case Study in Drug Discovery.",
+                    "Systems Biology: A New Challenge for ILP.",
+                    "Scaling Up ILP: Experiences with Extracting Relations from Biomedical Text.",
+                    "Macro-Operators Revisited in Inductive Logic Programming.",
+                    "Bottom-Up ILP Using Large Refinement Steps.",
+                    "On the Effect of Caching in Recursive Theory Learning.",
+                    "FOIL-D: Efficiently Scaling FOIL for Multi-relational Data Mining of Large Datasets.",
+                    "Learning an Approximation to Inductive Logic Programming Clause Evaluation.",
+                    "Learning Ensembles of First-Order Clauses for Recall-Precision Curves: A Case Study in Biomedical Information Extraction.",
+                    "Automatic Induction of First-Order Logic Descriptors Type Domains from Observations.",
+                    "On Avoiding Redundancy in Inductive Logic Programming.",
+                    "Generalization Algorithms for Second-Order Terms.",
+                    "Circumscription Policies for Induction.",
+                    "Logical Markov Decision Programs and the Convergence of Logical TD(lambda).",
+                    "Learning Goal Hierarchies from Structured Observations and Expert Annotations.",
+                    "Efficient Evaluation of Candidate Hypotheses in AL-log.",
+                    "An Efficient Algorithm for Reducing Clauses Based on Constraint Satisfaction Techniques.",
+                    "Improving Rule Evaluation Using Multitask Learning.",
+                    "Learning Logic Programs with Annotated Disjunctions.",
+                    "A Simulated Annealing Framework for ILP.",
+                    "Modelling Inhibition in Metabolic Pathways Through Abduction and Induction.",
+                    "First Order Random Forests with Complex Aggregates.",
+                    "A Monte Carlo Study of Randomised Restarted Search in ILP.",
+                    "Learning, Logic, and Probability: A Unified View."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "name": "13th ILP 2003",
+        "info": "Szeged, Hungary",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ilp/2003",
+                "sub_name": "Inductive Logic Programming: 13th International Conference, ILP 2003, Szeged, Hungary, September 29-October 1, 2003, Proceedings.",
+                "count": 25,
+                "papers": [
+                    "A Personal View of How Best to Apply ILP.",
+                    "Agents that Reason and Learn.",
+                    "Mining Model Trees: A Multi-relational Approach.",
+                    "Complexity Parameters for First-Order Classes.",
+                    "A Multi-relational Decision Tree Learning Algorithm - Implementation and Experiments.",
+                    "Applying Theory Revision to the Design of Distributed Databases.",
+                    "Disjunctive Learning with a Soft-Clustering Method.",
+                    "ILP for Mathematical Discovery.",
+                    "An Exhaustive Matching Procedure for the Improvement of Learning Efficiency.",
+                    "Efficient Data Structures for Inductive Logic Programming.",
+                    "Graph Kernels and Gaussian Processes for Relational Reinforcement Learning.",
+                    "On Condensation of a Clause.",
+                    "A Comparative Evaluation of Feature Set Evolution Strategies for Multirelational Boosting.",
+                    "Comparative Evaluation of Approaches to Propositionalization.",
+                    "Ideal Refinement of Descriptions in AL-Log.",
+                    "Which First-Order Logic Clauses Can Be Learned Using Genetic Algorithms?.",
+                    "Improved Distances for Structured Data.",
+                    "Induction of Enzyme Classes from Biological Databases.",
+                    "Estimating Maximum Likelihood Parameters for Stochastic Context-Free Graph Grammars.",
+                    "Induction of the Effects of Actions by Monotonic Methods.",
+                    "Hybrid Abductive Inductive Learning: A Generalisation of Progol.",
+                    "Query Optimization in Inductive Logic Programming by Reordering Literals.",
+                    "Efficient Learning of Unlabeled Term Trees with Contractible Variables from Positive Data.",
+                    "Relational IBL in Music with a New Structural Similarity Measure.",
+                    "An Effective Grammar-Based Compression Algorithm for Tree Structured Data."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2002",
+        "name": "12th ILP 2002",
+        "info": "Sydney, Australia",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ilp/2002",
+                "sub_name": "Inductive Logic Programming, 12th International Conference, ILP 2002, Sydney, Australia, July 9-11, 2002. Revised Papers.",
+                "count": 23,
+                "papers": [
+                    "Propositionalization for Clustering Symbolic Relational Descriptions.",
+                    "Efficient and Effective Induction of First Order Decision Lists.",
+                    "Learning with Feature Description Logics.",
+                    "An Empirical Evaluation of Bagging in Inductive Logic Programming.",
+                    "Kernels for Structured Data.",
+                    "Experimental Comparison of Graph-Based Relational Concept Learning with Inductive Logic Programming Systems.",
+                    "Autocorrelation and Linkage Cause Bias in Evaluation of Relational Learners.",
+                    "Learnability of Description Logic Programs.",
+                    "1BC2: A True First-Order Bayesian Classifier.",
+                    "RSD: Relational Subgroup Discovery through First-Order Feature Construction.",
+                    "Mining Frequent Logical Sequences with SPIRIT-LoG.",
+                    "Using Theory Completion to Learn a Robot Navigation Control Program.",
+                    "Learning Structure and Parameters of Stochastic Logic Programs.",
+                    "A Novel Approach to Machine Discovery: Genetic Programming and Stochastic Grammars.",
+                    "Revision of First-Order Bayesian Classifiers.",
+                    "The Applicability to ILP of Results Concerning the Ordering of Binomial Populations.",
+                    "Compact Representation of Knowledge Bases in ILP.",
+                    "A Polynomial Time Matching Algorithm of Structured Ordered Tree Patterns for Data Mining from Semistructured Data.",
+                    "A Genetic Algorithms Approach to ILP.",
+                    "Experimental Investigation of Pruning Methods for Relational Pattern Discovery.",
+                    "Noise-Resistant Incremental Relational Learning Using Possible Worlds.",
+                    "Lattice-Search Runtime Distributions May Be Heavy-Tailed.",
+                    "Learning in Rich Representations: Inductive Logic Programming and Computational Scientific Discovery."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2001",
+        "name": "11th ILP 2001",
+        "info": "Strasbourg, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ilp/2001",
+                "sub_name": "Inductive Logic Programming, 11th International Conference, ILP 2001, Strasbourg, France, September 9-11, 2001, Proceedings.",
+                "count": 21,
+                "papers": [
+                    "A Refinement Operator for Theories.",
+                    "Learning Logic Programs with Neural Networks.",
+                    "A Genetic Algorithm for Propositionalization.",
+                    "Classifying Uncovered Examples by Rule Stretching.",
+                    "Relational Learning Using Constrained Confidence-Rated Boosting.",
+                    "Induction, Abduction, and Consequence-Finding.",
+                    "From Shell Logs to Shell Scripts.",
+                    "An Automated ILP Server in the Field of Bioinformatics.",
+                    "Adaptive Bayesian Logic Programs.",
+                    "Towards Combining Inductive Logic Programming with Bayesian Networks.",
+                    "Demand-Driven Construction of Structural Features in ILP.",
+                    "Transformation-Based Learning Using Multirelational Aggregation.",
+                    "Discovering Associations between Spatial Objects: An ILP Application.",
+                    "Theta-Subsumption in a Constraint Satisfaction Perspective.",
+                    "Learning to Parse from a Treebank: Combining TBL and ILP.",
+                    "Induction of Stable Models.",
+                    "Application of Pruning Techniques for Propositional Learning to Progol.",
+                    "Application of ILP to Cardiac Arrhythmia Characterization for Chronicle Recognition.",
+                    "Efficient Cross-Validation in ILP.",
+                    "Modelling Semi-structured Documents with Hedges for Deduction and Induction.",
+                    "Learning Functions from Imperfect Positive Data."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2000",
+        "name": "10th ILP 2000",
+        "info": "London, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ilp/2000",
+                "sub_name": "Inductive Logic Programming, 10th International Conference, ILP 2000, London, UK, July 24-27, 2000, Proceedings.",
+                "count": 16,
+                "papers": [
+                    "ILP: Just Do It.",
+                    "A New Algorithm for Learning Range Restricted Horn Expressions.",
+                    "A Refinement Operator for Description Logics.",
+                    "Executing Query Packs in ILP.",
+                    "A Logical Database Mining Query Language.",
+                    "Induction of Recursive Theories in the Normal ILP Setting: Issues and Solutions.",
+                    "Extending K-Means Clustering to First-Order Representations.",
+                    "Theory Completion Using Inverse Entailment.",
+                    "Solving Selection Problems Using Preference Relation Based on Bayesian Learning.",
+                    "Concurrent Execution of Optimal Hypothesis Search for Inverse Entailment.",
+                    "Using ILP to Improve Planning in Hierarchical Reinforcement Learning.",
+                    "Towards Learning in CARIN-ALN.",
+                    "Inverse Entailment in Nonmonotonic Logic Programs.",
+                    "A Note on Two Simple Transformations for Improving the Efficiency of an ILP System.",
+                    "Searching the Subsumption Lattice by a Genetic Algorithm.",
+                    "New Conditions for the Existence of Least Generalizations under Relative Subsumption."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/ilp/2000wip",
+                "sub_name": "Inductive Logic Programming, 10th International Conference, ILP 2000, Work-in-progress reports, London, UK, July 2000, Proceedings.",
+                "count": 20,
+                "papers": [
+                    "A Formal Framework for Theory Learning Using Description Logics.",
+                    "Learning Term Rewriting Systems from Entailment .",
+                    "A Higher-order Approach to Meta-learning .",
+                    "Two Advanced Transormations for Improving the Efficiency of an ILP system.",
+                    "A New Declarative Bias for ILP: Construction Modes.",
+                    "Universal Learning of Classes from Sparse and Non-uniform Evidence.",
+                    "Decomposing Probability Distributions on Structured Individuals.",
+                    "On the Completion of Inverse Entailment for Mutual Recursion and its Application to Self Recursion.",
+                    "A Topological Study of the Upward Refinement Operators in ILP.",
+                    "Bayesian Logic Programs.",
+                    "Bottom-Up Propositionalization.",
+                    "Using an ILP Algorithm to Learn Logic Programs for Reasoning about Actions.",
+                    "Selective Inductive Logic Programming.",
+                    "A Proposal for Inductive Learning Agent Using First-Order Logic.",
+                    "Composition of Biasses of Inductive Logic Programming.",
+                    "An Efficient Hypothesis Search Algorithm Based on Best-Bound Search.",
+                    "Using Belief Networks to Neutralize Known Dependencies in Conceptual Clustering.",
+                    "Identification in the Limit and Constraint ILP.",
+                    "Learning First Order Logic Time Series Classifiers.",
+                    "ILP for Automated Telephony."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1999",
+        "name": "9th ILP 1999",
+        "info": "Bled, Slovenia",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ilp/1999",
+                "sub_name": "Inductive Logic Programming, 9th International Workshop, ILP-99, Bled, Slovenia, June 24-27, 1999, Proceedings.",
+                "count": 27,
+                "papers": [
+                    "Probabilistic Relational Models.",
+                    "Inductive Databases (Abstract).",
+                    "Some Elements of Machine Learning (Extended Abstract).",
+                    "Refinement Operators Can Be (Weakly) Perfect.",
+                    "Combining Divide-and-Conquer and Separate-and-Conquer for Efficient and Effective Rule Induction.",
+                    "Refining Complete Hypotheses in ILP.",
+                    "Acquiring Graphic Design Knowledge with Nonmonotonic Inductive Learning.",
+                    "Morphosyntactic Tagging of Slovene Using Progol.",
+                    "Experiments in Predicting Biodegradability.",
+                    "IBC: A First-Order Bayesian Classifier.",
+                    "Sorted Downward Refinement: Building Background Knowledge into a Refinement Operator for Inductive Programming.",
+                    "A Strong Complete Schmema for Inductive Functional Logic Programming.",
+                    "Application of Different Learning Methods to Hungarian Part-of-Speech Tagging.",
+                    "Combining LAPIS and WordNet for Learning of LR Parsers with Optimal Semantic Constraints.",
+                    "Learning Word Segmentation Rules for Tag Prediction.",
+                    "Approximate ILP Rules by Backpropagation Neural Network: A Result on Thai Character Recognition.",
+                    "Rule Evaluation Measures: A Unifying View.",
+                    "Improving Part of Speech Disambiguation Rules by Adding Linguistic Knowledge.",
+                    "On Sufficient Conditions for Learnability of Logic Programs from Positive Data.",
+                    "A Bounded Search Space of Clausal Theories.",
+                    "Discovering New Knowledge from Graph Data Using Inductive Logic Programming.",
+                    "Analogical Prediction.",
+                    "Generalizing Refinement Operators to Learn Prenex Conjunctive Normal Forms.",
+                    "Theory Recovery.",
+                    "Instance Based Function Learning.",
+                    "Some Properties of Invers Resolution in Normal Logic Programs.",
+                    "An Assessment of ILP-Assisted Models for Toxicology and the PTE-3 Experiment."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1998",
+        "name": "8th ILP 1998",
+        "info": "Madison, Wisconsin, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ilp/1998",
+                "sub_name": "Inductive Logic Programming, 8th International Workshop, ILP-98, Madison, Wisconsin, USA, July 22-24, 1998, Proceedings.",
+                "count": 30,
+                "papers": [
+                    "Attribute-Value Learning Versus Inductive Logic Programming: The Missing Links (Extended Abstract).",
+                    "Advances in ILP Theory and Implementations (Abstract).",
+                    "Application of ILP to Problems in Chemistry and Biology (Abstract).",
+                    "Relational Reinforcement Learning.",
+                    "Learning First-Order Acyclic Horn Programs from Entailment.",
+                    "Combining Statistical and Relational Methods for Learning in Hypertext Domains.",
+                    "Application of Inductive Logic Programming to Discover Rules Governing the Three-Dimensional Topology of Protein Structure.",
+                    "Term Comparisons in First-Order Similarity Measures.",
+                    "Stochastic Propositionalization of Non-determinate Background Knowledge.",
+                    "A Stochastic Simple Similarity.",
+                    "Using Prior Probabilities and Density Estimation for Relational Classification.",
+                    "Induction of Constraint Grammar-Rules Using Progol.",
+                    "A Hybrid Approach t Word Segmentation.",
+                    "Learning Multilingual Morphology with CLOG.",
+                    "Using ILP-Systems for Verification and Validation of Multi-agent Systems.",
+                    "Inducing Shogi Heuristics Using Inductive Logic Programming.",
+                    "Repeat Learning Using Predicate Invention.",
+                    "Normal Programs and Multiple Predicate Learning.",
+                    "Strongly Typed Inductive Concept Learning.",
+                    "Function-Free Horn Clauses Are Hard to Approximate.",
+                    "DOGMA: A GA-Based Relational Learner.",
+                    "Generalization under Implication by lambda-Subsumption.",
+                    "Prolog, Refinements and RLGG's.",
+                    "Learning Structurally Indeterminate Clauses.",
+                    "Completing Inverse Entailment.",
+                    "Distances and Limits on Herbrand Interpretations.",
+                    "Relational Distance-Based Clustering.",
+                    "A Framework for Defining Distances Between First-Order Logic Objects.",
+                    "Detecting Traffic Problems with ILP.",
+                    "A Comparison of ILP and Propositional Systems on Propositional Traffic Data."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1997",
+        "name": "7th ILP 1997",
+        "info": "Prague, Czech Republic",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ilp/1997",
+                "sub_name": "Inductive Logic Programming, 7th International Workshop, ILP-97, Prague, Czech Republic, September 17-20, 1997, Proceedings.",
+                "count": 29,
+                "papers": [
+                    "Knowledge Discovery in Databases: An Overview.",
+                    "On the Complexity of Some Inductive Logic Programming Problems.",
+                    "Inductive Logic Programming and Constraint Logic Programming (Abstract).",
+                    "Learning Phonetic Rules in a Speech Recognition System.",
+                    "Cautious Induction in Inductive Logic Programming.",
+                    "Generating Numerical Literals During Refinement.",
+                    "Lookahead and Discretization in ILP.",
+                    "Data Mining via ILP: The Application of Progol to a Database of Enantioseparations.",
+                    "Part-of-Speech Tagging Using Progol.",
+                    "Maximum Entropy Modeling with Clausal Constraints.",
+                    "Mining Association Rules in Multiple Relations.",
+                    "Using Logical Decision Trees for Clustering.",
+                    "Induction of Slovene Nominal Paradigms.",
+                    "Normal Forms for Inductive Logic Programming.",
+                    "On a Sufficient Condition for the Existence of Most Specific Hypothesis in Progol.",
+                    "Induction of Logic Programs with More Than One Recursive Clause by Analyzing Saturations.",
+                    "A Logical Framework for Graph Theoretical Decision Tree Learning.",
+                    "Learning with Abduction.",
+                    "Systematic Predicate Invention in Inductive Logic Programming.",
+                    "Learning Programs in the Event Calculus.",
+                    "Distance Between Herbrand Interpretations: A Measure for Approximations to a Target Concept.",
+                    "Realizing Progol by Forward Reasoning.",
+                    "Probabilistic First-Order Classification.",
+                    "Learning Horn Definitions with Equivalence and Membership Queries.",
+                    "Using Abstraction Schemata in Inductive Logic Programming.",
+                    "Distance Induction in First Order Logic.",
+                    "Carcinogenesis Predictions Using ILP.",
+                    "Discovery of First-Order Regularities in a Relational Database Using Offline Candidate Determination.",
+                    "Which Hypotheses Can Be Found with Inverse Entailment?"
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1996",
+        "name": "6th ILP 1996",
+        "info": "Stockholm, Sweden",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ilp/1996",
+                "sub_name": "Inductive Logic Programming, 6th International Workshop, ILP-96, Stockholm, Sweden, August 26-28, 1996, Selected Papers.",
+                "count": 22,
+                "papers": [
+                    "Inductive Logic Programming for Natural Language Processing.",
+                    "An Initial Experiment into Stereochemistry-Based Drug Design Using Inductive Logic Programming.",
+                    "Applying ILP to Diterpene Structure Elucidation from 13C NMR Spectra.",
+                    "Analysis and Prediction of Piano Performances Using Inductive Logic Programming.",
+                    "Noise Detection and Elimination Applied to Noise Handling in a KRK Chess Endgame.",
+                    "Feature Construction with Inductive Logic Programming: A Study of Quantitative Predictions of Biological Activity by Structural Attributes.",
+                    "Polynomial-Time Learning in Logic Programming and Constraint Logic Programming.",
+                    "Analyzing and Learning ECG Waveforms.",
+                    "Learning Rules That Classify Ocular Fundus Images for Glaucoma Diagnosis.",
+                    "A New Design and Implementation of Progol by Bottom-Up Computation.",
+                    "Inductive Logic Program Synthesis with DIALOGS.",
+                    "Relational Knowledge Discovery in Databases.",
+                    "Efficient Theta-Subsumption Based on Graph Algorithms.",
+                    "Integrity Constraints in ILP Using a Monte Carlo Approach.",
+                    "Restructuring Chain Datalog Programs (Preliminary Report).",
+                    "Tow-down Induction of Logic Programs from Incomplete Samples.",
+                    "Least Generalizations under Implication.",
+                    "Efficient Proof Encoding.",
+                    "Learning Logic Programs with Random Classification Noise.",
+                    "Handling Quantifiers in ILP.",
+                    "Learning from Positive Data.",
+                    "Lambda-Subsumption and Its Application to Learning from Positive-only Examples."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1995",
+        "name": "ILP 1995",
+        "info": "Tokyo, Japan",
+        "venues": []
+    }
+]

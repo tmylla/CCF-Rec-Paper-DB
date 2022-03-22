@@ -1,0 +1,695 @@
+[
+    {
+        "year": "2021",
+        "name": "PAM 2021",
+        "info": "Virtual Event",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pam/2021",
+                "sub_name": "Passive and Active Measurement - 22nd International Conference, PAM 2021, Virtual Event, March 29 - April 1, 2021, Proceedings.",
+                "count": 33,
+                "papers": [
+                    "Video Conferencing and Flow-Rate Fairness: A First Look at Zoom and the Impact of Flow-Queuing AQM.",
+                    "Characterizing Service Provider Response to the COVID-19 Pandemic in the United States.",
+                    "A First Look at COVID-19 Domain Names: Origin and Implications.",
+                    "Clairvoyance: Inferring Blocklist Use on the Internet.",
+                    "Our (in)Secure Web: Understanding Update Behavior of Websites and Its Impact on Security.",
+                    "Winding Path: Characterizing the Malicious Redirection in Squatting Domain Names.",
+                    "An Empirical Measurement Study of Free Live Streaming Services.",
+                    "A Data-Driven Analysis and Tuning of a Live Hybrid CDN/V2V Video Distribution System.",
+                    "Too Late for Playback: Estimation of Video Stream Quality in Rural and Urban Contexts.",
+                    "Measurement and Analysis of Automated Certificate Reissuance.",
+                    "Revocation Statuses on the Internet.",
+                    "Measuring DNS over TLS from the Edge: Adoption, Reliability, and Response Times.",
+                    "Long-Lasting Sequences of BGP Updates.",
+                    "Inferring Cloud Interconnections: Validation, Geolocation, and Routing Behavior.",
+                    "On the Resilience of Internet Infrastructures in Pacific Northwest to Earthquakes.",
+                    "New Kids on the DRDoS Block: Characterizing Multiprotocol and Carpet Bombing Attacks.",
+                    "DDoS Never Dies? An IXP Perspective on DDoS Amplification Attacks.",
+                    "A Peek into the DNS Cookie Jar - An Analysis of DNS Cookie Use.",
+                    "What You Need to Know About (Smart) Network Interface Cards.",
+                    "Scouting the Path to a Million-Client Server.",
+                    "Building Out the Basics with Hoplets.",
+                    "NATting Else Matters: Evaluating IPv6 Access Control Policies in Residential Networks.",
+                    "Plight at the End of the Tunnel - Legacy IPv6 Transition Mechanisms in the Wild.",
+                    "An Online Method for Estimating the Wireless Device Count via Privacy-Preserving Wi-Fi Fingerprinting.",
+                    "Cache Me Outside: A New Look at DNS Cache Probing.",
+                    "Can Encrypted DNS Be Fast?",
+                    "Fragmentation, Truncation, and Timeouts: Are Large DNS Messages Falling to Bits?",
+                    "On the Accuracy of Tor Bandwidth Estimation.",
+                    "Comparison of TCP Congestion Control Performance over a Satellite Network.",
+                    "Throughput Prediction on 60 GHz Mobile Devices for High-Bandwidth, Latency-Sensitive Applications.",
+                    "Characterizing the Security of Endogenous and Exogenous Desktop Application Network Flows.",
+                    "Zeroing in on Port 0 Traffic in the Wild.",
+                    "A Study of the Partnership Between Advertisers and Publishers."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "name": "PAM 2020",
+        "info": "Eugene, Oregon, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pam/2020",
+                "sub_name": "Passive and Active Measurement - 21st International Conference, PAM 2020, Eugene, Oregon, USA, March 30-31, 2020, Proceedings.",
+                "count": 18,
+                "papers": [
+                    "Discovering the IPv6 Network Periphery.",
+                    "Improving Coverage of Internet Outage Detection in Sparse Blocks.",
+                    "FlowTrace : A Framework for Active Bandwidth Measurements Using In-band Packet Trains.",
+                    "Leopard: Understanding the Threat of Blockchain Domain Name Based Malware.",
+                    "To Filter or Not to Filter: Measuring the Benefits of Registering in the RPKI Today.",
+                    "A First Look at the Misuse and Abuse of the IPv4 Transfer Market.",
+                    "Don't Forget to Lock the Front Door! Inferring the Deployment of Source Address Validation of Inbound Traffic.",
+                    "MUST, SHOULD, DON'T CARE: TCP Conformance in the Wild.",
+                    "Extortion or Expansion? An Investigation into the Costs and Consequences of ICANN's gTLD Experiments.",
+                    "Counterfighting Counterfeit: Detecting and Taking down Fraudulent Webshops at a ccTLD.",
+                    "When Parents and Children Disagree: Diving into DNS Delegation Inconsistency.",
+                    "A First Comparative Characterization of Multi-cloud Connectivity in Today's Internet.",
+                    "Unintended Consequences: Effects of Submarine Cable Deployment on Internet Routing.",
+                    "Alias Resolution Based on ICMP Rate Limiting.",
+                    "APPLE: Alias Pruning by Path Length Estimation.",
+                    "Dissecting the Workload of a Major Adult Video Portal.",
+                    "Understanding Video Streaming Algorithms in the Wild.",
+                    "Exploring the Eastern Frontier: A First Look at Mobile App Tracking in China."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "PAM 2019",
+        "info": "Puerto Varas, Chile",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pam/2019",
+                "sub_name": "Passive and Active Measurement - 20th International Conference, PAM 2019, Puerto Varas, Chile, March 27-29, 2019, Proceedings.",
+                "count": 20,
+                "papers": [
+                    "Leveraging Context-Triggered Measurements to Characterize LTE Handover Performance.",
+                    "Measuring Web Quality of Experience in Cellular Networks.",
+                    "Realtime Mobile Bandwidth Prediction Using LSTM Neural Network.",
+                    "Hidden Treasures - Recycling Large-Scale Internet Measurements to Study the Internet's Control Plane.",
+                    "Caching the Internet: A View from a Global Multi-tenant CDN.",
+                    "Sundials in the Shade - An Internet-Wide Perspective on ICMP Timestamps.",
+                    "Where on Earth Are the Best-50 Time Servers?",
+                    "Service Traceroute: Tracing Paths of Application Flows.",
+                    "Mapping an Enterprise Network by Analyzing DNS Traffic.",
+                    "A First Look at QNAME Minimization in the Domain Name System.",
+                    "Clustering and the Weekend Effect: Recommendations for the Use of Top Domain Lists in Security Research.",
+                    "Funny Accents: Exploring Genuine Interest in Internationalized Domain Names.",
+                    "BGP Zombies: An Analysis of Beacons Stuck Routes.",
+                    "How to Find Correlated Internet Failures.",
+                    "On DNSSEC Negative Responses, Lies, and Zone Size Detection.",
+                    "Spectrum Protection from Micro-transmissions Using Distributed Spectrum Patrolling.",
+                    "Measuring Cookies and Web Privacy in a Post-GDPR World.",
+                    "The Value of First Impressions - The Impact of Ad-Blocking on Web QoE.",
+                    "Web Performance Pitfalls.",
+                    "Characterizing Web Pornography Consumption from Passive Measurements."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "PAM 2018",
+        "info": "Berlin, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pam/2018",
+                "sub_name": "Passive and Active Measurement - 19th International Conference, PAM 2018, Berlin, Germany, March 26-27, 2018, Proceedings.",
+                "count": 20,
+                "papers": [
+                    "Detecting ICMP Rate Limiting in the Internet.",
+                    "On the Characteristics of Language Tags on the Web.",
+                    "Narrowing the Gap Between QoS Metrics and Web QoE Using Above-the-fold Metrics.",
+                    "Internet Protocol Cameras with No Password Protection: An Empirical Investigation.",
+                    "RARE: A Systematic Augmented Router Emulation for Malware Analysis.",
+                    "Revisiting the Privacy Implications of Two-Way Internet Latency Data.",
+                    "Fury Route: Leveraging CDNs to Remotely Measure Network Distance.",
+                    "Mobile Content Hosting Infrastructure in China: A View from a Cellular ISP.",
+                    "Characterizing a Meta-CDN.",
+                    "In rDNS We Trust: Revisiting a Common Data-Source's Reliability.",
+                    "Characterization of Collaborative Resolution in Recursive DNS Resolvers.",
+                    "The Unintended Consequences of Email Spam Prevention.",
+                    "In Log We Trust: Revealing Poor Security Practices with Certificate Transparency Logs and Internet Measurements.",
+                    "Server-Side Adoption of Certificate Transparency.",
+                    "Leveraging Inter-domain Stability for BGP Dynamics Analysis.",
+                    "The (Thin) Bridges of AS Connectivity: Measuring Dependency Using AS Hegemony.",
+                    "Revealing the Load-Balancing Behavior of YouTube Traffic on Interdomain Links.",
+                    "A Closer Look at IP-ID Behavior in the Wild.",
+                    "A First Look at QUIC in the Wild.",
+                    "TCP CUBIC versus BBR on the Highway."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "PAM 2017",
+        "info": "Sydney, NSW, Australia",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pam/2017",
+                "sub_name": "Passive and Active Measurement - 18th International Conference, PAM 2017, Sydney, NSW, Australia, March 30-31, 2017, Proceedings.",
+                "count": 20,
+                "papers": [
+                    "Understanding the Share of IPv6 Traffic in a Dual-Stack ISP.",
+                    "On the Potential of IPv6 Open Resolvers for DDoS Attacks.",
+                    "Something from Nothing (There): Collecting Global IPv6 Datasets from DNS.",
+                    "The Web, the Users, and the MOS: Influence of HTTP/2 on User Experience.",
+                    "Internet Scale User-Generated Live Video Streaming: The Twitch Case.",
+                    "Internet Access for All: Assessing a Crowdsourced Web Proxy Service in a Community Network.",
+                    "A First Look at the CT Landscape: Certificate Transparency Logs in Practice.",
+                    "Where Is the Weakest Link? A Study on Security Discrepancies Between Android Apps and Their Website Counterparts.",
+                    "Patch Me If You Can: A Study on the Effects of Individual User Behavior on the End-Host Vulnerability State.",
+                    "Application Bandwidth and Flow Rates from 3 Trillion Flows Across 45 Carrier Networks.",
+                    "Measuring What is Not Ours: A Tale of 3rd Party Performance.",
+                    "The Utility Argument - Making a Case for Broadband SLAs.",
+                    "Why Is the Internet so Slow?!",
+                    "Anycast Latency: How Many Sites Are Enough?",
+                    "Where Has My Time Gone?",
+                    "Mind the Gap Between HTTP and HTTPS in Mobile Networks.",
+                    "Using Loops Observed in Traceroute to Infer the Ability to Spoof.",
+                    "A Characterization of Load Balancing on the IPv6 Internet.",
+                    "Enhancing WiFi Throughput with PLC Extenders: A Measurement Study.",
+                    "Cutting Internet Access Costs Through HTTPS Caching: A Measurement Study."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "PAM 2016",
+        "info": "Heraklion, Greece",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pam/2016",
+                "sub_name": "Passive and Active Measurement - 17th International Conference, PAM 2016, Heraklion, Greece, March 31 - April 1, 2016. Proceedings.",
+                "count": 30,
+                "papers": [
+                    "Exploring Tor's Activity Through Long-Term Passive TLS Traffic Measurement.",
+                    "Measuring the Latency and Pervasiveness of TLS Certificate Revocation.",
+                    "Tracking Personal Identifiers Across the Web.",
+                    "Like a Pack of Wolves: Community Structure of Web Trackers.",
+                    "A First Analysis of Multipath TCP on Smartphones.",
+                    "Crowdsourcing Measurements of Mobile Network Performance and Mobility During a Large Scale Event.",
+                    "A Study of MVNO Data Paths and Performance.",
+                    "Detecting Cellular Middleboxes Using Passive Measurement Techniques.",
+                    "Home Network or Access Link? Locating Last-Mile Downstream Throughput Bottlenecks.",
+                    "A Case Study of Traffic Demand Response to Broadband Service-Plan Upgrades.",
+                    "eXploring Xfinity - A First Look at Provider-Enabled Community Networks.",
+                    "NAT Revelio: Detecting NAT444 in the ISP.",
+                    "GPLMT: A Lightweight Experimentation and Testbed Management Framework.",
+                    "Periscope: Unifying Looking Glass Querying.",
+                    "Analyzing Locality of Mobile Messaging Traffic using the MATAdOR Framework.",
+                    "Scout: A Point of Presence Recommendation System Using Real User Monitoring Data.",
+                    "Is the Web HTTP/2 Yet?",
+                    "Modeling HTTP/2 Speed from HTTP/1 Traces.",
+                    "Behind Box-Office Sales: Understanding the Mechanics of Automation Spam in Classifieds.",
+                    "Towards a Model of DNS Client Behavior.",
+                    "Detecting DNS Root Manipulation.",
+                    "Behind IP Prefix Overlaps in the BGP Routing Table.",
+                    "Characterizing Rule Compression Mechanisms in Software-Defined Networks.",
+                    "Blackholing at IXPs: On the Effectiveness of DDoS Mitigation in the Wild.",
+                    "Dissecting the Largest National Ecosystem of Public Internet eXchange Points in Brazil.",
+                    "traIXroute: Detecting IXPs in traceroute paths.",
+                    "A Brief History of MPLS Usage in IPv6.",
+                    "An Empirical Study of Android Alarm Usage for Application Scheduling.",
+                    "Network Timing and the 2015 Leap Second.",
+                    "Can Machine Learning Benefit Bandwidth Estimation at Ultra-high Speeds?"
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "PAM 2015",
+        "info": "New York, NY, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pam/2015",
+                "sub_name": "Passive and Active Measurement - 16th International Conference, PAM 2015, New York, NY, USA, March 19-20, 2015, Proceedings.",
+                "count": 27,
+                "papers": [
+                    "~Open Resolvers: Understanding the Origins of Anomalous Open DNS Resolvers.",
+                    "Characterizing Optimal DNS Amplification Attacks and Effective Mitigation.",
+                    "Measuring BGP Route Origin Registration and Validation.",
+                    "On the Diversity of Interdomain Routing in Africa.",
+                    "AppPrint: Automatic Fingerprinting of Mobile Applications in Network Traffic.",
+                    "Uncovering the Footprints of Malicious Traffic in Cellular Data Networks.",
+                    "Characterizing Instant Messaging Apps on Smartphones.",
+                    "Do Mobile Data Plans Affect Usage? Results from a Pricing Trial with ISP Customers.",
+                    "IPv6 AS Relationships, Cliques, and Congruence.",
+                    "Measuring and Characterizing IPv6 Router Availability.",
+                    "UAv6: Alias Resolution in IPv6 Using Unused Addresses.",
+                    "Server Siblings: Identifying Shared IPv4/IPv6 Infrastructure Via Active Fingerprinting.",
+                    "On the Power and Limitations of Detecting Network Filtering via Passive Observation.",
+                    "Distilling the Internet's Application Mix from Packet-Sampled Traffic.",
+                    "Enabling Internet-Wide Deployment of Explicit Congestion Notification.",
+                    "Internet Outages, the Eyewitness Accounts: Analysis of the Outages Mailing List.",
+                    "Transparent Estimation of Internet Penetration from Network Observations.",
+                    "A Quantitative Study of Video Duplicate Levels in YouTube.",
+                    "Measuring YouTube from Dual-Stacked Hosts.",
+                    "Investigating Transparent Web Proxies in Cellular Networks.",
+                    "TrackAdvisor: Taking Back Browsing Privacy from Third-Party Trackers.",
+                    "Exploring Miner Evolution in Bitcoin Network.",
+                    "Measuring the Performance of User Traffic in Home Wireless Networks.",
+                    "Enabling Wireless LAN Troubleshooting.",
+                    "Improving the Packet Send-Time Accuracy in Embedded Devices.",
+                    "What You Need to Know About SDN Flow Tables.",
+                    "Software-Defined Latency Monitoring in Data Center Networks."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "PAM 2014",
+        "info": "Los Angeles, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pam/2014",
+                "sub_name": "Passive and Active Measurement - 15th International Conference, PAM 2014, Los Angeles, CA, USA, March 10-11, 2014, Proceedings.",
+                "count": 31,
+                "papers": [
+                    "RadioProphet: Intelligent Radio Resource Deallocation for Cellular Networks.",
+                    "Mobile Network Performance from User Devices: A Longitudinal, Multidimensional Analysis.",
+                    "Diagnosing Path Inflation of Mobile Client Traffic.",
+                    "An End-to-End Measurement Study of Modern Cellular Data Networks.",
+                    "A Second Look at Detecting Third-Party Addresses in Traceroute Traces with the IP Timestamp Option.",
+                    "Ingress Point Spreading: A New Primitive for Adaptive Active Network Mapping.",
+                    "On Searching for Patterns in Traceroute Responses.",
+                    "Volume-Based Transit Pricing: Is 95 the Right Percentile?",
+                    "Dissecting Round Trip Time on the Slow Path with a Single Packet.",
+                    "Is Our Ground-Truth for Traffic Classification Reliable?",
+                    "Detecting Intentional Packet Drops on the Internet via TCP/IP Side Channels.",
+                    "The Need for End-to-End Evaluation of Cloud Availability.",
+                    "Exposing Inconsistent Web Search Results with Bobble.",
+                    "Modern Application Layer Transmission Patterns from a Transport Perspective.",
+                    "Third-Party Identity Management Usage on the Web.",
+                    "Understanding the Reachability of IPv6 Limited Visibility Prefixes.",
+                    "Violation of Interdomain Routing Assumptions.",
+                    "Here Be Web Proxies.",
+                    "Towards an Automated Investigation of the Impact of BGP Routing Changes on Network Delay Variations.",
+                    "Peering at the Internet's Frontier: A First Look at ISP Interconnectivity in Africa.",
+                    "Assessing DNS Vulnerability to Record Injection.",
+                    "How Vulnerable Are Unprotected Machines on the Internet?",
+                    "A Closer Look at Third-Party OSN Applications: Are They Leaking Your Personal Information?",
+                    "On the Effectiveness of Traffic Analysis against Anonymity Networks Using Flow Records.",
+                    "Scaling Bandwidth Estimation to High Speed Networks.",
+                    "Scalable Accurate Consolidation of Passively Measured Statistical Data.",
+                    "A Needle in the Haystack - Delay Based User Identification in Cellular Networks.",
+                    "Understanding HTTP Traffic and CDN Behavior from the Eyes of a Mobile ISP.",
+                    "On Understanding User Interests through Heterogeneous Data Sources.",
+                    "Nightlights: Entropy-Based Metrics for Classifying Darkspace Traffic Patterns.",
+                    "Distributed Active Measurement of Internet Queuing Delays."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "PAM 2013",
+        "info": "Hong Kong, China",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pam/2013",
+                "sub_name": "Passive and Active Measurement - 14th International Conference, PAM 2013, Hong Kong, China, March 18-19, 2013. Proceedings.",
+                "count": 33,
+                "papers": [
+                    "Measurement Artifacts in NetFlow Data.",
+                    "Efficient IP-Level Network Topology Capture.",
+                    "Detecting Third-Party Addresses in Traceroute Traces with IP Timestamp Option.",
+                    "FlowSense: Monitoring Network Utilization with Zero Measurement Cost.",
+                    "How to Reduce Smartphone Traffic Volume by 30%?",
+                    "Modeling Cellular User Mobility Using a Leap Graph.",
+                    "Understanding Mobile App Usage Patterns Using In-App Advertisements.",
+                    "A Measurement of Mobile Traffic Offloading.",
+                    "Estimating TCP Latency Approximately with Passive Measurements.",
+                    "Effect of Competing TCP Traffic on Interactive Real-Time Communication.",
+                    "A Comparative Study of Android and iOS for Accessing Internet Streaming Services.",
+                    "Performance Implications of Unilateral Enabling of IPv6.",
+                    "Measuring Occurrence of DNSSEC Validation.",
+                    "On the State of ECN and TCP Options on the Internet.",
+                    "Measuring Query Latency of Top Level DNS Servers.",
+                    "IPv6 Alias Resolution via Induced Fragmentation.",
+                    "Unveiling the Patterns of Video Tweeting: A Sina Weibo-Based Measurement Study.",
+                    "Measuring Home Networks with HomeNet Profiler.",
+                    "Characteristics of Real Open SIP-Server Traffic.",
+                    "Trying Broadband Characterization at Home.",
+                    "Searching for Spam: Detecting Fraudulent Accounts via Web Search.",
+                    "Characterization of Blacklists and Tainted Network Traffic.",
+                    "Characterizing Large-Scale Routing Anomalies: A Case Study of the China Telecom Incident.",
+                    "PhishLive: A View of Phishing and Malware Attacks from an Edge Router.",
+                    "Remotely Gauging Upstream Bufferbloat Delays.",
+                    "Scaling Out the Performance of Service Monitoring Applications with BlockMon.",
+                    "Understanding IPv6 Populations in the Wild.",
+                    "On Weather and Internet Traffic Demand.",
+                    "Spatial and Temporal Locality of Swarm Dynamics in BitTorrent.",
+                    "What SNMP Data Can Tell Us about Edge-to-Edge Network Performance.",
+                    "Pathperf: Path Bandwidth Estimation Utilizing Websites.",
+                    "The Day after Patch Tuesday: Effects Observable in IP Darkspace Traffic.",
+                    "Towards Active Measurements of Edge Network Outages."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "PAM 2012",
+        "info": "Vienna, Austria",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pam/2012",
+                "sub_name": "Passive and Active Measurement - 13th International Conference, PAM 2012, Vienna, Austria, March 12-14th, 2012. Proceedings.",
+                "count": 25,
+                "papers": [
+                    "Unmasking the Growing UDP Traffic in a Campus Network.",
+                    "Investigating IPv6 Traffic - What Happened at the World IPv6 Day?",
+                    "An End-Host View on Local Traffic at Home and Work.",
+                    "Comparison of User Traffic Characteristics on Mobile-Access versus Fixed-Access Networks.",
+                    "BackStreamDB: A Distributed System for Backbone Traffic Monitoring Providing Arbitrary Measurements in Real-Time.",
+                    "A Sequence-Oriented Stream Warehouse Paradigm for Network Monitoring Applications.",
+                    "On Multi-gigabit Packet Capturing with Multi-core Commodity Hardware.",
+                    "SyFi: A Systematic Approach for Estimating Stateful Firewall Performance.",
+                    "OFLOPS: An Open Framework for OpenFlow Switch Evaluation.",
+                    "Probe and Pray: Using UPnP for Home Network Measurements.",
+                    "Detecting Pedophile Activity in BitTorrent Networks.",
+                    "Re-wiring Activity of Malicious Networks.",
+                    "Difficulties in Modeling SCADA Traffic: A Comparative Analysis.",
+                    "Characterizing Delays in Norwegian 3G Networks.",
+                    "On 60 GHz Wireless Link Performance in Indoor Environments.",
+                    "Geolocating IP Addresses in Cellular Data Networks.",
+                    "Speed Measurements of Residential Internet Access.",
+                    "One-Way Traffic Monitoring with iatmon.",
+                    "A Hands-on Look at Active Probing Using the IP Prespecified Timestamp Option.",
+                    "Exposing a Nation-Centric View on the German Internet - A Change in Perspective on AS-Level.",
+                    "Behavior of DNS' Top Talkers, a .com/.net View.",
+                    "The BIZ Top-Level Domain: Ten Years Later.",
+                    "Xunlei: Peer-Assisted Download Acceleration on a Massive Scale.",
+                    "Pitfalls in HTTP Traffic Measurements and Analysis.",
+                    "A Longitudinal Characterization of Local and Global BitTorrent Workload Dynamics."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "PAM 2011",
+        "info": "Atlanta, GA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pam/2011",
+                "sub_name": "Passive and Active Measurement - 12th International Conference, PAM 2011, Atlanta, GA, USA, March 20-22, 2011. Proceedings.",
+                "count": 24,
+                "papers": [
+                    "Operating a Network Link at 100%.",
+                    "Dynamics of Prefix Usage at an Edge Router.",
+                    "Evolution of Cache Replacement Policies to Track Heavy-Hitter Flows.",
+                    "NAT Usage in Residential Broadband Networks.",
+                    "The Efficacy of Path Loss Models for Fixed Rural Wireless Links.",
+                    "Dissecting 3G Uplink Delay by Measuring in an Operational HSPA Network.",
+                    "On the Potential of Fixed-Beam 60 GHz Network Interfaces in Mobile Devices.",
+                    "On the Feasibility of Prefetching and Caching for Online TV Services: A Measurement Study on Hulu.",
+                    "On the Feasibility of Bandwidth Detouring.",
+                    "Can Network Characteristics Detect Spam Effectively in a Stand-Alone Enterprise?",
+                    "Detecting and Analyzing Automated Activity on Twitter.",
+                    "A Practical Approach to Portscan Detection in Very High-Speed Links.",
+                    "Omnify: Investigating the Visibility and Effectiveness of Copyright Monitors.",
+                    "Internet Censorship in China: Where Does the Filtering Occur?",
+                    "Route Flap Damping Made Usable.",
+                    "On Reducing the Impact of Interdomain Route Changes.",
+                    "Inferring the Origin of Routing Changes Based on Preferred Path Changes.",
+                    "A Comparative Study of Handheld and Non-handheld Traffic in Campus Wi-Fi Networks.",
+                    "Unveiling the BitTorrent Performance in Mobile WiMAX Networks.",
+                    "Peeling Away Timing Error in NetFlow Data.",
+                    "Clockscalpel: Understanding Root Causes of Internet Clock Synchronization Inaccuracy.",
+                    "FACT: Flow-Based Approach for Connectivity Tracking.",
+                    "Non-cooperative Diagnosis of Submarine Cable Faults.",
+                    "Measuring and Characterizing End-to-End Route Dynamics in the Presence of Load Balancing."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "PAM 2010",
+        "info": "Zurich, Switzerland",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pam/2010",
+                "sub_name": "Passive and Active Measurement, 11th International Conference, PAM 2010, Zurich, Switzerland, April 7-9, 2010. Proceedings.",
+                "count": 23,
+                "papers": [
+                    "Characterizing the Global Impact of P2P Overlays on the AS-Level Underlay.",
+                    "Investigating Occurrence of Duplicate Updates in BGP Announcements.",
+                    "A Measurement Study of the Origins of End-to-End Delay Variations.",
+                    "Yes, We LEDBAT: Playing with the New BitTorrent Congestion Control Algorithm.",
+                    "Measuring and Evaluating TCP Splitting for Cloud Services.",
+                    "The Myth of Spatial Reuse with Directional Antennas in Indoor Wireless Networks.",
+                    "Influence of the Packet Size on the One-Way Delay in 3G Networks.",
+                    "An Experimental Performance Comparison of 3G and Wi-Fi.",
+                    "Extracting Intra-domain Topology from mrinfo Probing.",
+                    "Quantifying the Pitfalls of Traceroute in AS Connectivity Inference.",
+                    "Toward Topology Dualism: Improving the Accuracy of AS Annotations for Routers.",
+                    "The RIPE NCC Internet Measurement Data Repository.",
+                    "Enabling High-Performance Internet-Wide Measurements on Windows.",
+                    "MOR: Monitoring and Measurements through the Onion Router.",
+                    "Evaluating IPv6 Adoption in the Internet.",
+                    "Internet Usage at Elementary, Middle and High Schools: A First Look at K-12 Traffic from Two US Georgia Counties.",
+                    "A First Look at Mobile Hand-Held Device Traffic.",
+                    "A Learning-Based Approach for IP Geolocation.",
+                    "A Probabilistic Population Study of the Conficker-C Botnet.",
+                    "Network DVR: A Programmable Framework for Application-Aware Trace Collection.",
+                    "OpenTM: Traffic Matrix Estimator for OpenFlow Networks.",
+                    "Web Timeouts and Their Implications.",
+                    "A Longitudinal View of HTTP Traffic."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "PAM 2009",
+        "info": "Seoul, Korea",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pam/2009",
+                "sub_name": "Passive and Active Network Measurement, 10th International Conference, PAM 2009, Seoul, Korea, April 1-3, 2009. Proceedings.",
+                "count": 24,
+                "papers": [
+                    "Revisiting Route Caching: The World Should Be Flat.",
+                    "Quantifying the Extent of IPv6 Deployment.",
+                    "Analyzing Router Responsiveness to Active Measurement Probes.",
+                    "Inferring POP-Level ISP Topology through End-to-End Delay Measurement.",
+                    "Triangle Inequality and Routing Policy Violations in the Internet.",
+                    "Queen: Estimating Packet Loss Rate between Arbitrary Internet Hosts.",
+                    "Fast Available Bandwidth Sampling for ADSL Links: Rethinking the Estimation for Larger-Scale Measurements.",
+                    "Multi-layer Monitoring of Overlay Networks.",
+                    "Understanding Channel and Interface Heterogeneity in Multi-channel Multi-radio Wireless Mesh Networks.",
+                    "Access Point Localization Using Local Signal Strength Gradient.",
+                    "Extracting Network-Wide Correlated Changes from Longitudinal Configuration Data.",
+                    "Clarified Recorder and Analyzer for Visual Drill Down Network Analysis.",
+                    "Data Gathering in Optical Networks with the TL1 Toolkit.",
+                    "A First Look at Media Conferencing Traffic in the Global Enterprise.",
+                    "Supporting Enterprise-Grade Audio Conferencing on the Internet.",
+                    "PBS: Periodic Behavioral Spectrum of P2P Applications.",
+                    "Measuring Mobile Peer-to-Peer Usage: Case Finland 2007.",
+                    "Monitoring the Bittorrent Monitors: A Bird's Eye View.",
+                    "Uncovering Artifacts of Flow Measurement Tools.",
+                    "Empirical Evaluation of Hash Functions for PacketID Generation in Sampled Multipoint Measurements.",
+                    "On the 95-Percentile Billing Method.",
+                    "Dynamics of Online Scam Hosting Infrastructure.",
+                    "Inferring Spammers in the Network Core.",
+                    "Beyond Shannon: Characterizing Internet Traffic with Generalized Entropy Metrics."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "PAM 2008",
+        "info": "Cleveland, OH, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pam/2008",
+                "sub_name": "Passive and Active Network Measurement, 9th International Conference, PAM 2008, Cleveland, OH, USA, April 29-30, 2008. Proceedings.",
+                "count": 23,
+                "papers": [
+                    "The Flattening Internet Topology: Natural Evolution, Unsightly Barnacles or Contrived Collapse?.",
+                    "Assessing the Geographic Resolution of Exhaustive Tabulation for Geolocating Internet Hosts.",
+                    "Observations of IPv6 Addresses.",
+                    "The New Web: Characterizing AJAX Traffic.",
+                    "Measurement and Estimation of Network QoS Among Peer Xbox 360 Game Players.",
+                    "Evaluation of VoIP Quality over WiBro.",
+                    "Packet Sampling for Flow Accounting: Challenges and Limitations.",
+                    "On the Validation of Traffic Classification Algorithms.",
+                    "Evaluation of Header Field Entropy for Hash-Based Packet Selection.",
+                    "A Reactive Measurement Framework.",
+                    "Towards a High Quality Path-Oriented Network Measurement and Storage System.",
+                    "On Community-Oriented Internet Measurement.",
+                    "On the Effectiveness of Switched Beam Antennas in Indoor Environments.",
+                    "On the Fidelity of 802.11 Packet Traces.",
+                    "Refocusing in 802.11 Wireless Measurement.",
+                    "Pathdiag: Automated TCP Diagnosis.",
+                    "SCUBA: Focus and Context for Real-Time Mesh Network Health Diagnosis.",
+                    "IMR-Pathload: Robust Available Bandwidth Estimation Under End-Host Interrupt Delay.",
+                    "A Measurement Study of Internet Delay Asymmetry.",
+                    "Trends and Differences in Connection-Behavior within Classes of Internet Backbone Traffic.",
+                    "The Cubicle vs. The Coffee Shop: Behavioral Modes in Enterprise End-Users.",
+                    "A Two-Layered Anomaly Detection Technique Based on Multi-modal Flow Behavior Models.",
+                    "Malware in IEEE 802.11 Wireless Networks."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "PAM 2007",
+        "info": "Louvain-la-neuve, Belgium",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pam/2007",
+                "sub_name": "Passive and Active Network Measurement, 8th Internatinoal Conference, PAM 2007, Louvain-la-neuve, Belgium, April 5-6, 2007, Proceedings.",
+                "count": 33,
+                "papers": [
+                    "Measures of Self-similarity of BGP Updates and Implications for Securing BGP.",
+                    "BGP Route Propagation Between Neighboring Domains.",
+                    "Detectability of Traffic Anomalies in Two Adjacent Networks.",
+                    "Leveraging BitTorrent for End Host Measurements.",
+                    "Trace Driven Analysis of the Long Term Evolution of Gnutella Peer-to-Peer Traffic.",
+                    "LiTGen, a Lightweight Traffic Generator: Application to P2P and Mail Wireless Traffic.",
+                    "Verification of Common 802.11 MAC Model Assumptions.",
+                    "Routing Stability in Static Wireless Mesh Networks.",
+                    "Implications of Power Control in Wireless Networks: A Quantitative Study.",
+                    "TCP over CDMA2000 Networks: A Cross-Layer Measurement Study.",
+                    "A Measurement Study of Scheduler-Based Attacks in 3G Wireless Networks.",
+                    "Understanding Urban Interactions from Bluetooth Phone Contact Traces.",
+                    "Two Days in the Life of the DNS Anycast Root Servers.",
+                    "The Internet Is Not a Big Truck: Toward Quantifying Network Neutrality.",
+                    "Performance Limitations of ADSL Users: A Case Study.",
+                    "Fast Classification and Estimation of Internet Traffic Flows.",
+                    "Early Recognition of Encrypted Applications.",
+                    "Measuring the Congestion Responsiveness of Internet Traffic.",
+                    "Profiling the End Host.",
+                    "A Method to Estimate the Timestamp Accuracy of Measurement Hardware and Software Tools.",
+                    "Packet Capture in 10-Gigabit Ethernet Environments Using Contemporary Commodity Hardware.",
+                    "Neuro-fuzzy Processing of Packet Dispersion Traces for Highly Variable Cross-Traffic Estimation.",
+                    "Measurement Analysis of Mobile Data Networks.",
+                    "Analysis of ICMP Quotations.",
+                    "Correlation of Packet Losses with Some Traffic Characteristics.",
+                    "Investigating the Imprecision of IP Block-Based Geolocation.",
+                    "A Live System for Wavelet Compression of High Speed Computer Network Measurements.",
+                    "Accurate Queue Length Estimation in Wireless Networks.",
+                    "Measurement Informed Route Selection.",
+                    "Fast, Accurate, and Lightweight Real-Time Traffic Identification Method Based on Flow Statistics.",
+                    "Impact of Alias Resolution on Traceroute -Based Sample Network Topologies.",
+                    "Bridging the Gap Between PAMs and Overlay Networks: A Framework-Oriented Approach.",
+                    "Scanning Traffic at the Edge of a Cellular Network."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "PAM 2006",
+        "info": "Adelaide, Australia",
+        "venues": []
+    },
+    {
+        "year": "2005",
+        "name": "PAM 2005",
+        "info": "Boston, MA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pam/2005",
+                "sub_name": "Passive and Active Network Measurement, 6th International Workshop, PAM 2005, Boston, MA, USA, March 31 - April 1, 2005, Proceedings.",
+                "count": 36,
+                "papers": [
+                    "On the Impact of Bursting on TCP Performance.",
+                    "A Study of Burstiness in TCP Flows.",
+                    "On the Stationarity of TCP Bulk Data Transfers.",
+                    "Toward the Accurate Identification of Network Applications.",
+                    "A Traffic Identification Method and Evaluations for a Pure P2P Application.",
+                    "Analysis of Peer-to-Peer Traffic on ADSL.",
+                    "Analysis of Communities of Interest in Data Networks.",
+                    "Binary Versus Analogue Path Monitoring in IP Networks.",
+                    "Exploiting the IPID Field to Infer Network Path and End-System Characteristics.",
+                    "New Methods for Passive Estimation of TCP Round-Trip Times.",
+                    "Detecting Duplex Mismatch on Ethernet.",
+                    "Improved Algorithms for Network Topology Discovery.",
+                    "Using Simple Per-Hop Capacity Metrics to Discover Link Layer Network Topology.",
+                    "Revisiting Internet AS-Level Topology Discovery.",
+                    "Application, Network and Link Layer Measurements of Streaming Video over a Wireless Campus Network.",
+                    "Measurement Based Analysis of the Handover in a WLAN MIPv6 Scenario.",
+                    "A Distributed Passive Measurement Infrastructure.",
+                    "lambdaMON - A Passive Monitoring Facility for DWDM Optical Networks.",
+                    "Internet Routing Policies and Round-Trip-Times.",
+                    "Traffic Matrix Reloaded: Impact of Routing Changes.",
+                    "Some Observations of Internet Stream Lifetimes.",
+                    "Spectroscopy of Traceroute Delays.",
+                    "Measuring Bandwidth Between PlanetLab Nodes.",
+                    "Comparison of Public End-to-End Bandwidth Estimation Tools on High-Speed Links.",
+                    "Traffic Classification Using a Statistical Approach.",
+                    "Self-Learning IP Traffic Classification Based on Statistical Flow Characteristics.",
+                    "Measured Comparative Performance of TCP Stacks.",
+                    "Applying Principles of Active Available Bandwidth Algorithms to Passive TCP Traces.",
+                    "A Network Processor Based Passive Measurement Node.",
+                    "A Merged Inline Measurement Method for Capacity and Available Bandwidth.",
+                    "Hopcount and E2E Delay: IPv6 Versus IPv4.",
+                    "Scalable Coordination Techniques for Distributed Network Monitoring.",
+                    "Evaluating the Accuracy of Captured Snapshots by Peer-to-Peer Crawlers.",
+                    "HOTS: An OWAMP-Compliant Hardware Packet Timestamper.",
+                    "Practical Passive Lossy Link Inference.",
+                    "Merging Network Measurement with Data Transport."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "PAM 2004",
+        "info": "Antibes Juan-les-Pins, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pam/2004",
+                "sub_name": "Passive and Active Network Measurement, 5th International Workshop, PAM 2004, Antibes Juan-les-Pins, France, April 19-20, 2004, Proceedings.",
+                "count": 29,
+                "papers": [
+                    "Dissecting BitTorrent: Five Months in a Torrent's Lifetime.",
+                    "A Measurement-Based Traffic Profile of the eDonkey Filesharing Service.",
+                    "Bootstrapping in Gnutella: A Measurement Study.",
+                    "Testing the Scalability of Overlay Routing Infrastructures.",
+                    "Toward a Measurement-Based Geographic Location Service.",
+                    "An Incremental Super-Linear Preferential Internet Topology Model: Extended Abstract.",
+                    "Geometric Exploration of the Landmark Selection Problem.",
+                    "The Interdomain Connectivity of PlanetLab Nodes.",
+                    "Searching for Self-Similarity in GPRS.",
+                    "The Effect of Flow Capacities on the Burstiness of Aggregated Traffic.",
+                    "Micro-Time-Scale Network Measurements and Harmonic Effects.",
+                    "Their Share: Diversity and Disparity in IP Traffic.",
+                    "Origins of Microcongestion in an Access Router.",
+                    "Performance Measurement and Analysis of H.323 Traffic.",
+                    "Measurements and Laboratory Simulations of the Upper DNS Hierarchy.",
+                    "A Robust Classifier for Passive TCP/IP Fingerprinting.",
+                    "NETI@home: A Distributed Approach to Collecting End-to-End Network Performance Measurements.",
+                    "Comparative Analysis of Active Bandwidth Estimation Tools.",
+                    "Active Measurement for Multiple Link Failures Diagnosis in IP Networks.",
+                    "Structured Errors in Optical Gigabit Ethernet Packets.",
+                    "Flow Clustering Using Machine Learning Techniques.",
+                    "Using Data Stream Management Systems for Traffic Analysis - A Case Study.",
+                    "Inferring Queue Sizes in Access Networks by Active Measurement.",
+                    "Reordering of IP Packets in Internet.",
+                    "Effects of Interrupt Coalescence on Network Measurements.",
+                    "Measurement Approaches to Evaluate Performance Optimizations for Wide-Area Wireless Networks.",
+                    "Measuring BGP Pass-Through Times.",
+                    "Impact of BGP Dynamics on Router CPU Utilization.",
+                    "Correlating Internet Performance Changes and Route Changes to Assist in Trouble-Shooting from an End-User Perspective."
+                ]
+            }
+        ]
+    }
+]

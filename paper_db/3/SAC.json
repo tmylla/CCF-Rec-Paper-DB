@@ -1,0 +1,918 @@
+[
+    {
+        "year": "2020",
+        "name": "27th SAC 2020",
+        "info": "Virtual Event",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacrypt/2020",
+                "sub_name": "Selected Areas in Cryptography - SAC 2020 - 27th International Conference, Halifax, NS, Canada (Virtual Event), October 21-23, 2020, Revised Selected Papers.",
+                "count": 27,
+                "papers": [
+                    "Efficient Lattice-Based Polynomial Evaluation and Batch ZK Arguments.",
+                    "FROST: Flexible Round-Optimized Schnorr Threshold Signatures.",
+                    "Algorithmic Acceleration of B/FV-Like Somewhat Homomorphic Encryption for Compute-Enabled RAM.",
+                    "Obfuscating Finite Automata.",
+                    "On Index Calculus Algorithms for Subfield Curves.",
+                    "Weak-Key Distinguishers for AES.",
+                    "Algebraic Key-Recovery Attacks on Reduced-Round Xoofff.",
+                    "Improved (Related-key) Differential Cryptanalysis on GIFT.",
+                    "Boolean Polynomials, BDDs and CRHS Equations - Connecting the Dots with CryptaPath.",
+                    "Boolean Ring Cryptographic Equation Solving.",
+                    "Interpolation Cryptanalysis of Unbalanced Feistel Networks with Low Degree Round Functions.",
+                    "Unintended Features of APIs: Cryptanalysis of Incremental HMAC.",
+                    "Low-Gate Quantum Golden Collision Finding.",
+                    "Improvements to Quantum Search Techniques for Block-Ciphers, with Applications to AES.",
+                    "Not Enough LESS: An Improved Algorithm for Solving Code Equivalence Problems over $\\mathbb {F}_q$.",
+                    "Towards Post-Quantum Security for Signal's X3DH Handshake.",
+                    "Trapdoor DDH Groups from Pairings and Isogenies.",
+                    "Practical Isogeny-Based Key-Exchange with Optimal Tightness.",
+                    "PRINCEv2 - More Security for (Almost) No Overhead.",
+                    "Nonce-Misuse Security of the SAEF Authenticated Encryption Mode.",
+                    "WARP : Revisiting GFN for Lightweight 128-Bit Block Cipher.",
+                    "Subsampling and Knowledge Distillation on Adversarial Examples: New Techniques for Deep Learning Based Side Channel Evaluations.",
+                    "Correlation Power Analysis and Higher-Order Masking Implementation of WAGE.",
+                    "On the Influence of Optimizers in Deep Learning-Based Side-Channel Analysis.",
+                    "On Self-equivalence Encodings in White-Box Implementations.",
+                    "Protecting the Privacy of Voters: New Definitions of Ballot Secrecy for E-Voting.",
+                    "High-Throughput Elliptic Curve Cryptography Using AVX2 Vector Instructions."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "26th SAC 2019",
+        "info": "Waterloo, ON, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacrypt/2019",
+                "sub_name": "Selected Areas in Cryptography - SAC 2019 - 26th International Conference, Waterloo, ON, Canada, August 12-16, 2019, Revised Selected Papers.",
+                "count": 28,
+                "papers": [
+                    "Looking Back - My Life as a Mathematician and Cryptographer.",
+                    "Supersingular Isogeny Key Exchange for Beginners.",
+                    "Probabilistic Mixture Differential Cryptanalysis on Round-Reduced AES.",
+                    "Iterative Differential Characteristic of TRIFLE-BC.",
+                    "Plaintext Recovery Attacks Against XTS Beyond Collisions.",
+                    "Cryptanalysis of SKINNY in the Framework of the SKINNY 2018-2019 Cryptanalysis Competition.",
+                    "Algebraic Cryptanalysis of Variants of Frit.",
+                    "Improved Interpolation Attacks on Cryptographic Primitives of Low Algebraic Degree.",
+                    "A General Framework for the Related-Key Linear Attack Against Block Ciphers with Linear Key Schedules.",
+                    "Towards a Practical Cluster Analysis over Encrypted Data.",
+                    "Breaking the Bluetooth Pairing - The Fixed Coordinate Invalid Curve Attack.",
+                    "Using TopGear in Overdrive: A More Efficient ZKPoK for SPDZ.",
+                    "On the Real-World Instantiability of Admissible Hash Functions and Efficient Verifiable Random Functions.",
+                    "Tight Security Bounds for Generic Stream Cipher Constructions.",
+                    "On the Data Limitation of Small-State Stream Ciphers: Correlation Attacks on Fruit-80 and Plantlet.",
+                    "A Lightweight Alternative to PMAC.",
+                    "An Improved Security Analysis on an Indeterminate Equation Public Key Cryptosystem by Evaluation Attacks.",
+                    "Ternary Syndrome Decoding with Large Weight.",
+                    "Exploring Trade-offs in Batch Bounded Distance Decoding.",
+                    "On Quantum Slide Attacks.",
+                    "XMSS and Embedded Systems.",
+                    "A Timing Attack on the HQC Encryption Scheme.",
+                    "Block-Anti-Circulant Unbalanced Oil and Vinegar.",
+                    "A DFA Attack on White-Box Implementations of AES with External Encodings.",
+                    "Parallelizable Authenticated Encryption with Small State Size.",
+                    "Deep Neural Network Attribution Methods for Leakage Analysis and Symmetric Key Recovery.",
+                    "BBQ: Using AES in Picnic Signatures.",
+                    "Towards Practical GGM-Based PRF from (Module-)Learning-with-Rounding."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "25th SAC 2018",
+        "info": "Calgary, AB, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacrypt/2018",
+                "sub_name": "Selected Areas in Cryptography - SAC 2018 - 25th International Conference, Calgary, AB, Canada, August 15-17, 2018, Revised Selected Papers.",
+                "count": 22,
+                "papers": [
+                    "Targeted Ciphers for Format-Preserving Encryption.",
+                    "Variants of the AES Key Schedule for Better Truncated Differential Bounds.",
+                    "Analysis and Improvement of an Authentication Scheme in Incremental Cryptography.",
+                    "Integral Attacks on Round-Reduced Bel-T-256.",
+                    "Cryptanalysis of Reduced sLiSCP Permutation in Sponge-Hash and Duplex-AE Modes.",
+                    "Finding Integral Distinguishers with Ease.",
+                    "Towards Key-Dependent Integral and Impossible Differential Distinguishers on 5-Round AES.",
+                    "Mind the Gap - A Closer Look at the Security of Block Ciphers against Differential Cryptanalysis.",
+                    "Sliding-Window Correlation Attacks Against Encryption Devices with an Unstable Clock.",
+                    "Assessing the Feasibility of Single Trace Power Analysis of Frodo.",
+                    "Cache-Attacks on the ARM TrustZone Implementations of AES-256 and AES-256-GCM via GPU-Based Analysis.",
+                    "Fault Attacks on Nonce-Based Authenticated Encryption: Application to Keyak and Ketje.",
+                    "EFLASH: A New Multivariate Encryption Scheme.",
+                    "Public Key Compression for Constrained Linear Signature Schemes.",
+                    "On the Cost of Computing Isogenies Between Supersingular Elliptic Curves.",
+                    "A Full RNS Variant of Approximate Homomorphic Encryption.",
+                    "Analysis of Error-Correcting Codes for Lattice-Based Key Exchange.",
+                    "Provably Secure NTRUEncrypt over Any Cyclotomic Field.",
+                    "A Generalized Attack on Some Variants of the RSA Cryptosystem.",
+                    "Injective Encodings to Binary Ordinary Elliptic Curves.",
+                    "Unsupervised Machine Learning on Encrypted Data.",
+                    "Profiled Power Analysis Attacks Using Convolutional Neural Networks with Domain Knowledge."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "24th SAC 2017",
+        "info": "Ottawa, ON, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacrypt/2017",
+                "sub_name": "Selected Areas in Cryptography - SAC 2017 - 24th International Conference, Ottawa, ON, Canada, August 16-18, 2017, Revised Selected Papers.",
+                "count": 23,
+                "papers": [
+                    "Second Order Statistical Behavior of LLL and BKZ.",
+                    "Refinement of the Four-Dimensional GLV Method on Elliptic Curves.",
+                    "Post-Quantum Static-Static Key Agreement Using Multiple Protocol Instances.",
+                    "Side-Channel Attacks on Quantum-Resistant Supersingular Isogeny Diffie-Hellman.",
+                    "Computing Discrete Logarithms in \ud835\udd3dp6.",
+                    "Computing Low-Weight Discrete Logarithms.",
+                    "sLiSCP: Simeck-Based Permutations for Lightweight Sponge Cryptographic Primitives.",
+                    "Efficient Reductions in Cyclotomic Rings - Application to Ring-LWE Based FHE Schemes.",
+                    "How to (Pre-)Compute a Ladder - Improving the Performance of X25519 and X448.",
+                    "HILA5: On Reliability, Reconciliation, and Error Correction for Ring-LWE Encryption.",
+                    "A Public-Key Encryption Scheme Based on Non-linear Indeterminate Equations.",
+                    "NTRU Prime: Reducing Attack Surface at Low Cost.",
+                    "Leighton-Micali Hash-Based Signatures in the Quantum Random-Oracle Model.",
+                    "Efficient Post-Quantum Undeniable Signature on 64-Bit ARM.",
+                    "\"Oops, I Did It Again\" - Security of One-Time Signatures Under Two-Message Attacks.",
+                    "Low-Communication Parallel Quantum Multi-Target Preimage Search.",
+                    "Lattice Klepto - Turning Post-Quantum Crypto Against Itself.",
+                    "Total Break of the SRP Encryption Scheme.",
+                    "Approximate Short Vectors in Ideal Lattices of Q(\u03b6pe) with Precomputation of Cl(OK).",
+                    "Quantum Key-Recovery on Full AEZ.",
+                    "Quantum Key Search with Side Channel Advice.",
+                    "Multidimensional Zero-Correlation Linear Cryptanalysis of Reduced Round SPARX-128.",
+                    "Categorising and Comparing Cluster-Based DPA Distinguishers."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "23rd SAC 2016",
+        "info": "St. John's, NL, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacrypt/2016",
+                "sub_name": "Selected Areas in Cryptography - SAC 2016 - 23rd International Conference, St. John's, NL, Canada, August 10-12, 2016, Revised Selected Papers.",
+                "count": 30,
+                "papers": [
+                    "Physical Attacks and Beyond.",
+                    "Post-quantum Key Exchange for the Internet and the Open Quantum Safe Project.",
+                    "Detecting Side Channel Vulnerabilities in Improved Rotating S-Box Masking Scheme - Presenting Four Non-profiled Attacks.",
+                    "Bridging the Gap: Advanced Tools for Side-Channel Leakage Estimation Beyond Gaussian Templates and Histograms.",
+                    "Uniform First-Order Threshold Implementations.",
+                    "Attacking Embedded ECC Implementations Through cmov Side Channels.",
+                    "Lattice Attacks Against Elliptic-Curve Signatures with Blinded Scalar Multiplication.",
+                    "Loop-Abort Faults on Lattice-Based Fiat-Shamir and Hash-and-Sign Signatures.",
+                    "On the Construction of Hardware-Friendly 4\\times 4 and 5\\times 5 S-Boxes.",
+                    "All the AES You Need on Cortex-M3 and M4.",
+                    "Hold Your Breath, PRIMATEs Are Lightweight.",
+                    "Keymill: Side-Channel Resilient Key Generator, A New Concept for SCA-Security by Design - A New Concept for SCA-Security by Design.",
+                    "Lightweight Fault Attack Resistance in Software Using Intra-instruction Redundancy.",
+                    "New Second Preimage Attacks on Dithered Hash Functions with Low Memory Complexity.",
+                    "New Differential Bounds and Division Property of Lilliput: Block Cipher with Extended Generalized Feistel Network.",
+                    "Cryptanalysis of Simpira v1.",
+                    "An Efficient Affine Equivalence Algorithm for Multiple S-Boxes and a Structured Affine Layer.",
+                    "Estimating the Cost of Generic Quantum Pre-image Attacks on SHA-2 and SHA-3.",
+                    "Output Masking of Tweakable Even-Mansour Can Be Eliminated for Message Authentication Code.",
+                    "Improved Algebraic MACs and Practical Keyed-Verification Anonymous Credentials.",
+                    "A Robust and Sponge-Like PRNG with Improved Efficiency.",
+                    "Fixed-Point Arithmetic in SHE Schemes.",
+                    "A Full RNS Variant of FV Like Somewhat Homomorphic Encryption Schemes.",
+                    "Security Considerations for Galois Non-dual RLWE Families.",
+                    "Fast, Uniform Scalar Multiplication for Genus 2 Jacobians with Fast Kummers.",
+                    "PhiRSA: Exploiting the Computing Power of Vector Instructions on Intel Xeon Phi for RSA.",
+                    "FourQNEON: Faster Elliptic Curve Scalar Multiplications on ARM Processors.",
+                    "Sieving for Closest Lattice Vectors (with Preprocessing).",
+                    "Key Recovery Attack on the Cubic ABC Simple Matrix Multivariate Encryption Scheme.",
+                    "Solving Discrete Logarithms on a 170-Bit MNT Curve by Pairing Reduction."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "22nd SAC 2015",
+        "info": "Sackville, NB, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacrypt/2015",
+                "sub_name": "Selected Areas in Cryptography - SAC 2015 - 22nd International Conference, Sackville, NB, Canada, August 12-14, 2015, Revised Selected Papers.",
+                "count": 29,
+                "papers": [
+                    "Formal Treatment of Privacy-Enhancing Credential Systems.",
+                    "Minimizing the Number of Bootstrappings in Fully Homomorphic Encryption.",
+                    "Privacy-Preserving Fingerprint Authentication Resistant to Hill-Climbing Attacks.",
+                    "Practical Cryptanalysis of Full Sprout with TMD Tradeoff Attacks.",
+                    "Related-Key Attack on Full-Round PICARO.",
+                    "Cryptanalysis of Feistel Networks with Secret Round Functions.",
+                    "Improved Meet-in-the-Middle Distinguisher on Feistel Schemes.",
+                    "Sandy2x: New Curve25519 Speed Records.",
+                    "ECC on Your Fingertips: A Single Instruction Approach for Lightweight ECC Design in GF(p).",
+                    "Exploring Energy Efficiency of Lightweight Block Ciphers.",
+                    "Forgery and Subkey Recovery on CAESAR Candidate iFeed.",
+                    "Key-Recovery Attacks Against the MAC Algorithm Chaskey.",
+                    "Differential Forgery Attack Against LAC.",
+                    "Private Information Retrieval with Preprocessing Based on the Approximate GCD Problem.",
+                    "Dynamic Searchable Symmetric Encryption with Minimal Leakage and Efficient Updates on Commodity Hardware.",
+                    "Affine Equivalence and Its Application to Tightening Threshold Implementations.",
+                    "Near Collision Side Channel Attacks.",
+                    "Masking Large Keys in Hardware: A Masked Implementation of McEliece.",
+                    "Fast and Memory-Efficient Key Recovery in Side-Channel Attacks.",
+                    "An Efficient Post-Quantum One-Time Signature Scheme.",
+                    "Constructing Lightweight Optimal Diffusion Primitives with Feistel Structure.",
+                    "Construction of Lightweight S-Boxes Using Feistel and MISTY Structures.",
+                    "A New Mode of Operation for Incremental Authenticated Encryption with Associated Data.",
+                    "Scope: On the Side Channel Vulnerability of Releasing Unverified Plaintexts.",
+                    "Bit Security of the CDH Problems over Finite Fields.",
+                    "Towards Optimal Bounds for Implicit Factorization Problem.",
+                    "Forgery Attacks on Round-Reduced ICEPOLE-128.",
+                    "Analysis of the CAESAR Candidate Silver.",
+                    "Cryptanalysis of the Authenticated Encryption Algorithm COFFE."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "21st SAC 2014",
+        "info": "Montreal, QC, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacrypt/2014",
+                "sub_name": "Selected Areas in Cryptography - SAC 2014 - 21st International Conference, Montreal, QC, Canada, August 14-15, 2014, Revised Selected Papers.",
+                "count": 22,
+                "papers": [
+                    "Malicious Hashing: Eve's Variant of SHA-1.",
+                    "Binary Elligator Squared.",
+                    "Batch NFS.",
+                    "An Improvement of Linear Cryptanalysis with Addition Operations with Applications to FEAL-8X.",
+                    "Colliding Keys for SC2000-256.",
+                    "Faster Binary-Field Multiplication and Faster Binary-Field MACs.",
+                    "OMD: A Compression Function Mode of Operation for Authenticated Encryption.",
+                    "Security Amplification for the Composition of Block Ciphers: Simpler Proofs and New Results.",
+                    "Improved Differential Cryptanalysis of Round-Reduced Speck.",
+                    "Differential Cryptanalysis of SipHash.",
+                    "Weak Instances of PLWE.",
+                    "The Usage of Counter Revisited: Second-Preimage Attack on New Russian Standardized Hash Function.",
+                    "Side-Channel Analysis of Montgomery's Representation Randomization.",
+                    "Practical Cryptanalysis of PAES.",
+                    "Diffusion Matrices from Algebraic-Geometry Codes with Efficient SIMD Implementation.",
+                    "Error-Tolerant Side-Channel Cube Attack Revisited.",
+                    "A Generic Algorithm for Small Weight Discrete Logarithms in Composite Groups.",
+                    "Linear Biases in AEGIS Keystream.",
+                    "Chaskey: An Efficient MAC Algorithm for 32-bit Microcontrollers.",
+                    "Fast Point Multiplication Algorithms for Binary Elliptic Curves with and without Precomputation.",
+                    "Partial Key Exposure Attacks on RSA: Achieving the Boneh-Durfee Bound.",
+                    "Solving the Discrete Logarithm of a 113-Bit Koblitz Curve with an FPGA Cluster."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "20th SAC 2013",
+        "info": "Burnaby, BC, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacrypt/2013",
+                "sub_name": "Selected Areas in Cryptography - SAC 2013 - 20th International Conference, Burnaby, BC, Canada, August 14-16, 2013, Revised Selected Papers.",
+                "count": 29,
+                "papers": [
+                    "The Realm of the Pairings.",
+                    "A Three-Level Sieve Algorithm for the Shortest Vector Problem.",
+                    "Improvement and Efficient Implementation of a Lattice-Based Signature Scheme.",
+                    "Towards Practical Lattice-Based Public-Key Encryption on Reconfigurable Hardware.",
+                    "Practical Approaches to Varying Network Size in Combinatorial Key Predistribution Schemes.",
+                    "A Group Action on \u2124p\u02df and the Generalized DLP with Auxiliary Inputs.",
+                    "Solving a 6120 -bit DLP on a Desktop Computer.",
+                    "How to Recover Any Byte of Plaintext on RC4.",
+                    "The LOCAL Attack: Cryptanalysis of the Authenticated Encryption Scheme ALE.",
+                    "AEGIS: A Fast Authenticated Encryption Algorithm.",
+                    "Fast Exhaustive Search for Quadratic Systems in $$\\mathbb {F}_{2}$$ on FPGAs.",
+                    "Faster Hash-Based Signatures with Bounded Leakage.",
+                    "White-Box Security Notions for Symmetric Encryption Schemes.",
+                    "Two Attacks on a White-Box AES Implementation.",
+                    "Extended Generalized Feistel Networks Using Matrix Representation.",
+                    "Zero-Correlation Linear Cryptanalysis with FFT and Improved Attacks on ISO Standards Camellia and CLEFIA.",
+                    "Implementing Lightweight Block Ciphers on x86 Architectures.",
+                    "A New Index Calculus Algorithm with Complexity $$L(1/4+o(1))$$ in Small Characteristic.",
+                    "High Precision Discrete Gaussian Sampling on FPGAs.",
+                    "Discrete Ziggurat: A Time-Memory Trade-Off for Sampling from a Gaussian Distribution over the Integers.",
+                    "A High-Speed Elliptic Curve Cryptographic Processor for Generic Curves over \\mathrm p.",
+                    "Exponentiating in Pairing Groups.",
+                    "Faster Repeated Doublings on Binary Elliptic Curves.",
+                    "Montgomery Multiplication Using Vector Instructions.",
+                    "Improved Single-Key Distinguisher on HMAC-MD5 and Key Recovery Attacks on Sandwich-MAC-MD5.",
+                    "Provable Second Preimage Resistance Revisited.",
+                    "Multiple Limited-Birthday Distinguishers and Applications.",
+                    "Horizontal Collision Correlation Attack on Elliptic Curves.",
+                    "When Reverse-Engineering Meets Side-Channel Analysis - Digital Lockpicking in Practice."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "19th SAC 2012",
+        "info": "Windsor, Ontario, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacrypt/2012",
+                "sub_name": "Selected Areas in Cryptography, 19th International Conference, SAC 2012, Windsor, ON, Canada, August 15-16, 2012, Revised Selected Papers.",
+                "count": 25,
+                "papers": [
+                    "An All-In-One Approach to Differential Cryptanalysis for Small Block Ciphers.",
+                    "A New Method for Solving Polynomial Systems with Noise over $\\mathbb{F}_2$ and Its Applications in Cold Boot Key Recovery.",
+                    "Cryptanalysis of the Xiao - Lai White-Box AES Implementation.",
+                    "A Practical Leakage-Resilient Signature Scheme in the Generic Group Model.",
+                    "Forward Secure Signatures on Smart Cards.",
+                    "Extracts from the SHA-3 Competition.",
+                    "Cryptanalysis of the \"Kindle\" Cipher.",
+                    "Cryptographically Strong de Bruijn Sequences with Large Periods.",
+                    "Cryptanalysis of the Loiss Stream Cipher.",
+                    "Efficient Arithmetic on Elliptic Curves over Fields of Characteristic Three.",
+                    "Efficient Implementation of Bilinear Pairings on ARM Processors.",
+                    "Towards Faster and Greener Cryptoprocessor for Eta Pairing on Supersingular Elliptic Curve over $\\mathbb{F}_{2^{1223}}$.",
+                    "Feasibility and Practicability of Standardized Cryptography on 4-bit Micro Controllers.",
+                    "All Subkeys Recovery Attack on Block Ciphers: Extending Meet-in-the-Middle Approach.",
+                    "Improved Cryptanalysis of the Block Cipher KASUMI.",
+                    "Meet-in-the-Middle Technique for Integral Attacks against Feistel Ciphers.",
+                    "Attacking (EC)DSA Given Only an Implicit Hint.",
+                    "Lattice Reduction for Modular Knapsack.",
+                    "The Boomerang Attacks on the Round-Reduced Skein-512.",
+                    "Boomerang and Slide-Rotational Analysis of the SM3 Hash Function.",
+                    "Provable Security of BLAKE with Non-ideal Compression Function.",
+                    "$\\textnormal{\\textsc{TWINE}}$ : A Lightweight Block Cipher for Multiple Platforms.",
+                    "Recursive Diffusion Layers for (Lightweight) Block Ciphers and Hash Functions.",
+                    "Private Stream Search at Almost the Same Communication Cost as a Regular Search.",
+                    "An Optimal Key Enumeration Algorithm and Its Application to Side-Channel Attacks."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "18th SAC 2011",
+        "info": "Toronto, Ontario, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacrypt/2011",
+                "sub_name": "Selected Areas in Cryptography - 18th International Workshop, SAC 2011, Toronto, ON, Canada, August 11-12, 2011, Revised Selected Papers.",
+                "count": 25,
+                "papers": [
+                    "Boomerang Distinguishers on MD4-Family: First Practical Results on Full 5-Pass HAVAL.",
+                    "Improved Analysis of ECHO-256.",
+                    "Provable Chosen-Target-Forced-Midfix Preimage Resistance.",
+                    "On CCA-Secure Somewhat Homomorphic Encryption.",
+                    "Efficient Schemes for Anonymous Yet Authorized and Bounded Use of Cloud Resources.",
+                    "Group Law Computations on Jacobians of Hyperelliptic Curves.",
+                    "Cryptographic Analysis of All 4 \u00d7 4-Bit S-Boxes.",
+                    "The Cryptographic Power of Random Selection.",
+                    "Proof of Empirical RC4 Biases and New Key Correlations.",
+                    "Combined Differential and Linear Cryptanalysis of Reduced-Round PRINTcipher.",
+                    "Practical Attack on the Full MMB Block Cipher.",
+                    "Conditional Differential Cryptanalysis of Trivium and KATAN.",
+                    "Some Instant- and Practical-Time Related-Key Attacks on KTANTAN32/48/64.",
+                    "Analysis of the Initial and Modified Versions of the Candidate 3GPP Integrity Algorithm 128-EIA3.",
+                    "New Insights on Impossible Differential Cryptanalysis.",
+                    "A Unified Framework for Small Secret Exponent Attack on RSA.",
+                    "Very Compact Hardware Implementations of the Blockcipher CLEFIA.",
+                    "Another Look at Tightness.",
+                    "Duplexing the Sponge: Single-Pass Authenticated Encryption and Other Applications.",
+                    "Blockcipher-Based Double-Length Hash Functions for Pseudorandom Oracles.",
+                    "ASC-1: An Authenticated Encryption Stream Cipher.",
+                    "On Various Families of Twisted Jacobi Quartics.",
+                    "Improved Three-Way Split Formulas for Binary Polynomial Multiplication.",
+                    "Sublinear Scalar Multiplication on Hyperelliptic Koblitz Curves.",
+                    "Faster Hashing to ${\\mathbb G}_2$."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "17th SAC 2010",
+        "info": "Waterloo, Ontario, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacrypt/2010",
+                "sub_name": "Selected Areas in Cryptography - 17th International Workshop, SAC 2010, Waterloo, Ontario, Canada, August 12-13, 2010, Revised Selected Papers.",
+                "count": 26,
+                "papers": [
+                    "Zero-Sum Distinguishers for Iterated Permutations and Application to Keccak-f and Hamsi-256.",
+                    "Attacks on Hash Functions Based on Generalized Feistel: Application to Reduced-Round Lesamnta and SHAvite-3512.",
+                    "The Differential Analysis of S-Functions.",
+                    "Hill Climbing Algorithms and Trivium.",
+                    "Discovery and Exploitation of New Biases in RC4.",
+                    "The Rise and Fall and Rise of Combinatorial Key Predistribution.",
+                    "A Low-Area Yet Performant FPGA Implementation of Shabal.",
+                    "Implementation of Symmetric Algorithms on a Synthesizable 8-Bit Microcontroller Targeting Passive RFID Tags.",
+                    "Batch Computations Revisited: Combining Key Computations and Batch Verifications.",
+                    "Wild McEliece.",
+                    "Parallel-CFS - Strengthening the CFS McEliece-Based Signature Scheme.",
+                    "A Zero-Knowledge Identification Scheme Based on the q-ary Syndrome Decoding Problem.",
+                    "Optimal Covering Codes for Finding Near-Collisions.",
+                    "Tweaking AES.",
+                    "On the Diffusion of Generalized Feistel Structures Regarding Differential and Linear Cryptanalysis.",
+                    "A 3-Subset Meet-in-the-Middle Attack: Cryptanalysis of the Lightweight Block Cipher KTANTAN.",
+                    "Improving DPA by Peak Distribution Analysis.",
+                    "Affine Masking against Higher-Order Side Channel Analysis.",
+                    "Search on Encrypted Data in the Symmetric-Key Setting.",
+                    "Preimages for the Tillich-Z\u00e9mor Hash Function.",
+                    "One-Time Signatures and Chameleon Hash Functions.",
+                    "On the Minimum Communication Effort for Secure Group Key Exchange.",
+                    "Deterministic Differential Properties of the Compression Function of BMW.",
+                    "Security Analysis of SIMD.",
+                    "Subspace Distinguisher for 5/8 Rounds of the ECHO-256 Hash Function.",
+                    "Cryptanalysis of Luffa v2 Components."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "16th SAC 2009",
+        "info": "Calgary, Alberta, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacrypt/2009",
+                "sub_name": "Selected Areas in Cryptography, 16th Annual International Workshop, SAC 2009, Calgary, Alberta, Canada, August 13-14, 2009, Revised Selected Papers.",
+                "count": 28,
+                "papers": [
+                    "Practical Collisions for SHAMATA-256.",
+                    "Improved Cryptanalysis of the Reduced Gr\u00f8stl Compression Function, ECHO Permutation and AES Block Cipher.",
+                    "Cryptanalyses of Narrow-Pipe Mode of Operation in AURORA-512 Hash Function.",
+                    "More on Key Wrapping.",
+                    "Information Theoretically Secure Multi Party Set Intersection Re-visited.",
+                    "Real Traceable Signatures.",
+                    "Cryptanalysis of Hash Functions with Structures.",
+                    "Cryptanalysis of the LANE Hash Function.",
+                    "Practical Pseudo-collisions for Hash Functions ARIRANG-224/384.",
+                    "A More Compact AES.",
+                    "Optimization Strategies for Hardware-Based Cofactorization.",
+                    "More on the Security of Linear RFID Authentication Protocols.",
+                    "Differential Fault Analysis of Rabbit.",
+                    "An Improved Recovery Algorithm for Decayed AES Key Schedule Images.",
+                    "Cryptanalysis of the Full MMB Block Cipher.",
+                    "Weak Keys of Reduced-Round PRESENT for Linear Cryptanalysis.",
+                    "Improved Integral Attacks on MISTY1.",
+                    "New Results on Impossible Differential Cryptanalysis of Reduced-Round Camellia-128.",
+                    "Format-Preserving Encryption.",
+                    "BTM: A Single-Key, Inverse-Cipher-Free Mode for Deterministic Authenticated Encryption.",
+                    "On Repeated Squarings in Binary Fields.",
+                    "Highly Regular m-Ary Powering Ladders.",
+                    "An Efficient Residue Group Multiplication for the etaT Pairing over F3m.",
+                    "Compact McEliece Keys from Goppa Codes.",
+                    "Herding, Second Preimage and Trojan Message Attacks beyond Merkle-Damg\u00e5rd.",
+                    "Cryptanalysis of Dynamic SHA(2).",
+                    "A New Approach for FCSRs.",
+                    "New Cryptanalysis of Irregularly Decimated Stream Ciphers."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "15th SAC 2008",
+        "info": "Sackville, New Brunswick, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacrypt/2008",
+                "sub_name": "Selected Areas in Cryptography, 15th International Workshop, SAC 2008, Sackville, New Brunswick, Canada, August 14-15, Revised Selected Papers.",
+                "count": 29,
+                "papers": [
+                    "Faster Halvings in Genus 2.",
+                    "Efficient Pairing Computation on Genus 2 Curves in Projective Coordinates.",
+                    "On Software Parallel Implementation of Cryptographic Pairings.",
+                    "The Cryptanalysis of Reduced-Round SMS4.",
+                    "Building Secure Block Ciphers on Generic Attacks Assumptions.",
+                    "Lifting and Elliptic Curve Discrete Logarithms.",
+                    "Preimage Attacks on One-Block MD4, 63-Step MD5 and More.",
+                    "Preimage Attacks on 3-Pass HAVAL and Step-Reduced MD5.",
+                    "Cryptanalysis of Tweaked Versions of SMASH and Reparation.",
+                    "Counting Functions for the k-Error Linear Complexity of 2n-Periodic Binary Sequences.",
+                    "On the Exact Success Rate of Side Channel Analysis in the Gaussian Model.",
+                    "Algebraic and Correlation Attacks against Linearly Filtered Non Linear Feedback Shift Registers.",
+                    "A Cache Timing Analysis of HC-256.",
+                    "An Improved Fast Correlation Attack on Stream Ciphers.",
+                    "A Three-Property-Secure Hash Function.",
+                    "Analysis of the Collision Resistance of RadioGat\u00fanUsing Algebraic Techniques.",
+                    "A Scheme to Base a Hash Function on a Block Cipher.",
+                    "Collisions and Other Non-random Properties for Step-Reduced SHA-256.",
+                    "Public Verifiability from Pairings in Secret Sharing Schemes.",
+                    "The Elliptic Curve Discrete Logarithm Problem and Equivalent Hard Problems for Elliptic Divisibility Sequences.",
+                    "The \"Coefficients H\" Technique.",
+                    "Distinguishing Multiplications from Squaring Operations.",
+                    "Subquadratic Polynomial Multiplication over GF(2m) Using Trinomial Bases and Chinese Remaindering.",
+                    "Bounds on Fixed Input/Output Length Post-processing Functions for Biased Physical Random Number Generators.",
+                    "HECC Goes Embedded: An Area-Efficient Implementation of HECC.",
+                    "ECC Is Ready for RFID - A Proof in Silicon.",
+                    "Cryptanalysis of a Generic Class of White-Box Implementations.",
+                    "New Linear Cryptanalytic Results of Reduced-Round of CAST-128 and CAST-256.",
+                    "Improved Impossible Differential Cryptanalysis of Reduced-Round Camellia."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "14th SAC 2007",
+        "info": "Ottawa, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacrypt/2007",
+                "sub_name": "Selected Areas in Cryptography, 14th International Workshop, SAC 2007, Ottawa, Canada, August 16-17, 2007, Revised Selected Papers.",
+                "count": 25,
+                "papers": [
+                    "Reduced Complexity Attacks on the Alternating Step Generator.",
+                    "Extended BDD-Based Cryptanalysis of Keystream Generators.",
+                    "Two Trivial Attacks on Trivium.",
+                    "Collisions for 70-Step SHA-1: On the Full Cost of Collision Search.",
+                    "Cryptanalysis of the CRUSH Hash Function.",
+                    "Improved Side-Channel Collision Attacks on AES.",
+                    "Analysis of Countermeasures Against Access Driven Cache Attacks on AES.",
+                    "Power Analysis for Secret Recovering and Reverse Engineering of Public Key Algorithms.",
+                    "Koblitz Curves and Integer Equivalents of Frobenius Expansions.",
+                    "Another Look at Square Roots (and Other Less Common Operations) in Fields of Even Characteristic.",
+                    "Efficient Explicit Formulae for Genus 2 Hyperelliptic Curves over Prime Fields and Their Implementations.",
+                    "Explicit Formulas for Efficient Multiplication in \\mathbbF36m.",
+                    "Linear Cryptanalysis of Non Binary Ciphers.",
+                    "The Delicate Issues of Addition with Respect to XOR Differences.",
+                    "MRHS Equation Systems.",
+                    "A Fast Stream Cipher with Huge State Space and Quasigroup Filter for Software.",
+                    "Cryptanalysis of White-Box DES Implementations with Arbitrary External Encodings.",
+                    "Cryptanalysis of White Box DES Implementations.",
+                    "Attacks on the ESA-PSS-04-151 MAC Scheme.",
+                    "The Security of the Extended Codebook (XCB) Mode of Operation.",
+                    "A Generic Method to Design Modes of Operation Beyond the Birthday Bound.",
+                    "Passive-Only Key Recovery Attacks on RC4.",
+                    "Permutation After RC4 Key Scheduling Reveals the Secret Key.",
+                    "Revisiting Correlation-Immunity in Filter Generators.",
+                    "Distinguishing Attack Against TPypy."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "13th SAC 2006",
+        "info": "Montreal, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacrypt/2006",
+                "sub_name": "Selected Areas in Cryptography, 13th International Workshop, SAC 2006, Montreal, Canada, August 17-18, 2006 Revised Selected Papers.",
+                "count": 26,
+                "papers": [
+                    "Improved DST Cryptanalysis of IDEA.",
+                    "Improved Related-Key Impossible Differential Attacks on Reduced-Round AES-192.",
+                    "Related-Key Rectangle Attack on the Full SHACAL-1.",
+                    "Cryptanalysis of Achterbahn-Version 2.",
+                    "Cryptanalysis of the Stream Cipher ABC v2.",
+                    "The Design of a Stream Cipher LEX.",
+                    "Dial C for Cipher.",
+                    "Improved Security Analysis of XEX and LRW Modes.",
+                    "Extended Hidden Number Problem and Its Cryptanalytic Applications.",
+                    "Changing the Odds Against Masked Logic.",
+                    "Advances on Access-Driven Cache Attacks on AES.",
+                    "Blind Differential Cryptanalysis for Enhanced Power Attacks.",
+                    "Efficient Implementations of Multivariate Quadratic Systems.",
+                    "Unbridle the Bit-Length of a Crypto-coprocessor with Montgomery Multiplication.",
+                    "Delaying and Merging Operations in Scalar Multiplication: Applications to Curve-Based Cryptosystems.",
+                    "On the Problem of Finding Linear Approximations and Cryptanalysis of Pomaranch Version 2.",
+                    "Multi-pass Fast Correlation Attack on Stream Ciphers.",
+                    "Crossword Puzzle Attack on NLS.",
+                    "When Stream Cipher Analysis Meets Public-Key Cryptography.",
+                    "On Redundant tau -Adic Expansions and Non-adjacent Digit Sets.",
+                    "Pairing Calculation on Supersingular Genus 2 Curves.",
+                    "Efficient Divisor Class Halving on Genus Two Curves.",
+                    "Message Authentication on 64-Bit Architectures.",
+                    "Some Notes on the Security of the Timed Efficient Stream Loss-Tolerant Authentication Scheme.",
+                    "Constructing an Ideal Hash Function from Weak Ideal Compression Functions.",
+                    "Provably Good Codes for Hash Function Design."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "12th SAC 2005",
+        "info": "Kingston, Ontario, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacrypt/2005",
+                "sub_name": "Selected Areas in Cryptography, 12th International Workshop, SAC 2005, Kingston, ON, Canada, August 11-12, 2005, Revised Selected Papers.",
+                "count": 25,
+                "papers": [
+                    "Conditional Estimators: An Effective Attack on A5/1.",
+                    "Cryptanalysis of the F-FCSR Stream Cipher Family.",
+                    "Fault Attacks on Combiners with Memory.",
+                    "New Observation on Camellia.",
+                    "Proving the Security of AES Substitution-Permutation Network.",
+                    "An Attack on CFB Mode Encryption as Used by OpenPGP.",
+                    "Parallelizable Authentication Trees.",
+                    "Improved Time-Memory Trade-Offs with Multiple Data.",
+                    "A Space Efficient Backdoor in RSA and Its Applications.",
+                    "An Efficient Public Key Cryptosystem with a Privacy Enhanced Double Decryption Mechanism.",
+                    "On the (Im)Possibility of Practical and Secure Nonlinear Filters and Combiners.",
+                    "Rekeying Issues in the MUGI Stream Cipher.",
+                    "Tree-Based Key Distribution Patterns.",
+                    "Provably Secure Tripartite Password Protected Key Exchange Protocol Based on Elliptic Curves.",
+                    "An Access Control Scheme for Partially Ordered Set Hierarchy with Provable Security.",
+                    "Breaking a New Hash Function Design Strategy Called SMASH.",
+                    "Analysis of a SHA-256 Variant.",
+                    "Impact of Rotations in SHA-1 and Related Hash Functions.",
+                    "A Scalable, Delegatable Pseudonym Protocol Enabling Ownership Transfer of RFID Tags.",
+                    "Reducing Time Complexity in RFID Systems.",
+                    "Accelerated Verification of ECDSA Signatures.",
+                    "Pairing-Friendly Elliptic Curves of Prime Order.",
+                    "Minimality of the Hamming Weight of the T-NAF for Koblitz Curves and Improved Combination with Point Halving.",
+                    "SPA Resistant Left-to-Right Integer Recodings.",
+                    "Efficient FPGA-Based Karatsuba Multipliers for Polynomials over F2."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "11th SAC 2004",
+        "info": "Waterloo, Ontario, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacrypt/2004",
+                "sub_name": "Selected Areas in Cryptography, 11th International Workshop, SAC 2004, Waterloo, Canada, August 9-10, 2004, Revised Selected Papers.",
+                "count": 24,
+                "papers": [
+                    "An Improved Correlation Attack on A5/1.",
+                    "Extending the Resynchronization Attack.",
+                    "A New Simple Technique to Attack Filter Generators and Related Ciphers.",
+                    "On XTR and Side-Channel Analysis.",
+                    "Provably Secure Masking of AES.",
+                    "Perfect Diffusion Primitives for Block Ciphers.",
+                    "Security of the MISTY Structure in the Luby-Rackoff Model: Improved Results.",
+                    "FOX : A New Family of Block Ciphers.",
+                    "A Note on the Signed Sliding Window Integer Recoding and a Left-to-Right Analogue.",
+                    "Fast Irreducibility Testing for XTR Using a Gaussian Normal Basis of Low Complexity.",
+                    "Modular Number Systems: Beyond the Mersenne Family.",
+                    "Efficient Doubling on Genus Two Curves over Binary Fields.",
+                    "About the Security of Ciphers (Semantic Security and Pseudo-Random Permutations).",
+                    "A Subliminal Channel in Secret Block Ciphers.",
+                    "Blockwise Adversarial Model for On-line Ciphers and Symmetric Encryption Schemes.",
+                    "Cryptanalysis of a White Box AES Implementation.",
+                    "Predicting Subset Sum Pseudorandom Generators.",
+                    "Collision Attack and Pseudorandomness of Reduced-Round Camellia.",
+                    "Password Based Key Exchange with Mutual Authentication.",
+                    "Product Construction of Key Distribution Schemes for Sensor Networks.",
+                    "Deterministic Key Predistribution Schemes for Distributed Sensor Networks.",
+                    "On Proactive Secret Sharing Schemes.",
+                    "Efficient Constructions of Variable-Input-Length Block Ciphers.",
+                    "A Sufficient Condition for Optimal Domain Extension of UOWHFs."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "name": "10th SAC 2003",
+        "info": "Ottawa, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacrypt/2003",
+                "sub_name": "Selected Areas in Cryptography, 10th Annual International Workshop, SAC 2003, Ottawa, Canada, August 14-15, 2003, Revised Papers.",
+                "count": 25,
+                "papers": [
+                    "Low Cost Security: Explicit Formulae for Genus-4 Hyperelliptic Curves.",
+                    "On the Selection of Pairing-Friendly Groups.",
+                    "Counting Points for Hyperelliptic Curves of Type y2= x5 + ax over Finite Prime Fields.",
+                    "Longer Keys May Facilitate Side Channel Attacks.",
+                    "On Randomizing Private Keys to Counteract DPA Attacks.",
+                    "Zero Common-Knowledge Authentication for Pervasive Networks.",
+                    "Multiple-Time Signature Schemes against Adaptive Chosen Message Attacks.",
+                    "Broadcast Enforced Threshold Schemes with Disenrollment.",
+                    "A New Meet-in-the-Middle Attack on the IDEA Block Cipher.",
+                    "Cryptanalysis of the Alleged SecurID Hash Function.",
+                    "Authenticated On-Line Encryption.",
+                    "Five Practical Attacks for \"Optimistic Mixing for Exit-Polls\".",
+                    "Security Analysis of SHA-256 and Sisters.",
+                    "A Chosen IV Attack Against Turing.",
+                    "Related-Key Differential Cryptanalysis of 192-bit Key AES Variants.",
+                    "A Distinguishing Attack of SNOW 2.0 with Linear Masking Method.",
+                    "On the Use of GF-Inversion as a Cryptographic Primitive.",
+                    "Cryptographic Applications of T-Functions.",
+                    "On the Success of the Embedding Attack on the Alternating Step Generator.",
+                    "Additive Autocorrelation of Resilient Boolean Functions.",
+                    "On a New Notion of Nonlinearity Relevant to Multi-output Pseudo-random Generators.",
+                    "Alternative Digit Sets for Nonadjacent Representations.",
+                    "Generic Efficient Arithmetic Algorithms for PAFFs (Processor Adequate Finite Fields) and Related Algebraic Structures (Extended Abstract).",
+                    "More Generalized Mersenne Numbers: (Extended Abstract).",
+                    "Lower Bound on Linear Authenticated Encryption."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2002",
+        "name": "9th SAC 2002",
+        "info": "St. John's, Newfoundland, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacrypt/2002",
+                "sub_name": "Selected Areas in Cryptography, 9th Annual International Workshop, SAC 2002, St. John's, Newfoundland, Canada, August 15-16, 2002. Revised Papers.",
+                "count": 25,
+                "papers": [
+                    "Modifications of ECDSA.",
+                    "Integer Decomposition for Fast Scalar Multiplication on Elliptic Curves.",
+                    "Analysis of the Gallant-Lambert-Vanstone Method Based on Efficient Endomorphisms: Elliptic and Hyperelliptic Curves.",
+                    "Guess-and-Determine Attacks on SNOW.",
+                    "A New Version of the Stream Cipher SNOW.",
+                    "Encryption-Scheme Security in the Presence of Key-Dependent Messages.",
+                    "On the Security of CTR + CBC-MAC.",
+                    "Single-Path Authenticated-Encryption Scheme Based on Universal Hashing.",
+                    "Markov Truncated Differential Cryptanalysis of Skipjack.",
+                    "Higher Order Differential Attack of Camellia (II).",
+                    "Square-like Attacks on Reduced Rounds of IDEA.",
+                    "Full-Round Differential Attack on the Original Version of the Hash Function Proposed at PKC'98.",
+                    "On Propagation Characteristics of Resilient Functions.",
+                    "Two Alerts for Design of Certain Stream Ciphers: Trapped LFSR and Weak Resilient Function over GF(q).",
+                    "Multiples of Primitive Polynomials and Their Products over GF(2).",
+                    "A New Cryptanalytic Attack for PN-generators Filtered by a Boolean Function.",
+                    "White-Box Cryptography and an AES Implementation.",
+                    "Luby-Rackoff Ciphers: Why XOR Is Not So Exclusive.",
+                    "New Results on Unconditionally Secure Distributed Oblivious Transfer.",
+                    "Efficient Identity Based Signature Schemes Based on Pairings.",
+                    "The Group Diffie-Hellman Problems.",
+                    "Secure Block Ciphers Are Not Sufficient for One-Way Hash Functions in the Preneel-Govaerts-Vandewalle Model.",
+                    "An Efficient MAC for Short Messages.",
+                    "Optimal Extension Fields for XTR.",
+                    "On Some Attacks on Multi-prime RSA."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2001",
+        "name": "8th SAC 2001",
+        "info": "Toronto, Ontario, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacrypt/2001",
+                "sub_name": "Selected Areas in Cryptography, 8th Annual International Workshop, SAC 2001 Toronto, Ontario, Canada, August 16-17, 2001, Revised Papers.",
+                "count": 27,
+                "papers": [
+                    "Weaknesses in the Key Scheduling Algorithm of RC4.",
+                    "A Practical Cryptanalysis of SSC2.",
+                    "Analysis of the E0 Encryption System.",
+                    "Boolean Functions with Large Distance to All Bijective Monomials: N Odd Case.",
+                    "Linear Codes in Constructing Resilient Functions with High Nonlinearity.",
+                    "New Covering Radius of Reed-Muller Codes for t-Resilient Functions.",
+                    "Generalized Zig-zag Functions and Oblivious Transfer Reductions.",
+                    "A Simple Algebraic Representation of Rijndael.",
+                    "Improving the Upper Bound on the Maximum Average Linear Hull Probability for Rijndael.",
+                    "Polynomial Reconstruction Based Cryptography.",
+                    "An Improved Implementation of Elliptic Curves over GF(2) when Using Projective Point Arithmetic.",
+                    "Fast Generation of Pairs (k, [k]P) for Koblitz Elliptic Curves.",
+                    "Algorithms for Multi-exponentiation.",
+                    "Two Topics in Hyperelliptic Cryptography.",
+                    "A Differential Attack on Reduced-Round SC2000.",
+                    "On the Complexity of Matsui's Attack.",
+                    "Random Walks Revisited: Extensions of Pollard's Rho Algorithm for Computing Multiple Discrete Logarithms.",
+                    "Fast Normal Basis Multiplication Using General Purpose Processors.",
+                    "Fast Multiplication of Integers for Public-Key Applications.",
+                    "Fast Simultaneous Scalar Multiplication on Elliptic Curve with Montgomery Form.",
+                    "On the Power of Multidoubling in Speeding Up Elliptic Scalar Multiplication.",
+                    "The GH Public-Key Cryptosystem.",
+                    "XTR Extended to GF(p6m).",
+                    "The Two Faces of Lattices in Cryptology.",
+                    "New (Two-Track-)MAC Based on the Two Trails of RIPEMD.",
+                    "Key Revocation with Interval Cover Families.",
+                    "Timed-Release Cryptography."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2000",
+        "name": "7th SAC 2000",
+        "info": "Waterloo, Ontario, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacrypt/2000",
+                "sub_name": "Selected Areas in Cryptography, 7th Annual International Workshop, SAC 2000, Waterloo, Ontario, Canada, August 14-15, 2000, Proceedings.",
+                "count": 24,
+                "papers": [
+                    "Analysis of IS-95 CDMA Voice Privacy.",
+                    "Attacks on Additive Encryption of Redundant Plaintext and Implications on Internet Security.",
+                    "Cryptanalysis of the \"Augmented Family of Cryptographic Parity Circuits\" Proposed at ISW'97.",
+                    "Camellia: A 128-Bit Block Cipher Suitable for Multiple Platforms - Design and Analysis.",
+                    "DFCv2.",
+                    "The Block Cipher Hierocrypt.",
+                    "Symmetric Block Ciphers Based on Group Bases.",
+                    "Speeding up the Arithmetic on Koblitz Curves of Genus Two.",
+                    "On Complexity of Polynomial Basis Squaring in F2m.",
+                    "Dynamic Multi-threshold Metering Schemes.",
+                    "Chained Stream Authentication.",
+                    "A Global PMI for Electronic Content Distribution.",
+                    "A Polynomial-Time Universal Security Amplifier in the Class of Block Ciphers.",
+                    "Decorrelation over Infinite Domains: The Encrypted CBC-MAC Case.",
+                    "HAS-V: A New Hash Function with Variable Output Length.",
+                    "On Welch-Gong Transformation Sequence Generators.",
+                    "Modes of Operation of Stream Ciphers.",
+                    "LILI Keystream Generator.",
+                    "Improved Upper Bound on the Nonlinearity of High Order Correlation Immune Functions.",
+                    "Towards Practical Non-interactive Public Key Cryptosystems Using Non-maximal Imaginary Quadratic Orders.",
+                    "On the Implementation of Cryptosystems Based on Real Quadratic Number Fields.",
+                    "Root Finding Interpolation Attack.",
+                    "Differential Cryptanalysis of Reduced Rounds of GOST.",
+                    "Practical Security Evaluation against Differential and Linear Cryptanalyses for Feistel Ciphers with SPN Round Function."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1999",
+        "name": "6th SAC 1999",
+        "info": "Kingston, Ontario, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacrypt/1999",
+                "sub_name": "Selected Areas in Cryptography, 6th Annual International Workshop, SAC'99, Kingston, Ontario, Canada, August 9-10, 1999, Proceedings.",
+                "count": 17,
+                "papers": [
+                    "A Universal Encryption Standard.",
+                    "Yarrow-160: Notes on the Design and Analysis of the Yarrow Cryptographic Pseudorandom Number Generator.",
+                    "Elliptic Curve Pseudorandom Sequence Generators.",
+                    "Adaptive-Attack Norm for Decorrelation and Super-Pseudorandomness.",
+                    "Guesswork and Variation Distance as Measures of Cipher Security.",
+                    "Modeling Linear Characteristics of Substitution-Permutation Networks.",
+                    "Strong Linear Dependence and Unbiased Distribution of Non-propagative Vectors.",
+                    "Security of E2 against Truncated Differential Cryptanalysis.",
+                    "Key-Schedule Cryptanalysis of DEAL.",
+                    "Efficient Evaluation of Security against Generalized Interpolation Attack.",
+                    "Efficient Implementation of Cryptosystems Based on Non-maximal Imaginary Quadratic Orders.",
+                    "Improving and Extending the Lim/Lee Exponentiation Algorithm.",
+                    "Software Optimization of Decorrelation Module.",
+                    "Pseudonym Systems.",
+                    "Unconditionally Secure Proactive Secret Sharing Scheme with Combinatorial Structures.",
+                    "Protecting a Mobile Agent's Route against Collusions.",
+                    "Photuris: Design Criteria."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1998",
+        "name": "5th SAC 1998",
+        "info": "Kingston, Ontario, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacrypt/1998",
+                "sub_name": "Selected Areas in Cryptography '98, SAC'98, Kingston, Ontario, Canada, August 17-18, 1998, Proceedings.",
+                "count": 27,
+                "papers": [
+                    "Feistel Ciphers with L2-Decorrelation.",
+                    "Key-Dependent S-Box Manipulations.",
+                    "On the Twofish Key Schedule.",
+                    "Toward Provable Security of Substitution-Permutation Encryption Networks.",
+                    "An Accurate Evaluation of Maurer's Universal Test.",
+                    "Computational Alternatives to Random Number Generators.",
+                    "Storage-Efficient Finite Field Basis Conversion.",
+                    "Verifiable Partial Sharing of Integer Fractions.",
+                    "Higher Order Differential Attack Using Chosen Higher Order Differences.",
+                    "On Maximum Non-averaged Differential Probability.",
+                    "Cryptanalysis of RC4-like Ciphers.",
+                    "Key Preassigned Traceability Schemes for Broadcast Encryption.",
+                    "Mix-Based Electronic Payments.",
+                    "Over the Air Service Provisioning.",
+                    "Faster Attacks on Elliptic Curve Cryptosystems.",
+                    "Improved Algorithms for Elliptic Curve Arithmetic in GF(2n).",
+                    "Cryptanalysis of a Fast Public Key Cryptosystem Presented at SAC '97.",
+                    "A Lattice-Based Public-Key Cryptosystem.",
+                    "Fast DES Implementation for FPGAs and Its Application to a Universal Key-Search Machine.",
+                    "IDEA: A Cipher For Multimedia Architectures?",
+                    "A Strategy for Constructing Fast Round Functions with Practical Security Against Differential and Linear Cryptanalysis.",
+                    "The Nonhomomorphicity of Boolean Functions.",
+                    "Cryptanalysis of ORYX.",
+                    "A Timing Attack on RC5.",
+                    "Cryptanalysis of SPEED.",
+                    "Authenticated Diffie-Hellman Key Agreement Protocols.",
+                    "Initial Observations on Skipjack: Cryptanalysis of Skipjack-3XOR."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1997",
+        "name": "4th SAC 1997",
+        "info": "Ottawa, Ontario, Canada",
+        "venues": []
+    }
+]

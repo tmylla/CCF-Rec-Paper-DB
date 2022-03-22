@@ -1,0 +1,790 @@
+[
+    {
+        "year": "2021",
+        "name": "NSPW 2021",
+        "info": "Virtual Event, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/2021",
+                "sub_name": "NSPW '21: New Security Paradigms Workshop, Virtual Event, USA, October 25 - 28, 2021.",
+                "count": 8,
+                "papers": [
+                    "Blessed Are The Lawyers, For They Shall Inherit Cybersecurity.",
+                    "COLBAC: Shifting Cybersecurity from Hierarchical to Horizontal Designs.",
+                    "Change that Respects Business Expertise: Stories as Prompts for a Conversation about Organisation Security.",
+                    "The tragedy of common bandwidth: rDDoS.",
+                    "Beyond NVD: Cybersecurity meets the Semantic Web.",
+                    "Shame in Cyber Security: Effective Behavior Modification Tool or Counterproductive Foil?",
+                    "VoxPop: An Experimental Social Media Platform for Calibrated (Mis)information Discourse.",
+                    "\"Taking out the Trash\": Why Security Behavior Change requires Intentional Forgetting."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "name": "NSPW 2020",
+        "info": "Virtual Event, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/2020",
+                "sub_name": "NSPW '20: New Security Paradigms Workshop 2020, Virtual Event, USA, October 26-29, 2020.",
+                "count": 10,
+                "papers": [
+                    "Categorizing Uses of Communications Metadata: Systematizing Knowledge and Presenting a Path for Privacy.",
+                    "Towards In-Band Non-Cryptographic Authentication.",
+                    "Putting the Sec in DevSecOps: Using Social Practice Theory to Improve Secure Software Development.",
+                    "The Framework of Security-Enhancing Friction: How UX Can Help Users Behave More Securely.",
+                    "TrollHunter [Evader]: Automated Detection [Evasion] of Twitter Trolls During the COVID-19 Pandemic.",
+                    "Trust-Based Security; Or, Trust Considered Harmful.",
+                    "Transcending the Teetering Tower of Trust: Demonstrated with Virtual Memory Fuses for Software Enclaves.",
+                    "Deconstructing Cybersecurity: From Ontological Security to Ontological Insecurity.",
+                    "On managing vulnerabilities in AI/ML systems.",
+                    "Out of Sight, Out of Mind: UI Design and the Inhibition of Mental Models of Security."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "NSPW 2019",
+        "info": "San Carlos, Costa Rica",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/2019",
+                "sub_name": "NSPW '19: New Security Paradigms Workshop, San Carlos, Costa Rica, September 23-26, 2019.",
+                "count": 10,
+                "papers": [
+                    "Usability analysis of shared device ecosystem security: informing support for survivors of IoT-facilitated tech-abuse.",
+                    "Employing attack graphs for intrusion detection.",
+                    "Manipulation of perceived politeness in a web-based email discourse through a malicious browser extension.",
+                    "Cyber security fear appeals: unexpectedly complicated.",
+                    "Opt out of privacy or \"go home\": understanding reluctant privacy behaviours through the FoMO-centric design paradigm.",
+                    "FrameProv: towards end-to-end video provenance.",
+                    "Privacy controls for always-listening devices.",
+                    "Everything-as-a-hack: claims-making for access to digital and social resources.",
+                    "Towards models for quantifying the known adversary.",
+                    "Why Jenny can't figure out which of these messages is a covert information operation."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "NSPW 2018",
+        "info": "Windsor, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/2018",
+                "sub_name": "Proceedings of the New Security Paradigms Workshop, NSPW 2018, Windsor, UK, August 28-31, 2018.",
+                "count": 11,
+                "papers": [
+                    "Augmenting Machine Learning with Argumentation.",
+                    "Against Mindset.",
+                    "Shifting Paradigms: Using Strategic Foresight to Plan for Security Evolution.",
+                    "Can Software Licenses Contribute to Cyberarms Control?",
+                    "Going Dark: A Retrospective on the North American Blackout of 2038.",
+                    "An Online Consent Maturity Model: Moving from Acceptable Use Towards Ethical Practice.",
+                    "On Security Singularities.",
+                    "Rethinking the Proposition of Privacy Engineering.",
+                    "After the BlockCLoud Apocalypse.",
+                    "Digital Signatures to Ensure the Authenticity and Integrity of Synthetic DNA Molecules.",
+                    "Malicious User Experience Design Research for Cybersecurity."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "NSPW 2017",
+        "info": "Santa Cruz, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/2017",
+                "sub_name": "Proceedings of the 2017 New Security Paradigms Workshop, NSPW 2017, Santa Cruz, CA, USA, October 01-04, 2017.",
+                "count": 11,
+                "papers": [
+                    "Practicing a Science of Security: A Philosophy of Science Perspective.",
+                    "Market-based Security for Distributed Applications.",
+                    "Beyond the pretty penny: the Economic Impact of Cybercrime.",
+                    "Developer-centered security and the symmetry of ignorance.",
+                    "Risk Homeostasis in Information Security: Challenges in Confirming Existence and Verifying Impact.",
+                    "Is the Future of Authenticity All In Our Heads?: Moving Passthoughts From the Lab to the World.",
+                    "A Model of Owner Controlled, Full-Provenance, Non-Persistent, High-Availability Information Sharing.",
+                    "Panel: Empirically-based Secure OS Design.",
+                    "Can I believe you?: Establishing Trust in Computer Mediated Introductions.",
+                    "End-to-End Passwords.",
+                    "The Third Wave?: Inclusive Privacy and Security."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "NSPW 2016",
+        "info": "Granby, Colorado, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/2016",
+                "sub_name": "Proceedings of the 2016 New Security Paradigms Workshop, NSPW 2016, Granby, Colorado, USA, September 26-29, 2016.",
+                "count": 9,
+                "papers": [
+                    "I'm not sure if we're okay: uncertainty for attackers and defenders.",
+                    "Harvesting the low-hanging fruits: defending against automated large-scale cyber-intrusions by focusing on the vulnerable population.",
+                    "Cross-layer personalization as a first-class citizen for situation awareness and computer infrastructure security.",
+                    "Cybersecurity as a Politikum: implications of security discourses for infrastructures.",
+                    "Content-based security for the web.",
+                    "Trusted execution environment-based authentication gauge (TEEBAG).",
+                    "Rethinking operating system design: asymmetric multiprocessing for security and performance.",
+                    "Searching for software diversity: attaining artificial diversity through program synthesis.",
+                    "A case for the economics of secure software development."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "NSPW 2015",
+        "info": "Twente, The Netherlands",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/2015",
+                "sub_name": "Proceedings of the 2015 New Security Paradigms Workshop, NSPW 2015, Twente, The Netherlands, September 8-11, 2015.",
+                "count": 12,
+                "papers": [
+                    "Choose Your Own Authentication.",
+                    "The Myth of the Average User: Improving Privacy and Security Systems through Individualization.",
+                    "Milware: Identification and Implications of State Authored Malicious Software.",
+                    "Exploiting the Physical Environment for Securing the Internet of Things.",
+                    "Examining the Contribution of Critical Visualisation to Information Security.",
+                    "Employee Rule Breakers, Excuse Makers and Security Champions: : Mapping the risk perceptions and emotions that drive security behaviors.",
+                    "Maybe Poor Johnny Really Cannot Encrypt: The Case for a Complexity Theory for Usable Security.",
+                    "Towards Managed Role Explosion.",
+                    "\"If you were attacked, you'd be sorry\": Counterfactuals as security arguments.",
+                    "Peace vs. Privacy: Leveraging Conflicting Jurisdictions for Email Security.",
+                    "WebSheets: Web Applications for Non-Programmers.",
+                    "Bridging the Trust Gap: Integrating Models of Behavior and Perception."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "NSPW 2014",
+        "info": "Victoria, BC, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/2014",
+                "sub_name": "Proceedings of the 2014 workshop on New Security Paradigms Workshop, Victoria, BC, Canada, September 15-18, 2014.",
+                "count": 12,
+                "papers": [
+                    "Emergent Properties & Security: The Complexity ofSecurity as a Science.",
+                    "Cyber Security as Social Experiment.",
+                    "Isn't that Fantabulous: Security, Linguistic and Usability Challenges of Pronounceable Tokens.",
+                    "A Password Manager that Doesn't Remember Passwords.",
+                    "Vulnerabilities as Blind Spots in Developer's Heuristic-Based Decision-Making Processes.",
+                    "Shifts in the Cybersecurity Paradigm: Zero-Day Exploits, Discourse, and Emerging Institutions.",
+                    "An Asset to Security Modeling?: Analyzing Stakeholder Collaborations Instead of Threats to Assets.",
+                    "Understanding the Experience-Centeredness of Privacy and Security Technologies.",
+                    "I'm OK, You're OK, the System's OK: Normative Security for Systems.",
+                    "Data Is the New Currency.",
+                    "Panel Summary: The Future of Software Regulation.",
+                    "Planning and Integrating Deception into Computer Security Defenses."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "NSPW 2013",
+        "info": "Banff, Alberta, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/2013",
+                "sub_name": "New Security Paradigms Workshop, NSPW '13, Banff, AB, Canada, September 9-12, 2013.",
+                "count": 14,
+                "papers": [
+                    "Forgive and forget: return to obscurity.",
+                    "Towards the realization of a public health system for shared secure cyber-space.",
+                    "Detecting hidden enemy lines in IP address space.",
+                    "Useful password hashing: how to waste computing cycles with style.",
+                    "Markets for zero-day exploits: ethics and implications.",
+                    "Principles of authentication.",
+                    "Towards narrative authentication: or, against boring authentication.",
+                    "Go with the flow: toward workflow-oriented security assessment.",
+                    "Explicit authentication response considered harmful.",
+                    "Can we sell security like soap?: a new approach to behaviour change.",
+                    "Booby trapping software.",
+                    "Information behaving badly.",
+                    "Designing forensic analysis techniques through anthropology.",
+                    "NSPHD: the polyglot computer."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "NSPW 2012",
+        "info": "Bertinoro, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/2012",
+                "sub_name": "The New Security Paradigms Workshop, NSPW '12, Bertinoro, Italy - September 18 - 21, 2012.",
+                "count": 12,
+                "papers": [
+                    "A move in the security measurement stalemate: elo-style ratings to quantify vulnerability.",
+                    "Turtles all the way down: a clean-slate, ground-up, first-principles approach to secure systems.",
+                    "Point-and-shoot security design: can we build better tools for developers?",
+                    "Argumentation logic to assist in security administration.",
+                    "Beyond the blacklist: modeling malware spread and the effect of interventions.",
+                    "Someone to watch over me.",
+                    "Pools, clubs and security: designing for a party not a person.",
+                    "Privacy is a process, not a PET: a theory for effective privacy practice.",
+                    "All your base are belong to US.",
+                    "The need for application-aware access control evaluation.",
+                    "Video-passwords: advertising while authenticating.",
+                    "Holographic vulnerability studies: vulnerabilities as fractures in interpretation as information flows across abstraction boundaries."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "NSPW 2011",
+        "info": "Marin County, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/2011",
+                "sub_name": "2011 New Security Paradigms Workshop, NSPW '11, Marin County, CA, USA, September 12-15, 2011.",
+                "count": 12,
+                "papers": [
+                    "Security and privacy considerations in digital death.",
+                    "Reducing normative conflicts in information security.",
+                    "A multi-word password proposal (gridWord) and exploring questions about science in security research and usable security evaluation.",
+                    "Applying problem-structuring methods to problems in computer security.",
+                    "Towards a formal model of accountability.",
+                    "Influencing mental models of security: a research agenda.",
+                    "The security cost of cheap user interaction.",
+                    "Position paper: why are there so many vulnerabilities in web applications?",
+                    "Resilience is more than availability.",
+                    "Sherlock holmes' evil twin: on the impact of global inference for online privacy.",
+                    "Public security: simulations need to replace conventional wisdom.",
+                    "Gaming security by obscurity."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "NSPW 2010",
+        "info": "Concord, MA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/2010",
+                "sub_name": "Proceedings of the 2010 Workshop on New Security Paradigms, Concord, MA, USA, September 21-23, 2010.",
+                "count": 14,
+                "papers": [
+                    "Why is there no science in cyber science?: a panel discussion at NSPW 2010.",
+                    "E unibus pluram: massive-scale software diversity as a defense mechanism.",
+                    "On information flow for intrusion detection: what if accurate full-system dynamic information flow tracking was possible?",
+                    "A stealth approach to usable security: helping IT security managers to identify workable security solutions.",
+                    "VM-based security overkill: a lament for applied systems security research.",
+                    "A billion keys, but few locks: the crisis of web single sign-on.",
+                    "To boldly go where invention isn't secure: applying security entrepreneurship to secure systems design.",
+                    "Would a 'cyber warrior' protect us: exploring trade-offs between attack and defense of information systems.",
+                    "On-line privacy and consent: a dialogue, not a monologue.",
+                    "A risk management process for consumers: the next step in information security.",
+                    "Ontological semantic technology for detecting insider threat and social engineering.",
+                    "The pervasive trust foundation for security in next generation networks.",
+                    "This is your data on drugs: lessons computer security can learn from the drug war.",
+                    "Relationships and data sanitization: a study in scarlet."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "NSPW 2009",
+        "info": "Oxford, United Kingdom",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/2009",
+                "sub_name": "Proceedings of the 2009 Workshop on New Security Paradigms, Oxford, United Kingdom, September 8-11, 2009.",
+                "count": 12,
+                "papers": [
+                    "Laissez-faire file sharing: access control designed for individuals at the endpoints.",
+                    "Server-side detection of malware infection.",
+                    "What is the shape of your security policy?: security as a classification problem.",
+                    "Quantified security is a weak hypothesis: a critical survey of results and assumptions.",
+                    "Generative usability: security and user centered design beyond the appliance.",
+                    "The sisterhood of the traveling packets.",
+                    "Quis Custodiet ipsos Custodes?: a new paradigm for analyzing security paradigms with appreciation to the Roman poet Juvenal.",
+                    "Musipass: authenticating me softly with \"my\" song.",
+                    "A reinforcement model for collaborative security and Its formal analysis.",
+                    "Securing data through avoidance routing.",
+                    "Fluid information systems.",
+                    "So long, and no thanks for the externalities: the rational rejection of security advice by users."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "NSPW 2008",
+        "info": "Lake Tahoe, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/2008",
+                "sub_name": "Proceedings of the 2008 Workshop on New Security Paradigms, Lake Tahoe, CA, USA, September 22-25, 2008.",
+                "count": 12,
+                "papers": [
+                    "We have met the enemy and he is us.",
+                    "Localization of credential information to address increasingly inevitable data breaches.",
+                    "ROFL: routing as the firewall layer.",
+                    "The user is not the enemy: fighting malware by tracking user intentions.",
+                    "The compliance budget: managing security behaviour in organisations.",
+                    "A profitless endeavor: phishing as tragedy of the commons.",
+                    "Security compliance: the next frontier in security research.",
+                    "Towards an ethical code for information security?",
+                    "The developer is the enemy.",
+                    "The ecology of Malware.",
+                    "Trading in risk: using markets to improve access control.",
+                    "Choose the red pill and the blue pill: a position paper."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "NSPW 2007",
+        "info": "White Mountain Hotel and Resort, NH, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/2007",
+                "sub_name": "Proceedings of the 2007 Workshop on New Security Paradigms, White Mountain Hotel and Resort, New Hampshire, USA - September 18-21, 2007.",
+                "count": 11,
+                "papers": [
+                    "Security and usability: the gap in real-world online banking.",
+                    "A privacy expectations and security assurance offer system.",
+                    "Authenticated names.",
+                    "Security automation considered harmful?",
+                    "Self-healing: science, engineering, and fiction.",
+                    "The future of biologically-inspired security: is there anything left to learn?",
+                    "Robustly secure computer systems: a new security paradigm of system discontinuity.",
+                    "Information protection via environmental data tethers.",
+                    "Position: the user is the enemy.",
+                    "Computing under occupation.",
+                    "VideoTicket: detecting identity fraud attempts via audiovisual certificates and signatures."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "NSPW 2006",
+        "info": "Dagstuhl Castle, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/2006",
+                "sub_name": "Proceedings of the New Security Paradigms Workshop 2006, Schloss Dagstuhl, Germany, September 19-22, 2006.",
+                "count": 11,
+                "papers": [
+                    "Cent, five cent, ten cent, dollar: hitting botnets where it really hurts.",
+                    "Dark application communities.",
+                    "Challenging the anomaly detection paradigm: a provocative discussion.",
+                    "Inconsistency in deception for defense.",
+                    "Sanitization models and their limitations.",
+                    "Large-scale collection and sanitization of network security data: risks and challenges.",
+                    "Googling considered harmful.",
+                    "A pact with the devil.",
+                    "E-Prime for security: a new security paradigm.",
+                    "Diffusion and graph spectral methods for network forensic analysis.",
+                    "PKI design for the real world."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "NSPW 2005",
+        "info": "Lake Arrowhead, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/2005",
+                "sub_name": "Proceedings of the New Security Paradigms Workshop 2005, Lake Arrowhead, California, USA, September 20-23, 2005.",
+                "count": 18,
+                "papers": [
+                    "Internet instability and disturbance: goal or menace?",
+                    "Diversity as a computer defense mechanism.",
+                    "Diversity: the biological perspective position statement.",
+                    "\"Diversity as a computer defense mechanism\".",
+                    "Software diversity: use of diversity as a defense mechanism.",
+                    "Use of diversity as a defense mechanism.",
+                    "Average case vs. worst case: margins of safety in system design.",
+                    "Divide and conquer: the role of trust and assurance in the design of secure socio-technical systems.",
+                    "Pass-thoughts: authenticating with our minds.",
+                    "Message authentication by integrity with public corroboration.",
+                    "Flooding and recycling authorizations.",
+                    "The insider problem revisited.",
+                    "Position: \"insider\" is relative.",
+                    "Position paper.",
+                    "Principles-driven forensic analysis.",
+                    "Visual security protocol modeling.",
+                    "Empirical privilege profiling.",
+                    "Speculative virtual verification: policy-constrained speculative execution."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "NSPW 2004",
+        "info": "Nova Scotia, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/2004",
+                "sub_name": "Proceedings of the New Security Paradigms Workshop 2004, September 20-23, 2004, Nova Scotia, Canada.",
+                "count": 11,
+                "papers": [
+                    "Support for multi-level security policies in DRM architectures.",
+                    "A collaborative approach to autonomic security protocols.",
+                    "A qualitative framework for Shannon information theories.",
+                    "The user non-acceptance paradigm: INFOSEC's dirty little secret.",
+                    "Towards agile security assurance.",
+                    "Information exposure control through data manipulation for ubiquitous computing.",
+                    "Property-based attestation for computing platforms: caring about properties, not mechanisms.",
+                    "Symmetric behavior-based trust: a new paradigm for internet computing.",
+                    "The role of suspicion in model-based intrusion detection.",
+                    "Omnivore: risk management through bidirectional transparency.",
+                    "Profiling the defenders."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "name": "NSPW 2003",
+        "info": "Ascona, Switzerland",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/2003",
+                "sub_name": "Proceedings of the New Security Paradigms Workshop 2003, August 18-21, 2002, Ascona, Switzerland.",
+                "count": 13,
+                "papers": [
+                    "Locality: a new paradigm for thinking about normal behavior and outsider threat.",
+                    "Alliance formation for DDoS defense.",
+                    "Merging paradigms of survivability and security: stochastic faults and designed faults.",
+                    "SELF: a transparent security extension for ELF binaries.",
+                    "Dynamic label binding at run-time.",
+                    "Bringing security home: a process for developing secure and usable systems.",
+                    "Security check: a formal yet practical framework for secure software architecture.",
+                    "From absence of certain vulnerabilities towards security proofs: pushing the limits of formal verification.",
+                    "Secure object identification: or: solving the Chess Grandmaster Problem.",
+                    "Public key distribution through \"cryptoIDs\".",
+                    "Owner-controlled information.",
+                    "Towards a new paradigm for securing wireless sensor networks.",
+                    "Securing nomads: the case for quarantine, examination, and decontamination."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2002",
+        "name": "NSPW 2002",
+        "info": "Virginia Beach, VA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/2002",
+                "sub_name": "Proceedings of the 2002 Workshop on New Security Paradigms, Virginia Beach, VA, USA, September 23-26, 2002.",
+                "count": 18,
+                "papers": [
+                    "MET: an experimental system for Malicious Email Tracking.",
+                    "Predators: good will mobile codes combat against computer viruses.",
+                    "An empirical analysis of NATE: Network Analysis of Anomalous Traffic Events.",
+                    "Small worlds in security systems: an analysis of the PGP certificate graph.",
+                    "Breaking the barriers: high performance security for high performance computing.",
+                    "From privacy promises to privacy management: a new approach for enforcing privacy throughout an enterprise.",
+                    "Anomaly intrusion detection in dynamic execution environments.",
+                    "Empowering mobile code using expressive security policies.",
+                    "The source is the proof.",
+                    "An approach to usable security based on event monitoring and visualization.",
+                    "Moving from the design of usable security technologies to the design of useful secure applications.",
+                    "Assurance in life/nation critical endeavors a panel.",
+                    "Biometrics or ... biohazards?",
+                    "An evolutionary approach to cyber security.",
+                    "Assuring critical systems.",
+                    "Capacity is the wrong paradigm.",
+                    "A practical approach to solve Secure Multi-party Computation problems.",
+                    "Guarding the next Internet frontier: countering denial of information attacks."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2001",
+        "name": "NSPW 2001",
+        "info": "Cloudcroft, NM, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/2001",
+                "sub_name": "Proceedings of the New Security Paradigms Workshop 2001, Cloudcroft, New Mexico, USA, September 10-13, 2001.",
+                "count": 16,
+                "papers": [
+                    "Computational paradigms and protection.",
+                    "Secure multi-party computation problems and their applications: a review and open problems.",
+                    "Model-Carrying Code (MCC): a new paradigm for mobile-code security.",
+                    "Heterogeneous networking: a new survivability paradigm.",
+                    "Safe and sound: a safety-critical approach to security.",
+                    "Ontology in information security: a useful theoretical foundation and methodological tool.",
+                    "AngeL: a tool to disarm computer systems.",
+                    "Survival by defense-enabling.",
+                    "A trusted process to digitally sign a document.",
+                    "Information security is information risk management.",
+                    "The New Security Paradigms Workshop - boom or bust?: a panel.",
+                    "Position statement for New Security Paradigms Workshop - boom or bust?: neither boom nor bust.",
+                    "Tracking influence through citation index comparisons and preliminary case studies panel position statement.",
+                    "The New Security Paradigms Workshop - boom or bust?: thinking in an age of instant communication; communicating in a time of reflective thought.",
+                    "A note on proactive password checking.",
+                    "Pretty good persuasion: a first step towards effective password security in the real world."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2000",
+        "name": "NSPW 2000",
+        "info": "Ballycotton, Co. Cork, Ireland",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/2000",
+                "sub_name": "Proceedings of the 2000 Workshop on New Security Paradigms, Ballycotton, Co. Cork, Ireland, September 18-21, 2000.",
+                "count": 15,
+                "papers": [
+                    "Attack net penetration testing.",
+                    "Adversary work factor as a metric for information assurance.",
+                    "A requires/provides model for computer attacks.",
+                    "A new paradigm hidden in steganography.",
+                    "Natural language processing for information assurance and security: an overview and implementations.",
+                    "Disarming offense to facilitate defense.",
+                    "Dynamic analysis of security protocols.",
+                    "Quality of security service.",
+                    "Characterizing the behavior of a program using multiple-length N-grams.",
+                    "Reflections on ratings.",
+                    "Network traffic tracking systems: folly in the large?",
+                    "Incentives to help stop floods.",
+                    "New paradigms in incident management.",
+                    "Conduit cascades and secure synchronization.",
+                    "Multilateral security a concept and examples for balanced security."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1999",
+        "name": "NSPW 1999",
+        "info": "Caledon Hills, ON, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/1999",
+                "sub_name": "Proceedings of the 1999 Workshop on New Security Paradigms, Caledon Hills, ON, Canada, September 22-24, 1999.",
+                "count": 15,
+                "papers": [
+                    "Secure dynamic adaptive traffic masking.",
+                    "Security architecture-based system design.",
+                    "Survivability - a new technical and business perspective on security.",
+                    "Optimistic security: a new access control paradigm.",
+                    "Discussion: strike back: offensive actions in information warfare.",
+                    "Security service level agreements: quantifiable security for the enterprise?",
+                    "A cursory examination of market forces driving the use of protection profiles.",
+                    "Report on the discussion of \"A cursory examination of market forces driving the common criteria\".",
+                    "Paradigm shifts in protocol analysis.",
+                    "Secure group management in large distributed systems: what is a group and what does it do?",
+                    "SASI enforcement of security policies: a retrospective.",
+                    "Security modeling in the COTS environment.",
+                    "On the functional relation between security and dependability impairments.",
+                    "Securing information transmission by redundancy.",
+                    "The high assurance brake job - a cautionary tale in five scenes."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1998",
+        "name": "NSPW 1998",
+        "info": "Charlottsville, VA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/1998",
+                "sub_name": "Proceedings of the 1998 Workshop on New Security Paradigms, Charlottsville, VA, USA, September 22-25, 1998.",
+                "count": 13,
+                "papers": [
+                    "Toward a Secure System Engineering Methodolgy.",
+                    "Security Engineering in an Evolutionary Acquisition Environment.",
+                    "An Integrated Framework for Security and Dependability.",
+                    "Meta Objects for Access Control: a Formal Model for Role-Based Principals.",
+                    "Evaluating System Integrity.",
+                    "Position Paper: Prolepsis on the Problem of Trojan-horse Based Integrity Attacks.",
+                    "Death, Taxes, and Imperfact Software: Surviving the Inevitable.",
+                    "A Graph-based System for Network-vulnerability Analysis.",
+                    "Parsimonious Downgrading and Decision Trees Applied to the Inference Problem.",
+                    "Server-Assisted Cryptography.",
+                    "Discussion Topic: What is the Old Security Paradigm?",
+                    "Tolerating Penetrations and Insider Attacks by Requiring Independent Corroboration.",
+                    "A New Model for Availability in the Face of Self-Propagating Attacks."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1997",
+        "name": "NSPW 1997",
+        "info": "Langdale, Cumbria, United Kingdom",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/1997",
+                "sub_name": "Proceedings of the 1997 Workshop on New Security Paradigms, Langdale, Cumbria, United Kingdom, September 23-26, 1997.",
+                "count": 12,
+                "papers": [
+                    "Integrating formalism and pragmatism: architectural security.",
+                    "A practical approach to security assessment.",
+                    "Meta objects for access control: extending capability-based security.",
+                    "A tentative approach to constructing tamper-resistant software.",
+                    "Three paradigms in computer security.",
+                    "Patterns of trust and policy.",
+                    "A distributed trust model.",
+                    "An insecurity flow model.",
+                    "Principles of a computer immune system.",
+                    "Under-specification, composition and emergent properties.",
+                    "Protecting routing infrastructures from denial of service using cooperative intrusion detection.",
+                    "A security model for dynamic adaptive traffic masking."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1996",
+        "name": "NSPW 1996",
+        "info": "Lake Arrowhead, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/1996",
+                "sub_name": "Proceedings of the 1996 Workshop on New Security Paradigms, Lake Arrowhead, CA, USA, September 17-20, 1996.",
+                "count": 17,
+                "papers": [
+                    "The Emperor's old armor.",
+                    "Simulated social control for secure Internet commerce.",
+                    "User-centered security.",
+                    "A new model of security for distributed systems.",
+                    "SafeBots: a paradigm for software security controls.",
+                    "A credibility-based model of computer system security.",
+                    "Developing and using a \"policy neutral\" access control policy.",
+                    "Run-time security evaluation: can we afford it?",
+                    "A new security policy for distributed resource management and access control.",
+                    "Access control in federated systems.",
+                    "Managing time for service and security.",
+                    "Availability policies in an adversarial environment.",
+                    "The right type of trust for distributed systems.",
+                    "CAPSL: Common Authentication Protocol Specification Language.",
+                    "Positive feedback and the madness of crowds.",
+                    "Just sick about security.",
+                    "Fortresses built upon sand."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1995",
+        "name": "NSPW 1995",
+        "info": "San Diego, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/1995",
+                "sub_name": "Proceedings of the 1995 Workshop on New Security Paradigms, San Diego, CA, USA.",
+                "count": 11,
+                "papers": [
+                    "'TSUPDOOD?: Repackaged problems for you and MMI.",
+                    "Security for infinite networks.",
+                    "Research issues in authorization models for hypertext systems.",
+                    "Unhelpfulness as a security policy: or it's about time.",
+                    "QuARC: expressive security mechanisms.",
+                    "Administration in a multiple policy/domain environment: the administration and melding of disparate policies.",
+                    "Virtual enterprises and the enterprise security architecture.",
+                    "Software system risk management and assurance.",
+                    "Applying the dependability paradigm to computer security.",
+                    "Pretty good assurance.",
+                    "Credentials for privacy and interoperation."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1994",
+        "name": "NSPW 1994",
+        "info": "Little Compton, RI, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/1994",
+                "sub_name": "Proceedings of the 1994 Workshop on New Security Paradigms, Little Compton, Rhode Island, USA, August 3-5,1994.",
+                "count": 14,
+                "papers": [
+                    "Modeling the \"multipolicy machine\".",
+                    "Messages, communication, information security and value.",
+                    "New email security infrastructure.",
+                    "\"HIS-Treck - the next generation\": an introduction to future hospital information systems.",
+                    "Healthcare information architecture: elements of a new paradigm.",
+                    "Anomaly detection: a soft computing approach.",
+                    "Fuzzy sets and secure computer systems.",
+                    "Formal semantics of confidentiality in multilevel logic databases.",
+                    "What is a secret - and - what does that have to do with computer security?",
+                    "A new approach to security system development.",
+                    "Providing non-hierarchical security through interface mechanisms.",
+                    "Designing encryption algorithms for real people.",
+                    "A discretionary access control model with temporal authorizations.",
+                    "Versatile integrity and security environment (VISE) for computer systems."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1992",
+        "name": "NSPW 1992 / NSPW 1993",
+        "info": "Little Compton, RI, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nspw/1993",
+                "sub_name": "Proceedings on the 1992-1993 Workshop on New Security Paradigms, Sept. 22-24, 1992; and Aug. 3-5, 1993, Little Compton, RI, USA.",
+                "count": 28,
+                "papers": [
+                    "Managing complexity in secure networks.",
+                    "New security paradigms: what other concepts do we need as well?",
+                    "The multipolicy paradigm for trusted systems.",
+                    "An outline of a taxonomy of computer security research and development.",
+                    "A new paradigm for trusted systems.",
+                    "New paradigms for high assurance software.",
+                    "Confidentiality, integrity, assured service: tying security all together.",
+                    "Information system security engineering: a spiral approach to revolution.",
+                    "A shift in security modeling paradigms.",
+                    "Prospect on security paradigms.",
+                    "Integration of formal and heuristic reasoning as a basis for testing and debugging computer security policy.",
+                    "Secure computing with the actor paradigm.",
+                    "Bell and LaPadula axioms: a \"new\" paradigm for an \"old\" model.",
+                    "Concurrent automata, database computers, and security: a \"new\" security paradigm for secure parallel processing.",
+                    "Application level security using an object-oriented graphical user interface.",
+                    "The no-policy paradigm: towards a policy-free protocol supporting a secure X Window System.",
+                    "We need to think about the foundations of computer security.",
+                    "The evolved threat paradigm: look who's wearing the black hats!",
+                    "External consistency in a network environment.",
+                    "Towards a task-based paradigm for flexible and adaptable access control in distributed applications.",
+                    "How responsibility modelling leads to security requirements.",
+                    "Neighborhood data and database security.",
+                    "Security in an object-oriented database.",
+                    "Computer security by redefining what a computer is.",
+                    "Modelling multidomain security.",
+                    "Security is fuzzy!: applying the fuzzy logic paradigm to the multipolicy paradigm.",
+                    "Identification and authentication when users have multiple accounts.",
+                    "The reference monitor: an idea whose time has come."
+                ]
+            }
+        ]
+    }
+]
