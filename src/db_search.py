@@ -59,14 +59,15 @@ if __name__ == '__main__':
     no = int(input("期刊/会议对应类别："))
     rank = input("期刊/会议检索等级，形如'A/B/C'：")
     year = int(input("查找近n年的论文，0表示全部年份："))
-    key_words = 'honey; deception'
+    key_words = input("关键词，多个可用';'划分，可以不输入：")
 
     search_tool = Search_Paper_DB(no, rank, year)
     papers = search_tool.search_papers()
     print('类别{}近{}年的{}期刊/会议发表论文共{}篇：\n{}'.format(no, year, rank, len(papers), papers))
 
-    key_papers = search_tool.key_words_search(key_words, papers)
-    print('其中标题含关键字‘{}’的论文共{}篇：\n{}'.format(key_words, len(key_papers), key_papers))
+    if key_words:
+        key_papers = search_tool.key_words_search(key_words, papers)
+        print('其中标题含关键字‘{}’的论文共{}篇：\n{}'.format(key_words, len(key_papers), key_papers))
 
     # TODO key_papers -> chosen_paper，UI中点击相应论文标题，dblp.search查找详细信息
     # detail_info = dblp.search(chosen_papers)
