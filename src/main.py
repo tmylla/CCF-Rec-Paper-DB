@@ -1,3 +1,4 @@
+import os
 import dblp
 import pandas as pd
 import re
@@ -51,7 +52,13 @@ if __name__ == '__main__':
     # fire.Fire(main)
     set_logger()
 
-    no = 8
+    no = input('CCF期刊/会议类别：')
+    path = '../paper_db/{}'.format(no)
+    if os.path.isdir(path):
+        pass
+    else:
+        os.makedirs(path)
+
     venue_list = ccf_filter(no, rank='A/B/C')
 
     for venue in venue_list:
