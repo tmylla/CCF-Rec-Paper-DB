@@ -1,14 +1,47 @@
 # CCF Rec-Paper DB
 
-[![license-MIT](https://img.shields.io/badge/license-MIT-green)](https://github.com/AlumiK/dblp-api/blob/main/LICENSE)
+[![license-MIT](https://img.shields.io/badge/license-MIT-green)](https://github.com/tmylla/CCF-Rec-Paper-DB/blob/main/LICENSE)
 
-A helper package to get information of scholarly articles from [DBLP](https://dblp.uni-trier.de/) using its public API.
+CCF推荐期刊/会议历年发表的论文数据库，包含数据库构建、数据库检索、数据库更新功能。
 
+# 目录
 
-
-[TOC]
+- [CCF Rec-Paper DB](# CCF Rec-Paper DB)
+- [目录](# 目录)
+- [项目介绍](# 项目介绍)
+- [文件目录](# 文件目录)
+- [安装说明](# 安装说明)
+- [使用说明](# 使用说明)
+- [鸣谢](# 鸣谢)
+- [版权信息](# 版权信息)
 
 # 项目简介
+
+## CCF推荐会议与期刊（2019版）
+
+- 根据研究领域将期刊/会议细分为10类
+
+  > 1-计算机体系结构/并行与分布计算/存储系统；    6-计算机科学理论
+  > 2-计算机网络；														 7-计算机图形学与多媒体
+  > 3-网络与信息安全；												 8-人工智能
+  > 4-软件工程/系统软件/程序设计语言；				   9-人机交互与普适计算
+  > 5-数据库/数据挖掘/内容检索；							  10-交叉/综合/新兴
+
+- 共计612个期刊/会议，其中20个期刊/会议有单独`url`，其余均可在`dblp`数据库检索。
+
+  ```python
+  no_dblp = ['Performance Evaluation: An International Journal', 'JETTA', 'JGC', 'HOT CHIPS', 'TOPS', 'CLSR', 'IFIP WG 11.9', 'HotSec', 'QRS', 'JGITM', 'JASA', 'CAVW', 'JSLHR', 'IET-CVI', 'IET Signal Processing', 'CollaborateCom', 'Cognition', 'IET Intelligent Transport Systems', 'CogSci', 'ISMB']
+  ```
+
+## 项目介绍
+
+
+
+- 一个会议/期刊存一个数据库
+- 使用时首先检索是有存在查询数据库，如果存在，直接检索；否则，先抓取数据库，然后检索
+- 数据库的更新（手动）
+
+
 
 功能1：数据库构建
     输入：会议/期刊名称（必选）
@@ -23,13 +56,11 @@ A helper package to get information of scholarly articles from [DBLP](https://db
     输入：无（数据库数据增加）
     
 
-- 一个会议/期刊存一个数据库
-- 使用时首先检索是有存在查询数据库，如果存在，直接检索；否则，先抓取数据库，然后检索
-- 数据库的更新（手动）
+- 
 
 
 
-# 目录结构
+# 文件目录
 
 
 
@@ -104,4 +135,4 @@ The results will be:
 
 # 版权信息
 
-该项目签署了MIT 授权许可，详情请参阅 [LICENSE]()
+该项目签署了MIT 授权许可，详情请参阅 [LICENSE](https://github.com/tmylla/CCF-Rec-Paper-DB/blob/main/LICENSE)
