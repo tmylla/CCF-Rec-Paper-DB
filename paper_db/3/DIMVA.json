@@ -1,0 +1,563 @@
+[
+    {
+        "year": "2021",
+        "name": "DIMVA 2021",
+        "info": "Virtual Event",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/dimva/2021",
+                "sub_name": "Detection of Intrusions and Malware, and Vulnerability Assessment - 18th International Conference, DIMVA 2021, Virtual Event, July 14-16, 2021, Proceedings.",
+                "count": 19,
+                "papers": [
+                    "You've Got (a Reset) Mail: A Security Analysis of Email-Based Password Reset Procedures.",
+                    "The Full Gamut of an Attack: An Empirical Analysis of OAuth CSRF in the Wild.",
+                    "Detecting and Measuring In-The-Wild DRDoS Attacks at IXPs.",
+                    "Digging Deeper: An Analysis of Domain Impersonation in the Lower DNS Hierarchy.",
+                    "Help, My Signal has Bad Device! - Breaking the Signal Messenger's Post-Compromise Security Through a Malicious Device.",
+                    "Refined Grey-Box Fuzzing with Sivo.",
+                    "SCRUTINIZER: Detecting Code Reuse in Malware via Decompilation and Machine Learning.",
+                    "Specularizer : Detecting Speculative Execution Attacks via Performance Tracing.",
+                    "Aion Attacks: Manipulating Software Timers in Trusted Execution Environment.",
+                    "Third-Eye: Practical and Context-Aware Inference of Causal Relationship Violations in Commodity Kernels.",
+                    "Find My Sloths: Automated Comparative Analysis of How Real Enterprise Computers Keep Up with the Software Update Races.",
+                    "FP-Redemption: Studying Browser Fingerprinting Adoption for the Sake of Web Security.",
+                    "Introspect Virtual Machines Like It Is the Linux Kernel!",
+                    "Calibration Done Right: Noiseless Flush+Flush Attacks.",
+                    "Zero Footprint Opaque Predicates: Synthesizing Opaque Predicates from Naturally Occurring Invariants.",
+                    "PetaDroid: Adaptive Android Malware Detection Using Deep Learning.",
+                    "Spotlight on Phishing: A Longitudinal Study on Phishing Awareness Trainings.",
+                    "Extended Abstract: A First Large-Scale Analysis on Usage of MTA-STS.",
+                    "Centy: Scalable Server-Side Web Integrity Verification System Based on Fuzzy Hashes."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "name": "DIMVA 2020",
+        "info": "Lisbon, Portugal",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/dimva/2020",
+                "sub_name": "Detection of Intrusions and Malware, and Vulnerability Assessment - 17th International Conference, DIMVA 2020, Lisbon, Portugal, June 24-26, 2020, Proceedings.",
+                "count": 13,
+                "papers": [
+                    "Automated CPE Labeling of CVE Summaries with Machine Learning.",
+                    "Backstabber's Knife Collection: A Review of Open Source Software Supply Chain Attacks.",
+                    "Putting Attacks in Context: A Building Automation Testbed for Impact Assessment from the Victim's Perspective.",
+                    "Fast and Furious: Outrunning Windows Kernel Notification Routines from User-Mode.",
+                    "HAEPG: An Automatic Multi-hop Exploitation Generation Framework.",
+                    "Understanding Android VoIP Security: A System-Level Vulnerability Assessment.",
+                    "Web Runner 2049: Evaluating Third-Party Anti-bot Services.",
+                    "Short Paper - Taming the Shape Shifter: Detecting Anti-fingerprinting Browsers.",
+                    "It Never Rains but It Pours: Analyzing and Detecting Fake Removal Information Advertisement Sites.",
+                    "On the Security of Application Installers and Online Software Repositories.",
+                    "Distributed Heterogeneous N-Variant Execution.",
+                    "Sec2graph: Network Attack Detection Based on Novelty Detection on Graph Structured Data.",
+                    "Efficient Context-Sensitive CFI Enforcement Through a Hardware Monitor."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "DIMVA 2019",
+        "info": "Gothenburg, Sweden",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/dimva/2019",
+                "sub_name": "Detection of Intrusions and Malware, and Vulnerability Assessment - 16th International Conference, DIMVA 2019, Gothenburg, Sweden, June 19-20, 2019, Proceedings.",
+                "count": 23,
+                "papers": [
+                    "Wild Extensions: Discovering and Analyzing Unlisted Chrome Extensions.",
+                    "New Kid on the Web: A Study on the Prevalence of WebAssembly in the Wild.",
+                    "Morellian Analysis for Browsers: Making Web Authentication Stronger with Canvas Fingerprinting.",
+                    "On the Perils of Leaking Referrers in Online Collaboration Services.",
+                    "Detecting, Fingerprinting and Tracking Reconnaissance Campaigns Targeting Industrial Control Systems.",
+                    "Overshadow PLC to Detect Remote Control-Logic Injection Attacks.",
+                    "A Security Evaluation of Industrial Radio Remote Controllers.",
+                    "Understanding the Security of Traffic Signal Infrastructure.",
+                    "Practical Enclave Malware with Intel SGX.",
+                    "How Does Malware Use RDTSC? A Study on Operations Executed by Malware with CPU Cycle Measurement.",
+                    "On Deception-Based Protection Against Cryptographic Ransomware.",
+                    "PowerDrive: Accurate De-obfuscation and Analysis of PowerShell Malware.",
+                    "Memory Categorization: Separating Attacker-Controlled Data.",
+                    "TypeMiner: Recovering Types in Binary Programs Using Machine Learning.",
+                    "SAFE: Self-Attentive Function Embeddings for Binary Similarity.",
+                    "Triggerflow: Regression Testing by Advanced Execution Path Inspection.",
+                    "Large-Scale Analysis of Infrastructure-Leaking DNS Servers.",
+                    "Security in Plain TXT - Observing the Use of DNS TXT Records in the Wild.",
+                    "No Need to Marry to Change Your Name! Attacking Profinet IO Automation Networks Using DCP.",
+                    "DPX: Data-Plane eXtensions for SDN Security Service Instantiation.",
+                    "Practical Password Hardening Based on TLS.",
+                    "Role Inference + Anomaly Detection = Situational Awareness in BACnet Networks.",
+                    "BinTrimmer: Towards Static Binary Debloating Through Abstract Interpretation."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "DIMVA 2018",
+        "info": "Saclay, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/dimva/2018",
+                "sub_name": "Detection of Intrusions and Malware, and Vulnerability Assessment - 15th International Conference, DIMVA 2018, Saclay, France, June 28-29, 2018, Proceedings.",
+                "count": 18,
+                "papers": [
+                    "Malrec: Compact Full-Trace Malware Recording for Retrospective Deep Analysis.",
+                    "MemScrimper: Time- and Space-Efficient Storage of Malware Sandbox Memory Dumps.",
+                    "Spearphishing Malware: Do We Really Know the Unknown?",
+                    "Honey, I Shrunk Your App Security: The State of Android App Hardening.",
+                    "GuardION: Practical Mitigation of DMA-Based Rowhammer Attacks on ARM.",
+                    "BINARM: Scalable and Efficient Detection of Vulnerabilities in Firmware Images of Intelligent Electronic Devices.",
+                    "Update State Tampering: A Novel Adversary Post-compromise Technique on Cyber Threats.",
+                    "Evasive Malware via Identifier Implanting.",
+                    "On the Weaknesses of Function Table Randomization.",
+                    "FraudBuster: Temporal Analysis and Detection of Advanced Financial Frauds.",
+                    "No Random, No Ransom: A Key to Stop Cryptographic Ransomware.",
+                    "Hidden in Plain Sight: Filesystem View Separation for Data Integrity and Deception.",
+                    "Knockin' on Trackers' Door: Large-Scale Automatic Analysis of Web Tracking.",
+                    "JaSt: Fully Syntactic Detection of Malicious (Obfuscated) JavaScript.",
+                    "Bytecode Corruption Attacks Are Real - And How to Defend Against Them.",
+                    "ELISA: ELiciting ISA of Raw Binaries for Fine-Grained Code and Data Separation.",
+                    "Symbolic Deobfuscation: From Virtualized Code Back to the Original.",
+                    "Extended Abstract: Toward Systematically Exploring Antivirus Engines."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "DIMVA 2017",
+        "info": "Bonn, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/dimva/2017",
+                "sub_name": "Detection of Intrusions and Malware, and Vulnerability Assessment - 14th International Conference, DIMVA 2017, Bonn, Germany, July 6-7, 2017, Proceedings.",
+                "count": 18,
+                "papers": [
+                    "Malware Guard Extension: Using SGX to Conceal Cache Attacks.",
+                    "On the Trade-Offs in Oblivious Execution Techniques.",
+                    "MemPatrol: Reliable Sideline Integrity Monitoring for High-Performance Systems.",
+                    "Measuring and Defeating Anti-Instrumentation-Equipped Malware.",
+                    "DynODet: Detecting Dynamic Obfuscation in Malware.",
+                    "Finding the Needle: A Study of the PE32 Rich Header and Respective Malware Triage.",
+                    "Last Line of Defense: A Novel IDS Approach Against Advanced Threats in Industrial Control Systems.",
+                    "LED-it-GO: Leaking (A Lot of) Data from Air-Gapped Computers via the (Small) Hard Drive LED.",
+                    "A Stealth, Selective, Link-Layer Denial-of-Service Attack Against Automotive Networks.",
+                    "Quincy: Detecting Host-Based Code Injection Attacks in Memory Dumps.",
+                    "SPEAKER: Split-Phase Execution of Application Containers.",
+                    "Deep Ground Truth Analysis of Current Android Malware.",
+                    "HumIDIFy: A Tool for Hidden Functionality Detection in Firmware.",
+                    "BinShape: Scalable and Robust Binary Library Function Identification Using Function Shape.",
+                    "SCVD: A New Semantics-Based Approach for Cloned Vulnerable Code Detection.",
+                    "On the Privacy Impacts of Publicly Leaked Password Databases.",
+                    "Unsupervised Detection of APT C&C Channels using Web Request Graphs.",
+                    "Measuring Network Reputation in the Ad-Bidding Process."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "DIMVA 2016",
+        "info": "San Sebasti\u00e1n, Spain",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/dimva/2016",
+                "sub_name": "Detection of Intrusions and Malware, and Vulnerability Assessment - 13th International Conference, DIMVA 2016, San Sebasti\u00e1n, Spain, July 7-8, 2016, Proceedings.",
+                "count": 21,
+                "papers": [
+                    "Subverting Operating System Properties Through Evolutionary DKOM Attacks.",
+                    "DeepFuzz: Triggering Vulnerabilities Deeply Hidden in Binaries - (Extended Abstract).",
+                    "AutoRand: Automatic Keyword Randomization to Prevent Injection Attacks.",
+                    "AVRAND: A Software-Based Defense Against Code Reuse Attacks for AVR Embedded Devices.",
+                    "Towards Vulnerability Discovery Using Staged Program Analysis.",
+                    "Comprehensive Analysis and Detection of Flash-Based Malware.",
+                    "Reviewer Integration and Performance Measurement for Malware Detection.",
+                    "On the Lack of Consensus in Anti-Virus Decisions: Metrics and Insights on Building Ground Truths of Android Malware.",
+                    "Probfuscation: An Obfuscation Approach Using Probabilistic Control Flows.",
+                    "RAMBO: Run-Time Packer Analysis with Multiple Branch Observation.",
+                    "Detecting Hardware-Assisted Virtualization.",
+                    "Financial Lower Bounds of Online Advertising Abuse - A Four Year Case Study of the TDSS/TDL4 Botnet.",
+                    "Google Dorks: Analysis, Creation, and New Defenses.",
+                    "Flush+Flush: A Fast and Stealthy Cache Attack.",
+                    "Rowhammer.js: A Remote Software-Induced Fault Attack in JavaScript.",
+                    "Detile: Fine-Grained Information Leak Detection in Script Engines.",
+                    "Understanding the Privacy Implications of ECS - (Extended Abstract).",
+                    "Analysing the Security of Google's Implementation of OpenID Connect.",
+                    "Leveraging Sensor Fingerprinting for Mobile Device Authentication.",
+                    "MtNet: A Multi-Task Neural Network for Dynamic Malware Classification.",
+                    "Adaptive Semantics-Aware Malware Classification."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "DIMVA 2015",
+        "info": "Milan, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/dimva/2015",
+                "sub_name": "Detection of Intrusions and Malware, and Vulnerability Assessment - 12th International Conference, DIMVA 2015, Milan, Italy, July 9-10, 2015, Proceedings.",
+                "count": 17,
+                "papers": [
+                    "Cutting the Gordian Knot: A Look Under the Hood of Ransomware Attacks.",
+                    "\"Nice Boots!\" - A Large-Scale Analysis of Bootkits and New Ways to Stop Them.",
+                    "C5: Cross-Cores Cache Covert Channel.",
+                    "Intrusion Detection for Airborne Communication Using PHY-Layer Information.",
+                    "That Ain't You: Blocking Spearphishing Through Behavioral Modelling.",
+                    "Robust and Effective Malware Detection Through Quantitative Data Flow Graph Metrics.",
+                    "Jackdaw: Towards Automatic Reverse Engineering of Large Datasets of Binaries.",
+                    "Fine-Grained Control-Flow Integrity Through Binary Hardening.",
+                    "Powerslave: Analyzing the Energy Consumption of Mobile Antivirus Software.",
+                    "The Role of Cloud Services in Malicious Software: Trends and Insights.",
+                    "Capturing DDoS Attack Dynamics Behind the Scenes.",
+                    "Quit Playing Games with My Heart: Understanding Online Dating Scams.",
+                    "More Guidelines Than Rules: CSRF Vulnerabilities from Noncompliant OAuth 2.0 Implementations.",
+                    "May I? - Content Security Policy Endorsement for Browser Extensions.",
+                    "On the Security and Engineering Implications of Finer-Grained Access Controls for Android Developers and Users.",
+                    "Identifying Intrusion Infections via Probabilistic Inference on Bayesian Network.",
+                    "Controlled Data Sharing for Collaborative Predictive Blacklisting."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "DIMVA 2014",
+        "info": "Egham, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/dimva/2014",
+                "sub_name": "Detection of Intrusions and Malware, and Vulnerability Assessment - 11th International Conference, DIMVA 2014, Egham, UK, July 10-11, 2014. Proceedings.",
+                "count": 14,
+                "papers": [
+                    "Data Structure Archaeology: Scrape Away the Dirt and Glue Back the Pieces! - (Or: Automated Techniques to Recover Split and Merged Variables).",
+                    "Identifying Shared Software Components to Support Malware Forensics.",
+                    "Instruction-Level Steganography for Covert Trigger-Based Malware - (Extended Abstract).",
+                    "AndRadar: Fast Discovery of Android Applications in Alternative Markets.",
+                    "Attacks on Android Clipboard.",
+                    "I Sensed It Was You: Authenticating Mobile Users with Sensor-Enhanced Keystroke Dynamics.",
+                    "AV-Meter: An Evaluation of Antivirus Scans and Labels.",
+                    "PExy: The Other Side of Exploit Kits.",
+                    "Metadata-Driven Threat Classification of Network Endpoints Appearing in Malware.",
+                    "Parallelization of Network Intrusion Detection Systems under Attack Conditions.",
+                    "Phoenix: DGA-Based Botnet Tracking and Intelligence.",
+                    "Quantifiable Run-Time Kernel Attack Surface Reduction.",
+                    "Bee Master: Detecting Host-Based Code Injection Attacks.",
+                    "Diagnosis and Emergency Patch Generation for Integer Overflow Exploits."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "DIMVA 2013",
+        "info": "Berlin, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/dimva/2013",
+                "sub_name": "Detection of Intrusions and Malware, and Vulnerability Assessment - 10th International Conference, DIMVA 2013, Berlin, Germany, July 18-19, 2013. Proceedings.",
+                "count": 12,
+                "papers": [
+                    "Driving in the Cloud: An Analysis of Drive-by Download Operations and Abuse Reporting.",
+                    "ProVeX: Detecting Botnets with Encrypted Command and Control Channels.",
+                    "Exploring Discriminatory Features for Automated Malware Classification.",
+                    "PeerRush: Mining for Unwanted P2P Traffic.",
+                    "Early Detection of Outgoing Spammers in Large-Scale Service Provider Networks.",
+                    "PreparedJS: Secure Script-Templates for JavaScript.",
+                    "Securing Legacy Firefox Extensions with SENTINEL.",
+                    "Weaknesses in Defenses against Web-Borne Malware - (Short Paper).",
+                    "SMS-Based One-Time Passwords: Attacks and Defense - (Short Paper).",
+                    "Towards the Protection of Industrial Control Systems - Conclusions of a Vulnerability Analysis of Profinet IO.",
+                    "HeapSentry: Kernel-Assisted Protection against Heap Overflows.",
+                    "Preventing Backdoors in Server Applications with a Separated Software Architecture - (Short Paper)."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "DIMVA 2012",
+        "info": "Heraklion, Crete, Greece",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/dimva/2012",
+                "sub_name": "Detection of Intrusions and Malware, and Vulnerability Assessment - 9th International Conference, DIMVA 2012, Heraklion, Crete, Greece, July 26-27, 2012, Revised Selected Papers.",
+                "count": 14,
+                "papers": [
+                    "Using File Relationships in Malware Classification.",
+                    "Understanding DMA Malware.",
+                    "Large-Scale Analysis of Malware Downloaders.",
+                    "Juxtapp: A Scalable System for Detecting Code Reuse among Android Applications.",
+                    "ADAM: An Automatic and Extensible Platform to Stress Test Android Anti-virus Systems.",
+                    "A Static, Packer-Agnostic Filter to Detect Similar Malware Samples.",
+                    "Experiments with Malware Visualization.",
+                    "Tracking Memory Writes for Malware Classification and Code Reuse Identification.",
+                    "System-Level Support for Intrusion Recovery.",
+                    "NetGator: Malware Detection Using Program Interactive Challenges.",
+                    "SmartProxy: Secure Smartphone-Assisted Login on Compromised Machines.",
+                    "BISSAM: Automatic Vulnerability Identification of Office Documents.",
+                    "Self-organized Collaboration of Distributed IDS Sensors.",
+                    "Shedding Light on Log Correlation in Network Forensics Analysis."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "DIMVA 2011",
+        "info": "Amsterdam, The Netherlands",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/dimva/2011",
+                "sub_name": "Detection of Intrusions and Malware, and Vulnerability Assessment - 8th International Conference; DIMVA 2011, Amsterdam, The Netherlands, July 7-8, 2011. Proceedings.",
+                "count": 13,
+                "papers": [
+                    "Protecting against DNS Reflection Attacks with Bloom Filters.",
+                    "Effective Network Vulnerability Assessment through Model Abstraction.",
+                    "Decoy Document Deployment for Effective Masquerade Attack Detection.",
+                    "Reverse Social Engineering Attacks in Online Social Networks.",
+                    "Timing Attacks on PIN Input in VoIP Networks (Short Paper).",
+                    "Biting the Hand That Serves You: A Closer Look at Client-Side Flash Proxies for Cross-Domain Requests.",
+                    "Mitigating Cross-Site Form History Spamming Attacks with Domain-Based Ranking.",
+                    "Escape from Monkey Island: Evading High-Interaction Honeyclients.",
+                    "An Assessment of Overt Malicious Activity Manifest in Residential Networks.",
+                    "What's Clicking What? Techniques and Innovations of Today's Clickbots.",
+                    "MISHIMA: Multilateration of Internet Hosts Hidden Using Malicious Fast-Flux Agents (Short Paper).",
+                    "Code Pointer Masking: Hardening Applications against Code Injection Attacks.",
+                    "Operating System Interface Obfuscation and the Revealing of Hidden Operations."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/dimva/2011syssec",
+                "sub_name": "First SysSec Workshop 2011, SysSec@DIMVA 2011, Amsterdam, The Netherlands, July 6, 2011.",
+                "count": 28,
+                "papers": [
+                    "Unity in Diversity: Phylogenetic-inspired Techniques for Reverse Engineering and Detection of Malware Families.",
+                    "Detecting Insufficient Access Control in Web Applications.",
+                    "I/O Attacks in Intel PC-based Architectures and Countermeasures.",
+                    "CAPTCHuring Automated (Smart) Phone Attacks.",
+                    "Outsourcing Malicious Infrastructure to the Cloud.",
+                    "Demarcation of Security in Authentication Protocols.",
+                    "The MINESTRONE Architecture Combining Static and Dynamic Analysis Techniques for Software Security.",
+                    "The Free Secure Network Systems Group: Secure Peer-to-Peer Networking and Beyond.",
+                    "Adapting Econometric Models, Technical Analysis and Correlation Data to Computer Security Data.",
+                    "A Trustworthy Architecture for Wireless Industrial Sensor Networks: Research Roadmap of EU TWISNet Trust and Security Project.",
+                    "Mapping Systems Security Research at Chalmers.",
+                    "Exploring the Landscape of Cybercrime.",
+                    "CLEARER: CrySyS Laboratory Security and Privacy Research Roadmap.",
+                    "Towards Malware-Resistant Networking Environment.",
+                    "Research Roadmap on Security Measurements.",
+                    "From SSIR to CIDre: A New Security Research Group in Rennes, France.",
+                    "Building a Long Term Strategy for International Collaboration in Trustworthy ICT: Security, Privacy and Trust in Global Networks and Services.",
+                    "System Security Research at Newcastle.",
+                    "Security Research at NASK: Supporting the Operational Needs of a CERT Team and More.",
+                    "The Security Aspects of the Research Activities in IICT-BAS.",
+                    "Less is More - A Secure Microkernel-Based Operating System.",
+                    "Computer Security and Machine Learning: Worst Enemies or Best Friends?",
+                    "Systems Security at VU University Amsterdam.",
+                    "System Security Research at Birmingham: Current Status and Some Future Work.",
+                    "The SPARCHS Project: Hardware Support for Software Security.",
+                    "Malicious Website Detection: Effectiveness and Efficiency Issues.",
+                    "Systems Security Research at Politecnico di Milano.",
+                    "Systems Security Research at Ruhr-University Bochum."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "DIMVA 2010",
+        "info": "Bonn, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/dimva/2010",
+                "sub_name": "Detection of Intrusions and Malware, and Vulnerability Assessment, 7th International Conference, DIMVA 2010, Bonn, Germany, July 8-9, 2010. Proceedings.",
+                "count": 12,
+                "papers": [
+                    "HookScout: Proactive Binary-Centric Hook Detection.",
+                    "Conqueror: Tamper-Proof Code Execution on Legacy Systems.",
+                    "dAnubis - Dynamic Device Driver Analysis Based on Virtual Machine Introspection.",
+                    "Evaluating Bluetooth as a Medium for Botnet Command and Control.",
+                    "Take a Deep Breath: A Stealthy, Resilient and Cost-Effective Botnet Using Skype.",
+                    "Covertly Probing Underground Economy Marketplaces.",
+                    "Why Johnny Can't Pentest: An Analysis of Black-Box Web Vulnerability Scanners.",
+                    "Organizing Large Scale Hacking Competitions.",
+                    "An Online Adaptive Approach to Alert Correlation.",
+                    "KIDS - Keyed Intrusion Detection System.",
+                    "Modeling and Containment of Search Worms Targeting Web Applications.",
+                    "HProxy: Client-Side Detection of SSL Stripping Attacks."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "DIMVA 2009",
+        "info": "Como, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/dimva/2009",
+                "sub_name": "Detection of Intrusions and Malware, and Vulnerability Assessment, 6th International Conference, DIMVA 2009, Como, Italy, July 9-10, 2009. Proceedings.",
+                "count": 13,
+                "papers": [
+                    "A Case Study on Asprox Infection Dynamics.",
+                    "How Good Are Malware Detectors at Remediating Infected Systems?.",
+                    "Towards Proactive Spam Filtering (Extended Abstract).",
+                    "Shepherding Loadable Kernel Modules through On-demand Emulation.",
+                    "Yataglass: Network-Level Code Emulation for Analyzing Memory-Scanning Attacks.",
+                    "Defending Browsers against Drive-by Downloads: Mitigating Heap-Spraying Code Injection Attacks.",
+                    "Polymorphing Software by Randomizing Data Structure Layout.",
+                    "On the Effectiveness of Software Diversity: A Systematic Study on Real-World Vulnerabilities.",
+                    "Using Contextual Information for IDS Alarm Classification (Extended Abstract).",
+                    "Browser Fingerprinting from Coarse Traffic Summaries: Techniques and Implications.",
+                    "A Service Dependency Modeling Framework for Policy-Based Response Enforcement.",
+                    "Learning SQL for Database Intrusion Detection Using Context-Sensitive Modelling (Extended Abstract).",
+                    "Selecting and Improving System Call Models for Anomaly Detection."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "DIMVA 2008",
+        "info": "Paris, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/dimva/2008",
+                "sub_name": "Detection of Intrusions and Malware, and Vulnerability Assessment, 5th International Conference, DIMVA 2008, Paris, France, July 10-11, 2008. Proceedings.",
+                "count": 14,
+                "papers": [
+                    "Data Space Randomization.",
+                    "XSS-GUARD: Precise Dynamic Prevention of Cross-Site Scripting Attacks.",
+                    "VeriKey: A Dynamic Certificate Verification System for Public Key Exchanges.",
+                    "Dynamic Binary Instrumentation-Based Framework for Malware Defense.",
+                    "Embedded Malware Detection Using Markov n-Grams.",
+                    "Learning and Classification of Malware Behavior.",
+                    "On Race Vulnerabilities in Web Applications.",
+                    "On the Limits of Information Flow Techniques for Malware Analysis and Containment.",
+                    "Expanding Malware Defense by Securing Software Installations.",
+                    "FluXOR: Detecting and Monitoring Fast-Flux Service Networks.",
+                    "Traffic Aggregation for Malware Detection.",
+                    "The Contact Surface: A Technique for Exploring Internet Scale Emergent Behaviors.",
+                    "The Quest for Multi-headed Worms.",
+                    "A Tool for Offline and Live Testing of Evasion Resilience in Network Intrusion Detection Systems."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "DIMVA 2007",
+        "info": "Lucerne, Switzerland",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/dimva/2007",
+                "sub_name": "Detection of Intrusions and Malware, and Vulnerability Assessment, 4th International Conference, DIMVA 2007, Lucerne, Switzerland, July 12-13, 2007, Proceedings.",
+                "count": 14,
+                "papers": [
+                    "Extensible Web Browser Security.",
+                    "On the Effectiveness of Techniques to Detect Phishing Sites.",
+                    "Protecting the Intranet Against \"JavaScript Malware\" and Related Attacks.",
+                    "On the Effects of Learning Set Corruption in Anomaly-Based Detection of Web Defacements.",
+                    "Intrusion Detection as Passive Testing: Linguistic Support with TTCN-3 (Extended Abstract).",
+                    "Characterizing Bots' Remote Control Behavior.",
+                    "Measurement and Analysis of Autonomous Spreading Malware in a University Environment.",
+                    "Passive Monitoring of DNS Anomalies.",
+                    "Characterizing Dark DNS Behavior.",
+                    "Distributed Evasive Scan Techniques and Countermeasures.",
+                    "On the Adaptive Real-Time Detection of Fast-Propagating Network Worms.",
+                    "Targeting Physically Addressable Memory.",
+                    "Static Analysis on x86 Executables for Preventing Automatic Mimicry Attacks.",
+                    "A Study of Malcode-Bearing Documents."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "DIMVA 2006",
+        "info": "Berlin, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/dimva/2006",
+                "sub_name": "Detection of Intrusions and Malware & Vulnerability Assessment, Third International Conference, DIMVA 2006, Berlin, Germany, July 13-14, 2006, Proceedings.",
+                "count": 11,
+                "papers": [
+                    "Using Type Qualifiers to Analyze Untrusted Integers and Detecting Security Flaws in C Programs.",
+                    "Using Static Program Analysis to Aid Intrusion Detection.",
+                    "An SVM-Based Masquerade Detection Method with Online Update Using Co-occurrence Matrix.",
+                    "Network-Level Polymorphic Shellcode Detection Using Emulation.",
+                    "Detecting Unknown Network Attacks Using Language Models.",
+                    "Using Labeling to Prevent Cross-Service Attacks Against Smart Phones.",
+                    "Using Contextual Security Policies for Threat Response.",
+                    "Detecting Self-mutating Malware Using Control-Flow Graph Matching.",
+                    "Digital Forensic Reconstruction and the Virtual Security Testbed ViSe.",
+                    "A Robust SNMP Based Infrastructure for Intrusion Detection and Response in Tactical MANETs.",
+                    "A Fast Worm Scan Detection Tool for VPN Congestion Avoidance."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "DIMVA 2005",
+        "info": "Vienna, Austria",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/dimva/2005",
+                "sub_name": "Detection of Intrusions and Malware, and Vulnerability Assessment, Second International Conference, DIMVA 2005, Vienna, Austria, July 7-8, 2005, Proceedings.",
+                "count": 14,
+                "papers": [
+                    "Analyzing Memory Accesses in Obfuscated x86 Executables.",
+                    "Hybrid Engine for Polymorphic Shellcode Detection.",
+                    "Experiences Using Minos as a Tool for Capturing and Analyzing Novel Worms for Unknown Vulnerabilities.",
+                    "A Pointillist Approach for Comparing Honeypots.",
+                    "Automatic Detection of Attacks on Cryptographic Protocols: A Case Study.",
+                    "METAL - A Tool for Extracting Attack Manifestations.",
+                    "Flow-Level Traffic Analysis of the Blaster and Sobig Worm Outbreaks in an Internet Backbone.",
+                    "A Learning-Based Approach to the Detection of SQL Attacks.",
+                    "Masquerade Detection via Customized Grammars.",
+                    "A Prevention Model for Algorithmic Complexity Attacks.",
+                    "Detecting Malicious Code by Model Checking.",
+                    "Improving the Efficiency of Misuse Detection.",
+                    "Enhancing the Accuracy of Network-Based Intrusion Detection with Host-Based Context.",
+                    "TCPtransform: Property-Oriented TCP Traffic Transformation."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "DIMVA 2004",
+        "info": "Dortmund, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/dimva/2004",
+                "sub_name": "Detection of Intrusions and Malware & Vulnerability Assessment, GI SIG SIDAR Workshop, DIMVA 2004, Dortmund, Germany, July 6.7, 2004, Proceedings.",
+                "count": 14,
+                "papers": [
+                    "Alarm Reduction and Correlation in Intrusion Detection Systems.",
+                    "Alert Verification Determining the Success of Intrusion Attempts.",
+                    "Komponenten f\u00fcr kooperative Intrusion-Detection in dynamischen Koalitionsumgebungen.",
+                    "Vertrauensbasierte Laufzeit\u00fcberwachung verteilter komponentenstrukturierter E-Commerce-Software.",
+                    "Intrusion detection in unlabeled data with quarter-sphere Support Vector Machines.",
+                    "Sensors for Detection of Misbehaving Nodes in MANETs.",
+                    "Aktive Strategien zur Schutzzielverletzungserkennung durch eine kontrollierte Machtteilung in der Zugriffskontrollarchitektur.",
+                    "A Honeynet within the German Research Network - Experiences and Results.",
+                    "Ermittlung von Verwundbarkeiten mit elektronischen K\u00f6dern.",
+                    "Foundations for Intrusion Prevention.",
+                    "Structural Comparison of Executable Objects.",
+                    "Anti-Patterns in JDK Security and Refactorings.",
+                    "LIV - The Linux Integrated Viruswall.",
+                    "Risiken der Nichterkennung von Malware in komprimierter Form."
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,166 @@
+[
+    {
+        "name": "TSLP",
+        "year": "2013",
+        "info": "Volume 10: 2013",
+        "count": 20,
+        "papers": [
+            "Managing information disparity in multilingual document collections.",
+            "Towards content-level coherence with aspect-guided summarization.",
+            "Introduction to the special issue on multiword expressions: From theory to practice and use.",
+            "How many multiword expressions do people know?",
+            "Lexical semantic factors in the acceptability of english support-verb-nominalization constructions.",
+            "Learning to detect english and hungarian light verb constructions.",
+            "Modeling the internal variability of multiword expressions through a pattern-based method.",
+            "Combining compound recognition and PCFG-LA parsing with word lattices and conditional random fields.",
+            "Word sense and semantic relations in noun compounds.",
+            "On collocations and topic models.",
+            "A computational model of logical metonymy.",
+            "Sentiment profiles of multiword expressions in test-taker essays: The case of noun-noun compounds.",
+            "Semantic interpretation of noun compounds using verbal and other paraphrases.",
+            "Editorial.",
+            "Learning to control listening-oriented dialogue using partially observable markov decision processes.",
+            "Combining co-clustering with noise detection for theme-based summarization.",
+            "Composition of semantic relations: Theoretical framework and case study.",
+            "Lattice BLEU oracles in machine translation.",
+            "A new benchmark dataset with production methodology for short text semantic similarity algorithms.",
+            "Cognitive canonicalization of natural language queries using semantic strata."
+        ]
+    },
+    {
+        "name": "TSLP",
+        "year": "2012",
+        "info": "Volume 9: 2012",
+        "count": 8,
+        "papers": [
+            "Optimizing the turn-taking behavior of task-oriented spoken dialog systems.",
+            "Unsupervised similarity-based word sense disambiguation using context vectors and sentential word importance.",
+            "Perspective-oriented generation of football match summaries: Old tasks, new challenges.",
+            "Distributed speech translation technologies for multiparty multilingual communication.",
+            "Syllable Specific Unit Selection Cost Functions for Text-to-Speech Synthesis.",
+            "Investigating Metaphorical Language in Sentiment Analysis: A Sense-to-Sentiment Perspective.",
+            "An information-theoretic measure to evaluate parsing difficulty across treebanks.",
+            "Contextual and active learning-based affect-sensing from virtual drama improvisation."
+        ]
+    },
+    {
+        "name": "TSLP",
+        "year": "2011",
+        "info": "Volume 8: 2011/2012",
+        "count": 6,
+        "papers": [
+            "Speech retrieval from unsegmented finnish audio using statistical morpheme-like units for segmentation, recognition, and retrieval.",
+            "Learning to identify educational materials.",
+            "Semantic relations in bilingual lexicons.",
+            "Spatial role labeling: Towards extraction of spatial relations from natural language.",
+            "Uncertainty-based active learning with instability estimation for text classification.",
+            "Active learning with semi-automatic annotation for extractive speech summarization."
+        ]
+    },
+    {
+        "name": "TSLP",
+        "year": "2010",
+        "info": "Volume 7: 2010/2011",
+        "count": 18,
+        "papers": [
+            "Brains, not brawn: The use of \"smart\" comparable corpora in bilingual terminology mining.",
+            "An accuracy-enhanced light stemmer for arabic text.",
+            "Introduction to special issue on machine learning for adaptivity in spoken dialogue systems.",
+            "Effective handling of dialogue state in the hidden information state POMDP-based dialogue manager.",
+            "Spatially-aware dialogue control using hierarchical reinforcement learning.",
+            "Natural actor and belief critic: Reinforcement algorithm for learning parameters of dialogue systems modelled as POMDPs.",
+            "Sample-efficient batch reinforcement learning for dialogue management optimization.",
+            "Classifying dialogue in high-dimensional space.",
+            "Comparing user simulations for dialogue strategy learning.",
+            "Modeling spoken decision support dialogue and optimization of its dialogue strategy.",
+            "Introduction to the special issue on speech and language processing of children's speech for child-machine interaction applications.",
+            "Tandem decoding of children's speech for keyword detection in a child-robot interaction scenario.",
+            "Age and gender detection in the I-DASH project.",
+            "Two methods for assessing oral reading prosody.",
+            "Automatically assessing the ABCs: Verification of children's spoken letter-names and letter-sounds.",
+            "FLORA: Fluent oral reading assessment of children's speech.",
+            "An automatic version of a reading disorder test.",
+            "My science tutor: A conversational multimedia virtual tutor for elementary school science."
+        ]
+    },
+    {
+        "name": "TSLP",
+        "year": "2009",
+        "info": "Volume 6: 2009/2010",
+        "count": 4,
+        "papers": [
+            "Improving text categorization bootstrapping via unsupervised learning.",
+            "Extrinsic summarization evaluation: A decision audit task.",
+            "Confidence-based stopping criteria for active learning for data annotation.",
+            "A comprehensive comparative evaluation of RST-based summarization methods."
+        ]
+    },
+    {
+        "name": "TSLP",
+        "year": "2007",
+        "info": "Volume 5: 2007/2008",
+        "count": 6,
+        "papers": [
+            "Web resources for language modeling in conversational speech recognition.",
+            "Relation extraction and the influence of automatic named-entity recognition.",
+            "Morph-based speech recognition and modeling of out-of-vocabulary words across languages.",
+            "Chinese word segmentation and statistical machine translation.",
+            "Summarization system evaluation revisited: N-gram graphs.",
+            "A game-theoretic model of referential coherence and its empirical verification using large Japanese and English corpora."
+        ]
+    },
+    {
+        "name": "TSLP",
+        "year": "2007",
+        "info": "Volume 4: 2007",
+        "count": 9,
+        "papers": [
+            "Author verification by linguistic profiling: An exploration of the parameter space.",
+            "A statistical model for near-synonym choice.",
+            "Unsupervised models for morpheme segmentation and morphology learning.",
+            "The Pyramid Method: Incorporating human content selection variation in summarization evaluation.",
+            "Chinese semantic dependency analysis: Construction of a treebank and its use in classification.",
+            "A block bigram prediction model for statistical machine translation.",
+            "Promoting extension and reuse in a spoken dialog manager: An evaluation of the queen's communicator.",
+            "An unsupervised method for learning generation dictionaries for spoken dialogue systems by mining user reviews.",
+            "Adaptive text correction with Web-crawled domain-dependent dictionaries."
+        ]
+    },
+    {
+        "name": "TSLP",
+        "year": "2006",
+        "info": "Volume 3: 2006",
+        "count": 7,
+        "papers": [
+            "Automatic expansion of domain-specific lexicons by term categorization.",
+            "High-quality speech-to-speech translation for computer-aided language learning.",
+            "One story, one flow: Hidden Markov Story Models for multilingual multidocument summarization.",
+            "Broad coverage paragraph segmentation across languages and domains.",
+            "Acoustic environment classification.",
+            "An active approach to spoken language processing.",
+            "Confidence estimation for NLP applications."
+        ]
+    },
+    {
+        "name": "TSLP",
+        "year": "2005",
+        "info": "Volume 2: 2005",
+        "count": 5,
+        "papers": [
+            "Automatic summarization of voicemail messages using lexical and prosodic features.",
+            "Web-based models for natural language processing.",
+            "Towards efficient human machine speech communication: The speech graffiti project.",
+            "Voice fonts for individuality representation and transformation.",
+            "A word-to-phrase statistical translation model."
+        ]
+    },
+    {
+        "name": "TSLP",
+        "year": "2004",
+        "info": "Volume 1: 2004",
+        "count": 1,
+        "papers": [
+            "Evaluating discourse understanding in spoken dialogue systems."
+        ]
+    }
+]

@@ -1,0 +1,923 @@
+[
+    {
+        "year": "2021",
+        "name": "24th RAID 2021",
+        "info": "San Sebastian, Spain",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/raid/2021",
+                "sub_name": "RAID '21: 24th International Symposium on Research in Attacks, Intrusions and Defenses, San Sebastian, Spain, October 6-8, 2021.",
+                "count": 32,
+                "papers": [
+                    "Analysis and Mitigation of Function Interaction Risks in Robot Apps.",
+                    "An Investigation of Byzantine Threats in Multi-Robot Systems.",
+                    "SniffMislead: Non-Intrusive Privacy Protection against Wireless Packet Sniffers in Smart Homes.",
+                    "BSOD: Binary-only Scalable fuzzing Of device Drivers.",
+                    "LeanSym: Efficient Hybrid Fuzzing Through Conservative Constraint Debloating.",
+                    "UFuzzer: Lightweight Detection of PHP-Based Unrestricted File Upload Vulnerabilities Via Static-Fuzzing Co-Analysis.",
+                    "SecureFS: A Secure File System for Intel SGX.",
+                    "BasicBlocker: ISA Redesign to Make Spectre-Immune CPUs Faster.",
+                    "Fast Intra-kernel Isolation and Security with IskiOS.",
+                    "Encryption is Futile: Reconstructing 3D-Printed Models Using the Power Side-Channel.",
+                    "DisCo: Combining Disassemblers for Improved Performance.",
+                    "iTOP: Automating Counterfeit Object-Oriented Programming Attacks.",
+                    "Lost in the Loader: The Many Faces of the Windows PE File Format.",
+                    "Crafting Adversarial Example to Bypass Flow-&ML- based Botnet Detector via RL.",
+                    "CADUE: Content-Agnostic Detection of Unwanted Emails for Enterprise Security.",
+                    "GrandDetAuto: Detecting Malicious Nodes in Large-Scale Autonomous Networks.",
+                    "AttkFinder: Discovering Attack Vectors in PLC Programs using Information Flow Analysis.",
+                    "HandLock: Enabling 2-FA for Smart Home Voice Assistants using Inaudible Acoustic Signal.",
+                    "What Did You Add to My Additive Manufacturing Data?: Steganographic Attacks on 3D Printing Files.",
+                    "Practical Speech Re-use Prevention in Voice-driven Services.",
+                    "\u03bcSCOPE: A Methodology for Analyzing Least-Privilege Compartmentalization in Large Software Artifacts.",
+                    "The Service Worker Hiding in Your Browser: The Next Web Attack Target?",
+                    "Designing Media Provenance Indicators to Combat Fake Media.",
+                    "Marked for Disruption: Tracing the Evolution of Malware Delivery Operations Targeted for Takedown.",
+                    "The Evolution of DNS-based Email Authentication: Measuring Adoption and Finding Flaws.",
+                    "Where We Stand (or Fall): An Analysis of CSRF Defenses in Web Frameworks.",
+                    "On the Usability (In)Security of In-App Browsing Interfaces in Mobile Apps.",
+                    "Stratosphere: Finding Vulnerable Cloud Storage Buckets.",
+                    "The Curse of Correlations for Robust Fingerprinting of Relational Databases.",
+                    "Mini-Me, You Complete Me! Data-Driven Drone Security via DNN-based Approximate Computing.",
+                    "Living-Off-The-Land Command Detection Using Active Learning.",
+                    "SyML: Guiding Symbolic Execution Toward Vulnerable States Through Pattern Learning."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "name": "23rd RAID 2020",
+        "info": "San Sebastian, Spain",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/raid/2020",
+                "sub_name": "23rd International Symposium on Research in Attacks, Intrusions and Defenses, RAID 2020, San Sebastian, Spain, October 14-15, 2020.",
+                "count": 31,
+                "papers": [
+                    "SpecROP: Speculative Exploitation of ROP Chains.",
+                    "Never Trust Your Victim: Weaponizing Vulnerabilities in Security Scanners.",
+                    "Camera Fingerprinting Authentication Revisited.",
+                    "Binary-level Directed Fuzzing for Use-After-Free Vulnerabilities.",
+                    "WearFlow: Expanding Information Flow Analysis To Companion Apps in Wear OS.",
+                    "MEUZZ: Smart Seed Scheduling for Hybrid Fuzzing.",
+                    "Tracing and Analyzing Web Access Paths Based on User-Side Data Collection: How Do Users Reach Malicious URLs?",
+                    "What's in an Exploit? An Empirical Analysis of Reflected Server XSS Exploitation Techniques.",
+                    "Mininode: Reducing the Attack Surface of Node.js Applications.",
+                    "Evaluating Changes to Fake Account Verification Systems.",
+                    "SourceFinder: Finding Malware Source-Code from Publicly Available Repositories in GitHub.",
+                    "HyperLeech: Stealthy System Virtualization with Minimal Target Impact through DMA-Based Hypervisor Injection.",
+                    "Effective Detection of Credential Thefts from Windows Memory: Learning Access Behaviours to Local Security Authority Subsystem Service.",
+                    "EnclavePDP: A General Framework to Verify Data Integrity in Cloud Using Intel SGX.",
+                    "Robust P2P Primitives Using SGX Enclaves.",
+                    "aBBRate: Automating BBR Attack Exploration Using a Model-Based Approach.",
+                    "Cyber Threat Intelligence Modeling Based on Heterogeneous Graph Convolutional Network.",
+                    "Detecting Lateral Movement in Enterprise Computer Networks with Unsupervised Graph AI.",
+                    "An Object Detection based Solver for Google's Image reCAPTCHA v2.",
+                    "Evasion Attacks against Banking Fraud Detection Systems.",
+                    "The Limitations of Federated Learning in Sybil Settings.",
+                    "GhostImage: Remote Perception Attacks against Camera-based Image Classification Systems.",
+                    "PLC-Sleuth: Detecting and Localizing PLC Intrusions Using Control Invariants.",
+                    "Software-based Realtime Recovery from Sensor Attacks on Robotic Vehicles.",
+                    "SIEVE: Secure In-Vehicle Automatic Speech Recognition Systems.",
+                    "\u03bcSBS: Static Binary Sanitization of Bare-metal Embedded Devices for Fault Observability.",
+                    "BlueShield: Detecting Spoofing Attacks in Bluetooth Low Energy Networks.",
+                    "Dark Firmware: A Systematic Approach to Exploring Application Security Risks in the Presence of Untrusted Firmware.",
+                    "A Framework for Software Diversification with ISA Heterogeneity.",
+                    "Confine: Automated System Call Policy Generation for Container Attack Surface Reduction.",
+                    "sysfilter: Automated System Call Filtering for Commodity Software."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "22nd RAID 2019",
+        "info": "Beijing, China",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/raid/2019",
+                "sub_name": "22nd International Symposium on Research in Attacks, Intrusions and Defenses, RAID 2019, Chaoyang District, Beijing, China, September 23-25, 2019.",
+                "count": 37,
+                "papers": [
+                    "Be Sensitive and Collaborative: Analyzing Impact of Coverage Metrics in Greybox Fuzzing.",
+                    "On Design Inference from Binaries Compiled using Modern C++ Defenses.",
+                    "DECAF++: Elastic Whole-System Dynamic Taint Analysis.",
+                    "Towards a First Step to Understand the Cryptocurrency Stealing Attack on Ethereum.",
+                    "Fingerprinting Tooling used for SSH Compromisation Attempts.",
+                    "Timing Patterns and Correlations in Spontaneous SCADA Traffic for Anomaly Detection.",
+                    "USBESAFE: An End-Point Solution to Protect Against USB-Based Attacks.",
+                    "Minimal Kernel: An Operating System Architecture for TEE to Resist Board Level Physical Attacks.",
+                    "ScaRR: Scalable Runtime Remote Attestation for Complex Systems.",
+                    "Toward the Analysis of Embedded Firmware through Automated Re-hosting.",
+                    "CryptoREX: Large-scale Analysis of Cryptographic Misuse in IoT Devices.",
+                    "PAtt: Physics-based Attestation of Control Systems.",
+                    "COMA: Communication and Obfuscation Management Architecture.",
+                    "PRO-ORAM: Practical Read-Only Oblivious RAM.",
+                    "The DUSTER Attack: Tor Onion Service Attribution Based on Flow Watermarking with Track Hiding.",
+                    "TALON: An Automated Framework for Cross-Device Tracking Detection.",
+                    "Analysis of Location Data Leakage in the Internet Traffic of Android-based Mobile Devices.",
+                    "Kindness is a Risky Business: On the Usage of the Accessibility APIs in Android.",
+                    "Automatic Generation of Non-intrusive Updates for Third-Party Libraries in Android Applications.",
+                    "Exploiting the Inherent Limitation of L0 Adversarial Examples.",
+                    "NLP-EYE: Detecting Memory Corruptions via Semantic-Aware Memory Operation Function Identification.",
+                    "Robust Optimization-Based Watermarking Scheme for Sequential Data.",
+                    "Smart Malware that Uses Leaked Control Data of Robotic Applications: The Case of Raven-II Surgical Robots.",
+                    "SGXJail: Defeating Enclave Malware via Confinement.",
+                    "Fluorescence: Detecting Kernel-Resident Malware in Clouds.",
+                    "Now You See It, Now You Don't: A Large-scale Analysis of Early Domain Deletions.",
+                    "HinDom: A Robust Malicious Domain Detection System based on Heterogeneous Information Network with Transductive Classification.",
+                    "DomainScouter: Understanding the Risks of Deceptive IDNs.",
+                    "Dynamically Finding Minimal Eviction Sets Can Be Quicker Than You Think for Side-Channel Attacks against the LLC.",
+                    "Time and Order: Towards Automatically Identifying Side-Channel Vulnerabilities in Enclave Binaries.",
+                    "Application level attacks on Connected Vehicle Protocols.",
+                    "S3: A DFW-based Scalable Security State Analysis Framework for Large-Scale Data Center Networks.",
+                    "Container-IMA: A privacy-preserving Integrity Measurement Architecture for Containers.",
+                    "Fingerprinting SDN Applications via Encrypted Control Traffic.",
+                    "Exploring Syscall-Based Semantics Reconstruction of Android Applications.",
+                    "Towards Large-Scale Hunting for Android Negative-Day Malware.",
+                    "DroidScraper: A Tool for Android In-Memory Object Recovery and Reconstruction."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "21st RAID 2018",
+        "info": "Heraklion, Crete, Greece",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/raid/2018",
+                "sub_name": "Research in Attacks, Intrusions, and Defenses - 21st International Symposium, RAID 2018, Heraklion, Crete, Greece, September 10-12, 2018, Proceedings.",
+                "count": 32,
+                "papers": [
+                    "Proteus: Detecting Android Emulators from Instruction-Level Profiles.",
+                    "BabelView: Evaluating the Impact of Code Injection Attacks in Mobile Webviews.",
+                    "Defeating Software Mitigations Against Rowhammer: A Surgical Precision Hammer.",
+                    "Reading Between the Lines: Content-Agnostic Detection of Spear-Phishing Emails.",
+                    "Backdoors: Definition, Deniability and Detection.",
+                    "RWGuard: A Real-Time Detection System Against Cryptographic Ransomware.",
+                    "DNS Unchained: Amplified Application-Layer DoS Attacks Against DNS Authoritatives.",
+                    "Control Plane Reflection Attacks in SDNs: New Attacks and Countermeasures.",
+                    "Proof-of-Blackouts? How Proof-of-Work Cryptocurrencies Could Affect Power Grids.",
+                    "Characterizing Eve: Analysing Cybercrime Actors in a Large Underground Forum.",
+                    "SybilBlind: Detecting Fake Users in Online Social Networks Without Manual Labels.",
+                    "GuidedPass: Helping Users to Create Strong and Memorable Passwords.",
+                    "Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks.",
+                    "Dictionary Extraction and Detection of Algorithmically Generated Domain Names in Passive DNS Traffic.",
+                    "OTTer: A Scalable High-Resolution Encrypted Traffic Identification Engine.",
+                    "Hardware Assisted Randomization of Data.",
+                    "MicroStache: A Lightweight Execution Context for In-Process Safe Region Isolation.",
+                    "CryptMe: Data Leakage Prevention for Unmodified Programs on ARM Devices.",
+                    "PartiSan: Fast and Flexible Sanitization via Run-Time Partitioning.",
+                    "\u03c4CFI: Type-Assisted Control Flow Integrity for x86-64 Binaries.",
+                    "Trusted Execution Path for Protecting Java Applications Against Deserialization of Untrusted Data.",
+                    "Error-Sensor: Mining Information from HTTP Error Traffic for Malware Intelligence.",
+                    "Generic Black-Box End-to-End Attack Against State of the Art API Call Based Malware Classifiers.",
+                    "Next Generation P2P Botnets: Monitoring Under Adverse Conditions.",
+                    "Malicious IoT Implants: Tampering with Serial Communication over the Internet.",
+                    "Before Toasters Rise Up: A View into the Emerging IoT Threat Landscape.",
+                    "Statistical Similarity of Critical Infrastructure Network Traffic Based on Nearest Neighbor Distances.",
+                    "PostScript Undead: Pwning the Web with a 35 Years Old Language.",
+                    "Identifying Key Leakage of Bitcoin Users.",
+                    "Furnace: Self-service Tenant VMI for the Cloud.",
+                    "ShadowMonitor: An Effective In-VM Monitoring Framework with Hardware-Enforced Isolation.",
+                    "KASR: A Reliable and Practical Approach to Attack Surface Reduction of Commodity OS Kernels."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/raid/2018iosec",
+                "sub_name": "Information and Operational Technology Security Systems - First International Workshop, IOSec 2018, CIPSEC Project, Heraklion, Crete, Greece, September 13, 2018, Revised Selected Papers.",
+                "count": 12,
+                "papers": [
+                    "A Cipher Class Based on Golden S-Boxes for Creating Clone-Resistant Identities.",
+                    "A Secure and Efficient File System Access Control Mechanism (FlexFS).",
+                    "Protecting Cloud-Based CIs: Covert Channel Vulnerabilities at the Resource Level.",
+                    "Detecting In-vehicle CAN Message Attacks Using Heuristics and RNNs.",
+                    "A Questionnaire Model for Cybersecurity Maturity Assessment of Critical Infrastructures.",
+                    "Threat Modeling the Cloud: An Ontology Based Approach.",
+                    "Automated Measurements of Cross-Device Tracking.",
+                    "Incognitus: Privacy-Preserving User Interests in Online Social Networks.",
+                    "Deep Ahead-of-Threat Virtual Patching.",
+                    "Malware Clustering Based on Called API During Runtime.",
+                    "CloudNet Anti-malware Engine: GPU-Accelerated Network Monitoring for Cloud Services.",
+                    "Full Content Search in Malware Collections."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "20th RAID 2017",
+        "info": "Atlanta, GA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/raid/2017",
+                "sub_name": "Research in Attacks, Intrusions, and Defenses - 20th International Symposium, RAID 2017, Atlanta, GA, USA, September 18-20, 2017, Proceedings.",
+                "count": 21,
+                "papers": [
+                    "VDF: Targeted Evolutionary Fuzz Testing of Virtual Devices.",
+                    "Static Program Analysis as a Fuzzing Aid.",
+                    "Breaking Fitness Records Without Moving: Reverse Engineering and Spoofing Fitbit.",
+                    "Lens on the Endpoint: Hunting for Malicious Software Through Endpoint Data Analysis.",
+                    "Redemption: Real-Time Protection Against Ransomware at End-Hosts.",
+                    "ILAB: An Interactive Labelling Strategy for Intrusion Detection.",
+                    "Precisely and Scalably Vetting JavaScript Bridge in Android Hybrid Apps.",
+                    "Filtering for Malice Through the Data Ocean: Large-Scale PHA Install Detection at the Communication Service Provider Level.",
+                    "Android Malware Clustering Through Malicious Payload Mining.",
+                    "Stealth Loader: Trace-Free Program Loading for API Obfuscation.",
+                    "LAZARUS: Practical Side-Channel Resilient Kernel-Space Randomization.",
+                    "CFI CaRE: Hardware-Supported Call and Return Enforcement for Commercial Microcontrollers.",
+                    "Mining on Someone Else's Dime: Mitigating Covert Mining Operations in Clouds and Enterprises.",
+                    "BEADS: Automated Attack Discovery in OpenFlow-Based SDN Systems.",
+                    "Trapped by the UI: The Android Case.",
+                    "Sgx-Lapd: Thwarting Controlled Side Channel Attacks via Enclave Verifiable Page Faults.",
+                    "Secure In-Cache Execution.",
+                    "Scotch: Combining Software Guard Extensions and System Management Mode to Monitor Cloud Resource Usage.",
+                    "Linking Amplification DDoS Attacks to Booter Services.",
+                    "Practical and Accurate Runtime Application Protection Against DoS Attacks.",
+                    "Exploring the Ecosystem of Malicious Domain Registrations in the .eu TLD."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "19th RAID 2016",
+        "info": "Paris, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/raid/2016",
+                "sub_name": "Research in Attacks, Intrusions, and Defenses - 19th International Symposium, RAID 2016, Paris, France, September 19-21, 2016, Proceedings.",
+                "count": 21,
+                "papers": [
+                    "GRIM: Leveraging GPUs for Kernel Integrity Monitoring.",
+                    "Taming Transactions: Towards Hardware-Assisted Control Flow Integrity Using Transactional Memory.",
+                    "Automatic Uncovering of Tap Points from Kernel Executions.",
+                    "Detecting Stack Layout Corruptions with Robust Stack Unwinding.",
+                    "APDU-Level Attacks in PKCS#11 Devices.",
+                    "CloudRadar: A Real-Time Side-Channel Attack Detection System in Clouds.",
+                    "The Abuse Sharing Economy: Understanding the Limits of Threat Exchanges.",
+                    "SandPrint: Fingerprinting Malware Sandboxes to Provide Intelligence for Sandbox Evasion.",
+                    "Enabling Network Security Through Active DNS Datasets.",
+                    "A Formal Framework for Environmentally Sensitive Malware.",
+                    "AVclass: A Tool for Massive Malware Labeling.",
+                    "Semantics-Preserving Dissection of JavaScript Exploits via Dynamic JS-Binary Analysis.",
+                    "The Messenger Shoots Back: Network Operator Based IMSI Catcher Detection.",
+                    "On the Feasibility of TTL-Based Filtering for DRDoS Mitigation.",
+                    "A Look into 30 Years of Malware Development from a Software Metrics Perspective.",
+                    "Small Changes, Big Changes: An Updated View on the Android Permission System.",
+                    "Who Gets the Boot? Analyzing Victimization by DDoS-as-a-Service.",
+                    "Uses and Abuses of Server-Side Requests.",
+                    "Identifying Extension-Based Ad Injection via Fine-Grained Web Content Provenance.",
+                    "Trellis: Privilege Separation for Multi-user Applications Made Easy.",
+                    "Blender: Self-randomizing Address Space Layout for Android Apps."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "18th RAID 2015",
+        "info": "Kyoto, Japan",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/raid/2015",
+                "sub_name": "Research in Attacks, Intrusions, and Defenses - 18th International Symposium, RAID 2015, Kyoto, Japan, November 2-4, 2015, Proceedings.",
+                "count": 28,
+                "papers": [
+                    "Ensemble Learning for Low-Level Hardware-Supported Malware Detection.",
+                    "Physical-Layer Detection of Hardware Keyloggers.",
+                    "Reverse Engineering Intel Last-Level Cache Complex Addressing Using Performance Counters.",
+                    "Hardware-Assisted Fine-Grained Code-Reuse Attack Detection.",
+                    "Haetae: Scaling the Performance of Network Intrusion Detection with Many-Core Processors.",
+                    "Demystifying the IP Blackspace.",
+                    "Providing Dynamic Control to Passive Network Security Monitoring.",
+                    "Probabilistic Inference on Integrity for Access Behavior Based Malware Detection.",
+                    "Counteracting Data-Only Malware with Code Pointer Examination.",
+                    "Xede: Practical Exploit Early Detection.",
+                    "Preventing Exploits in Microsoft Office Documents Through Content Randomization.",
+                    "Improving Accuracy of Static Integer Overflow Detection in Binary.",
+                    "A Formal Framework for Program Anomaly Detection.",
+                    "j\u00c4k: Using Dynamic Analysis to Crawl and Test Modern Web Applications.",
+                    "WYSISNWIV: What You Scan Is Not What I Visit.",
+                    "SDN Rootkits: Subverting Network Operating Systems of Software-Defined Networks.",
+                    "AppSpear: Bytecode Decrypting and DEX Reassembling for Packed Android Malware.",
+                    "HelDroid: Dissecting and Detecting Mobile Ransomware.",
+                    "Continuous Authentication on Mobile Devices Using Power Consumption, Touch Gestures and Physical Movement of Users.",
+                    "Privacy Risk Assessment on Online Photos.",
+                    "Privacy is Not an Option: Attacking the IPv6 Privacy Extension.",
+                    "Evaluation of Intrusion Detection Systems in Virtualized Environments Using Attack Injection.",
+                    "Security Analysis of PHP Bytecode Protection Mechanisms.",
+                    "Radmin: Early Detection of Application-Level Resource Exhaustion and Starvation Attacks.",
+                    "Towards Automatic Inference of Kernel Object Semantics from Binary Code.",
+                    "BotWatcher - Transparent and Generic Botnet Tracking.",
+                    "Elite: Automatic Orchestration of Elastic Detection Services to Secure Cloud Hosting.",
+                    "AmpPot: Monitoring and Defending Against Amplification DDoS Attacks."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/badgers/2015",
+                "sub_name": "4th International Workshop on Building Analysis Datasets and Gathering Experience Returns for Security, BADGERS@RAID 2015, Kyoto, Japan, November 5, 2015.",
+                "count": 9,
+                "papers": [
+                    "Tracking Network Events with Write Optimized Data Structures.",
+                    "MAD: A Middleware Framework for Multi-step Attack Detection.",
+                    "INTERCEPT+: SDN Support for Live Migration-Based Honeypots.",
+                    "The Significant Features of the UNSW-NB15 and the KDD99 Data Sets for Network Intrusion Detection Systems.",
+                    "Using Bayesian Decision Making to Detect Slow Scans.",
+                    "DGA Bot Detection with Time Series Decision Trees.",
+                    "Social Forensics: Searching for Needles in Digital Haystacks.",
+                    "Text-Mining Approach for Estimating Vulnerability Score.",
+                    "AJNA: Anti-phishing JS-based Visual Analysis, to Mitigate Users' Excessive Trust in SSL/TLS."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "17th RAID 2014",
+        "info": "Gothenburg, Sweden",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/raid/2014",
+                "sub_name": "Research in Attacks, Intrusions and Defenses - 17th International Symposium, RAID 2014, Gothenburg, Sweden, September 17-19, 2014. Proceedings.",
+                "count": 22,
+                "papers": [
+                    "Paint It Black: Evaluating the Effectiveness of Malware Blacklists.",
+                    "GoldenEye: Efficiently and Effectively Unveiling Malware's Targeted Environment.",
+                    "PillarBox: Combating Next-Generation Malware with Fast Forward-Secure Logging.",
+                    "Dynamic Reconstruction of Relocation Information for Stripped Binaries.",
+                    "Evaluating the Effectiveness of Current Anti-ROP Defenses.",
+                    "Unsupervised Anomaly-Based Malware Detection Using Hardware Features.",
+                    "Eyes of a Human, Eyes of a Program: Leveraging Different Views of the Web for Analysis and Detection.",
+                    "You Can't Be Me: Enabling Trusted Paths and User Sub-origins in Web Browsers.",
+                    "Measuring Drive-by Download Defense in Depth.",
+                    "A Lightweight Formal Approach for Analyzing Security of Web Protocols.",
+                    "Why Is CSP Failing? Trends and Challenges in CSP Adoption.",
+                    "Synthetic Data Generation and Defense in Depth Measurement of Web Applications.",
+                    "A Comparative Evaluation of Implicit Authentication Schemes.",
+                    "Protecting Web-Based Single Sign-on Protocols against Relying Party Impersonation Attacks through a Dedicated Bi-directional Authenticated Secure Channel.",
+                    "Wait a Minute! A fast, Cross-VM Attack on AES.",
+                    "Count Me In: Viable Distributed Summary Statistics for Securing High-Speed Networks.",
+                    "Formal Analysis of Security Procedures in LTE - A Feasibility Study.",
+                    "Run Away If You Can: - Persistent Jamming Attacks against Channel Hopping Wi-Fi Devices in Dense Networks.",
+                    "On Emulation-Based Network Intrusion Detection Systems.",
+                    "Quantitative Evaluation of Dynamic Platform Techniques as a Defensive Mechanism.",
+                    "Some Vulnerabilities Are Different Than Others - Studying Vulnerabilities and Attack Surfaces in the Wild.",
+                    "Towards a Masquerade Detection System Based on User's Tasks."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "16th RAID 2013",
+        "info": "Rodney Bay, St. Lucia",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/raid/2013",
+                "sub_name": "Research in Attacks, Intrusions, and Defenses - 16th International Symposium, RAID 2013, Rodney Bay, St. Lucia, October 23-25, 2013. Proceedings.",
+                "count": 22,
+                "papers": [
+                    "A Primitive for Revealing Stealthy Peripheral-Based Attacks on the Computing Platform's Main Memory.",
+                    "Hypervisor Memory Forensics.",
+                    "Server-Side Code Injection Attacks: A Historical Perspective.",
+                    "Check My Profile: Leveraging Static Analysis for Fast and Accurate Detection of ROP Gadgets.",
+                    "Systematic Analysis of Defenses against Return-Oriented Programming.",
+                    "SILVER: Fine-Grained and Transparent Protection Domain Primitives in Commodity OS Kernel.",
+                    "API Chaser: Anti-analysis Resistant Malware Analyzer.",
+                    "FIRMA: Malware Clustering and Network Signature Generation with Mixed Network Behaviors.",
+                    "Deobfuscating Embedded Malware Using Probable-Plaintext Attacks.",
+                    "Detecting Traditional Packers, Decisively.",
+                    "Side-Channel Attacks on the Yubikey 2 One-Time Password Generator.",
+                    "Active Credential Leakage for Observing Web-Based Attack Cycle.",
+                    "Behavior Decomposition: Aspect-Level Browser Extension Clustering and Its Security Implications.",
+                    "Tamper-Resistant LikeJacking Protection.",
+                    "Deconstructing the Assessment of Anomaly-based Intrusion Detectors.",
+                    "Practical Context-Aware Permission Control for Hybrid Mobile Applications.",
+                    "Understanding SMS Spam in a Large Cellular Network: Characteristics, Strategies and Defenses.",
+                    "Mobile Malware Detection Based on Energy Fingerprints - A Dead End?",
+                    "Holiday Pictures or Blockbuster Movies? Insights into Copyright Infringement in User Uploads to One-Click File Hosters.",
+                    "Connected Colors: Unveiling the Structure of Criminal Networks.",
+                    "CloudFence: Data Flow Tracking as a Cloud Service.",
+                    "Practical Attacks against the I2P Network."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "15th RAID 2012",
+        "info": "Amsterdam, The Netherlands",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/raid/2012",
+                "sub_name": "Research in Attacks, Intrusions, and Defenses - 15th International Symposium, RAID 2012, Amsterdam, The Netherlands, September 12-14, 2012. Proceedings.",
+                "count": 30,
+                "papers": [
+                    "Trusted VM Snapshots in Untrusted Cloud Infrastructures.",
+                    "Secure and Robust Monitoring of Virtual Machines through Guest-Assisted Introspection.",
+                    "Assessing the Trustworthiness of Drivers.",
+                    "Industrial Espionage and Targeted Attacks: Understanding the Characteristics of an Escalating Threat.",
+                    "Memory Errors: The Past, the Present, and the Future.",
+                    "A Memory Access Validation Scheme against Payload Injection Attacks.",
+                    "Dione: A Flexible Disk Monitoring and Analysis Framework.",
+                    "AK-PPM: An Authenticated Packet Attribution Scheme for Mobile Ad Hoc Networks.",
+                    "Paying for Piracy? An Analysis of One-Click Hosters' Controversial Reward Schemes.",
+                    "Proactive Discovery of Phishing Related Domain Names.",
+                    "Evaluating Electricity Theft Detectors in Smart Grid Networks.",
+                    "PoisonAmplifier: A Guided Approach of Discovering Compromised Websites through Reversing Search Poisoning Attacks.",
+                    "DEMACRO: Defense against Malicious Cross-Domain Requests.",
+                    "FlashDetect: ActionScript 3 Malware Detection.",
+                    "ALERT-ID: Analyze Logs of the Network Element in Real Time for Intrusion Detection.",
+                    "A Lone Wolf No More: Supporting Network Intrusion Detection with Real-Time Intelligence.",
+                    "GPP-Grep: High-Speed Regular Expression Processing Engine on General Purpose Processors.",
+                    "N-Gram against the Machine: On the Feasibility of the N-Gram Network Analysis for Binary Protocols.",
+                    "Online Social Networks, a Criminals Multipurpose Toolbox (Poster Abstract).",
+                    "The Triple-Channel Model: Toward Robust and Efficient Advanced Botnets (Poster Abstract).",
+                    "Network Security Analysis Method Taking into Account the Usage Information (Poster Abstract).",
+                    "Automatic Covert Channel Detection in Asbestos System (Poster Abstract).",
+                    "EFA for Efficient Regular Expression Matching in NIDS (Poster Abstract).",
+                    "Distress Detection (Poster Abstract).",
+                    "Trie Data Structure to Compare Traffic Payload in a Supervised Anomaly Detection System (Poster Abstract).",
+                    "Towards Automated Forensic Event Reconstruction of Malicious Code (Poster Abstract).",
+                    "Accurate Recovery of Functions in a Retargetable Decompiler(Poster Abstract).",
+                    "Improvement of an Anagram Based NIDS by Reducing the Storage Space of Bloom Filters (Poster Abstract).",
+                    "Concurrency Optimization for NIDS (Poster Abstract).",
+                    "Malware Detection System by Payload Analysis of Network Traffic (Poster Abstract)."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "14th RAID 2011",
+        "info": "Menlo Park, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/raid/2011",
+                "sub_name": "Recent Advances in Intrusion Detection - 14th International Symposium, RAID 2011, Menlo Park, CA, USA, September 20-21, 2011. Proceedings.",
+                "count": 20,
+                "papers": [
+                    "Minemu: The World's Fastest Taint Tracker.",
+                    "Dymo: Tracking Dynamic Code Identity.",
+                    "Automated Identification of Cryptographic Primitives in Binary Programs.",
+                    "Shellzer: A Tool for the Dynamic Analysis of Malicious Shellcode.",
+                    "KLIMAX: Profiling Memory Write Patterns to Detect Keystroke-Harvesting Malware.",
+                    "Packed, Printable, and Polymorphic Return-Oriented Programming.",
+                    "On the Expressiveness of Return-into-libc Attacks.",
+                    "Cross-Domain Collaborative Anomaly Detection: So Far Yet So Close.",
+                    "Revisiting Traffic Anomaly Detection Using Software Defined Networking.",
+                    "Modeling User Search Behavior for Masquerade Detection.",
+                    "Securing Application-Level Topology Estimation Networks: Facing the Frog-Boiling Attack.",
+                    "Detecting Traffic Snooping in Tor Using Decoys.",
+                    "Cross-Analysis of Botnet Victims: New Insights and Implications.",
+                    "Banksafe Information Stealer Detection Inside the Web Browser.",
+                    "IceShield: Detection and Mitigation of Malicious Websites with a Frozen DOM.",
+                    "Spam Filtering in Twitter Using Sender-Receiver Relationship.",
+                    "Die Free or Live Hard? Empirical Evaluation and New Design for Fighting Evolving Twitter Spammers.",
+                    "Detecting Environment-Sensitive Malware.",
+                    "Defending Embedded Systems with Software Symbiotes.",
+                    "What If You Can't Trust Your Network Card?"
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "13th RAID 2010",
+        "info": "Ottawa, Ontario, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/raid/2010",
+                "sub_name": "Recent Advances in Intrusion Detection, 13th International Symposium, RAID 2010, Ottawa, Ontario, Canada, September 15-17, 2010. Proceedings.",
+                "count": 39,
+                "papers": [
+                    "What Is the Impact of P2P Traffic on Anomaly Detection?",
+                    "A Centralized Monitoring Infrastructure for Improving DNS Security.",
+                    "Behavior-Based Worm Detectors Compared.",
+                    "Improving NFA-Based Signature Matching Using Ordered Binary Decision Diagrams.",
+                    "GrAVity: A Massively Parallel Antivirus Engine.",
+                    "Automatic Discovery of Parasitic Malware.",
+                    "BotSwindler: Tamper Resistant Injection of Believable Decoys in VM-Based Hosts for Crimeware Detection.",
+                    "CANVuS: Context-Aware Network Vulnerability Scanning.",
+                    "HyperCheck: A Hardware-Assisted Integrity Monitor.",
+                    "Kernel Malware Analysis with Un-tampered and Temporal Views of Dynamic Kernel Memory.",
+                    "Bait Your Hook: A Novel Detection Technique for Keyloggers.",
+                    "Generating Client Workloads and High-Fidelity Network Traffic for Controllable, Repeatable Experiments in Computer Security.",
+                    "On Challenges in Evaluating Malware Clustering.",
+                    "Why Did My Detector Do That?! - Predicting Keystroke-Dynamics Error Rates.",
+                    "NetStore: An Efficient Storage Infrastructure for Network Forensics and Monitoring.",
+                    "Live and Trustworthy Forensic Analysis of Commodity Production Systems.",
+                    "Hybrid Analysis and Control of Malware.",
+                    "Anomaly Detection and Mitigation for Disaster Area Networks.",
+                    "Community Epidemic Detection Using Time-Correlated Anomalies.",
+                    "A Data-Centric Approach to Insider Attack Detection in Database Systems.",
+                    "Privilege States Based Access Control for Fine-Grained Intrusion Response.",
+                    "Abusing Social Networks for Automated User Profiling.",
+                    "An Analysis of Rogue AV Campaigns.",
+                    "Fast-Flux Bot Detection in Real Time.",
+                    "A Client-Based and Server-Enhanced Defense Mechanism for Cross-Site Request Forgery.",
+                    "A Distributed Honeynet at KFUPM: A Case Study.",
+                    "Aspect-Based Attack Detection in Large-Scale Networks.",
+                    "Detecting Network Anomalies in Backbone Networks.",
+                    "Detecting the Onset of Infection for Secure Hosts.",
+                    "Eliminating Human Specification in Static Analysis.",
+                    "Evaluation of the Common Dataset Used in Anti-Malware Engineering Workshop 2009.",
+                    "Inferring Protocol State Machine from Real-World Trace.",
+                    "MEDUSA: Mining Events to Detect Undesirable uSer Actions in SCADA.",
+                    "On Estimating Cyber Adversaries' Capabilities: A Bayesian Model Approach.",
+                    "Security System for Encrypted Environments (S2E2).",
+                    "Towards Automatic Deduction and Event Reconstruction Using Forensic Lucid and Probabilities to Encode the IDS Evidence.",
+                    "Toward Specification-Based Intrusion Detection for Web Applications.",
+                    "Toward Whole-System Dynamic Analysis for ARM-Based Mobile Devices.",
+                    "Using IRP for Malware Detection."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "12th RAID 2009",
+        "info": "Saint-Malo, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/raid/2009",
+                "sub_name": "Recent Advances in Intrusion Detection, 12th International Symposium, RAID 2009, Saint-Malo, France, September 23-25, 2009. Proceedings.",
+                "count": 33,
+                "papers": [
+                    "Panacea: Automating Attack Classification for Anomaly-Based Network Intrusion Detection Systems.",
+                    "Protecting a Moving Target: Addressing Web Application Concept Drift.",
+                    "Adaptive Anomaly Detection via Self-calibration and Dynamic Updating.",
+                    "Runtime Monitoring and Dynamic Reconfiguration for Intrusion Detection Systems.",
+                    "Malware Behavioral Detection by Attribute-Automata Using Abstraction from Platform and Language.",
+                    "Automatic Generation of String Signatures for Malware Detection.",
+                    "PE-Miner: Mining Structural Information to Detect Malicious Executables in Realtime.",
+                    "Automatically Adapting a Trained Anomaly Detector to Software Patches.",
+                    "Towards Generating High Coverage Vulnerability-Based Signatures with Protocol-Level Constraint-Guided Exploration.",
+                    "Automated Behavioral Fingerprinting.",
+                    "SMS-Watchdog: Profiling Social Behaviors of SMS Users for Anomaly Detection.",
+                    "Keystroke-Based User Identification on Smart Phones.",
+                    "VirusMeter: Preventing Your Cellphone from Spies.",
+                    "Regular Expression Matching on Graphics Hardware for Intrusion Detection.",
+                    "Multi-byte Regular Expression Matching with Speculation.",
+                    "Toward Revealing Kernel Malware Behavior in Virtual Execution Environments.",
+                    "Exploiting Temporal Persistence to Detect Covert Botnet Channels.",
+                    "An Experimental Study on Instance Selection Schemes for Efficient Network Anomaly Detection.",
+                    "Automatic Software Instrumentation for the Detection of Non-control-data Attacks.",
+                    "BLADE: Slashing the Invisible Channel of Drive-by Download Malware.",
+                    "CERN Investigation of Network Behaviour and Anomaly Detection.",
+                    "Blare Tools: A Policy-Based Intrusion Detection System Automatically Set by the Security Policy.",
+                    "Detection, Alert and Response to Malicious Behavior in Mobile Devices: Knowledge-Based Approach.",
+                    "Autonomic Intrusion Detection System.",
+                    "ALICE@home: Distributed Framework for Detecting Malicious Sites.",
+                    "Packet Space Analysis of Intrusion Detection Signatures.",
+                    "Traffic Behaviour Characterization Using NetMate.",
+                    "On the Inefficient Use of Entropy for Anomaly Detection.",
+                    "Browser-Based Intrusion Prevention System.",
+                    "Using Formal Grammar and Genetic Operators to Evolve Malware.",
+                    "Method for Detecting Unknown Malicious Executables.",
+                    "Brave New World: Pervasive Insecurity of Embedded Network Devices.",
+                    "DAEDALUS: Novel Application of Large-Scale Darknet Monitoring for Practical Protection of Live Networks."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "11th RAID 2008",
+        "info": "Cambridge, MA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/raid/2008",
+                "sub_name": "Recent Advances in Intrusion Detection, 11th International Symposium, RAID 2008, Cambridge, MA, USA, September 15-17, 2008. Proceedings.",
+                "count": 36,
+                "papers": [
+                    "Guest-Transparent Prevention of Kernel Rootkits with VMM-Based Memory Shadowing.",
+                    "Countering Persistent Kernel Rootkits through Systematic Hook Discovery.",
+                    "Tamper-Resistant, Application-Aware Blocking of Malicious Network Connections.",
+                    "A First Step towards Live Botmaster Traceback.",
+                    "A Layered Architecture for Detecting Malicious Behaviors.",
+                    "A Study of the Packer Problem and Its Solutions.",
+                    "Gnort: High Performance Network Intrusion Detection Using Graphics Processors.",
+                    "Predicting the Resource Consumption of Network Intrusion Detection Systems.",
+                    "High-Speed Matching of Vulnerability Signatures.",
+                    "Swarm Attacks against Network-Level Emulation/Analysis.",
+                    "Leveraging User Interactions for In-Depth Testing of Web Applications.",
+                    "Model-Based Covert Timing Channels: Automated Modeling and Evasion.",
+                    "Optimal Cost, Collaborative, and Distributed Response to Zero-Day Worms - A Control Theoretic Approach.",
+                    "On the Limits of Payload-Oblivious Network Attack Detection.",
+                    "Determining Placement of Intrusion Detectors for a Distributed Application through Bayesian Network Modeling.",
+                    "A Multi-Sensor Model to Improve Automated Attack Detection.",
+                    "Monitoring SIP Traffic Using Support Vector Machines.",
+                    "The Effect of Clock Resolution on Keystroke Dynamics.",
+                    "A Comparative Evaluation of Anomaly Detectors under Portscan Attacks.",
+                    "Advanced Network Fingerprinting.",
+                    "On Evaluation of Response Cost for Intrusion Response Systems.",
+                    "WebIDS: A Cooperative Bayesian Anomaly-Based Intrusion Detection System for Web Applications (Extended Abstract).",
+                    "Evading Anomaly Detection through Variance Injection Attacks on PCA.",
+                    "Anticipating Hidden Text Salting in Emails.",
+                    "Improving Anomaly Detection Error Rate by Collective Trust Modeling.",
+                    "Database Intrusion Detection and Response.",
+                    "An Empirical Approach to Identify Information Misuse by Insiders (Extended Abstract).",
+                    "Page-Based Anomaly Detection in Large Scale Web Clusters Using Adaptive MapReduce (Extended Abstract).",
+                    "Automating the Analysis of Honeypot Data (Extended Abstract).",
+                    "Anomaly and Specification Based Cognitive Approach for Mission-Level Detection and Response.",
+                    "Monitoring the Execution of Third-Party Software on Mobile Devices.",
+                    "Streaming Estimation of Information-Theoretic Metrics for Anomaly Detection (Extended Abstract).",
+                    "Bots Behaviors vs. Human Behaviors on Large-Scale Communication Networks (Extended Abstract).",
+                    "Anomalous Taint Detection.",
+                    "Deep Packet Inspection Using Message Passing Networks.",
+                    "System Call API Obfuscation (Extended Abstract)."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "10th RAID 2007",
+        "info": "Gold Goast, Queensland, Australia",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/raid/2007",
+                "sub_name": "Recent Advances in Intrusion Detection, 10th International Symposium, RAID 2007, Gold Goast, Australia, September 5-7, 2007, Proceedings.",
+                "count": 17,
+                "papers": [
+                    "Exploiting Execution Context for the Detection of Anomalous System Calls.",
+                    "Understanding Precision in Host Based Intrusion Detection.",
+                    "Comparing Anomaly Detection Techniques for HTTP.",
+                    "Swaddler: An Approach for the Anomaly-Based Detection of State Violations in Web Applications.",
+                    "Emulation-Based Detection of Non-self-contained Polymorphic Shellcode.",
+                    "The NIDS Cluster: Scalable, Stateful Network Intrusion Detection on Commodity Hardware.",
+                    "Cost-Sensitive Intrusion Responses for Mobile Ad Hoc Networks.",
+                    "elicit: A System for Detecting Insiders Who Violate Need-to-Know.",
+                    "On the Use of Different Statistical Tests for Alert Correlation - Short Paper.",
+                    "Automated Classification and Analysis of Internet Malware.",
+                    "\"Out-of-the-Box\" Monitoring of VM-Based High-Interaction Honeypots.",
+                    "A Forced Sampled Execution Approach to Kernel Rootkit Identification.",
+                    "Advanced Allergy Attacks: Does a Corpus Really Help?",
+                    "Alert Verification Evasion Through Server Response Forging.",
+                    "Hit-List Worm Detection and Bot Identification in Large Networks Using Protocol Graphs.",
+                    "SpyShield: Preserving Privacy from Spy Add-Ons.",
+                    "Vortex: Enabling Cooperative Selective Wormholing for Network Security Systems."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "9th RAID 2006",
+        "info": "Hamburg, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/raid/2006",
+                "sub_name": "Recent Advances in Intrusion Detection, 9th International Symposium, RAID 2006, Hamburg, Germany, September 20-22, 2006, Proceedings.",
+                "count": 16,
+                "papers": [
+                    "A Framework for the Application of Association Rule Mining in Large Intrusion Detection Infrastructures.",
+                    "Behavioral Distance Measurement Using Hidden Markov Models.",
+                    "Automated Discovery of Mimicry Attacks.",
+                    "Allergy Attack Against Automatic Signature Generation.",
+                    "Paragraph: Thwarting Signature Learning by Training Maliciously.",
+                    "Anomaly Detector Performance Evaluation Using a Parameterized Environment.",
+                    "Ranking Attack Graphs.",
+                    "Using Hidden Markov Models to Evaluate the Risks of Intrusions.",
+                    "The Nepenthes Platform: An Efficient Approach to Collect Malware.",
+                    "Automatic Handling of Protocol Dependencies and Reaction to 0-Day Attacks with ScriptGen Based Honeypots.",
+                    "Fast and Evasive Attacks: Highlighting the Challenges Ahead.",
+                    "Anagram: A Content Anomaly Detector Resistant to Mimicry Attack.",
+                    "DEMEM: Distributed Evidence-Driven Message Exchange Intrusion Detection Model for MANET.",
+                    "Enhancing Network Intrusion Detection with Integrated Sampling and Filtering.",
+                    "WIND: Workload-Aware INtrusion Detection.",
+                    "SafeCard: A Gigabit IPS on the Network Card."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "8th RAID 2005",
+        "info": "Seattle, WA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/raid/2005",
+                "sub_name": "Recent Advances in Intrusion Detection, 8th International Symposium, RAID 2005, Seattle, WA, USA, September 7-9, 2005, Revised Papers.",
+                "count": 17,
+                "papers": [
+                    "Virtual Playgrounds for Worm Behavior Investigation.",
+                    "Empirical Analysis of Rate Limiting Mechanisms.",
+                    "COTS Diversity Based Intrusion Detection and Application to Web Servers.",
+                    "Behavioral Distance for Intrusion Detection.",
+                    "FLIPS: Hybrid Adaptive Intrusion Prevention.",
+                    "Towards Software-Based Signature Detection for Intrusion Prevention on the Network Card.",
+                    "Defending Against Injection Attacks Through Context-Sensitive String Evaluation.",
+                    "Improving Host-Based IDS with Argument Abstraction to Prevent Mimicry Attacks.",
+                    "On Random-Inspection-Based Intrusion Detection.",
+                    "Environment-Sensitive Intrusion Detection.",
+                    "Polymorphic Worm Detection Using Structural Information of Executables.",
+                    "Anomalous Payload-Based Worm Detection and Signature Generation.",
+                    "On Interactive Internet Traffic Replay.",
+                    "Interactive Visualization for Network and Port Scan Detection.",
+                    "A Fast Static Analysis Approach to Detect Exploit Code Inside Network Flows.",
+                    "Sequence Number-Based MAC Address Spoof Detection.",
+                    "A Specification-Based Intrusion Detection Model for OLSR."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "7th RAID 2004",
+        "info": "Sophia Antipolis, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/raid/2004",
+                "sub_name": "Recent Advances in Intrusion Detection: 7th International Symposium, RAID 2004, Sophia Antipolis, France, September 15-17, 2004. Proceedings.",
+                "count": 16,
+                "papers": [
+                    "Automatic Extraction of Accurate Application-Specific Sandboxing Policy.",
+                    "Context Sensitive Anomaly Monitoring of Process Control Flow to Detect Mimicry Attacks and Impossible Paths.",
+                    "HoneyStat: Local Worm Detection Using Honeypots.",
+                    "Fast Detection of Scanning Worm Infections.",
+                    "Detecting Unknown Massive Mailing Viruses Using Proactive Methods.",
+                    "Using Adaptive Alert Classification to Reduce False Positives in Intrusion Detection.",
+                    "Attack Analysis and Detection for Ad Hoc Routing Protocols.",
+                    "On the Design and Use of Internet Sinks for Network Abuse Monitoring.",
+                    "Monitoring IDS Background Noise Using EWMA Control Charts and Alert Information.",
+                    "Symantec Deception Server Experience with a Commercial Deception System.",
+                    "Anomalous Payload-Based Network Intrusion Detection.",
+                    "Anomaly Detection Using Layered Networks Based on Eigen Co-occurrence Matrix.",
+                    "Seurat: A Pointillist Approach to Anomaly Detection.",
+                    "Detection of Interactive Stepping Stones: Algorithms and Confidence Bounds.",
+                    "Formal Reasoning About Intrusion Detection Systems.",
+                    "RheoStat: Real-Time Risk Management."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "name": "6th RAID 2003",
+        "info": "Pittsburgh, PA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/raid/2003",
+                "sub_name": "Recent Advances in Intrusion Detection, 6th International Symposium, RAID 2003, Pittsburgh, PA, USA, September 8-10, 2003, Proceedings.",
+                "count": 13,
+                "papers": [
+                    "Mitigating Distributed Denial of Service Attacks Using a Proportional-Integral-Derivative Controller.",
+                    "Topology-Based Detection of Anomalous BGP Messages.",
+                    "Detecting Anomalous Network Traffic with Self-organizing Maps.",
+                    "An Approach for Detecting Self-propagating Email Using Anomaly Detection.",
+                    "Statistical Causality Analysis of INFOSEC Alert Data.",
+                    "Correlation of Intrusion Symptoms: An Application of Chronicles.",
+                    "Modeling Computer Attacks: An Ontology for Intrusion Detection.",
+                    "Using Specification-Based Intrusion Detection for Automated Response.",
+                    "Characterizing the Performance of Network Intrusion Detection Sensors.",
+                    "Using Decision Trees to Improve Signature-Based Intrusion Detection.",
+                    "Ambiguity Resolution via Passive OS Fingerprinting.",
+                    "Two Sophisticated Techniques to Improve HMM-Based Intrusion Detection Systems.",
+                    "An Analysis of the 1999 DARPA/Lincoln Laboratory Evaluation Data for Network Anomaly Detection."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2002",
+        "name": "5th RAID 2002",
+        "info": "Zurich, Switzerland",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/raid/2002",
+                "sub_name": "Recent Advances in Intrusion Detection, 5th International Symposium, RAID 2002, Zurich, Switzerland, October 16-18, 2002, Proceedings.",
+                "count": 17,
+                "papers": [
+                    "Detecting Long Connection Chains of Interactive Terminal Sessions.",
+                    "Multiscale Stepping-Stone Detection: Detecting Pairs of Jittered Interactive Streams by Exploiting Maximum Tolerable Delay.",
+                    "Detecting Malicious Software by Monitoring Anomalous Windows Registry Accesses.",
+                    "Undermining an Anomaly-Based Intrusion Detection System Using Common Exploits.",
+                    "Analyzing Intensive Intrusion Alerts via Correlation.",
+                    "A Mission-Impact-Based Approach to INFOSEC Alarm Correlation.",
+                    "M2D2: A Formal Data Model for IDS Alert Correlation.",
+                    "Development of a Legal Framework for Intrusion Detection.",
+                    "Learning Unknown Attacks - A Start.",
+                    "Evaluation of the Diagnostic Capabilities of Commercial Intrusion Detection Systems.",
+                    "A Stochastic Model for Intrusions.",
+                    "Attacks Against Computer Network: Formal Grammar-Based Framework and Simulation Tool.",
+                    "Capacity Verification for High Speed Network Intrusion Detection Systems.",
+                    "Performance Adaptation in Real-Time Intrusion Detection Systems.",
+                    "Accurate Buffer Overflow Detection via Abstract Payload Execution.",
+                    "Introducing Reference Flow Control for Detecting Intrusion Symptoms at the OS Level.",
+                    "The Effect of Identifying Vulnerabilities and Patching Software on the Utility of Network Intrusion Detection."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2001",
+        "name": "4th RAID 2001",
+        "info": "Davis, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/raid/2001",
+                "sub_name": "Recent Advances in Intrusion Detection, 4th International Symposium, RAID 2001 Davis, CA, USA, October 10-12, 2001, Proceedings.",
+                "count": 12,
+                "papers": [
+                    "From Declarative Signatures to Misuse IDS.",
+                    "Application-Integrated Data Collection for Security Monitoring.",
+                    "Interfacing Trusted Applications with Intrusion Detection Systems.",
+                    "Probabilistic Alert Correlation.",
+                    "Designing a Web of Highly-Configurable Intrusion Detection Sensors.",
+                    "Aggregation and Correlation of Intrusion-Detection Alerts.",
+                    "Accurately Detecting Source Code of Attacks That Increase Privilege.",
+                    "CDIS: Towards a Computer Immune System for Detecting Network Intrusions.",
+                    "Autonomic Response to Distributed Denial of Service Attacks.",
+                    "The Impact of Privacy and Data Protection Legislation on the Sharing of Intrusion Detection Information.",
+                    "Experiences with Specification-Based Intrusion Detection.",
+                    "System Health and Intrusion Monitoring Using a Hierarchy of Constraints."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2000",
+        "name": "3rd RAID 2000",
+        "info": "Toulouse, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/raid/2000",
+                "sub_name": "Recent Advances in Intrusion Detection, Third International Workshop, RAID 2000, Toulouse, France, October 2-4, 2000, Proceedings.",
+                "count": 14,
+                "papers": [
+                    "Better Logging through Formality.",
+                    "A Pattern Matching Based Filter for Audit Reduction and Fast Detection of Potential Intrusions.",
+                    "Transaction-Based Pseudonyms in Audit Data for Privacy Respecting Intrusion Detection.",
+                    "A Data Mining and CIDF Based Approach for Detecting Novel and Distributed Intrusions.",
+                    "Using Finite Automata to Mine Execution Data for Intrusion Detection: A Preliminary Report.",
+                    "Adaptive, Model-Based Monitoring for Cyber Attack Detection.",
+                    "A Real-Time Intrusion Detection System Based on Learning Program Behavior.",
+                    "Intrusion Detection Using Variable-Length Audit Trail Patterns.",
+                    "Flexible Intrusion Detection Using Variable-Length Behavior Modeling in Distributed Environment: Application to CORBA Objects.",
+                    "The 1998 Lincoln Laboratory IDS Evaluation.",
+                    "Analysis and Results of the 1999 DARPA Off-Line Intrusion Detection Evaluation.",
+                    "Using Rule-Based Activity Descriptions to Evaluate Intrusion-Detection Systems.",
+                    "LAMBDA: A Language to Model a Database for Detection of Attacks.",
+                    "Target Naming and Service Apoptosis."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1999",
+        "name": "2nd RAID 1999",
+        "info": "West Lafayette, Indiana, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/raid/1999",
+                "sub_name": "Recent Advances in Intrusion Detection, Second International Workshop, RAID 1999, West Lafayette, Indiana, USA, September 7-9, 1999.",
+                "count": 32,
+                "papers": [
+                    "Misuse Detection in Database Systems Through User Profiling.",
+                    "Audit logs: to keep or not to keep?",
+                    "Micael: An Autonomous Mobile Agent System to Protect New Generation Networked Applications.",
+                    "Mobile Agent Attack Resistant Distributed Hierarchical Intrusion Detection Systems.",
+                    "New directions for the AAFID architecture.",
+                    "Combining Knowledge Discovery and Knowledge Engineering to Build IDSs.",
+                    "A Data Mining Analysis of RTID Alarms.",
+                    "Intrusion Detection Inter-component Adaptive Negotiation.",
+                    "Building an Intrusion-Detection System to Detect Suspicious Process Behavior.",
+                    "Towards trapping wily intruders in the large.",
+                    "Defending against network IDS evasion.",
+                    "IDS Standards: Lessons Learned to Date.",
+                    "Results of the DARPA 1998 Offline Intrusion Detection Evaluation.",
+                    "Lessons Learned in Commercial IDS Development.",
+                    "Air Force Intrusion Detection System Evaluation Environment.",
+                    "Nidsbench - a Network Intrusion Detection Test Suite.",
+                    "Vulnerability Analysis: An Extended Abstract.",
+                    "The Development of a Common Vulnerability Enumeration.",
+                    "Privacy vs. Intrusion Detection Analysis.",
+                    "On a Difficulty of Intrusion Detection.",
+                    "Intrusion Detection, Internet Law Enforcement and Insurance Coverage to Accelerate the Proliferation of Internet Business Singapore.",
+                    "Intrusion Detection for Telephony Signalling.",
+                    "Minimizing Bandwidth for Remote Access to Cryptographically Protected Audit Logs.",
+                    "Anomaly Intrusion Detection Systems: Handling Temporal Relations Between Events.",
+                    "Improving Intrusion Detection Performance using Keyword Selection and Neural Networks.",
+                    "Intrusion Detection Mechanism to Detect Reachability Attacks in PNNI Networks.",
+                    "Session State Transition Based Large Network IDS.",
+                    "Defending against a Denial-of-Service Attack on TCP.",
+                    "Intrusion Detection for an On-Going Attack.",
+                    "Intrusion Detection and Isolation Protocol: Automated Response to Attacks.",
+                    "A Study in the Feasibility of Performing Host-Based Anomaly Detection on Windows NT.",
+                    "SNMS - Shadow Network Management System."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1998",
+        "name": "1st RAID 1998",
+        "info": "Louvain-la-Neuve, Belgium",
+        "venues": []
+    }
+]

@@ -1,0 +1,887 @@
+[
+    {
+        "year": "2022",
+        "name": "CT-RSA 2022",
+        "info": "Virtual Event",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ctrsa/2022",
+                "sub_name": "Topics in Cryptology - CT-RSA 2022 - Cryptographers' Track at the RSA Conference 2022, Virtual Event, March 1-2, 2022, Proceedings.",
+                "count": 24,
+                "papers": [
+                    "Multicast Key Agreement, Revisited.",
+                    "A Pairing-Free Signature Scheme from Correlation Intractable Hash Function and Strong Diffie-Hellman Assumption.",
+                    "Faster Isogenies for Post-quantum Cryptography: SIKE.",
+                    "Fully Projective Radical Isogenies in Constant-Time.",
+                    "Private Liquidity Matching Using MPC.",
+                    "Approximate Homomorphic Encryption with Reduced Approximation Error.",
+                    "Attacks on Pseudo Random Number Generators Hiding a Linear Structure.",
+                    "Lattice-Based Fault Attacks on Deterministic Signature Schemes of ECDSA and EdDSA.",
+                    "More Accurate Geometric Analysis on the Impact of Successful Decryptions for IND-CCA Secure Ring/Mod-LWE/LWR Based Schemes.",
+                    "Integral Attacks on Pyjamask-96 and Round-Reduced Pyjamask-128.",
+                    "Related-Tweakey Impossible Differential Attack on Reduced-Round SKINNY-AEAD M1/M3.",
+                    "Side-Channeling the Kalyna Key Expansion.",
+                    "Fake It Till You Make It: Data Augmentation Using Generative Adversarial Networks for All the Crypto You Need on Small Devices.",
+                    "A New Adaptive Attack on SIDH.",
+                    "On Fingerprinting Attacks and Length-Hiding Encryption.",
+                    "CCA Secure A Posteriori Openable Encryption in the Standard Model.",
+                    "Dynamic Universal Accumulator with Batch Update over Bilinear Groups.",
+                    "Adaptively Secure Laconic Function Evaluation for NC1.",
+                    "FASTA - A Stream Cipher for Fast FHE Evaluation.",
+                    "New Attacks from Old Distinguishers Improved Attacks on Serpent.",
+                    "Pholkos - Efficient Large-State Tweakable Block Ciphers from the AES Round Function.",
+                    "Robust Subgroup Multi-signatures for Consensus.",
+                    "Subversion-Resilient Enhanced Privacy ID.",
+                    "PriBank: Confidential Blockchain Scaling Using Short Commit-and-Proof NIZK Argument."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2021",
+        "name": "CT-RSA 2021",
+        "info": "Virtual Event",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ctrsa/2021",
+                "sub_name": "Topics in Cryptology - CT-RSA 2021 - Cryptographers' Track at the RSA Conference 2021, Virtual Event, May 17-20, 2021, Proceedings.",
+                "count": 27,
+                "papers": [
+                    "Secure Fast Evaluation of Iterative Methods: With an Application to Secure PageRank.",
+                    "Compilation of Function Representations for Secure Computing Paradigms.",
+                    "Oblivious TLS via Multi-party Computation.",
+                    "Noisy Simon Period Finding.",
+                    "A Bunch of Broken Schemes: A Simple yet Powerful Linear Approach to Analyzing Security of Attribute-Based Encryption.",
+                    "Zero-Correlation Linear Cryptanalysis with Equal Treatment for Plaintexts and Tweakeys.",
+                    "SoK: Game-Based Security Models for Group Key Exchange.",
+                    "EPID with Malicious Revocation.",
+                    "Signed Diffie-Hellman Key Exchange with Tight Security.",
+                    "Lattice-Based Proof of Shuffle and Applications to Electronic Voting.",
+                    "More Efficient Shuffle Argument from Unique Factorization.",
+                    "Cryptanalysis of a Dynamic Universal Accumulator over Bilinear Groups.",
+                    "FAN: A Lightweight Authenticated Cryptographic Algorithm.",
+                    "Related-Key Analysis of Generalized Feistel Networks with Expanding Round Functions.",
+                    "The Key-Dependent Message Security of Key-Alternating Feistel Ciphers.",
+                    "Mesh Messaging in Large-Scale Protests: Breaking Bridgefy.",
+                    "Inverse-Sybil Attacks in Automated Contact Tracing.",
+                    "On the Effectiveness of Time Travel to Inject COVID-19 Alerts.",
+                    "SoK: How (not) to Design and Implement Post-quantum Cryptography.",
+                    "Dual Lattice Attacks for Closest Vector Problems (with Preprocessing).",
+                    "On the Hardness of Module-LWE with Binary Secret.",
+                    "Multi-party Revocation in Sovrin: Performance through Distributed Trust.",
+                    "Balancing Privacy and Accountability in Blockchain Identity Management.",
+                    "Non-interactive Half-Aggregation of EdDSA and Variants of Schnorr Signatures.",
+                    "A Framework to Optimize Implementations of Matrices.",
+                    "Improvements to RSA Key Generation and CRT on Embedded Devices.",
+                    "On the Cost of ASIC Hardware Crackers: A SHA-1 Case Study."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "name": "CT-RSA 2020",
+        "info": "San Francisco, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ctrsa/2020",
+                "sub_name": "Topics in Cryptology - CT-RSA 2020 - The Cryptographers' Track at the RSA Conference 2020, San Francisco, CA, USA, February 24-28, 2020, Proceedings.",
+                "count": 28,
+                "papers": [
+                    "Generic Attack on Iterated Tweakable FX Constructions.",
+                    "Universal Forgery Attack Against GCM-RUP.",
+                    "My Gadget Just Cares for Me - How NINA Can Prove Security Against Combined Attacks.",
+                    "Modeling Memory Faults in Signature and Authenticated Encryption Schemes.",
+                    "Cryptanalysis of the Multivariate Encryption Scheme EFLASH.",
+                    "FPL: White-Box Secure Block Cipher Using Parallel Table Look-Ups.",
+                    "Extending NIST's CAVP Testing of Cryptographic Hash Function Implementations.",
+                    "A Fast Characterization Method for Semi-invasive Fault Injection Attacks.",
+                    "Tightly Secure Two-Pass Authenticated Key Exchange Protocol in the CK Model.",
+                    "Symmetric-Key Authenticated Key Exchange (SAKE) with Perfect Forward Secrecy.",
+                    "TMPS: Ticket-Mediated Password Strengthening.",
+                    "Overdrive2k: Efficient Secure MPC over $\\mathbb {Z}_{2^k}$ from Somewhat Homomorphic Encryption.",
+                    "SoK: A Consensus Taxonomy in the Blockchain Era.",
+                    "Consensus from Signatures of Work.",
+                    "Faster Homomorphic Encryption is not Enough: Improved Heuristic for Multiplicative Depth Minimization of Boolean Circuits.",
+                    "Better Bootstrapping for Approximate Homomorphic Encryption.",
+                    "Improved Secure Integer Comparison via Homomorphic Encryption.",
+                    "Efficient FPGA Implementations of LowMC and Picnic.",
+                    "Traceable Ring Signatures with Post-quantum Security.",
+                    "Post-quantum Provably-Secure Authentication and MAC from Mersenne Primes.",
+                    "Another Look at Some Isogeny Hardness Assumptions.",
+                    "How to Construct CSIDH on Edwards Curves.",
+                    "Policy-Based Sanitizable Signatures.",
+                    "Traceable Inner Product Functional Encryption.",
+                    "One-More Assumptions Do Not Help Fiat-Shamir-type Signature Schemes in NPROM.",
+                    "Cut-and-Choose for Garbled RAM.",
+                    "Universally Composable Accumulators.",
+                    "A Non-interactive Shuffle Argument with Low Trust Assumptions."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "CT-RSA 2019",
+        "info": "San Francisco, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ctrsa/2019",
+                "sub_name": "Topics in Cryptology - CT-RSA 2019 - The Cryptographers' Track at the RSA Conference 2019, San Francisco, CA, USA, March 4-8, 2019, Proceedings.",
+                "count": 28,
+                "papers": [
+                    "Structure-Preserving Certificateless Encryption and Its Application.",
+                    "Public Key Encryption Resilient to Post-challenge Leakage and Tampering Attacks.",
+                    "Downgradable Identity-Based Encryption and Applications.",
+                    "Large Universe Subset Predicate Encryption Based on Static Assumption (Without Random Oracle).",
+                    "An Improved RNS Variant of the BFV Homomorphic Encryption Scheme.",
+                    "New Techniques for Multi-value Input Homomorphic Evaluation and Applications.",
+                    "Efficient Function-Hiding Functional Encryption: From Inner-Products to Orthogonality.",
+                    "Robust Encryption, Extended.",
+                    "Tight Reductions for Diffie-Hellman Variants in the Algebraic Group Model.",
+                    "Doubly Half-Injective PRGs for Incompressible White-Box Cryptography.",
+                    "Error Detection in Monotone Span Programs with Application to Communication-Efficient Multi-party Computation.",
+                    "Lossy Trapdoor Permutations with Improved Lossiness.",
+                    "Post-quantum EPID Signatures from Symmetric Primitives.",
+                    "Assessment of the Key-Reuse Resilience of NewHope.",
+                    "Universal Forgery and Multiple Forgeries of MergeMAC and Generalized Constructions.",
+                    "Linking Stam's Bounds with Generalized Truncation.",
+                    "Poly-Logarithmic Side Channel Rank Estimation via Exponential Sampling.",
+                    "Efficient Fully-Leakage Resilient One-More Signature Schemes.",
+                    "MILP-Based Differential Attack on Round-Reduced GIFT.",
+                    "Quantum Chosen-Ciphertext Attacks Against Feistel Ciphers.",
+                    "Automatic Search for a Variant of Division Property Using Three Subsets.",
+                    "Constructing TI-Friendly Substitution Boxes Using Shift-Invariant Permutations.",
+                    "Fast Secure Comparison for Medium-Sized Integers and Its Application in Binarized Neural Networks.",
+                    "EPIC: Efficient Private Image Classification (or: Learning from the Masters).",
+                    "Context Hiding Multi-key Linearly Homomorphic Authenticators.",
+                    "Revisiting the Secret Hiding Assumption Used in Verifiable (Outsourced) Computation.",
+                    "Delegatable Anonymous Credentials from Mercurial Signatures.",
+                    "Accountable Tracing Signatures from Lattices."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "CT-RSA 2018",
+        "info": "San Francisco, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ctrsa/2018",
+                "sub_name": "Topics in Cryptology - CT-RSA 2018 - The Cryptographers' Track at the RSA Conference 2018, San Francisco, CA, USA, April 16-20, 2018, Proceedings.",
+                "count": 26,
+                "papers": [
+                    "Breaking Ed25519 in WolfSSL.",
+                    "MemJam: A False Dependency Attack Against Constant-Time Crypto Implementations in SGX.",
+                    "Why Johnny the Developer Can't Work with Public Key Certificates - An Experimental Study of OpenSSL Usability.",
+                    "Improved Factorization of N=p^rq^s.",
+                    "Cryptanalysis of Compact-LWE.",
+                    "Two-Message Key Exchange with Strong Security from Ideal Lattices.",
+                    "High-Precision Arithmetic in Homomorphic Encryption.",
+                    "Threshold Properties of Prime Power Subgroups with Application to Secure Integer Comparisons.",
+                    "Practical Revocation and Key Rotation.",
+                    "Asynchronous Provably-Secure Hidden Services.",
+                    "Cryptanalysis Against Symmetric-Key Schemes with Online Classical Queries and Offline Quantum Computations.",
+                    "Improving Stateless Hash-Based Signatures.",
+                    "MixColumns Properties and Attacks on (Round-Reduced) AES with a Single Secret S-Box.",
+                    "Count-then-Permute: A Precision-Free Alternative to Inversion Sampling.",
+                    "Zero-Sum Partitions of PHOTON Permutations.",
+                    "Improved Security Bound of LightMAC_Plus and Its Single-Key Variant.",
+                    "Reassessing Security of Randomizable Signatures.",
+                    "Differential Attacks on Deterministic Signatures.",
+                    "Composable and Robust Outsourced Storage.",
+                    "Secure Deduplication of Encrypted Data: Refined Model and New Constructions.",
+                    "Two Sides of the Same Coin: Counting and Enumerating Keys Post Side-Channel Attacks Revisited.",
+                    "High-Resolution EM Attacks Against Leakage-Resilient PRFs Explained - And an Improved Construction.",
+                    "Revocable Identity-Based Encryption from Codes with Rank Metric.",
+                    "An Exposure Model for Supersingular Isogeny Diffie-Hellman Key Exchange.",
+                    "Practical, Anonymous, and Publicly Linkable Universally-Composable Reputation Systems.",
+                    "Regularly Lossy Functions and Applications."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "CT-RSA 2017",
+        "info": "San Francisco, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ctrsa/2017",
+                "sub_name": "Topics in Cryptology - CT-RSA 2017 - The Cryptographers' Track at the RSA Conference 2017, San Francisco, CA, USA, February 14-17, 2017, Proceedings.",
+                "count": 25,
+                "papers": [
+                    "Choosing Parameters for NTRUEncrypt.",
+                    "Encoding-Free ElGamal-Type Encryption Schemes on Elliptic Curves.",
+                    "Gauss Sieve Algorithm on GPUs.",
+                    "A Tool Kit for Partial Key Exposure Attacks on RSA.",
+                    "Feeding Two Cats with One Bowl: On Designing a Fault and Side-Channel Resistant Software Encoding Scheme.",
+                    "An Efficient Side-Channel Protected AES Implementation with Arbitrary Protection Order.",
+                    "Time-Memory Trade-Offs for Side-Channel Resistant Implementations of Block Ciphers.",
+                    "Hiding Higher-Order Side-Channel Leakage - Randomizing Cryptographic Implementations in Reconfigurable Hardware.",
+                    "Surnaming Schemes, Fast Verification, and Applications to SGX Technology.",
+                    "On the Entropy of Oscillator-Based True Random Number Generators.",
+                    "Provably Secure Password Authenticated Key Exchange Based on RLWE for the Post-Quantum World.",
+                    "Impossible-Differential and Boomerang Cryptanalysis of Round-Reduced Kiasu-BC.",
+                    "Weak Keys for AEZ, and the External Key Padding Attack.",
+                    "Full Disk Encryption: Bridging Theory and Practice.",
+                    "Revisiting Full-PRF-Secure PMAC and Using It for Beyond-Birthday Authenticated Encryption.",
+                    "Publish or Perish: A Backward-Compatible Defense Against Selfish Mining in Bitcoin.",
+                    "WEM: A New Family of White-Box Block Ciphers Based on the Even-Mansour Construction.",
+                    "A Bounded-Space Near-Optimal Key Enumeration Algorithm for Multi-subkey Side-Channel Attacks.",
+                    "Improved Key Recovery Algorithms from Noisy RSA Secret Keys with Analog Noise.",
+                    "Ridge-Based Profiled Differential Power Analysis.",
+                    "My Traces Learn What You Did in the Dark: Recovering Secret Signals Without Key Guesses.",
+                    "Actively Secure 1-out-of-N OT Extension with Application to Private Set Intersection.",
+                    "Low-Leakage Secure Search for Boolean Expressions.",
+                    "Constructions Secure Against Receiver Selective Opening and Chosen Ciphertext Attacks.",
+                    "New Revocable IBE in Prime-Order Groups: Adaptively Secure, Decryption Key Exposure Resistant, and with Short Public Parameters."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "CT-RSA 2016",
+        "info": "San Francisco, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ctrsa/2016",
+                "sub_name": "Topics in Cryptology - CT-RSA 2016 - The Cryptographers' Track at the RSA Conference 2016, San Francisco, CA, USA, February 29 - March 4, 2016, Proceedings.",
+                "count": 26,
+                "papers": [
+                    "Mitigating Server Breaches in Password-Based Authentication: Secure and Efficient Solutions.",
+                    "Strongly Leakage-Resilient Authenticated Key Exchange.",
+                    "INT-RUP Analysis of Block-cipher Based Authenticated Encryption Schemes.",
+                    "From Stateless to Stateful: Generic Authentication and Authenticated Encryption Constructions with Application to TLS.",
+                    "Dynamic Symmetric Searchable Encryption from Constrained Functional Encryption.",
+                    "Private Large-Scale Databases with Distributed Searchable Symmetric Encryption.",
+                    "Short Randomizable Signatures.",
+                    "Non-Interactive Plaintext (In-)Equality Proofs and Group Signatures with Verifiable Controllable Linkability.",
+                    "Hybrid Publicly Verifiable Computation.",
+                    "Efficient Concurrent Covert Computation of String Equality and Set Intersection.",
+                    "Secure Audit Logs with Verifiable Excerpts.",
+                    "Efficient Culpably Sound NIZK Shuffle Argument Without Random Oracles.",
+                    "ECDH Key-Extraction via Low-Bandwidth Electromagnetic Attacks on PCs.",
+                    "Side-Channel Analysis of Weierstrass and Koblitz Curve ECDSA on Android Smartphones.",
+                    "Enhancing Side-Channel Analysis of Binary-Field Multiplication with Bit Reliability.",
+                    "Towards a Unified Security Model for Physically Unclonable Functions.",
+                    "Cryptanalysis of the Structure-Preserving Signature Scheme on Equivalence Classes from Asiacrypt 2014.",
+                    "Short Structure-Preserving Signatures.",
+                    "Which Ring Based Somewhat Homomorphic Encryption Scheme is Best?",
+                    "NFLlib: NTT-Based Fast Lattice Library.",
+                    "Optimization of Rainbow Tables for Practically Cracking GSM A5/1 Based on Validated Success Rate Modeling.",
+                    "New Observations on Piccolo Block Cipher.",
+                    "Replacing SHA-2 with SHA-3 Enhances Generic Security of HMAC.",
+                    "Constrained PRFs for Unbounded Inputs.",
+                    "Construction of Fully CCA-Secure Predicate Encryptions from Pair Encoding Schemes.",
+                    "Factoring N=p^rq^s for Large r and s."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "CT-RSA 2015",
+        "info": "San Francisco, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ctrsa/2015",
+                "sub_name": "Topics in Cryptology - CT-RSA 2015, The Cryptographer's Track at the RSA Conference 2015, San Francisco, CA, USA, April 20-24, 2015. Proceedings.",
+                "count": 26,
+                "papers": [
+                    "Just a Little Bit More.",
+                    "Cache Storage Attacks.",
+                    "Analyzing Permutations for AES-like Ciphers: Understanding ShiftRows.",
+                    "Improved Attacks on Reduced-Round Camellia-128/192/256.",
+                    "Duality in ABE: Converting Attribute Based Encryption for Dual Predicate and Dual Policy via Computational Encodings.",
+                    "Revocable Hierarchical Identity-Based Encryption: History-Free Update, Security Against Insiders, and Short Ciphertexts.",
+                    "Revisiting Cryptographic Accumulators, Additional Properties and Relations to Other Primitives.",
+                    "Non-Interactive Zero-Knowledge Proofs of Non-Membership.",
+                    "Implementing GCM on ARMv8.",
+                    "Higher-Order Masking in Practice: A Vector Implementation of Masked AES for ARM NEON.",
+                    "Completeness of Single-Bit Projection-KDM Security for Public Key Encryption.",
+                    "Format Oracles on OpenPGP.",
+                    "Finding Shortest Lattice Vectors in the Presence of Gaps.",
+                    "A Simple and Improved Algorithm for Integer Factorization with Implicit Hints.",
+                    "Hash Functions from Defective Ideal Ciphers.",
+                    "Using an Error-Correction Code for Fast, Beyond-Birthday-Bound Authentication.",
+                    "Efficient Leakage Resilient Circuit Compilers.",
+                    "Optimally Efficient Multi-Party Fair Exchange and Fair Secure Multi-Party Computation.",
+                    "How to Incorporate Associated Data in Sponge-Based Authenticated Encryption.",
+                    "Cryptanalysis of Ascon.",
+                    "Stronger Security Notions for Decentralized Traceable Attribute-Based Signatures and More Efficient Constructions.",
+                    "Re-Encryption Verifiability: How to Detect Malicious Activities of a Proxy in Proxy Re-Encryption.",
+                    "Exploiting Collisions in Addition Chain-Based Exponentiation Algorithms Using a Single Trace.",
+                    "Cold Boot Attacks in the Discrete Logarithm Setting.",
+                    "Communication Optimal Tardos-Based Asymmetric Fingerprinting.",
+                    "Linearly Homomorphic Encryption from $$\\mathsf {DDH}$$."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "CT-RSA 2014",
+        "info": "San Francisco, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ctrsa/2014",
+                "sub_name": "Topics in Cryptology - CT-RSA 2014 - The Cryptographer's Track at the RSA Conference 2014, San Francisco, CA, USA, February 25-28, 2014. Proceedings.",
+                "count": 25,
+                "papers": [
+                    "Efficient and Secure Algorithms for GLV-Based Scalar Multiplication and Their Implementation on GLV-GLS Curves.",
+                    "An Improved Compression Technique for Signatures Based on Learning with Errors.",
+                    "A Generic View on Trace-and-Revoke Broadcast Encryption Schemes.",
+                    "Broadcast Steganography.",
+                    "Practical Dual-Receiver Encryption - Soundness, Complete Non-malleability, and Applications.",
+                    "Attacking PUF-Based Pattern Matching Key Generators via Helper Data Manipulation.",
+                    "On Increasing the Throughput of Stream Ciphers.",
+                    "On Double Exponentiation for Securing RSA against Fault Analysis.",
+                    "On the Practical Security of a Leakage Resilient Masking Scheme.",
+                    "The Myth of Generic DPA...and the Magic of Learning.",
+                    "Hardware Implementation and Side-Channel Analysis of Lapin.",
+                    "Automatic Search for Differential Trails in ARX Ciphers.",
+                    "CBEAM: Efficient Authenticated Encryption from Feebly One-Way \u03d5 Functions.",
+                    "Beyond Modes: Building a Secure Record Protocol from a Cryptographic Sponge Permutation.",
+                    "Group Signatures with Message-Dependent Opening in the Standard Model.",
+                    "Practical Distributed Signatures in the Standard Model.",
+                    "Decentralized Traceable Attribute-Based Signatures.",
+                    "Rethinking Verifiably Encrypted Signatures: A Gap in Functionality and Potential Solutions.",
+                    "P2OFE: Privacy-Preserving Optimistic Fair Exchange of Digital Signatures.",
+                    "2-Pass Key Exchange Protocols from CPA-Secure KEM.",
+                    "Analysis of BLAKE2.",
+                    "An Automated Evaluation Tool for Improved Rebound Attack: New Distinguishers and Proposals of ShiftBytes Parameters for Gr\u00f8stl.",
+                    "Practical Collision Attack on 40-Step RIPEMD-128.",
+                    "KDM Security in the Hybrid Framework.",
+                    "Key Wrapping with a Fixed Permutation."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "CT-RSA 2013",
+        "info": "San Francisco, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ctrsa/2013",
+                "sub_name": "Topics in Cryptology - CT-RSA 2013 - The Cryptographers' Track at the RSA Conference 2013, San Francisco,CA, USA, February 25-March 1, 2013. Proceedings.",
+                "count": 25,
+                "papers": [
+                    "Horizontal and Vertical Side-Channel Attacks against Secure RSA Implementations.",
+                    "Timing Attack against Protected RSA-CRT Implementation Used in PolarSSL.",
+                    "Fair Exchange of Short Signatures without Trusted Third Party.",
+                    "Fully Secure Attribute-Based Systems with Short Ciphertexts/Signatures and Threshold Access Structures.",
+                    "A Robust and Plaintext-Aware Variant of Signed ElGamal Encryption.",
+                    "Efficient Public Key Cryptosystem Resilient to Key Leakage Chosen Ciphertext Attacks.",
+                    "Simple, Efficient and Strongly KI-Secure Hierarchical Key Assignment Schemes.",
+                    "Randomized Partial Checking Revisited.",
+                    "Randomly Failed! The State of Randomness in Current Java Implementations.",
+                    "Efficient Vector Implementations of AES-Based Designs: A Case Study and New Implemenations for Gr\u00f8stl.",
+                    "Collisions for the WIDEA-8 Compression Function.",
+                    "Finding Collisions for Round-Reduced SM3.",
+                    "Many Weak Keys for PRINTcipher: Fast Key Recovery and Countermeasures.",
+                    "Applying Remote Side-Channel Analysis Attacks on a Security-Enabled NFC Tag.",
+                    "Practical Leakage-Resilient Pseudorandom Objects with Minimum Public Randomness.",
+                    "Cryptanalytic Attacks on MIFARE Classic Protocol.",
+                    "Asynchronous Computational VSS with Reduced Communication Complexity.",
+                    "Proxy Re-Encryption in a Stronger Security Model Extended from CT-RSA2012.",
+                    "Solving BDD by Enumeration: An Update.",
+                    "The k-BDH Assumption Family: Bilinear Map Cryptography from Progressively Weaker Assumptions.",
+                    "Accountable Authority Identity-Based Encryption with Public Traceability.",
+                    "Efficient Delegation of Key Generation and Revocation Functionalities in Identity-Based Encryption.",
+                    "The Low-Call Diet: Authenticated Encryption for Call Counting HSM Users.",
+                    "A Fully Homomorphic Cryptosystem with Approximate Perfect Secrecy.",
+                    "Weak Keys of the Full MISTY1 Block Cipher for Related-Key Differential Cryptanalysis."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "CT-RSA 2012",
+        "info": "San Francisco, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ctrsa/2012",
+                "sub_name": "Topics in Cryptology - CT-RSA 2012 - The Cryptographers' Track at the RSA Conference 2012, San Francisco, CA, USA, February 27 - March 2, 2012. Proceedings.",
+                "count": 26,
+                "papers": [
+                    "Black-Box Side-Channel Attacks Highlight the Importance of Countermeasures - An Analysis of the Xilinx Virtex-4 and Virtex-5 Bitstream Encryption Mechanism.",
+                    "Power Analysis of Atmel CryptoMemory - Recovering Keys from Secure EEPROMs.",
+                    "Short Transitive Signatures for Directed Trees.",
+                    "Short Attribute-Based Signatures for Threshold Predicates.",
+                    "Reducing the Key Size of Rainbow Using Non-commutative Rings.",
+                    "A Duality in Space Usage between Left-to-Right and Right-to-Left Exponentiation.",
+                    "Optimal Eta Pairing on Supersingular Genus-2 Binary Hyperelliptic Curves.",
+                    "On the Joint Security of Encryption and Signature in EMV.",
+                    "New Constructions of Efficient Simulation-Sound Commitments Using Encryption and Their Applications.",
+                    "A First-Order Leak-Free Masking Countermeasure.",
+                    "Practical Realisation and Elimination of an ECC-Related Software Bug Attack.",
+                    "A New Pseudorandom Generator from Collision-Resistant Hash Functions.",
+                    "PMAC with Parity: Minimizing the Query-Length Influence.",
+                    "Boomerang Attacks on Hash Function Using Auxiliary Differentials.",
+                    "Localized Electromagnetic Analysis of Cryptographic Implementations.",
+                    "Towards Different Flavors of Combined Side Channel Attacks.",
+                    "Two-Dimensional Representation of Cover Free Families and Its Applications: Short Signatures and More.",
+                    "Secure Computation, I/O-Efficient Algorithms and Distributed Signatures.",
+                    "Delegatable Homomorphic Encryption with Applications to Secure Outsourcing of Computation.",
+                    "Efficient RSA Key Generation and Threshold Paillier in the Two-Party Setting.",
+                    "Plaintext-Checkable Encryption.",
+                    "Generic Construction of Chosen Ciphertext Secure Proxy Re-Encryption.",
+                    "A New Difference Method for Side-Channel Analysis with High-Dimensional Leakage Models.",
+                    "Getting More from PCA: First Results of Using Principal Component Analysis for Extensive Power Analysis.",
+                    "An Efficient Protocol for Oblivious DFA Evaluation and Applications.",
+                    "Secure Multi-Party Computation of Boolean Circuits with Applications to Privacy in On-Line Marketplaces."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "CT-RSA 2011",
+        "info": "San Francisco, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ctrsa/2011",
+                "sub_name": "Topics in Cryptology - CT-RSA 2011 - The Cryptographers' Track at the RSA Conference 2011, San Francisco, CA, USA, February 14-18, 2011. Proceedings.",
+                "count": 25,
+                "papers": [
+                    "Secure Set Intersection with Untrusted Hardware Tokens.",
+                    "Efficient Secure Two-Party Exponentiation.",
+                    "A General, Flexible and Efficient Proof of Inclusion and Exclusion.",
+                    "Non-interactive Confirmer Signatures.",
+                    "Communication-Efficient 2-Round Group Key Establishment from Pairings.",
+                    "Defeating RSA Multiply-Always and Message Blinding Countermeasures.",
+                    "Cryptanalysis of CLEFIA Using Differential Methods with Cache Trace Patterns.",
+                    "Improving Differential Power Analysis by Elastic Alignment.",
+                    "NSA's Role in the Development of DES.",
+                    "Designing Efficient Authenticated Key Exchange Resilient to Leakage of Ephemeral Secret Keys.",
+                    "Contributory Password-Authenticated Group Key Exchange with Join Capability.",
+                    "Ideal Key Derivation and Encryption in Simulation-Based Security.",
+                    "Beyond Provable Security Verifiable IND-CCA Security of OAEP.",
+                    "(Second) Preimage Attacks on Step-Reduced RIPEMD/RIPEMD-128 with a New Local-Collision Approach.",
+                    "MJH: A Faster Alternative to MDC-2.",
+                    "Online Ciphers from Tweakable Blockciphers.",
+                    "Meet-in-the-Middle Attacks on Reduced-Round XTEA.",
+                    "Expedient Non-malleability Notions for Hash Functions.",
+                    "Stronger Difficulty Notions for Client Puzzles and Denial-of-Service-Resistant Protocols.",
+                    "On Shortening Ciphertexts: New Constructions for Compact Public Key and Stateful Encryption Schemes.",
+                    "Better Key Sizes (and Attacks) for LWE-Based Encryption.",
+                    "Binary Huff Curves.",
+                    "A Variant of the F4 Algorithm.",
+                    "Attribute-Based Signatures.",
+                    "Sub-linear Size Traceable Ring Signatures without Random Oracles."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "CT-RSA 2010",
+        "info": "San Francisco, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ctrsa/2010",
+                "sub_name": "Topics in Cryptology - CT-RSA 2010, The Cryptographers' Track at the RSA Conference 2010, San Francisco, CA, USA, March 1-5, 2010. Proceedings.",
+                "count": 26,
+                "papers": [
+                    "The First 30 Years of Cryptographic Hash Functions and the NIST SHA-3 Competition.",
+                    "Errors Matter: Breaking RSA-Based PIN Encryption with Thirty Ciphertext Validity Queries.",
+                    "Efficient CRT-RSA Decryption for Small Encryption Exponents.",
+                    "Resettable Public-Key Encryption: How to Encrypt on a Virtual Machine.",
+                    "Plaintext-Awareness of Hybrid Encryption.",
+                    "Speed Records for NTRU.",
+                    "High-Speed Parallel Software Implementation of the \u03b7T Pairing.",
+                    "Refinement of Miller's Algorithm Over Edwards Curves.",
+                    "Probabilistic Public Key Encryption with Equality Test.",
+                    "Efficient CCA-Secure PKE from Identity-Based Techniques.",
+                    "Anonymity from Asymmetry: New Constructions for Anonymous HIBE.",
+                    "Making the Diffie-Hellman Protocol Identity-Based.",
+                    "On Extended Sanitizable Signature Schemes.",
+                    "Unrolling Cryptographic Circuits: A Simple Countermeasure Against Side-Channel Attacks.",
+                    "Fault Attacks Against emv Signatures.",
+                    "Revisiting Higher-Order DPA Attacks: .",
+                    "Differential Cache-Collision Timing Attacks on AES with Applications to Embedded CPUs.",
+                    "Usable Optimistic Fair Exchange.",
+                    "Hash Function Combiners in TLS and SSL.",
+                    "Improving Efficiency of an \u2018On the Fly' Identification Scheme by Perfecting Zero-Knowledgeness.",
+                    "Linear Cryptanalysis of Reduced-Round PRESENT.",
+                    "Dependent Linear Approximations: The Algorithm of Biryukov and Others Revisited.",
+                    "Practical Key Recovery Attack against Secret-IV Edon-.",
+                    "Rebound Attacks on the Reduced Gr\u00f8stl Hash Function.",
+                    "The Sum of CBC MACs Is a Secure PRF.",
+                    "On Fast Verification of Hash Chains."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "CT-RSA 2009",
+        "info": "San Francisco, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ctrsa/2009",
+                "sub_name": "Topics in Cryptology - CT-RSA 2009, The Cryptographers' Track at the RSA Conference 2009, San Francisco, CA, USA, April 20-24, 2009. Proceedings.",
+                "count": 31,
+                "papers": [
+                    "Adaptive-ID Secure Revocable Identity-Based Encryption.",
+                    "An Efficient Encapsulation Scheme from Near Collision Resistant Pseudorandom Generators and Its Application to IBE-to-PKE Transformations.",
+                    "Universally Anonymous IBE Based on the Quadratic Residuosity Assumption.",
+                    "Attacks on the DECT Authentication Mechanisms.",
+                    "Comparison-Based Key Exchange and the Security of the Numeric Comparison Mode in Bluetooth v2.1.",
+                    "Key Insulation and Intrusion Resilience over a Public Channel.",
+                    "Statistically Hiding Sets.",
+                    "Adaptively Secure Two-Party Computation with Erasures.",
+                    "Short Redactable Signatures Using Random Trees.",
+                    "Divisible On-Line/Off-Line Signatures.",
+                    "Speeding up Collision Search for Byte-Oriented Hash Functions.",
+                    "Hard and Easy Components of Collision Search in the Z\u00e9mor-Tillich Hash Function: New Attacks and Reduced Variants with Equivalent Security.",
+                    "A Statistical Saturation Attack against the Block Cipher PRESENT.",
+                    "Practical Attacks on Masked Hardware.",
+                    "Cryptanalysis of CTC2.",
+                    "A CCA2 Secure Public Key Encryption Scheme Based on the McEliece Assumptions in the Standard Model.",
+                    "Square, a New Multivariate Encryption Scheme.",
+                    "Communication-Efficient Private Protocols for Longest Common Subsequence.",
+                    "Key-Private Proxy Re-encryption.",
+                    "Dynamic Universal Accumulators for DDH Groups and Their Application to Attribute-Based Anonymous Credential Systems.",
+                    "Practical Short Signature Batch Verification.",
+                    "Single-Layer Fractal Hash Chain Traversal with Almost Optimal Complexity.",
+                    "Recursive Double-Size Modular Multiplications without Extra Cost for Their Quotients.",
+                    "Constant-Rounds, Almost-Linear Bit-Decomposition of Secret Shared Values.",
+                    "Local Sequentiality Does Not Help for Concurrent Composition.",
+                    "Breaking and Repairing Damg\u00e5rd et al. Public Key Encryption Scheme with Non-interactive Opening.",
+                    "Strengthening Security of RSA-OAEP.",
+                    "Fault Attacks on RSA Public Keys: Left-To-Right Implementations Are Also Vulnerable.",
+                    "Fault Analysis Attack against an AES Prototype Chip Using RSL.",
+                    "Evaluation of the Detached Power Supply as Side-Channel Analysis Countermeasure for Passive UHF RFID Tags.",
+                    "Securing RSA against Fault Analysis by Double Addition Chain Exponentiation."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "CT-RSA 2008",
+        "info": "San Francisco, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ctrsa/2008",
+                "sub_name": "Topics in Cryptology - CT-RSA 2008, The Cryptographers' Track at the RSA Conference 2008, San Francisco, CA, USA, April 8-11, 2008. Proceedings.",
+                "count": 27,
+                "papers": [
+                    "Security of MD5 Challenge and Response: Extension of APOP Password Recovery Attack.",
+                    "Cryptanalysis of a Hash Function Based on Quasi-cyclic Codes.",
+                    "Linear-XOR and Additive Checksums Don't Protect Damg\u00e5rd-Merkle Hashes from Generic Attacks.",
+                    "Efficient Fully-Simulatable Oblivious Transfer.",
+                    "Separation Results on the \"One-More\" Computational Problems.",
+                    "An Efficient Protocol for Fair Secure Two-Party Computation.",
+                    "Efficient Optimistic Fair Exchange Secure in the Multi-user Setting and Chosen-Key Model without Random Oracles.",
+                    "Legally-Enforceable Fairness in Secure Two-Party Computation.",
+                    "Security of NMACand HMACBased on Non-malleability.",
+                    "Aggregate Message Authentication Codes.",
+                    "Boosting AES Performance on a Tiny Processor Core.",
+                    "A Fast and Cache-Timing Resistant Implementation of the AES.",
+                    "Identity-Based Threshold Key-Insulated Encryption without Random Oracles.",
+                    "CCA2 Secure IBE: Standard Model Efficiency through Authenticated Symmetric Encryption.",
+                    "Public-Key Encryption with Non-interactive Opening.",
+                    "A Vulnerability in RSA Implementations Due to Instruction Cache Analysis and Its Demonstration on OpenSSL.",
+                    "Fault Analysis Study of IDEA.",
+                    "Susceptibility of UHF RFID Tags to Electromagnetic Analysis.",
+                    "Online/Offline Signature Schemes for Devices with Limited Computing Capabilities.",
+                    "RFID Security: Tradeoffs between Security and Efficiency.",
+                    "Program Obfuscation and One-Time Programs.",
+                    "Efficient Two-Party Password-Based Key Exchange Protocols in the UC Framework.",
+                    "Beyond Secret Handshakes: Affiliation-Hiding Authenticated Key Exchange.",
+                    "Improving the Efficiency of Impossible Differential Cryptanalysis of Reduced Camellia and MISTY1.",
+                    "Small Secret Key Attack on a Variant of RSA (Due to Takagi).",
+                    "Super-Efficient Verification of Dynamic Outsourced Databases.",
+                    "A Latency-Free Election Scheme."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "CT-RSA 2007",
+        "info": "San Francisco, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ctrsa/2007",
+                "sub_name": "Topics in Cryptology - CT-RSA 2007, The Cryptographers' Track at the RSA Conference 2007, San Francisco, CA, USA, February 5-9, 2007, Proceedings.",
+                "count": 25,
+                "papers": [
+                    "MV3: A New Word Based Stream Cipher Using Rapid Mixing and Revolving Buffers.",
+                    "A Simple Related-Key Attack on the Full SHACAL-1.",
+                    "Impossibility Proofs for RSA Signatures in the Standard Model.",
+                    "Selecting Secure Passwords.",
+                    "Human Identification Through Image Evaluation Using Secret Predicates.",
+                    "Cryptanalysis of Reduced Variants of the FORK-256 Hash Function.",
+                    "Second Preimages for SMASH.",
+                    "A Practical Optimal Padding for Signature Schemes.",
+                    "Directed Transitive Signature Scheme.",
+                    "Identity-Based Multi-signatures from RSA.",
+                    "Improved Efficiency for Private Stable Matching.",
+                    "Compact E-Cash from Bounded Accumulator.",
+                    "Batch Processing of Interactive Proofs.",
+                    "Timing Attacks on NTRUEncrypt Via Variation in the Number of Hash Calls.",
+                    "Predicting Secret Keys Via Branch Prediction.",
+                    "Template Attacks on Masking - Resistance Is Futile.",
+                    "Differential Power Analysis of Stream Ciphers.",
+                    "Cache Based Remote Timing Attack on the AES.",
+                    "Group Secret Handshakes Or Affiliation-Hiding Authenticated Group Key Agreement.",
+                    "Efficient Password-Authenticated Key Exchange Based on RSA.",
+                    "Non-degrading Erasure-Tolerant Information Authentication with an Application to Multicast Stream Authentication over Lossy Channels.",
+                    "A Practical and Tightly Secure Signature Scheme Without Hash Function.",
+                    "How to Strengthen Any Weakly Unforgeable Signature into a Strongly Unforgeable Signature.",
+                    "Public Key Cryptography and RFID Tags.",
+                    "A Bit-Slice Implementation of the Whirlpool Hash Function."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "CT-RSA 2006",
+        "info": "San Jose, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ctrsa/2006",
+                "sub_name": "Topics in Cryptology - CT-RSA 2006, The Cryptographers' Track at the RSA Conference 2006, San Jose, CA, USA, February 13-17, 2006, Proceedings.",
+                "count": 22,
+                "papers": [
+                    "Cache Attacks and Countermeasures: The Case of AES.",
+                    "Related-Key Impossible Differential Attacks on 8-Round AES-192.",
+                    "Session Corruption Attack and Improvements on Encryption Based MT-Authenticators.",
+                    "Fair Identification.",
+                    "Efficient Doubling on Genus 3 Curves over Binary Fields.",
+                    "Another Look at Small RSA Exponents.",
+                    "Collision-Resistant Usage of MD5 and SHA-1 Via Message Preprocessing.",
+                    "RFID-Tags for Anti-counterfeiting.",
+                    "A \"Medium-Field\" Multivariate Public-Key Encryption Scheme.",
+                    "A New Security Proof for Damg\u00e5rd's ElGamal.",
+                    "Stand-Alone and Setup-Free Verifiably Committed Signatures.",
+                    "Toward the Fair Anonymous Signatures: Deniable Ring Signatures.",
+                    "Practical Second-Order DPA Attacks for Masked Smart Card Implementations of Block Ciphers.",
+                    "Higher Order Masking of the AES.",
+                    "Chosen Ciphertext Secure Public Key Threshold Encryption Without Random Oracles.",
+                    "How to Construct Multicast Cryptosystems Provably Secure Against Adaptive Chosen Ciphertext Attack.",
+                    "On the (Im)possibility of Blind Message Authentication Codes.",
+                    "An Optimal Non-interactive Message Authentication Protocol.",
+                    "A New Criterion for Nonlinearity of Block Ciphers.",
+                    "Block Ciphers Sensitive to Gr\u00f6bner Basis Attacks.",
+                    "Universally Composable Oblivious Transfer in the Multi-party Setting.",
+                    "A Round and Communication Efficient Secure Ranking Protocol."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "CT-RSA 2005",
+        "info": "San Francisco, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ctrsa/2005",
+                "sub_name": "Topics in Cryptology - CT-RSA 2005, The Cryptographers' Track at the RSA Conference 2005, San Francisco, CA, USA, February 14-18, 2005, Proceedings.",
+                "count": 25,
+                "papers": [
+                    "Sub-linear Queries Statistical Databases: Privacy with Power.",
+                    "Malicious Cryptography: Kleptographic Aspects.",
+                    "Resistance of SNOW 2.0 Against Algebraic Attacks.",
+                    "A Study of the Security of Unbalanced Oil and Vinegar Signature Schemes.",
+                    "Hold Your Sessions: An Attack on Java Session-Id Generation.",
+                    "Update on SHA-1.",
+                    "A Fast Correlation Attack on the Shrinking Generator.",
+                    "Improved Efficiency for CCA-Secure Cryptosystems Built Using Identity-Based Encryption.",
+                    "A Generic Conversion with Optimal Redundancy.",
+                    "Choosing Parameter Sets forwithand.",
+                    "Foundations of Group Signatures: The Case of Dynamic Groups.",
+                    "Time-Selective Convertible Undeniable Signatures.",
+                    "On Tolerant Cryptographic Constructions.",
+                    "Simple Password-Based Encrypted Key Exchange Protocols.",
+                    "Hard Bits of the Discrete Log with Applications to Password Authentication.",
+                    "Proofs for Two-Server Password Authentication.",
+                    "Design and Analysis of Password-Based Key Derivation Functions.",
+                    "A New Two-Party Identity-Based Authenticated Key Agreement.",
+                    "Accumulators from Bilinear Pairings and Applications.",
+                    "Computing the Tate Pairing.",
+                    "Fast and Proven Secure Blind Identity-Based Signcryption from Pairings.",
+                    "A Systematic Evaluation of Compact Hardware Implementations for the Rijndael S-Box.",
+                    "CryptoGraphics: Secret Key Cryptography Using Graphics Cards.",
+                    "Side-Channel Leakage of Masked CMOS Gates.",
+                    "New Minimal Weight Representations for Left-to-Right Window Methods."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "CT-RSA 2004",
+        "info": "San Francisco, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ctrsa/2004",
+                "sub_name": "Topics in Cryptology - CT-RSA 2004, The Cryptographers' Track at the RSA Conference 2004, San Francisco, CA, USA, February 23-27, 2004, Proceedings.",
+                "count": 28,
+                "papers": [
+                    "Online Encryption Schemes: New Security Notions and Constructions.",
+                    "Related-Key Attacks on Triple-DES and DESX Variants.",
+                    "Design of AES Based on Dual Cipher and Composite Field.",
+                    "Periodic Properties of Counter Assisted Stream Ciphers.",
+                    "A Fast Correlation Attack via Unequal Error Correcting LDPC Codes.",
+                    "k-Resilient Identity-Based Encryption in the Standard Model.",
+                    "A Generic Construction for Intrusion-Resilient Public-Key Encryption.",
+                    "A Certificate-Based Signature Scheme.",
+                    "Identity Based Undeniable Signatures.",
+                    "Compressing Rabin Signatures.",
+                    "A Key Recovery System as Secure as Factoring.",
+                    "Server Assisted Signatures Revisited.",
+                    "Cryptanalysis of a Zero-Knowledge Identification Protocol of Eurocrypt '95.",
+                    "Universal Re-encryption for Mixnets.",
+                    "Bit String Commitment Reductions with a Non-zero Rate.",
+                    "Improving Robustness of PGP Keyrings by Conflict Detection.",
+                    "Issues of Security with the Oswald-Aigner Exponentiation Algorithm.",
+                    "Hardware Countermeasures against DPA ? A Statistical Analysis of Their Effectiveness.",
+                    "Self-Randomized Exponentiation Algorithms.",
+                    "Flexible Hardware Design for RSA and Elliptic Curve Cryptosystems.",
+                    "High-Speed Modular Multiplication.",
+                    "Yet Another Sieving Device.",
+                    "A Parallelizable Enciphering Mode.",
+                    "Padding Oracle Attacks on the ISO CBC Mode Encryption Standard.",
+                    "A 1 Gbit/s Partially Unrolled Architecture of Hash Functions SHA-1 and SHA-512.",
+                    "Fast Verification of Hash Chains.",
+                    "Almost Ideal Contrast Visual Cryptography with Reversing.",
+                    "Weak Fields for ECC."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "name": "CT-RSA 2003",
+        "info": "San Francisco, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ctrsa/2003",
+                "sub_name": "Topics in Cryptology - CT-RSA 2003, The Cryptographers' Track at the RSA Conference 2003, San Francisco, CA, USA, April 13-17, 2003, Proceedings.",
+                "count": 28,
+                "papers": [
+                    "Forward-Security in Private-Key Cryptography.",
+                    "Intrusion-Resilient Public-Key Encryption.",
+                    "TMAC: Two-Key CBC MAC.",
+                    "Montgomery Prime Hashing for Message Authentication.",
+                    "An Analysis of Proxy Signatures: Is a Secure Channel Necessary?",
+                    "Invisibility and Anonymity of Undeniable and Confirmer Signatures.",
+                    "A Secure Signature Scheme from Bilinear Maps.",
+                    "Access Control Using Pairing Based Cryptography.",
+                    "NTRUSIGN: Digital Signatures Using the NTRU Lattice.",
+                    "About the XL Algorithm over GF(2).",
+                    "Efficient GF(pm) Arithmetic Architectures for Cryptographic Applications.",
+                    "Hardware Performance Characterization of Block Cipher Structures.",
+                    "Simple Identity-Based Cryptography with Mediated RSA.",
+                    "Two Birds One Stone: Signcryption Using RSA.",
+                    "Cryptography after the Bubble: How to Make an Impact on the World.",
+                    "Rethinking Chosen-Ciphertext Security under Kerckhoffs' Assumption.",
+                    "Provably Secure Public-Key Encryptionfor Length-Preserving Chaumian Mixes.",
+                    "Fault Tolerant and DistributedBroadcast Encryption.",
+                    "Shared Generation of Pseudo-Random Functions with Cumulative Maps.",
+                    "Authenticated Data Structures for Graph and Geometric Searching.",
+                    "Fractal Merkle Tree Representation and Traversal.",
+                    "RSA Shortcuts.",
+                    "The Width-w NAF Method Provides Small Memory and Fast Elliptic Scalar Multiplications Secure against Side Channel Attacks.",
+                    "Fast Elliptic Curve Arithmetic and Improved Weil Pairing Evaluation.",
+                    "Two Efficient and Provably Secure Schemes for Server-Assisted Threshold Signatures.",
+                    "Secure Applications of Pedersen's Distributed Key Generation Protocol.",
+                    "Seeing through MIST Given a Small Fraction of an RSA Private Key.",
+                    "Simple Backdoors for RSA Key Generation."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2002",
+        "name": "CT-RSA 2002",
+        "info": "San Jose, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ctrsa/2002",
+                "sub_name": "Topics in Cryptology - CT-RSA 2002, The Cryptographer's Track at the RSA Conference, 2002, San Jose, CA, USA, February 18-22, 2002, Proceedings.",
+                "count": 21,
+                "papers": [
+                    "On Hash Function Firewalls in Signature Schemes.",
+                    "Observability Analysis - Detecting When Improved Cryptosystems Fail.",
+                    "Precise Bounds for Montgomery Modular Multiplication and Some Potentially Insecure RSA Moduli.",
+                    "Montgomery in Practice: How to Do It More Efficiently in Hardware.",
+                    "MIST: An Efficient, Randomized Exponentiation Algorithm for Resisting Power Analysis.",
+                    "An ASIC Implementation of the AES SBoxes.",
+                    "On the Impossibility of Constructing Non-interactive Statistically-Secret Protocols from Any Trapdoor One-Way Function.",
+                    "The Representation Problem Based on Factoring.",
+                    "Ciphers with Arbitrary Finite Domains.",
+                    "Known Plaintext Correlation Attack against RC5.",
+                    "Micropayments Revisited.",
+                    "Proprietary Certificates.",
+                    "Stateless-Recipient Certified E-Mail System Based on Verifiable Encryption.",
+                    "RSA-Based Undeniable Signatures for General Moduli.",
+                    "Co-operatively Formed Group Signatures.",
+                    "Transitive Signature Schemes.",
+                    "Homomorphic Signature Schemes.",
+                    "GEM: A Generic Chosen-Ciphertext Secure Encryption Method.",
+                    "Securing \"Encryption + Proof of Knowledge\" in the Random Oracle Model.",
+                    "Nonuniform Polynomial Time Algorithm to Solve Decisional Diffie-Hellman Problem in Finite Fields under Conjecture.",
+                    "Secure Key-Evolving Protocols for Discrete Logarithm Schemes."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2001",
+        "name": "CT-RSA 2001",
+        "info": "San Francisco, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ctrsa/2001",
+                "sub_name": "Topics in Cryptology - CT-RSA 2001, The Cryptographer's Track at RSA Conference 2001, San Francisco, CA, USA, April 8-12, 2001, Proceedings.",
+                "count": 33,
+                "papers": [
+                    "Faster Generation of NICE-Schnorr-Type Signatures.",
+                    "New Key Agreement Protocols in Braid Group Cryptography.",
+                    "Improving SSL Handshake Performance via Batching.",
+                    "From Fixed-Length Messages to Arbitrary-Length Messages Practical RSA Signature Padding Schemes.",
+                    "An Advantage of Low-Exponent RSA with Modulus Primes Sharing Least Significant Bits.",
+                    "On the Strength of Simply-Iterated Feistel Ciphers with Whitening Keys.",
+                    "Analysis of SHA-1 in Encryption Mode.",
+                    "Fast Implementation and Fair Comparison of the Final Candidates for Advanced Encryption Standard Using Field Programmable Gate Arrays.",
+                    "Fair e-Lotteries and e-Casinos.",
+                    "Secure Mobile Gambling.",
+                    "Formal Security Proofs for a Signature Scheme with Partial Message Recovery.",
+                    "The Oracle Diffie-Hellman Assumptions and an Analysis of DHIES.",
+                    "REACT: Rapid Enhanced-Security Asymmetric Cryptosystem Transform.",
+                    "Security Weaknesses in Bluetooth.",
+                    "Distinguishing Exponent Digits by Observing Modular Subtractions.",
+                    "On the Power of Misbehaving Adversaries and Security Analysis of the Original EPOC.",
+                    "Modular Exponentiation on Fine-Grained FPGA.",
+                    "Scalable Algorithm for Montgomery Multiplication and Its Implementation on the Coarse-Grain Reconfigurable Chip.",
+                    "Software Implementation of the NIST Elliptic Curves Over Prime Fields.",
+                    "The Security of Hidden Field Equations (HFE).",
+                    "QUARTZ, 128-Bit Long Digital Signatures.",
+                    "FLASH, a Fast Multivariate Signature Algorithm.",
+                    "Analysis of the Weil Descent Attack of Gaudry, Hess and Smart.",
+                    "Using Fewer Qubits in Shor's Factorization Algorithm Via Simultaneous Diophantine Approximation.",
+                    "Relying Party Credentials Framework.",
+                    "Password Authentication Using Multiple Servers.",
+                    "More Efficient Password-Authenticated Key Exchange.",
+                    "Improved Boneh-Shaw Content Fingerprinting.",
+                    "Efficient Asymmetric Public-Key Traitor Tracing without Trusted Agents.",
+                    "Targeted Advertising ... And Privacy Too.",
+                    "Uncheatable Distributed Computations.",
+                    "Forward-Secure Threshold Signature Schemes.",
+                    "A Cost-Effective Pay-Per-Multiplication Comparison Method for Millionaires."
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,284 @@
+[
+    {
+        "year": "2011",
+        "name": "Digital Rights Management Workshop 2011",
+        "info": "Chicago, IL, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/drm/2011",
+                "sub_name": "Proceedings of the 11th ACM Workshop on Digital Rights Management, Chicago, Illinois, USA, October 21, 2011.",
+                "count": 7,
+                "papers": [
+                    "Is DRM working?: how could we tell?",
+                    "Integrated circuit digital rights management techniques using physical level characterization.",
+                    "Traitor tracing schemes for protected software implementations.",
+                    "A rights management approach to protection of privacy in a cloud of electronic health records.",
+                    "Tunneled TLS for multi-factor authentication.",
+                    "Fast and adaptive tracing strategies for 3-secure fingerprint watermarking codes.",
+                    "A domain specific language for usage management."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "Digital Rights Management Workshop 2010",
+        "info": "Chicago, IL, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/drm/2010",
+                "sub_name": "Proceedings of the 10th ACM Workshop on Digital Rights Management, Chicago, Illinois, USA, October 4, 2010.",
+                "count": 11,
+                "papers": [
+                    "The privacy of tracing traitors.",
+                    "Robust fingerprinting codes: a near optimal construction.",
+                    "An efficient public-key attribute-based broadcast encryption scheme allowing arbitrary access policies.",
+                    "A chameleon encryption scheme resistant to known-plaintext attack.",
+                    "A general model for hiding control flow.",
+                    "Secure cross-domain data sharing architecture for crisis management.",
+                    "New construction of identity-based proxy re-encryption.",
+                    "An introduction to interoperable digital rights locker.",
+                    "Using digital rights management for securing data in a medical research environment.",
+                    "An analysis of interoperability between licenses.",
+                    "An interoperable usage management framework."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "Digital Rights Management Workshop 2009",
+        "info": "Chicago, IL, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/drm/2009",
+                "sub_name": "Proceedings of the 9th ACM Workshop on Digital Rights Management, Chicago, Illinois, USA, November 9, 2009.",
+                "count": 9,
+                "papers": [
+                    "On the security of a public-key traitor tracing scheme with sublinear ciphertext size.",
+                    "A simple construction for public-key encryption with revocable anonymity: the honest-sender case.",
+                    "On the operational semantics of rights expression languages.",
+                    "An implementation experience of domain management in marlin.",
+                    "Broadcast encryption versus public key cryptography in content protection systems.",
+                    "Obfuscating straight line arithmetic programs.",
+                    "A semi-dynamic multiple watermarking schemefor java applications.",
+                    "Efficient license validation in MPML DRM architecture.",
+                    "Videosurveillance and privacy: covering the two sides of the mirror with DRM."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "Digital Rights Management Workshop 2008",
+        "info": "Alexandria, VA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/drm/2008",
+                "sub_name": "Proceedings of the 8th ACM Workshop on Digital Rights Management, Alexandria, VA, USA, October 27, 2008.",
+                "count": 11,
+                "papers": [
+                    "Adaptive traitor tracing for large anonymous attack.",
+                    "Public-key traitor tracing from efficient decoding and unbounded enrollment: extended abstract.",
+                    "A four-layer model for security of digital rights management.",
+                    "A formal conceptual model for rights.",
+                    "Design rules for interoperable domains: controlling content dilution and content sharing.",
+                    "Content identification.",
+                    "Counterfeiting and anti-counterfeitingof software and content.",
+                    "RSA-TBOS signcryption with proxy re-encryption.",
+                    "A decision theoretic framework for analyzing binary hash-based content identification systems.",
+                    "Assessing privacy criteria for drm using eu privacy legislation.",
+                    "Enforcing DRM policies across applications."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "Digital Rights Management Workshop 2007",
+        "info": "Alexandria, VA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/drm/2007",
+                "sub_name": "Proceedings of the Seventh ACM Workshop on Digital Rights Management, Alexandria, VA, USA, October 29, 2007.",
+                "count": 11,
+                "papers": [
+                    "A security architecture for pay-per-view business models in conditional access systems.",
+                    "On implementing mpeg-21 intellectual property management and protection.",
+                    "Drm to counter side-channel attacks?",
+                    "Protecting fair use from digital rights management in china.",
+                    "Digital rights management: desirable, inevitable, and almost irrelevant.",
+                    "Persistent access control: a formal model for DRM.",
+                    "The drm game.",
+                    "Data structures for limited oblivious execution of programs while preserving locality of reference.",
+                    "Slicing obfuscations: design, correctness, and evaluation.",
+                    "Mechanism for software tamper resistance: an application of white-box cryptography.",
+                    "Randomized radon transforms for biometric authentication via fingerprint hashing."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "Digital Rights Management Workshop 2006",
+        "info": "Alexandria, VA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/drm/2006",
+                "sub_name": "Proceedings of the Sixth ACM Workshop on Digital Rights Management, Alexandria, VA, USA, October 30, 2006.",
+                "count": 12,
+                "papers": [
+                    "Consumers, fans, and control: what the games industry can teach Hollywood about DRM.",
+                    "Vicarious infringement creates a privacy ceiling.",
+                    "Verifiable digital object identity system.",
+                    "Securing sensitive content in a view-only file system.",
+                    "Privacy-enhanced superdistribution of layered content with trusted access control.",
+                    "On interoperability of DRM.",
+                    "Proteus: virtualization for diversified tamper-resistance.",
+                    "The problem with rights expression languages.",
+                    "Towards a secure and interoperable DRM architecture.",
+                    "Towards an open, trusted digital rights management platform.",
+                    "Graceful infringement reactions in DRM systems.",
+                    "A robust content-dependent algorithm for video watermarking."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "Digital Rights Management Workshop 2005",
+        "info": "Alexandria, VA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/drm/2005",
+                "sub_name": "Proceedings of the Fifth ACM Workshop on Digital Rights Management, Alexandria, VA, USA, November 7, 2005.",
+                "count": 13,
+                "papers": [
+                    "Fairer usage contracts for DRM.",
+                    "DRMs, fair use and users' experience of sharing music.",
+                    "DRM interoperability analysis from the perspective of a layered framework.",
+                    "Achieving media portability through local content translation and end-to-end rights management.",
+                    "New broadcast encryption scheme using tree-based circle.",
+                    "Towards multilateral secure digital rights distribution infrastructures.",
+                    "Authorization for digital rights management in the geospatial domain.",
+                    "Towards a software architecture for DRM.",
+                    "Hybrid static-dynamic attacks against software protection mechanisms.",
+                    "Control flow based obfuscation.",
+                    "Watermarking and ownership problem: a revisit.",
+                    "Improved watermark detection for spread-spectrum based watermarking using independent component analysis.",
+                    "Statistical audio watermarking algorithm based on perceptual analysis."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "Digital Rights Management Workshop 2004",
+        "info": "Washington, DC, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/drm/2004",
+                "sub_name": "Proceedings of the 2004 ACM Workshop on Digital Rights Management 2004, Washington, DC, USA, October 25, 2004.",
+                "count": 12,
+                "papers": [
+                    "A DRM security architecture for home networks.",
+                    "DRM as a layered system.",
+                    "Analysis of an incentives-based secrets protection system.",
+                    "Display-only file server: a solution against information theft due to insider attack.",
+                    "Reconfigurable hardware solutions for the digital rights management of digital cinema.",
+                    "Attacks and risk analysis for hardware supported software copy protection systems.",
+                    "Software piracy prevention through diversity.",
+                    "Tracing traitors: a selective survey.",
+                    "Tamper detection and localization for categorical data using fragile watermarks.",
+                    "Traitor tracing for prerecorded and recordable media.",
+                    "On the implications of machine virtualization for DRM and fair use: a case study of a virtual audio device driver.",
+                    "Import/export in digital rights management."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "name": "Digital Rights Management Workshop 2003",
+        "info": "Washington, DC, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/drm/2003w",
+                "sub_name": "Proceedings of the 2003 ACM workshop on Digital rights management 2003, Washington, DC, USA, October 27, 2003.",
+                "count": 14,
+                "papers": [
+                    "Analysis of security vulnerabilities in the movie production and distribution process.",
+                    "Protecting digital archives at the Greek Orthodox Archdiocese of America.",
+                    "Digital rights management in a 3G mobile phone and beyond.",
+                    "The IP war: apocalypse or revolution?",
+                    "Breaking and repairing optimistic fair exchange from PODC 2003.",
+                    "Broadcast encryption with short keys and transmissions.",
+                    "New traitor tracing schemes using bilinear map.",
+                    "How DRM-based content delivery systems disrupt expectations of \"personal use\".",
+                    "Experiences with the enforcement of access rights extracted from ODRL-based digital contracts.",
+                    "Content and expression-based copy recognition for intellectual property protection.",
+                    "Watermarking schemes provably secure against copy and ambiguity attacks.",
+                    "The effects of invisible watermarking on satellite image classification.",
+                    "Constructing a virtual primary key for fingerprinting relational data.",
+                    "Obfuscation of design intent in object-oriented applications."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2002",
+        "name": "Digital Rights Management Workshop 2002",
+        "info": "Washington, DC, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ccs/2002drm",
+                "sub_name": "Security and Privacy in Digital Rights Management, ACM CCS-9 Workshop, DRM 2002, Washington, DC, USA, November 18, 2002, Revised Papers.",
+                "count": 13,
+                "papers": [
+                    "A White-Box DES Implementation for DRM Applications.",
+                    "Attacking an Obfuscated Cipher by Injecting Faults.",
+                    "Breaking and Repairing Asymmetric Public-Key Traitor Tracing.",
+                    "Key Challenges in DRM: An Industry Perspective.",
+                    "Public Key Broadcast Encryption for Stateless Receivers.",
+                    "Traitor Tracing for Shortened and Corrupted Fingerprints.",
+                    "Evaluating New Copy-Prevention Techniques for Audio CDs.",
+                    "Towards Meeting the Privacy Challenge: Adapting DRM.",
+                    "Implementing Copyright Limitations in Rights Expression Languages.",
+                    "The Darknet and the Future of Content Protection.",
+                    "Replacement Attack on Arbitrary Watermarking Systems.",
+                    "FAIR: Fair Audience InfeRence.",
+                    "Theft-Protected Proprietary Certificates."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2001",
+        "name": "Digital Rights Management Workshop 2001",
+        "info": "Philadelphia, PA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ccs/2001drm",
+                "sub_name": "Security and Privacy in Digital Rights Management, ACM CCS-8 Workshop DRM 2001, Philadelphia, PA, USA, November 5, 2001, Revised Papers.",
+                "count": 15,
+                "papers": [
+                    "Discouraging Software Piracy Using Software Aging.",
+                    "New Iterative Geometric Methods for Robust Perceptual Image Hashing.",
+                    "On Crafty Pirates and Foxy Tracers.",
+                    "Efficient State Updates for Key Management.",
+                    "Collusion Secure q-ary Fingerprinting for Perceptual Content.",
+                    "Privacy Engineering for Digital Rights Management Systems.",
+                    "Secure Open Systems for Protecting Privacy and Digital Services.",
+                    "MPEG-4 IPMP Extensions.",
+                    "Dynamic Self-Checking Techniques for Improved Tamper Resistance.",
+                    "Protecting Software Code by Guards.",
+                    "How to Manage Persistent State in DRM Systems.",
+                    "A Cryptanalysis of the High-Bandwidth Digital Content Protection System.",
+                    "Implications of Digital Rights Management for Online Music - A Business Perspective.",
+                    "From Copyright to Information Law - Implications of Digital Rights Management.",
+                    "Taking the Copy Out of Copyright."
+                ]
+            }
+        ]
+    }
+]

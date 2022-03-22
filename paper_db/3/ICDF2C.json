@@ -1,0 +1,259 @@
+[
+    {
+        "year": "2018",
+        "name": "10th ICDF2C 2018",
+        "info": "New Orleans, LA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/icdf2c/2018",
+                "sub_name": "Digital Forensics and Cyber Crime - 10th International EAI Conference, ICDF2C 2018, New Orleans, LA, USA, September 10-12, 2018, Proceedings.",
+                "count": 12,
+                "papers": [
+                    "On Efficiency and Effectiveness of Linear Function Detection Approaches for Memory Carving.",
+                    "fishy - A Framework for Implementing Filesystem-Based Data Hiding Techniques.",
+                    "If I Had a Million Cryptos: Cryptowallet Application Analysis and a Trojan Proof-of-Concept.",
+                    "AndroParse - An Android Feature Extraction Framework and Dataset.",
+                    "Digital Forensic Readiness Framework for Ransomware Investigation.",
+                    "Forensics Analysis of an On-line Game over Steam Platform.",
+                    "A Digital Forensic Investigation and Verification Model for Industrial Espionage.",
+                    "Solid State Drive Forensics: Where Do We Stand?",
+                    "Associating Drives Based on Their Artifact and Metadata Distributions.",
+                    "Digital Forensics Event Graph Reconstruction.",
+                    "Multi-item Passphrases: A Self-adaptive Approach Against Offline Guessing Attacks.",
+                    "Hybrid Intrusion Detection System for Worm Attacks Based on Their Network Behavior."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "9th ICDF2C 2017",
+        "info": "Prague, Czech Republic",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/icdf2c/2017",
+                "sub_name": "Digital Forensics and Cyber Crime - 9th International Conference, ICDF2C 2017, Prague, Czech Republic, October 9-11, 2017, Proceedings.",
+                "count": 18,
+                "papers": [
+                    "FindEvasion: An Effective Environment-Sensitive Malware Detection System for the Cloud.",
+                    "Real-Time Forensics Through Endpoint Visibility.",
+                    "On Locky Ransomware, Al Capone and Brexit.",
+                    "Finding and Rating Personal Names on Drives for Forensic Needs.",
+                    "A Web-Based Mouse Dynamics Visualization Tool for User Attribution in Digital Forensic Readiness.",
+                    "Open Source Forensics for a Multi-platform Drone System.",
+                    "A Novel File Carving Algorithm for EVTX Logs.",
+                    "Fuzzy System-Based Suspicious Pattern Detection in Mobile Forensic Evidence.",
+                    "Digital Forensic Readiness in Critical Infrastructures: A Case of Substation Automation in the Power Sector.",
+                    "A Visualization Scheme for Network Forensics Based on Attribute Oriented Induction Based Frequent Item Mining and Hyper Graph.",
+                    "Expediting MRSH-v2 Approximate Matching with Hierarchical Bloom Filter Trees.",
+                    "Approxis: A Fast, Robust, Lightweight and Approximate Disassembler Considered in the Field of Memory Forensics.",
+                    "Memory Forensics and the Macintosh OS X Operating System.",
+                    "Sketch-Based Modeling and Immersive Display Techniques for Indoor Crime Scene Presentation.",
+                    "An Overview of the Usage of Default Passwords.",
+                    "Automation of MitM Attack on Wi-Fi Networks.",
+                    "SeEagle: Semantic-Enhanced Anomaly Detection for Securing Eagle.",
+                    "Coriander: A Toolset for Generating Realistic Android Digital Evidence Datasets."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "8th ICDF2C 2016",
+        "info": "New York, NY, USA",
+        "venues": []
+    },
+    {
+        "year": "2015",
+        "name": "7th ICDF2C 2015",
+        "info": "Seoul, South Korea",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/icdf2c/2015",
+                "sub_name": "Digital Forensics and Cyber Crime - 7th International Conference, ICDF2C 2015, Seoul, South Korea, October 6-8, 2015, Revised Selected Papers.",
+                "count": 14,
+                "papers": [
+                    "Digital Forensics Education: A Multidisciplinary Curriculum Model.",
+                    "Development and Initial User Evaluation of a Virtual Crime Scene Simulator Including Digital Evidence.",
+                    "Detection of Frame Duplication Type of Forgery in Digital Video Using Sub-block Based Features.",
+                    "How Cuckoo Filter Can Improve Existing Approximate Matching Techniques.",
+                    "Forensically Sound Retrieval and Recovery of Images from GPU Memory.",
+                    "Advanced Techniques for Reconstruction of Incomplete Network Data.",
+                    "Forensic Analysis and Remote Evidence Recovery from Syncthing: An Open Source Decentralised File Synchronisation Utility.",
+                    "A Survey of International Cooperation in Digital Investigations.",
+                    "Awareness of Scam E-Mails: An Exploratory Research Study - Part 2.",
+                    "Cyber Peacekeeping.",
+                    "Explanatory Case Study of the Authur Pendragon Cyber Threat: Socio-psychological and Communication Perspectives.",
+                    "Smartphone Verification and User Profiles Linking Across Social Networks by Camera Fingerprinting.",
+                    "Analysis of the HIKVISION DVR File System.",
+                    "Exploring the Effectiveness of Digital Forensics Tools on the Sony PlayStation Vita."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "6th ICDF2C 2014",
+        "info": "New Haven, CT, USA",
+        "venues": []
+    },
+    {
+        "year": "2013",
+        "name": "5th ICDF2C 2013",
+        "info": "Moscow, Russia",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/icdf2c/2013",
+                "sub_name": "Digital Forensics and Cyber Crime - Fifth International Conference, ICDF2C 2013, Moscow, Russia, September 26-27, 2013, Revised Selected Papers.",
+                "count": 17,
+                "papers": [
+                    "Robust Copy-Move Forgery Detection Based on Dual-Transform.",
+                    "Forensic Decryption of FAT BitLocker Volumes.",
+                    "Forensic Artifacts of the flareGet Download Manager.",
+                    "Amazon Kindle Fire HD Forensics.",
+                    "Resurrection: A Carver for Fragmented Files.",
+                    "Taxonomy of Data Fragment Classification Techniques.",
+                    "Identifying Forensically Uninteresting Files Using a Large Corpus.",
+                    "FaceHash: Face Detection and Robust Hashing.",
+                    "Regulating Social Network Services for Lawful Interception.",
+                    "Determining When Conduct in Cyberspace Constitutes Cyber Warfare in Terms of the International Law and Tallinn Manual on the International Law Applicable to Cyber Warfare: A Synopsis.",
+                    "Measuring Accuracy of Automated Parsing and Categorization Tools and Processes in Digital Investigations.",
+                    "Towards a Process Model for Hash Functions in Digital Forensics.",
+                    "An Automated Link Analysis Solution Applied to Digital Forensic Investigations.",
+                    "Computer Profiling for Preliminary Forensic Examination.",
+                    "Determining Training Needs for Cloud Infrastructure Investigations Using I-STRIDE.",
+                    "Cloud Forensic Readiness: Foundations.",
+                    "Mozilla Firefox Browsing Artifacts in 3 Different Anti-forensics Modes."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "4th ICDF2C 2012",
+        "info": "Lafayette, IN, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/icdf2c/2012",
+                "sub_name": "Digital Forensics and Cyber Crime - 4th International Conference, ICDF2C 2012, Lafayette, IN, USA, October 25-26, 2012, Revised Selected Papers.",
+                "count": 20,
+                "papers": [
+                    "Cloud Computing Reference Architecture and Its Forensic Implications: A Preliminary Analysis.",
+                    "Cloud Forensic Maturity Model.",
+                    "Identifying Remnants of Evidence in the Cloud.",
+                    "On Improving Authorship Attribution of Source Code.",
+                    "Towards Automated Malware Behavioral Analysis and Profiling for Digital Forensic Investigation Purposes.",
+                    "Measuring the Preference of Image Content for Self-reported Consumers of Child Pornography.",
+                    "Cybercrime, Censorship, Perception and Bypassing Controls: An Exploratory Study.",
+                    "When Should Virtual Cybercrime Be Brought under the Scope of the Criminal Law?",
+                    "Research Trends in Digital Forensic Science: An Empirical Analysis of Published Research.",
+                    "Face Recognition Based on Wavelet Transform and Adaptive Local Binary Pattern.",
+                    "Similarity Preserving Hashing: Eligible Properties and a New Algorithm MRSH-v2.",
+                    "Investigating File Encrypted Material Using NTFS $logfile.",
+                    "Finding Data in DNA: Computer Forensic Investigations of Living Organisms.",
+                    "On the Completeness of Reconstructed Data for Database Forensics.",
+                    "BlackBerry PlayBook Backup Forensic Analysis.",
+                    "ANTS ROAD: A New Tool for SQLite Data Recovery on Android Devices.",
+                    "Evaluating and Comparing Tools for Mobile Device Forensics Using Quantitative Analysis.",
+                    "Detection of Masqueraded Wireless Access Using 802.11 MAC Layer Fingerprints.",
+                    "BREDOLAB: Shopping in the Cybercrime Underworld.",
+                    "A Review and Comparative Study of Digital Forensic Investigation Models."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "3rd ICDF2C 2011",
+        "info": "Dubin, Ireland",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/icdf2c/2011",
+                "sub_name": "Digital Forensics and Cyber Crime - Third International ICST Conference, ICDF2C 2011, Dublin, Ireland, October 26-28, 2011, Revised Selected Papers.",
+                "count": 23,
+                "papers": [
+                    "The Role of Perception in Age Estimation.",
+                    "Internet Child Pornography, U.S. Sentencing Guidelines, and the Role of Internet Service Providers.",
+                    "Law Enforcement 2.0: Regulating the Lawful Interception of Social Media.",
+                    "All Bot Net: A Need for Smartphone P2P Awareness.",
+                    "Results of Field Testing Mobile Phone Shielding Devices.",
+                    "Windows Phone 7 from a Digital Forensics' Perspective.",
+                    "An Agent Based Tool for Windows Mobile Forensics.",
+                    "Forensic Extractions of Data from the Nokia N900.",
+                    "A Strategy for Testing Metadata Based Deleted File Recovery Tools.",
+                    "Finding Anomalous and Suspicious Files from Directory Metadata on a Large Corpus.",
+                    "A Novel Methodology for Malware Intrusion Attack Path Reconstruction.",
+                    "Performance Issues About Context-Triggered Piecewise Hashing.",
+                    "Formal Parameterization of Log Synchronization Events within a Distributed Forensic Compute Cloud Database Environment.",
+                    "Yahoo! Messenger Forensics on Windows Vista and Windows 7.",
+                    "Robust Hashing for Efficient Forensic Analysis of Image Sets.",
+                    "Tracking User Activity on Personal Computers.",
+                    "The Forensic Value of the Windows 7 Jump List.",
+                    "Finding Forensic Information on Creating a Folder in $LogFile of NTFS.",
+                    "Rescuing Digital Data from Submerged HDD.",
+                    "Evaluating the Forensic Image Generator Generator.",
+                    "Forensic Extractions of Data from the Nokia N900.",
+                    "A Forensic Framework for Incident Analysis Applied to the Insider Threat.",
+                    "Reasoning About a Simulated Printer Case Investigation with Forensic Lucid."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "2nd ICDF2C 2010",
+        "info": "Abu Dhabi, United Arab Emirates",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/icdf2c/2010",
+                "sub_name": "Digital Forensics and Cyber Crime - Second International ICST Conference, ICDF2C 2010, Abu Dhabi, United Arab Emirates, October 4-6, 2010, Revised Selected Papers.",
+                "count": 13,
+                "papers": [
+                    "Dealing with the Problem of Cybercrime.",
+                    "Software Piracy Forensics: The Need for Further Developing AFC.",
+                    "A Simple Cost-Effective Framework for iPhone Forensic Analysis.",
+                    "Detecting Intermediary Hosts by TCP Latency Measurements.",
+                    "Reliable Acquisition of RAM Dumps from Intel-Based Apple Mac Computers over FireWire.",
+                    "Towards More Secure Biometric Readers for Effective Digital Forensic Investigation.",
+                    "Defining a Standard for Reporting Digital Evidence Items in Computer Forensic Tools.",
+                    "Signature Based Detection of User Events for Post-mortem Forensic Analysis.",
+                    "Protecting Digital Evidence Integrity by Using Smart Cards.",
+                    "An Architecture for the Forensic Analysis of Windows System Artifacts.",
+                    "An IP Traceback Model for Network Forensics.",
+                    "Forensic Data Carving.",
+                    "Semantic Modelling of Digital Forensic Evidence."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "1st ICDF2C 2009",
+        "info": "Albany, NY, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/icdf2c/2009",
+                "sub_name": "Digital Forensics and Cyber Crime - First International ICST Conference, ICDF2C 2009, Albany, NY, USA, September 30-October 2, 2009, Revised Selected Papers.",
+                "count": 16,
+                "papers": [
+                    "Digital Evidence Composition in Fraud Detection.",
+                    "iForensics: Forensic Analysis of Instant Messaging on Smart Phones.",
+                    "A Survey of Forensic Localization and Tracking Mechanisms in Short-Range and Cellular Networks.",
+                    "SMIRK: SMS Management and Information Retrieval Kit.",
+                    "Localization and Detection of Vector Logo Image Plagiarism.",
+                    "Analysis of Free Download Manager for Forensic Artefacts.",
+                    "On the Reliability of Cell Phone Camera Fingerprint Recognition.",
+                    "Towards a New Data Mining-Based Approach for Anti-Money Laundering in an International Investment Bank.",
+                    "Analysis of Evidence Using Formal Event Reconstruction.",
+                    "Data Mining Instant Messaging Communications to Perform Author Identification for Cybercrime Investigations.",
+                    "Digital Evidence Retrieval and Forensic Analysis on Gambling Machine.",
+                    "Online Acquisition of Digital Forensic Evidence.",
+                    "Criminal Defense Challenges in Computer Forensics.",
+                    "Detecting and Preventing the Electronic Transmission of Illicit Images and Its Network Performance.",
+                    "A Discretionary Access Control Method for Preventing Data Exfiltration (DE) via Removable Devices.",
+                    "A Host-Based Approach to BotNet Investigation?"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,897 @@
+[
+    {
+        "year": "2021",
+        "name": "9th IH&MMSec 2021",
+        "info": "Virtual Event, Belgium",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ih/2021",
+                "sub_name": "IH&MMSec '21: ACM Workshop on Information Hiding and Multimedia Security, Virtual Event, Belgium, June, 22-25, 2021.",
+                "count": 25,
+                "papers": [
+                    "Evaluating and Designing against Side-Channel Leakage: White Box or Black Box?",
+                    "How Private is Machine Learning?",
+                    "Tracing Data through Learning with Watermarking.",
+                    "PRNU-based Deepfake Detection.",
+                    "Fake Speech Detection Using Residual Network with Transformer Encoder.",
+                    "Meta and Media Data Stream Forensics in the Encrypted Domain of Video Conferences.",
+                    "Exploitation and Sanitization of Hidden Data in PDF Files: Do Security Agencies Sanitize Their PDF Files?",
+                    "Angular Margin Softmax Loss and Its Variants for Double Compressed AMR Audio Detection.",
+                    "FederatedReverse: A Detection and Defense Method Against Backdoor Attacks in Federated Learning.",
+                    "Banners: Binarized Neural Networks with Replicated Secret Sharing.",
+                    "Deep Neural Exposure: You Can Run, But Not Hide Your Neural Network Architecture!",
+                    "iNNformant: Boundary Samples as Telltale Watermarks.",
+                    "Towards Match-on-Card Finger Vein Recognition.",
+                    "General Requirements on Synthetic Fingerprint Images for Biometric Authentication and Forensic Investigations.",
+                    "Optimizing Additive Approximations of Non-additive Distortion Functions.",
+                    "Information Hiding in Cyber Physical Systems: Challenges for Embedding, Retrieval and Detection using Sensor Data of the SWAT Dataset.",
+                    "Revisiting Perturbed Quantization.",
+                    "Fast Detection of Heterogeneous Parallel Steganography for Streaming Voice.",
+                    "How to Pretrain for Steganalysis.",
+                    "Improving EfficientNet for JPEG Steganalysis.",
+                    "Piracy-Resistant DNN Watermarking by Block-Wise Image Transformation with Secret Key.",
+                    "White-Box Watermarking Scheme for Fully-Connected Layers in Fine-Tuning Model.",
+                    "A Protocol for Secure Verification of Watermarks Embedded into Machine Learning Models.",
+                    "On the Robustness of Backdoor-based Watermarking in Deep Neural Networks.",
+                    "DNN Watermarking: Four Challenges and a Funeral."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "name": "8th IH&MMSec 2020",
+        "info": "Denver, CO, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ih/2020",
+                "sub_name": "IH&MMSec '20: ACM Workshop on Information Hiding and Multimedia Security, Denver, CO, USA, June 22-24, 2020.",
+                "count": 21,
+                "papers": [
+                    "Exploiting Micro-Signals for Physiological Forensics.",
+                    "Game-Theoretic Perspectives and Algorithms for Cybersecurity.",
+                    "Linguistic Steganalysis via Densely Connected LSTM with Feature Pyramid.",
+                    "Deep Audio Steganalysis in Time Domain.",
+                    "Reinforcement Learning Aided Network Architecture Generation for JPEG Image Steganalysis.",
+                    "Feature Aggregation Networks for Image Steganalysis.",
+                    "Pixels-off: Data-augmentation Complementary Solution for Deep-learning Steganalysis.",
+                    "Protecting Smartphone Screen Notification Privacy by Verifying the Gripping Hand.",
+                    "What if Adversarial Samples were Digital Images?",
+                    "LiveDI: An Anti-theft Model Based on Driving Behavior.",
+                    "On the Difficulty of Hiding Keys in Neural Networks.",
+                    "Nested Tailbiting Convolutional Codes for Secrecy, Privacy, and Storage.",
+                    "Simulation of Border Control in an Ongoing Web-based Experiment for Estimating Morphing Detection Performance of Humans.",
+                    "Exploiting Prediction Error Inconsistencies through LSTM-based Classifiers to Detect Deepfake Videos.",
+                    "Photo Forensics From Rounding Artifacts.",
+                    "Information Hiding in Industrial Control Systems: An OPC UA based Supply Chain Attack and its Detection.",
+                    "Simulating Suboptimal Steganographic Embedding.",
+                    "A Robust Video Steganographic Method against Social Networking Transcoding Based on Steganographic Side Channel.",
+                    "JPEG Steganography and Synchronization of DCT Coefficients for a Given Development Pipeline.",
+                    "Turning Cost-Based Steganography into Model-Based.",
+                    "Steganography by Minimizing Statistical Detectability: The cases of JPEG and Color Images."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "7th IH&MMSec 2019",
+        "info": "Paris, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ih/2019",
+                "sub_name": "Proceedings of the ACM Workshop on Information Hiding and Multimedia Security, IH&MMSec 2019, Paris, France, July 3-5, 2019.",
+                "count": 33,
+                "papers": [
+                    "Reverse Engineering: What Can We Learn From a Digital Image About Its Own History ?",
+                    "Recurrent Convolutional Neural Networks for AMR Steganalysis Based on Pulse Position.",
+                    "Defining Joint Embedding Distortion for Adaptive MP3 Steganography.",
+                    "Adaptive VP8 Steganography Based on Deblocking Filtering.",
+                    "Vibrational Covert Channels using Low-Frequency Acoustic Signals.",
+                    "Towards Automatic Embedding Cost Learning for JPEG Steganography.",
+                    "Effect of JPEG Quality on Steganographic Security.",
+                    "Computing Dependencies between DCT Coefficients for Natural Steganography in JPEG Domain.",
+                    "Enhancing Steganography via Stego Post-processing by Reducing Image Residual Difference.",
+                    "Camera Identification from HDR Images.",
+                    "Estimation of Copy-sensitive Codes Using a Neural Approach.",
+                    "De-identification Without Losing Faces.",
+                    "Impact of Spatial Constraints when Signing in Uncontrolled Mobile Conditions.",
+                    "A Face Morphing Detection Concept with a Frequency and a Spatial Domain Feature Space for Images on eMRTD.",
+                    "Image Forensics from Chroma Subsampling of High-Quality JPEG Images.",
+                    "A Simple and Effective Initialization of CNN for Forensics of Image Processing Operations.",
+                    "Exposing GAN-synthesized Faces Using Landmark Locations.",
+                    "CNN-based Rescaling Factor Estimation.",
+                    "The ALASKA Steganalysis Challenge: A First Step Towards Steganalysis.",
+                    "Breaking ALASKA: Color Separation for Steganalysis in JPEG Domain.",
+                    "Trusting Machine Learning: Privacy, Robustness, and Transparency Challenges.",
+                    "Proving Multimedia Integrity using Sanitizable Signatures Recorded on Blockchain.",
+                    "Revisiting Multivariate Lattices for Encrypted Signal Processing.",
+                    "Watermarking Error Exponents in the Presence of Noise: The Case of the Dual Hypercone Detector.",
+                    "Nearest Neighbor Decoding for Tardos Fingerprinting Codes.",
+                    "Reference Channels for Steganalysis of Images with Convolutional Neural Networks.",
+                    "A Customized Convolutional Neural Network with Low Model Complexity for JPEG Steganalysis.",
+                    "Steganalysis of VoIP Streams with CNN-LSTM Network.",
+                    "Audio Steganalysis with Improved Convolutional Neural Network.",
+                    "Exploiting Adversarial Embeddings for Better Steganography.",
+                    "Detection of Classifier Inconsistencies in Image Steganalysis.",
+                    "Fast and Effective Global Covariance Pooling Network for Image Steganalysis.",
+                    "Linear Hash Functions as a Means of Distortion-Rate Optimization in Data Embedding."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "6th IH&MMSec 2018",
+        "info": "Innsbruck, Austria",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ih/2018",
+                "sub_name": "Proceedings of the 6th ACM Workshop on Information Hiding and Multimedia Security, Innsbruck, Austria, June 20-22, 2018.",
+                "count": 20,
+                "papers": [
+                    "Covert and Deniable Communications.",
+                    "Deep Learning in Multimedia Forensics.",
+                    "Defining Joint Distortion for JPEG Steganography.",
+                    "Facing the Cover-Source Mismatch on JPHide using Training-Set Design.",
+                    "Cover Block Decoupling for Content-Adaptive H.264 Steganography.",
+                    "Do EEG-Biometric Templates Threaten User Privacy?",
+                    "Fake Faces Identification via Convolutional Neural Network.",
+                    "Generalized Benford's Law for Blind Detection of Morphed Face Images.",
+                    "CNN-based Steganalysis of MP3 Steganography in the Entropy Code Domain.",
+                    "Adversarial Examples Against Deep Neural Network based Steganalysis.",
+                    "Identification of Audio Processing Operations Based on Convolutional Neural Network.",
+                    "Learning Unified Deep-Features for Multiple Forensic Tasks.",
+                    "Image Forgery Localization based on Multi-Scale Convolutional Neural Networks.",
+                    "Densely Connected Convolutional Neural Network for Multi-purpose Image Forensics under Anti-forensic Attacks.",
+                    "Maintaining Rate-Distortion Optimization for IPM-Based Video Steganography by Constructing Isolated Channels in HEVC.",
+                    "Exploring Non-Additive Distortion in Steganography.",
+                    "On the Relationship Between Embedding Costs and Steganographic Capacity.",
+                    "Real or Fake: Mobile Device Drug Packaging Authentication.",
+                    "Forensic Analysis and Anonymisation of Printed Documents.",
+                    "Applicability of No-Reference Visual Quality Indices for Visual Security Assessment."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "5th IH&MMSec 2017",
+        "info": "Philadelphia, PA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ih/2017",
+                "sub_name": "Proceedings of the 5th ACM Workshop on Information Hiding and Multimedia Security, IH&MMSec 2017, Philadelphia, PA, USA, June 20-22, 2017.",
+                "count": 20,
+                "papers": [
+                    "Every Move You Make: Tracking Smartphone Users through Motion Sensors.",
+                    "Information-theoretic Bounds of Resampling Forensics: New Evidence for Traces Beyond Cyclostationarity.",
+                    "Countering Anti-Forensics of Lateral Chromatic Aberration.",
+                    "Modeling Attacks on Photo-ID Documents and Applying Media Forensics for the Detection of Facial Morphing.",
+                    "The Square Root Law of Steganography: Bringing Theory Closer to Practice.",
+                    "Nonlinear Feature Normalization in Steganalysis.",
+                    "Improving GFR Steganalysis Features by Using Gabor Symmetry and Weighted Histograms.",
+                    "Deep Convolutional Neural Network to Detect J-UNIWARD.",
+                    "JPEG-Phase-Aware Convolutional Neural Network for Steganalysis of JPEG Images.",
+                    "Audio Steganalysis with Convolutional Neural Network.",
+                    "Using Stylometry to Attribute Programmers and Writers.",
+                    "Towards Imperceptible Natural Language Watermarking for German.",
+                    "Text Steganography with High Embedding Rate: Using Recurrent Neural Networks to Generate Chinese Classic Poetry.",
+                    "Audio Reversible Watermarking Scheme in the intDCT Domain with Modified Prediction Error Expansion.",
+                    "A Minimum Distortion: High Capacity Watermarking Technique for Relational Data.",
+                    "A Steganalytic Algorithm to Detect DCT-based Data Hiding Methods for H.264/AVC Videos.",
+                    "Combined and Calibrated Features for Steganalysis of Motion Vector-Based Steganography in H.264/AVC.",
+                    "A Generic Approach Towards Image Manipulation Parameter Estimation Using Convolutional Neural Networks.",
+                    "Recasting Residual-based Local Descriptors as Convolutional Neural Networks: an Application to Image Forgery Detection.",
+                    "Image Forensics Based on Transfer Learning and Convolutional Neural Network."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "4th IH&MMSec 2016",
+        "info": "Vigo, Galicia, Spain",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ih/2016",
+                "sub_name": "Proceedings of the 4th ACM Workshop on Information Hiding and Multimedia Security, IH&MMSec 2016, Vigo, Galicia, Spain, June 20-22, 2016.",
+                "count": 27,
+                "papers": [
+                    "Machine Learning under Attack: Vulnerability Exploitation and Security Measures.",
+                    "Bringing Multimedia Security from the Research Lab to the Forensic Lab.",
+                    "A Deep Learning Approach to Universal Image Manipulation Detection Using a New Convolutional Layer.",
+                    "Forensics of High Quality and Nearly Identical JPEG Image Recompression.",
+                    "A Higher Order Analysis of the Joint Capacity of Digital Fingerprinting Codes against the Interleaving Attack.",
+                    "Efficient HS based Reversible Data Hiding Using Multi-feature Complexity Measure and Optimized Histogram.",
+                    "A Novel CDMA Based High Performance Reversible Data Hiding Scheme.",
+                    "Dynamic Privacy-Preserving Genomic Susceptibility Testing.",
+                    "Group Testing for Identification with Privacy.",
+                    "Differentially Private Matrix Factorization using Sketching Techniques.",
+                    "Secure and Verifiable Outsourcing of Nonnegative Matrix Factorization (NMF).",
+                    "Practical and Scalable Sharing of Encrypted Data in Cloud Storage with Key Aggregation.",
+                    "Provable Secure Universal Steganography of Optimal Rate: Provably Secure Steganography does not Necessarily Imply One-Way Functions.",
+                    "Rethinking Optimal Embedding.",
+                    "Ensemble of CNNs for Steganalysis: An Empirical Study.",
+                    "Color Image Steganalysis Based On Steerable Gaussian Filters Bank.",
+                    "A Survey and Taxonomy Aimed at the Detection and Measurement of Covert Channels.",
+                    "A Novel Embedding Distortion for Motion Vector-Based Steganography Considering Motion Characteristic, Local Optimality and Statistical Distribution.",
+                    "Constructing Near-optimal Double-layered Syndrome-Trellis Codes for Spatial Steganography.",
+                    "Boosting Steganalysis with Explicit Feature Maps.",
+                    "Information Hiding in the RSA Modulus.",
+                    "Secure Image Display through Visual Cryptography: Exploiting Temporal Responsibilities of the Human Eye.",
+                    "Image Segmentation Based Visual Security Evaluation.",
+                    "Enhanced Collusion Resistance for Segment-wise Recombined Fingerprinting in P2P Distribution Systems: [Extended Abstract].",
+                    "Study of a Verifiable Biometric Matching.",
+                    "Privacy Protection for JPEG Content on Image-Sharing Platforms.",
+                    "PPE-Based Reversible Data Hiding."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "3rd IH&MMSec 2015",
+        "info": "Portland, OR, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ih/2015",
+                "sub_name": "Proceedings of the 3rd ACM Workshop on Information Hiding and Multimedia Security, IH&MMSec 2015, Portland, OR, USA, June 17 - 19, 2015.",
+                "count": 22,
+                "papers": [
+                    "Implications of Cyber Warfare.",
+                    "IoT Privacy: Can We Regain Control?",
+                    "Improving Steganographic Security by Synchronizing the Selection Channel.",
+                    "Steganalysis of Adaptive JPEG Steganography Using 2D Gabor Filters.",
+                    "Video Steganography Based on Optimized Motion Estimation Perturbation.",
+                    "Effect of Imprecise Knowledge of the Selection Channel on Steganalysis.",
+                    "On Characterizing and Measuring Out-of-Band Covert Channels.",
+                    "LiHB: Lost in HTTP Behaviors - A Behavior-Based Covert Channel in HTTP.",
+                    "Visual Honey Encryption: Application to Steganography.",
+                    "Flicker Forensics for Pirate Device Identification.",
+                    "Enhancing Sensor Pattern Noise for Source Camera Identification: An Empirical Evaluation.",
+                    "ForeMan, a Versatile and Extensible Database System for Digitized Forensics Based on Benchmarking Properties.",
+                    "Optimal Sequential Fingerprinting: Wald vs. Tardos.",
+                    "Universal Threshold Calculation for Fingerprinting Decoders using Mixture Models.",
+                    "3D Print-Scan Resilient Watermarking Using a Histogram-Based Circular Shift Coding Structure.",
+                    "End-to-Display Encryption: A Pixel-Domain Encryption with Security Benefit.",
+                    "Touch-based Static Authentication Using a Virtual Grid.",
+                    "SATTVA: SpArsiTy inspired classificaTion of malware VAriants.",
+                    "Thumbnail-Preserving Encryption for JPEG.",
+                    "On Elliptic Curve Based Untraceable RFID Authentication Protocols.",
+                    "A Negative Number Vulnerability for Histogram-based Face Recognition Systems.",
+                    "Automated Firearm Identification: On using a novel Multiple-Slice-Shape (MSS) Approach for Comparison and Matching of Firing Pin Impression Topography."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "2nd IH&MMSec 2014",
+        "info": "Salzburg, Austria",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ih/2014",
+                "sub_name": "ACM Information Hiding and Multimedia Security Workshop, IH&MMSec '14, Salzburg, Austria, June 11-13, 2014.",
+                "count": 26,
+                "papers": [
+                    "Image security tools for JPEG standards.",
+                    "Detection of JSteg algorithm using hypothesis testing theory and a statistical model with nuisance parameters.",
+                    "Slice groups for post-compression region of interest encryption in SVC.",
+                    "What's the PointiSA?",
+                    "Gradient based prediction for reversible watermarking by difference expansion.",
+                    "On the combination of randomized thresholds and non-parametric boundaries to protect digital watermarks against sensitivity attacks.",
+                    "Application of Grubbs' test for outliers to the detection of watermarks.",
+                    "FastPass: automated border control as challenging combination of various security technologies.",
+                    "Biometrics based observer free transferable E-cash.",
+                    "From StirNark to StirTrace: benchmarking pattern recognition based printed fingerprint detection.",
+                    "Digital crime scene analysis: automatic matching of firing pin impressions on cartridge bottoms using 2d and 3d spatial features.",
+                    "Video steganalysis based on subtractive probability of optimal matching feature.",
+                    "Adaptive steganalysis against WOW embedding algorithm.",
+                    "Predictable rain?: steganalysis of public-key steganography using wet paper codes.",
+                    "Steganographic key leakage through payload metadata.",
+                    "Video steganography with perturbed macroblock partition.",
+                    "Capacities and capacity-achieving decoders for various fingerprinting games.",
+                    "Notes on non-interactive secure comparison in \"image feature extraction in the encrypted domain with privacy-preserving SIFT\".",
+                    "Distributional differential privacy for large-scale smart metering.",
+                    "Influence of data granularity on nonintrusive appliance load monitoring.",
+                    "Architecture-driven smart grid security management.",
+                    "Audio source authentication and splicing detection using acoustic environmental signature.",
+                    "A universal image forensic strategy based on steganalytic model.",
+                    "Automatic location of frame deletion point for digital video forensics.",
+                    "Robust palmprint verification using sparse representation of binarized statistical features: a comprehensive study.",
+                    "GSHADE: faster privacy-preserving distance computation and biometric identification."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "1st IH&MMSec 2013",
+        "info": "Montpellier, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ih/2013",
+                "sub_name": "ACM Information Hiding and Multimedia Security Workshop, IH&MMSec '13, Montpellier, France, June 17-19, 2013.",
+                "count": 30,
+                "papers": [
+                    "Bayesian inference to evaluate information leakage in complex scenarios.",
+                    "A simple tracing algorithm for binary fingerprinting code under averaging attack.",
+                    "Discrete distributions in the tardos scheme, revisited.",
+                    "Optimal suspicion functions for tardos traitor tracing schemes.",
+                    "Leakage detection and tracing for databases.",
+                    "An asymmetric fingerprinting code for collusion-resistant buyer-seller watermarking.",
+                    "Moving steganography and steganalysis from the laboratory into the real world.",
+                    "Digital image steganography using universal distortion.",
+                    "Distortion function designing for JPEG steganography with uncompressed side-image.",
+                    "Embedding change rate estimation based on ensemble learning.",
+                    "Privacy and security challenges in the smart grid user domain.",
+                    "Document authentication using graphical codes: impacts of the channel model.",
+                    "First investigation of latent fingerprints long-term aging using chromatic white light sensors.",
+                    "Non-invertible and revocable iris templates using key-dependent wavelet transforms.",
+                    "Towards standardised fingerprint matching robustness assessment: the StirMark toolkit - cross-database comparisons with minutiae-based matching.",
+                    "JPEG anti-forensics using non-parametric DCT quantization noise estimation and natural image statistics.",
+                    "SIFT keypoint removal and injection for countering matching-based image forensics.",
+                    "Forensic identification of GSM mobile phones.",
+                    "Optimizing acoustic features for source cell-phone recognition using speech signals.",
+                    "Exposing digital audio forgeries in time domain by using singularity analysis with wavelets.",
+                    "Detection and classification of double compressed MP3 audio tracks.",
+                    "Region of interest signalling for encrypted JPEG images.",
+                    "Secure and efficient approximate nearest neighbors search.",
+                    "XOR-based meaningful visual secret sharing by generalized random grids.",
+                    "On the intertwining of information hiding and multimedia security: a personal perspective.",
+                    "Natural language watermarking for german texts.",
+                    "On optimal detection for matrix multiplicative data hiding.",
+                    "Joint watermarking and progressive geometric compression of 3D meshes.",
+                    "Context embedding for raster-scan rhombus based reversible watermarking.",
+                    "Watermarking road maps against crop and merge attacks."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "14th Information Hiding 2012",
+        "info": "Berkeley, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ih/2012",
+                "sub_name": "Information Hiding - 14th International Conference, IH 2012, Berkeley, CA, USA, May 15-18, 2012, Revised Selected Papers.",
+                "count": 18,
+                "papers": [
+                    "Blind Median Filtering Detection Using Statistics in Difference Domain.",
+                    "Robustness of Color Interpolation Identification against Anti-forensic Operations.",
+                    "Steganalysis of LSB Replacement Using Parity-Aware Features.",
+                    "Statistical Detection of LSB Matching Using Hypothesis Testing Theory.",
+                    "Textural Features for Steganalysis.",
+                    "JPEG-Compatibility Steganalysis Using Block-Histogram of Recompression Artifacts.",
+                    "Hiding a Second Appearance in a Physical Relief Surface.",
+                    "Blind Robust Watermarking Mechanism Based on Maxima Curvature of 3D Motion Data.",
+                    "A Game-Theoretic Approach to Content-Adaptive Steganography.",
+                    "Key-Efficient Steganography.",
+                    "Secret Agent Radio: Covert Communication through Dirty Constellations.",
+                    "Lower Bounds for Private Broadcast Encryption.",
+                    "The Dangers of Composing Anonymous Channels.",
+                    "A New Measure of Watermarking Security Applied on QIM.",
+                    "Non-Integer Expansion Embedding for Prediction-Based Reversible Watermarking.",
+                    "Walsh-Hadamard Transform in the Homomorphic Encrypted Domain and Its Application in Image Watermarking.",
+                    "Asymptotic Fingerprinting Capacity in the Combined Digit Model.",
+                    "Bias Equalizer for Binary Probabilistic Fingerprinting Codes."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "13th Information Hiding 2011",
+        "info": "Prague, Czech Republic",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ih/2011",
+                "sub_name": "Information Hiding - 13th International Conference, IH 2011, Prague, Czech Republic, May 18-20, 2011, Revised Selected Papers.",
+                "count": 23,
+                "papers": [
+                    "Asymptotic Fingerprinting Capacity for Non-binary Alphabets.",
+                    "Asymptotically False-Positive-Maximizing Attack on Non-binary Tardos Codes.",
+                    "Towards Joint Tardos Decoding: The 'Don Quixote' Algorithm.",
+                    "An Asymmetric Fingerprinting Scheme Based on Tardos Codes.",
+                    "\"Break Our Steganographic System\": The Ins and Outs of Organizing BOSS.",
+                    "A New Methodology in Steganalysis: Breaking Highly Undetectable Steganograpy (HUGO).",
+                    "Breaking HUGO - The Process Discovery.",
+                    "Steganalysis of Content-Adaptive Steganography in Spatial Domain.",
+                    "I Have a DREAM! (DiffeRentially privatE smArt Metering).",
+                    "Anonymity Attacks on Mix Systems: A Formal Analysis.",
+                    "Differentially Private Billing with Rebates.",
+                    "Statistical Decision Methods in Hidden Information Detection.",
+                    "A Cover Image Model For Reliable Steganalysis.",
+                    "Video Steganography with Perturbed Motion Estimation.",
+                    "Soft-SCS: Improving the Security and Robustness of the Scalar-Costa-Scheme by Optimal Distribution Matching.",
+                    "Improving Tonality Measures for Audio Watermarking.",
+                    "Watermarking as a Means to Enhance Biometric Systems: A Critical Survey.",
+                    "Capacity-Approaching Codes for Reversible Data Hiding.",
+                    "Code Obfuscation against Static and Dynamic Reverse Engineering.",
+                    "Countering Counter-Forensics: The Case of JPEG Compression.",
+                    "Stegobot: A Covert Social Network Botnet.",
+                    "CoCo: Coding-Based Covert Timing Channels for Network Flows.",
+                    "LinL: Lost in n-best List."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "12th Information Hiding 2010",
+        "info": "Calgary, AB, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ih/2010",
+                "sub_name": "Information Hiding - 12th International Conference, IH 2010, Calgary, AB, Canada, June 28-30, 2010, Revised Selected Papers.",
+                "count": 20,
+                "papers": [
+                    "FPGA Time-Bounded Unclonable Authentication.",
+                    "A Unified Submodular Framework for Multimodal IC Trojan Detection.",
+                    "A Secure and Robust Approach to Software Tamper Resistance.",
+                    "Security with Noisy Data - (Extended Abstract of Invited Talk).",
+                    "Detection of Copy-Rotate-Move Forgery Using Zernike Moments.",
+                    "Scene Illumination as an Indicator of Image Manipulation.",
+                    "Capacity of Collusion Secure Fingerprinting - A Tradeoff between Rate and Efficiency - (Extended Abstract of Invited Talk).",
+                    "Short Collusion-Secure Fingerprint Codes against Three Pirates.",
+                    "Tardos's Fingerprinting Code over AWGN Channel.",
+                    "Steganalysis Using Partially Ordered Markov Models.",
+                    "The Influence of the Image Basis on Modeling and Steganalysis Performance.",
+                    "The Square Root Law in Stegosystems with Imperfect Information.",
+                    "Using High-Dimensional Image Models to Perform Highly Undetectable Steganography.",
+                    "Obtaining Higher Rates for Steganographic Schemes While Maintaining the Same Detectability.",
+                    "Robust and Undetectable Steganographic Timing Channels for i.i.d. Traffic.",
+                    "STBS: A Statistical Algorithm for Steganalysis of Translation-Based Steganography.",
+                    "The Reverse Statistical Disclosure Attack.",
+                    "Security Analysis of ISS Watermarking Using Natural Scene Statistics.",
+                    "Provably Secure Spread-Spectrum Watermarking Schemes in the Known Message Attack Framework.",
+                    "A New Spread Spectrum Watermarking Scheme to Achieve a Trade-Off between Security and Robustness."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "11th Information Hiding 2009",
+        "info": "Darmstadt, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ih/2009",
+                "sub_name": "Information Hiding, 11th International Workshop, IH 2009, Darmstadt, Germany, June 8-10, 2009, Revised Selected Papers.",
+                "count": 19,
+                "papers": [
+                    "Supraliminal Audio Steganography: Audio Files Tricking Audiophiles.",
+                    "An Epistemological Approach to Steganography.",
+                    "Fisher Information Determines Capacity of \u03b5-Secure Steganography.",
+                    "Fast BCH Syndrome Coding for Steganography.",
+                    "Embedding Ratio Estimating for Each Bit Plane of Image.",
+                    "Estimating Steganographic Fisher Information in Real Images.",
+                    "Fast Determination of Sensitivity in the Presence of Countermeasures in BOWS-2.",
+                    "A Phase Modulation Audio Watermarking Technique.",
+                    "Forensic Tracking Watermarking against In-theater Piracy.",
+                    "Self-recovery Fragile Watermarking Using Block-Neighborhood Tampering Characterization.",
+                    "Perception-Based Audio Authentication Watermarking in the Time-Frequency Domain.",
+                    "An Improvement of Short 2-Secure Fingerprint Codes Strongly Avoiding False-Positive.",
+                    "Estimating the Minimal Length of Tardos Code.",
+                    "Roughness-Adaptive 3D Watermarking of Polygonal Meshes.",
+                    "Hardware-Based Public-Key Cryptography with Public Physically Unclonable Functions.",
+                    "SVD-Based Ghost Circuitry Detection.",
+                    "Microphone Classification Using Fourier Coefficients.",
+                    "Detect Digital Image Splicing with Visual Cues.",
+                    "Feature-Based Camera Model Identification Works in Practice."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "10th Information Hiding 2008",
+        "info": "Santa Barbara, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ih/2008",
+                "sub_name": "Information Hiding, 10th International Workshop, IH 2008, Santa Barbara, CA, USA, May 19-21, 2008, Revised Selected Papers.",
+                "count": 25,
+                "papers": [
+                    "A Display Technique for Preventing Electromagnetic Eavesdropping Using Color Mixture Characteristic of Human Eyes.",
+                    "Hiding a Needle in a Haystack Using Negative Databases.",
+                    "Information Leakage in Optimal Anonymized and Diversified Data.",
+                    "Perturbation Hiding and the Batch Steganography Problem.",
+                    "Maximizing Steganographic Embedding Efficiency by Combining Hamming Codes and Wet Paper Codes.",
+                    "Detecting Re-projected Video.",
+                    "Residual Information of Redacted Images Hidden in the Compression Artifacts.",
+                    "Trusted Integrated Circuits: A Nondestructive Hidden Characteristics Extraction Approach.",
+                    "Reversible Watermarking with Subliminal Channel.",
+                    "Watermarking Security Incorporating Natural Scene Statistics.",
+                    "Block-Chain Based Fragile Watermarking Scheme with Superior Localization.",
+                    "Generic Adoption of Spatial Steganalysis to Transformed Domain.",
+                    "Weighted Stego-Image Steganalysis for JPEG Covers.",
+                    "Practical Insecurity for Effective Steganalysis.",
+                    "Authorship Proof for Textual Document.",
+                    "Linguistic Steganography Detection Using Statistical Characteristics of Correlations between Words.",
+                    "A Data Mapping Method for Steganography and Its Application to Images.",
+                    "Benchmarking for Steganography.",
+                    "Information Hiding through Variance of the Parametric Orientation Underlying a B-rep Face.",
+                    "A Supraliminal Channel in a Videoconferencing Application.",
+                    "C-Mix: A Lightweight Anonymous Routing Approach.",
+                    "Strengthening QIM-Based Watermarking by Non-uniform Discrete Cosine Transform.",
+                    "Distortion Optimization of Model-Based Secure Embedding Schemes for Data-Hiding.",
+                    "On the Design and Optimization of Tardos Probabilistic Fingerprinting Codes.",
+                    "Iterative Detection Method for CDMA-Based Fingerprinting Scheme."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "9th Information Hiding 2007",
+        "info": "Saint Malo, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ih/2007",
+                "sub_name": "Information Hiding, 9th International Workshop, IH 2007, Saint Malo, France, June 11-13, 2007, Revised Selected Papers.",
+                "count": 25,
+                "papers": [
+                    "MPSteg-color: A New Steganographic Technique for Color Images.",
+                    "YASS: Yet Another Steganographic Scheme That Resists Blind Steganalysis.",
+                    "Steganographic Communication with Quantum Information.",
+                    "Three-Dimensional Meshes Watermarking: Review and Attack-Centric Investigation.",
+                    "Robust and High Capacity Image Watermarking Based on Jointly Coding and Embedding Optimization.",
+                    "A Graph Game Model for Software Tamper Protection.",
+                    "Software Integrity Checking Expressions (ICEs) for Robust Tamper Detection.",
+                    "Space-Efficient Kleptography Without Random Oracles.",
+                    "How Can Reed-Solomon Codes Improve Steganographic Schemes?",
+                    "Reducing the Complexity of Syndrome Coding for Embedding.",
+                    "Exploiting Security Holes in Lattice Data Hiding.",
+                    "Practical Security Analysis of Dirty Paper Trellis Watermarking.",
+                    "Security of Invertible Media Authentication Schemes Revisited.",
+                    "A Fusion of Maximum Likelihood and Structural Steganalysis.",
+                    "Traffic Analysis Attacks on a Continuously-Observable Steganographic File System.",
+                    "Soft Feature-Based Watermark Decoding with Insertion/Deletion Correction.",
+                    "Noise Robust Speech Watermarking with Bit Synchronisation for the Aeronautical Radio.",
+                    "A Geometrical Robust Image Data Hiding Scheme Using FCA-Based Resynchronization.",
+                    "Optimization of Tardos's Fingerprinting Codes in a Viewpoint of Memory Amount.",
+                    "Combining Tardos Fingerprinting Codes and Fingercasting.",
+                    "Exposing Digital Forgeries Through Specular Highlights on the Eye.",
+                    "Tamper Hiding: Defeating Image Forensics.",
+                    "Imaging Sensor Noise as Digital X-Ray for Revealing Forgeries.",
+                    "Pros and Cons of Mel-cepstrum Based Audio Steganalysis Using SVM Classification.",
+                    "Generalised Category Attack - Improving Histogram-Based Attack on JPEG LSB Embedding."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "8th Information Hiding 2006",
+        "info": "Alexandria, VA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ih/2006",
+                "sub_name": "Information Hiding, 8th International Workshop, IH 2006, Alexandria, VA, USA, July 10-12, 2006. Revised Selcted Papers.",
+                "count": 25,
+                "papers": [
+                    "Natural Watermarking: A Secure Spread Spectrum Technique for WOA.",
+                    "An Improved Asymmetric Watermarking System Using Matrix Embedding.",
+                    "A Cryptographic Method for Secure Watermark Detection.",
+                    "Steganographic Communication in Ordered Channels.",
+                    "Analyzing Network-Aware Active Wardens in IPv6.",
+                    "Video Watermarking by Using Geometric Warping Without Visible Artifacts.",
+                    "Time-Scale Invariant Audio Watermarking Based on the Statistical Features in Time Domain.",
+                    "Content-Aware Steganography: About Lazy Prisoners and Narrow-Minded Wardens.",
+                    "Noisy Timing Channels with Binary Inputs and Outputs.",
+                    "A Computational Model for Watermark Robustness.",
+                    "Hiding Information Hiding.",
+                    "Reversible Watermarking of NURBS-Based CAD Models.",
+                    "A High-Capacity Data Hiding Method for Polygonal Meshes.",
+                    "Steganography for Radio Amateurs - A DSSS Based Approach for Slow Scan Television.",
+                    "Delayed and Controlled Failures in Tamper-Resistant Software.",
+                    "A Model for Self-Modifying Code.",
+                    "A Markov Process Based Approach to Effective Attacking JPEG Steganography.",
+                    "Batch Steganography and Pooled Steganalysis.",
+                    "On Steganographic Embedding Efficiency.",
+                    "Bandwidth Optimal Steganography Secure Against Adaptive Chosen Stegotext Attacks.",
+                    "Modified Matrix Encoding Technique for Minimal Distortion Steganography.",
+                    "Statistically Secure Anti-Collusion Code Design for Median Attack Robustness for Practical Fingerprinting.",
+                    "A Collusion-Resistant Video Watermarking Scheme.",
+                    "An Elliptic Curve Backdoor Algorithm for RSASSA.",
+                    "A Subliminal-Free Variant of ECDSA."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "7th Information Hiding 2005",
+        "info": "Barcelona, Spain",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ih/2005",
+                "sub_name": "Information Hiding, 7th International Workshop, IH 2005, Barcelona, Spain, June 6-8, 2005, Revised Selected Papers.",
+                "count": 29,
+                "papers": [
+                    "On Joint Coding for Watermarking and Encryption.",
+                    "Compulsion Resistant Anonymous Communications.",
+                    "Provable Anonymity for Networks of Mixes.",
+                    "On Blending Attacks for Mixes with Memory.",
+                    "Pervasive Random Beacon in the Internet for Covert Coordination.",
+                    "Censorship Resistance Revisited.",
+                    "Optimal Embedding for Watermarking in Discrete Data Spaces.",
+                    "A Spread Spectrum Watermarking Scheme Based on Periodic Clock Changes for Digital Images.",
+                    "A Quantization Watermarking Technique Robust to Linear and Non-linear Valumetric Distortions Using a Fractal Set of Floating Quantizers.",
+                    "Efficient Steganography with Provable Security Guarantees.",
+                    "Information-Theoretic Analysis of Security in Side-Informed Data Hiding.",
+                    "Fundamentals of Data Hiding Security and Their Application to Spread-Spectrum Analysis.",
+                    "How to Combat Block Replacement Attacks?.",
+                    "On the Intractability of Inverting Geometric Distortions in Watermarking Schemes.",
+                    "Pre-processing for Adding Noise Steganography.",
+                    "Efficient Wet Paper Codes.",
+                    "Translation-Based Steganography.",
+                    "ID Modulation: Embedding Sensor Data in an RFID Timeseries.",
+                    "Embedding Covert Channels into TCP/IP.",
+                    "Steganalysis Based on Multiple Features Formed by Statistical Moments of Wavelet Characteristic Functions.",
+                    "Assessment of Steganalytic Methods Using Multiple Regression Models.",
+                    "A General Framework for Structural Steganalysis of LSB Replacement.",
+                    "New Steganalysis Methodology: LR Cube Analysis for the Detection of LSB Steganography.",
+                    "An Analysis of Empirical PMF Based Tests for Least Significant Bit Image Steganography.",
+                    "Self-validating Branch-Based Software Watermarking.",
+                    "Data Hiding in Compiled Program Binaries for Enhancing Computer System Performance.",
+                    "Dither Modulation Watermarking of Dynamic Memory Traces.",
+                    "A Family of Collusion 2-Secure Codes.",
+                    "Best Security Index for Digital Fingerprinting."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "6th Information Hiding 2004",
+        "info": "Toronto, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ih/2004",
+                "sub_name": "Information Hiding, 6th International Workshop, IH 2004, Toronto, Canada, May 23-25, 2004, Revised Selected Papers.",
+                "count": 25,
+                "papers": [
+                    "An Implementation of, and Attacks on, Zero-Knowledge Watermarking.",
+                    "On the Possibility of Non-invertible Watermarking Schemes.",
+                    "Reversing Global and Local Geometrical Distortions in Image Watermarking.",
+                    "On Achievable Regions of Public Multiple-Access Gaussian Watermarking Systems.",
+                    "Fixed-Distortion Orthogonal Dirty Paper Coding for Perceptual Still Image Watermarking.",
+                    "Feature-Based Steganalysis for JPEG Images and Its Implications for Future Design of Steganographic Schemes.",
+                    "Exploiting Preserved Statistics for Steganalysis.",
+                    "Improved Detection of LSB Steganography in Grayscale Images.",
+                    "An Improved Sample Pairs Method for Detection of LSB Embedding.",
+                    "Statistical Tools for Digital Forensics.",
+                    "Relative Generic Computational Forensic Techniques.",
+                    "Syntax and Semantics-Preserving Application-Layer Protocol Steganography.",
+                    "A Method of Linguistic Steganography Based on Collocationally-Verified Synonymy.",
+                    "Graph Theoretic Software Watermarks: Implementation, Analysis, and Attacks.",
+                    "Threading Software Watermarks.",
+                    "Soft IP Protection: Watermarking HDL Codes.",
+                    "An Asymmetric Security Mechanism for Navigation Signals.",
+                    "Analysis of COT-based Fingerprinting Schemes: New Approach to Design Practical and Secure Fingerprinting Scheme.",
+                    "Empirical and Theoretical Evaluation of Active Probing Attacks and Their Countermeasures.",
+                    "Optimization and Evaluation of Randomized c-Secure CRT Code Defined on Polynomial Ring.",
+                    "Statistical Disclosure or Intersection Attacks on Anonymity Systems.",
+                    "Reasoning About the Anonymity Provided by Pool Mixes That Generate Dummy Traffic.",
+                    "The Hitting Set Attack on Anonymity Protocols.",
+                    "Information Hiding in Finite State Machine.",
+                    "Covert Channels for Collusion in Online Computer Games."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2002",
+        "name": "5th Information Hiding 2002",
+        "info": "Noordwijkerhout, The Netherlands",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ih/2002",
+                "sub_name": "Information Hiding, 5th International Workshop, IH 2002, Noordwijkerhout, The Netherlands, October 7-9, 2002, Revised Papers.",
+                "count": 27,
+                "papers": [
+                    "Hiding Intrusions: From the Abnormal to the Normal and Beyond.",
+                    "Eliminating Steganography in Internet Traffic with Active Wardens.",
+                    "From a Trickle to a Flood: Active Attacks on Several Mix Types.",
+                    "Limits of Anonymity in Open Environments.",
+                    "Chaffinch: Confidentiality in the Face of Legal Threats.",
+                    "Nothing But a Kiss: A Novel and Accurate Approach to Assessing the Performance of Multidimensional Distortion-Compensated Dither Modulation.",
+                    "Robustness and Efficiency of Non-linear Side-Informed Watermarking.",
+                    "Security of Public Watermarking Schemes for Binary Sequences.",
+                    "Direct Embedding and Detection of RST Invariant Watermarks.",
+                    "Robust Image Watermark Using Radon Transform and Bispectrum Invariants.",
+                    "Audio Watermark Robustness to Desynchronization via Beat Detection.",
+                    "Robust Watermarking and Affine Registration of 3D Meshes.",
+                    "Natural Language Watermarking and Tamperproofing.",
+                    "Cryptanalysis of UCLA Watermarking Schemes for Intellectual Property Protection.",
+                    "Cryptanalysis of Discrete-Sequence Spread Spectrum Watermarks.",
+                    "Detectors for Echo Hiding Systems.",
+                    "A Steganographic Embedding Undetectable by JPEG Compatibility Steganalysis.",
+                    "Steganography Preserving Statistical Properties.",
+                    "Bit-Plane Decomposition Steganography Combined with JPEG2000 Compression.",
+                    "Steganalysis of JPEG Images: Breaking the F5 Algorithm.",
+                    "Detecting Low Embedding Rates.",
+                    "Detecting Hidden Messages Using Higher-Order Statistics and Support Vector Machines.",
+                    "Detection of LSB Steganography via Sample Pair Analysis.",
+                    "Hiding Data in DNA.",
+                    "Tracing the Source of a Shredded Document.",
+                    "Oblivious Hashing: A Stealthy Software Integrity Verification Primitive.",
+                    "Practical Oblivious Transfer Protocols."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2001",
+        "name": "4th Information Hiding 2001",
+        "info": "Pittsburgh, PA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ih/2001",
+                "sub_name": "Information Hiding, 4th International Workshop, IHW 2001, Pittsburgh, PA, USA, April 25-27, 2001, Proceedings.",
+                "count": 29,
+                "papers": [
+                    "Trustworthy Paper Documents.",
+                    "An Implementation of Key-Based Digital Signal Steganography.",
+                    "Distortion-Free Data Embedding for Images.",
+                    "Information Hiding through Noisy Channels.",
+                    "A Perceptual Audio Hashing Algorithm: A Tool for Robust Audio Identification and Information Hiding.",
+                    "Computational Forensic Techniques for Intellectual Property Protection.",
+                    "Intellectual Property Metering.",
+                    "Keyless Public Watermarking for Intellectual Property Authentication.",
+                    "Efficiency Improvements of the Private Message Service.",
+                    "A Reputation System to Increase MIX-Net Reliability.",
+                    "Neural Networks Functions for Public Key Watermarking.",
+                    "A Graph Theoretic Approach to Software Watermarking.",
+                    "COiN-Video: A Model for the Dissemination of Copyrighted Video Streams over Open Networks.",
+                    "Natural Language Watermarking: Design, Analysis, and a Proof-of-Concept Implementation.",
+                    "Digital Watermarking of Chemical Structure Sets.",
+                    "The Strong Eternity Service.",
+                    "Real World Patterns of Failure in Anonymity Systems.",
+                    "Traffic Analysis Attacks and Trade-Offs in Anonymity Providing Systems.",
+                    "Automatic Detection of a Watermarked Document Using a Private Key.",
+                    "Zero-Knowledge Watermark Detection and Proof of Ownership.",
+                    "F5-A Steganographic Algorithm.",
+                    "A Collusion-Secure Fingerprinting Code Reduced by Chinese Remaindering and Its Random-Error Resilience.",
+                    "Practical Capacity of Digital Watermarks.",
+                    "Blur/Deblur Attack against Document Protection Systems Based on Digital Watermarking.",
+                    "Second Generation Benchmarking and Application Oriented Evaluation.",
+                    "Robust Covert Communication over a Public Audio Channel Using Spread Spectrum.",
+                    "Hiding Association Rules by Using Confidence and Support.",
+                    "How to Break a Semi-anonymous Fingerprinting Scheme.",
+                    "An Analysis of One of the SDMI Candidates."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1999",
+        "name": "3rd Information Hiding 1999",
+        "info": "Dresden, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ih/1999",
+                "sub_name": "Information Hiding, Third International Workshop, IH'99, Dresden, Germany, September 29 - October 1, 1999, Proceedings.",
+                "count": 33,
+                "papers": [
+                    "An Information-Theoretic Approach to Steganography and Watermarking.",
+                    "One-Time Hash Steganography.",
+                    "Steganography Secure against Cover-Stego-Attacks.",
+                    "Secure Steganographic Methods for Palette Images.",
+                    "Attacks on Steganographic Systems.",
+                    "Developments in Steganography.",
+                    "An Asymmetric Public Detection Watermarking Technique.",
+                    "Zero Knowledge Watermark Detection.",
+                    "Proving Ownership of Digital Content.",
+                    "Error- and Collusion-Secure Fingerprinting for Digital Data.",
+                    "Computing the Probability of False Watermark Detection.",
+                    "Optimum Decoding of Non-additive Full Frame DFT Watermarks.",
+                    "Watermark Detection after Quanization Attacks.",
+                    "Content-Based Watermarking for Image Authentication.",
+                    "Fast Robust Template Matching for Affine Resistant Image Watermarks.",
+                    "A Stochastic Approach to Content Adaptive Digital Image Watermarking.",
+                    "Performance Improvement of Spread Spectrum Based Image Watermarking Schemes through M-ary Modulation.",
+                    "On the Design of a Watermarking System: Considerations and Rationales.",
+                    "A Bayesian Approach to Affine Transformation Resistant Image and Video Watermarking.",
+                    "Enhanced Intellectual Property Protection for Digital Circuits on Programmable Hardware.",
+                    "Robust Watermarking for Images Based on Color Manipulation.",
+                    "Recovery of Watermarks from Distorted Images.",
+                    "Cocktail Watermarking on Images.",
+                    "Hiding Signatures in Graph Coloring Solutions.",
+                    "Robust Object Watermarking: Application to Code.",
+                    "Software DisEngineering: Program Hiding Architecture and Experiments.",
+                    "Chaffing at the Bit: Thoughts on a Note by Ronald Rivest.",
+                    "An Entropy-Based Framework for Database Inference.",
+                    "Covert Information Transmission through the Use of Standard Collision Resolution Algorithms.",
+                    "The Cocaine Auction Protocol: On the Power of Anonymous Broadcast.",
+                    "Protecting Secret Keys in a Compromised Computational System.",
+                    "StegFS: A Steganographic File System for Linux.",
+                    "Nonbinary Audio Cryptography."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1998",
+        "name": "2nd Information Hiding 1998",
+        "info": "Portland, Oregon, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ih/1998",
+                "sub_name": "Information Hiding, Second International Workshop, Portland, Oregon, USA, April 14-17, 1998, Proceedings.",
+                "count": 25,
+                "papers": [
+                    "Information Hiding to Foil the Casual Counterfeiter.",
+                    "Fingerprinting Digital Circuits on Programmable Hardware.",
+                    "Steganography in a Video Conferencing System.",
+                    "Reliable Blind Information Hiding for Images.",
+                    "Cerebral Cryptography.",
+                    "The Steganographic File System.",
+                    "Stop-and-Go-MIXes Providing Probabilistic Anonymity in an Open System.",
+                    "Biometric yet Privacy Protecting Person Authentication.",
+                    "On Software Protection via Function Hiding.",
+                    "Soft Tempest: Hidden Data Transmission Using Electromagnetic Emanations.",
+                    "Robust Digital Watermarking Based on Key-Dependent Basis Functions.",
+                    "Intellectual Property Protection Systems and Digital Watermarking.",
+                    "Secure Copyright Protection Techniques for Digital Images.",
+                    "Shedding More Light on Image Watermarks.",
+                    "Continuous Steganographic Data Transmission Using Uncompressed Audio.",
+                    "Attacks on Copyright Marking Systems.",
+                    "Testing Digital Watermark Resistance to Destruction.",
+                    "Analysis of the Sensitivity Attack against Electronic Watermarks in Images.",
+                    "Steganalysis of Images Created Using Current Steganography Software.",
+                    "Twin Peaks: The Histogram Attack to Fixed Depth Image Watermarks.",
+                    "An Information-Theoretic Model for Steganography.",
+                    "Steganalysis and Game Equilibria.",
+                    "Modelling the False Alarm and Missed Detection Rate for Electronic Watermarks.",
+                    "Modeling the Security of Steganographic Systems.",
+                    "On Public-Key Steganography in the Presence of an Active Warden."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1996",
+        "name": "1st Information Hiding 1996",
+        "info": "Cambridge, U.K.",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ih/1996",
+                "sub_name": "Information Hiding, First International Workshop, Cambridge, UK, May 30 - June 1, 1996, Proceedings.",
+                "count": 26,
+                "papers": [
+                    "The History of Steganography.",
+                    "Computer Based Steganography: How It Works and Why Therefore Any Restrictions on Cryptography Are Nonsense, at Best.",
+                    "Hiding Data in the OSI Network Model.",
+                    "Stretching the Limits of Steganography.",
+                    "Trials of Traced Traitors.",
+                    "Establishing Big Broth Using Covert Channals and Other Covert Techniques.",
+                    "Covert Channels - A Context-Based View.",
+                    "Covert Channel Analysis for Stubs.",
+                    "Anonymous Addresses and Confidentiality of Location.",
+                    "MIXes in Mobile Communication Systems: Location Management with Privacy.",
+                    "Hiding Routing Information.",
+                    "The Newton Channel.",
+                    "A Progress Report on Subliminal-Free Channels.",
+                    "Modeling Cryptographic Protocols and Their Collusion Analysis.",
+                    "A Secure, Robust Watermark for Multimedia.",
+                    "Modulation and Information Hiding in Images.",
+                    "Watermarking Document Images with Bounding Box Expansion.",
+                    "The History of Subliminal Channels.",
+                    "Blind Decoding, Blind Undeniable Signatures, and Their Applications to Privacy Protection.",
+                    "Practical Invisibility in Digital Communication.",
+                    "Fractal Based Image Steganography.",
+                    "Echo Hiding.",
+                    "Tamper Resistant Software: An Implementation.",
+                    "Oblevious Key Escrow.",
+                    "HMOS: Her Mayesty's Orthography Service.",
+                    "Information Hiding Terminology - Results of an Informal Plenary Meeting and Additional Proposals."
+                ]
+            }
+        ]
+    }
+]

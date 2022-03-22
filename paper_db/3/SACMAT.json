@@ -1,0 +1,963 @@
+[
+    {
+        "year": "2021",
+        "name": "26th SACMAT 2021",
+        "info": "Virtual Event, Spain",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacmat/2021",
+                "sub_name": "SACMAT '21: The 26th ACM Symposium on Access Control Models and Technologies, Virtual Event, Spain, June 16-18, 2021.",
+                "count": 20,
+                "papers": [
+                    "Machine Learning Integrity and Privacy in Adversarial Environments.",
+                    "RMPlib: A Library of Benchmarks for the Role Mining Problem.",
+                    "Backdoor Attacks to Graph Neural Networks.",
+                    "Analyzing the Usefulness of the DARPA OpTC Dataset in Cyber Threat Detection Research.",
+                    "Towards a Theory for Semantics and Expressiveness Analysis of Rule-Based Access Control Models.",
+                    "Towards Unifying RBAC with Information Flow Control.",
+                    "Poster: Towards Cloud-Based Software for Incorporating Time and Location into Access Control Decisions.",
+                    "In-Memory Policy Indexing for Policy Retrieval Points in Attribute-Based Access Control.",
+                    "Mutation Analysis of NGAC Policies.",
+                    "Valued Authorization Policy Existence Problem.",
+                    "Demo: Attribute-Stream-Based Access Control (ASBAC) with the Streaming Attribute Policy Language (SAPL).",
+                    "Poster: Shielding AppSPEAR - Enhancing Memory Safety for Trusted Application-level Security Policy Enforcement.",
+                    "ReTRACe: Revocable and Traceable Blockchain Rewrites using Attribute-based Cryptosystems.",
+                    "Secure Aggregation Against Malicious Users.",
+                    "Towards Correct Smart Contracts: A Case Study on Formal Verification of Access Control.",
+                    "Regulating Storage Overhead in Existing PoW-based Blockchains.",
+                    "Expressive Bilateral Access Control for Internet-of-Things in Cloud-Fog Computing.",
+                    "Towards Activity-Centric Access Control for Smart Collaborative Ecosystems.",
+                    "Can I Reach You? Do I Need To? New Semantics in Security Policy Specification and Testing.",
+                    "SCIFFS: Enabling Secure Third-Party Security Analytics using Serverless Computing."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "name": "25th SACMAT 2020",
+        "info": "Barcelona, Spain",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacmat/2020",
+                "sub_name": "Proceedings of the 25th ACM Symposium on Access Control Models and Technologies, SACMAT 2020, Barcelona, Spain, June 10-12, 2020.",
+                "count": 25,
+                "papers": [
+                    "Metering Graphical Data Leakage with Snowman.",
+                    "Visualizing and Interpreting RNN Models in URL-based Phishing Detection.",
+                    "Parallel Space Traveling: A Security Analysis of App-Level Virtualization in Android.",
+                    "Cryptography for #MeToo.",
+                    "Norm-based Access Control.",
+                    "Security and Privacy Analysis of Android Family Locator Apps.",
+                    "Declarative Access Control for Aggregations of Multiple Ownership Data.",
+                    "Accept - Maybe - Decline: Introducing Partial Consent for the Permission-based Access Control Model of Android.",
+                    "Matrix Decomposition: Analysis of an Access Control Approach on Transaction-based DAGs without Finality.",
+                    "Constraint Branching in Workflow Satisfiability Problem.",
+                    "Automated Strong Mutation Testing of XACML Policies.",
+                    "Analysis of Access Control Enforcement in Android.",
+                    "Informed Privilege-Complexity Trade-Offs in RBAC Configuration.",
+                    "Proactive Risk Assessment for Preventing Attribute-Forgery Attacks to ABAC Policies.",
+                    "Benchmarking UAQ Solvers.",
+                    "AQUA: An Efficient Solver for the User Authorization Query Problem.",
+                    "Active Learning of Relationship-Based Access Control Policies.",
+                    "A Decision Tree Learning Approach for Mining Relationship-Based Access Control Policies.",
+                    "On Security Policy Migrations.",
+                    "Multi-party Access Control - 10 Years of Successes and Lessons Learned.",
+                    "A Data Access Model for Privacy-Preserving Cloud-IoT Architectures.",
+                    "ABAC-CC: Attribute-Based Access Control and Communication Control for Internet of Things.",
+                    "Deploying Access Control Enforcement for IoT in the Cloud-Edge Continuum with the help of the CAP Theorem.",
+                    "Mammoth: Monitoring the ABAC Monitor of MQTT-based Internet of Things ecosystems.",
+                    "Poster: IoT SENTINEL - An ABAC Approach Against Cyber-Warfare In Organizations."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "24th SACMAT 2019",
+        "info": "Toronto, ON, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacmat/2019",
+                "sub_name": "Proceedings of the 24th ACM Symposium on Access Control Models and Technologies, SACMAT 2019, Toronto, ON, Canada, June 03-06, 2019.",
+                "count": 28,
+                "papers": [
+                    "Securing Big Data: New Access Control Challenges and Approaches.",
+                    "Access Control for Binary Integrity Protection using Ethereum.",
+                    "CAOS: Concurrent-Access Obfuscated Store.",
+                    "PolTree: A Data Structure for Making Efficient Access Decisions in ABAC.",
+                    "FriendGuard: A Friend Search Engine with Guaranteed Friend Exposure Degree.",
+                    "Brokering Policies and Execution Monitors for IoT Middleware.",
+                    "Expat: Expectation-based Policy Analysis and Enforcement for Appified Smart-Home Platforms.",
+                    "Owner-Centric Sharing of Physical Resources, Data, and Data-Driven Insights in Digital Ecosystems.",
+                    "IoT Passport: A Blockchain-Based Trust Framework for Collaborative Internet-of-Things.",
+                    "An OpenRBAC Semantic Model for Access Control in Vehicular Networks.",
+                    "Toward Detection of Access Control Models from Source Code via Word Embedding.",
+                    "On the Difficulty of Using Patient's Physiological Signals in Cryptographic Protocols.",
+                    "HITC: Data Privacy in Online Social Networks with Fine-Grained Access Control.",
+                    "Generalized Mining of Relationship-Based Access Control Policies in Evolving Systems.",
+                    "Enhancing Biometric-Capsule-based Authentication and Facial Recognition via Deep Learning.",
+                    "History and Future of Automated Vulnerability Analysis.",
+                    "Towards Effective Verification of Multi-Model Access Control Properties.",
+                    "Efficient and Extensible Policy Mining for Relationship-Based Access Control.",
+                    "A Rule-based Approach to the Decidability of Safety of ABAC\u03b1.",
+                    "Bounded and Approximate Strong Satisfiability in Workflows.",
+                    "Using Provenance for Secure Data Fusion in Cooperative Systems.",
+                    "Effectively Enforcing Authorization Constraints for Emerging Space-Sensitive Technologies.",
+                    "CMCAP: Ephemeral Sandboxes for Adaptive Access Control.",
+                    "Mutual Authorizations: Semantics and Integration Issues.",
+                    "CloudProtect - A Cloud-based Software Protection Service.",
+                    "Poster: A Pluggable Authentication Module for Big Data Federation Architecture.",
+                    "Verifying OAuth Implementations Through Encrypted Network Analysis.",
+                    "Poster: Unified Access Control for Surgical Robotics."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "23rd SACMAT 2018",
+        "info": "Indianapolis, IN, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacmat/2018",
+                "sub_name": "Proceedings of the 23nd ACM on Symposium on Access Control Models and Technologies, SACMAT 2018, Indianapolis, IN, USA, June 13-15, 2018.",
+                "count": 29,
+                "papers": [
+                    "Data Breach and Multiple Points to Stop It.",
+                    "Automated Coverage-Based Testing of XACML Policies.",
+                    "Parametric RBAC Maintenance via Max-SAT.",
+                    "Independent Key Distribution Protocols for Broadcast Authentication.",
+                    "Self-Generation of Access Control Policies.",
+                    "Multi-Party Access Control: Requirements, State of the Art and Open Challenges.",
+                    "Securing Named Data Networks: Challenges and the Way Forward.",
+                    "Privacy-Aware Risk-Adaptive Access Control in Health Information Systems using Topic Models.",
+                    "\"Kn0w Thy Doma1n Name\": Unbiased Phishing Detection Using Domain Name Based Features.",
+                    "A blockchain-based Trust System for the Internet of Things.",
+                    "Distributed Usage Control Enforcement through Trusted Platform Modules and SGX Enclaves.",
+                    "My Friend Leaks My Privacy: Modeling and Analyzing Privacy in Social Networks.",
+                    "Sensing or Watching?: Balancing Utility and Privacy in Sensing Systems via Collection and Enforcement Mechanisms.",
+                    "Solving Multi-Objective Workflow Satisfiability Problems with Optimization Modulo Theories Techniques.",
+                    "Network Policy Enforcement Using Transactions: The NEUTRON Approach.",
+                    "A Deep Learning Approach for Extracting Attributes of ABAC Policies.",
+                    "Efficient Extended ABAC Evaluation.",
+                    "Mining Positive and Negative Attribute-Based Access Control Policy Rules.",
+                    "Towards a Privacy-Aware Qunatified Self Data Management Framework.",
+                    "Access Control in the Era of Big Data: State of the Art and Research Directions.",
+                    "Authorization Framework for Secure Cloud Assisted Connected Cars and Vehicular Internet of Things.",
+                    "Reactive Access Control Systems.",
+                    "Toward A Code Pattern Based Vulnerability Measurement Model.",
+                    "Using Gini Impurity to Mine Attribute-based Access Control Policies with Environment Attributes.",
+                    "Towards Greater Expressiveness, Flexibility, and Uniformity in Access Control.",
+                    "How Inadequate Specification, Buggy Implementation, and Deficient Platform-Support Hinder Security.",
+                    "Access Control Enforcement within MQTT-based Internet of Things Ecosystems.",
+                    "A Lazy Approach to Access Control as a Service (ACaaS) for IoT: An AWS Case Study.",
+                    "HCAP: A History-Based Capability System for IoT Devices."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "22nd SACMAT 2017",
+        "info": "Indianapolis, IN, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacmat/2017",
+                "sub_name": "Proceedings of the 22nd ACM on Symposium on Access Control Models and Technologies, SACMAT 2017, Indianapolis, IN, USA, June 21-23, 2017.",
+                "count": 29,
+                "papers": [
+                    "Distributed Intelligence: Trends in the Management of Complex Systems.",
+                    "A Flexible Authorization Architecture for Systems of Interoperable Medical Devices.",
+                    "Uncoupling Biometrics from Templates for Secure and Privacy-Preserving Authentication.",
+                    "On Risk in Access Control Enforcement.",
+                    "FACT: Functionality-centric Access Control System for IoT Programming Frameworks.",
+                    "An Enforcement Model for Preventing Inference Attacks in Social Computing Platforms.",
+                    "Secure Pick Up: Implicit Authentication When You Start Using the Smartphone.",
+                    "Attribute Expressions, Policy Tables and Attribute-Based Access Control.",
+                    "A Datalog Framework for Modeling Relationship-based Access Control Policies.",
+                    "Towards a Top-down Policy Engineering Framework for Attribute-based Access Control.",
+                    "Poster: A Location-Privacy Approach for Continuous Queries.",
+                    "Poster: Design of an Anomaly-based Threat Detection & Explication System.",
+                    "Poster: Constrained Policy Mining in Attribute Based Access Control.",
+                    "POSTER: Access Control Model for the Hadoop Ecosystem.",
+                    "Poster: On the Safety and Efficiency of Virtual Firewall Elasticity Control.",
+                    "Leveraging Hardware Isolation for Process Level Access Control & Authentication.",
+                    "A Framework for the Cryptographic Enforcement of Information Flow Policies.",
+                    "Towards PII-based Multiparty Access Control for Photo Sharing in Online Social Networks.",
+                    "Verifiable Assume-Guarantee Privacy Specifications for Actor Component Architectures.",
+                    "Authorization Enforcement Detection.",
+                    "Multi-Layer Authorization Framework for a Representative Hadoop Ecosystem Deployment.",
+                    "Provable Enforcement of HIPAA-Compliant Release of Medical Records Using the History Aware Programming Language.",
+                    "NTApps: A Network Traffic Analyzer of Android Applications.",
+                    "On the Satisfiability of Workflows with Release Points.",
+                    "A Secure Sum Protocol and Its Application to Privacy-preserving Multi-party Analytics.",
+                    "Enabling Data Sharing in Contextual Environments: Policy Representation and Analysis.",
+                    "Mining Relationship-Based Access Control Policies.",
+                    "Security Analysis and Legal Compliance Checking for the Design of Privacy-friendly Information Systems.",
+                    "A Distributed Multi-Authority Attribute Based Encryption Scheme for Secure Sharing of Personal Health Records."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "21st SACMAT 2016",
+        "info": "Shanghai, China",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacmat/2016",
+                "sub_name": "Proceedings of the 21st ACM on Symposium on Access Control Models and Technologies, SACMAT 2016, Shanghai, China, June 5-8, 2016.",
+                "count": 22,
+                "papers": [
+                    "State-aware Network Access Management for Software-Defined Networks.",
+                    "An Empirical Study on User Access Control in Online Social Networks.",
+                    "An Application Restriction System for Bring-Your-Own-Device Scenarios.",
+                    "Tri-Modularization of Firewall Policies.",
+                    "Panel Security and Privacy in the Age of Internet of Things: Opportunities and Challenges.",
+                    "Enabling Dynamic Access Control for Controller Applications in Software-Defined Networks.",
+                    "A Context-Aware System to Secure Enterprise Content.",
+                    "Detecting Privilege Escalation Attacks through Instrumenting Web Application Source Code.",
+                    "Data-Centric Access Control for Cloud Computing.",
+                    "Modular Synthesis of Enforcement Mechanisms for the Workflow Satisfiability Problem: Scalability and Reusability.",
+                    "Resiliency Policies in Access Control Revisited.",
+                    "Start Here: Engineering Scalable Access Control Systems.",
+                    "Policy Negotiation for Co-owned Resources in Relationship-Based Access Control.",
+                    "Automated Fault Localization of XACML Policies.",
+                    "On Completeness in Languages for Attribute-Based Access Control.",
+                    "Extended ReBAC Administrative Models with Cascading Revocation and Provenance Support.",
+                    "Formal Comparison of an Attribute Based Access Control Language for RESTful Services with XACML.",
+                    "GemRBAC-DSL: A High-level Specification Language for Role-based Access Control Policies.",
+                    "A Space-Efficient Data Structure for Fast Access Control in ECM Systems.",
+                    "Boosting GSHADE Capabilities: New Applications and Security in Malicious Setting.",
+                    "A Framework of Multi-Authority Attribute-Based Encryption with Outsourcing and Revocation.",
+                    "PolyStream: Cryptographically Enforced Access Controls for Outsourced Data Stream Processing."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "20th SACMAT 2015",
+        "info": "Vienna, Austria",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacmat/2015",
+                "sub_name": "Proceedings of the 20th ACM Symposium on Access Control Models and Technologies, Vienna, Austria, June 1-3, 2015.",
+                "count": 26,
+                "papers": [
+                    "Post-Snowden Threat Models.",
+                    "Valued Workflow Satisfiability Problem.",
+                    "Mohawk+T: Efficient Analysis of Administrative Temporal Role-Based Access Control (ATRBAC) Policies.",
+                    "Automated Inference of Access Control Policies for Web Applications.",
+                    "Commune: Shared Ownership in an Agnostic Cloud.",
+                    "SecLoc: Securing Location-Sensitive Storage in the Cloud.",
+                    "Mitigating Multi-Tenancy Risks in IaaS Cloud Through Constraints-Driven Virtual Resource Scheduling.",
+                    "A Logical Approach to Restricting Access in Online Social Networks.",
+                    "Preventing Information Inference in Access Control.",
+                    "On Missing Attributes in Access Control: Non-deterministic and Probabilistic Attribute Retrieval.",
+                    "Challenges in Making Access Control Sensitive to the \"Right\" Contexts.",
+                    "Relationship-Based Access Control for an Open-Source Medical Records System.",
+                    "Federated Access Management for Collaborative Network Environments: Framework and Case Study.",
+                    "Fine-Grained Business Data Confidentiality Control in Cross-Organizational Tracking.",
+                    "A Prototype to Reduce the Amount of Accessible Information.",
+                    "A SMT-based Tool for the Analysis and Enforcement of NATO Content-based Protection and Release Policies.",
+                    "Towards an Automatic Top-down Role Engineering Approach Using Natural Language Processing Techniques.",
+                    "Hard Instances for Verification Problems in Access Control.",
+                    "Initial Encryption of large Searchable Data Sets using Hadoop.",
+                    "Generating Secure Images for CAPTCHAs through Noise Addition.",
+                    "A Logic of Trust for Reasoning about Delegation and Revocation.",
+                    "Towards Attribute-Based Authorisation for Bidirectional Programming.",
+                    "Privacy and Access Control: How are These Two concepts Related?",
+                    "Mitigating Access Control Vulnerabilities through Interactive Static Analysis.",
+                    "Towards a General Framework for Optimal Role Mining: A Constraint Satisfaction Approach.",
+                    "SPA: Inviting Your Friends to Help Set Android Apps."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "19th SACMAT 2014",
+        "info": "London, ON, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacmat/2014",
+                "sub_name": "19th ACM Symposium on Access Control Models and Technologies, SACMAT '14, London, ON, Canada - June 25 - 27, 2014.",
+                "count": 24,
+                "papers": [
+                    "A bodyguard of lies: the use of honey objects in information security.",
+                    "Hardware-enhanced distributed access enforcement for role-based access control.",
+                    "An access control concept for novel automotive HMI systems.",
+                    "Monitor placement for large-scale systems.",
+                    "Anomaly detection and visualization in generative RBAC models.",
+                    "Reduction of access control decisions.",
+                    "Sorting out role based access control.",
+                    "Towards more usable information flow policies for contemporary operating systems.",
+                    "Attribute based access control for APIs in spring security.",
+                    "Comprehensive integrity protection for desktop linux.",
+                    "Game theoretic analysis of multiparty access control in online social networks.",
+                    "Scalable and precise automated analysis of administrative temporal role-based access control.",
+                    "Access control models for geo-social computing systems.",
+                    "What are the most important challenges for access control in new computing domains, such as mobile, cloud and cyber-physical systems?",
+                    "Limiting access to unintentionally leaked sensitive documents using malware signatures.",
+                    "Optimized and controlled provisioning of encrypted outsourced data.",
+                    "User-centric identity as a service-architecture for eIDs with selective attribute disclosure.",
+                    "Towards fine grained RDF access control.",
+                    "Redaction based RDF access control language.",
+                    "A system for risk awareness during role mining.",
+                    "Re-thinking networked privacy, security, identity and access control in our surveillance states.",
+                    "Path conditions and principal matching: a new approach to access control.",
+                    "An actor-based, application-aware access control evaluation framework.",
+                    "Policy models to protect resource retrieval."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "18. SACMAT 2013",
+        "info": "Amsterdam, The Netherlands",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacmat/2013",
+                "sub_name": "18th ACM Symposium on Access Control Models and Technologies, SACMAT '13, Amsterdam, The Netherlands, June 12-14, 2013.",
+                "count": 30,
+                "papers": [
+                    "Mobile security and privacy: the quest for the mighty access control.",
+                    "Privacy promises that can be kept: a policy analysis method with application to the HIPAA privacy rule.",
+                    "Combining social authentication and untrusted clouds for private location sharing.",
+                    "Private data warehouse queries.",
+                    "Evolving role definitions through permission invocation patterns.",
+                    "Ensuring continuous compliance through reconciling policy with usage.",
+                    "Least-restrictive enforcement of the Chinese wall security policy.",
+                    "Constraint expressions and workflow satisfiability.",
+                    "Panel on granularity in access control.",
+                    "Searching over encrypted data in cloud systems.",
+                    "Information flow control for stream processing in clouds.",
+                    "An information flow control meta-model.",
+                    "HyXAC: a hybrid approach for XML access control.",
+                    "ERBAC: event-driven RBAC.",
+                    "Heuristic safety analysis of access control models.",
+                    "A white-box policy analysis and its efficient implementation.",
+                    "On the notion of redundancy in access control policies.",
+                    "Specification and analysis of access control policies for mobile applications.",
+                    "A bigData platform for analytics on access control policies and logs.",
+                    "Enabling intensional access control via preference-aware query optimization.",
+                    "RMiner: a tool set for role mining.",
+                    "Secure benchmarking in the cloud.",
+                    "A storage-efficient cryptography-based access control solution for subversion.",
+                    "Beyond accountability: using obligations to reduce risk exposure and deter insider attacks.",
+                    "Property-testing real-world authorization systems.",
+                    "User-centric management of distributed credential repositories: balancing availability and vulnerability.",
+                    "A versatile access control implementation: secure box.",
+                    "Permission path analysis based on access intelligence.",
+                    "Sticky policies for mobile devices.",
+                    "Content-based information protection and release in NATO operations."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "17. SACMAT 2012",
+        "info": "Newark, NJ, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacmat/2012",
+                "sub_name": "17th ACM Symposium on Access Control Models and Technologies, SACMAT '12, Newark, NJ, USA - June 20 - 22, 2012.",
+                "count": 28,
+                "papers": [
+                    "Hardware-enhanced access control for cloud computing.",
+                    "MOSES: supporting operation modes on smartphones.",
+                    "Android permissions: a perspective combining risks and benefits.",
+                    "Policy-by-example for online social networks.",
+                    "Ensuring authorization privileges for cascading user obligations.",
+                    "Generative models for access control policies: applications to role mining over logs with attribution.",
+                    "Algorithms for mining meaningful roles.",
+                    "Emerging trends around big data analytics and security: panel.",
+                    "The authorization leap from rights to attributes: maturation or chaos?",
+                    "SCUTA: a server-side access control system for web applications.",
+                    "Graph-based XACML evaluation.",
+                    "Optimal workflow-aware authorizations.",
+                    "Access control for RDF graphs using abstract models.",
+                    "A cloud-based RDF policy engine for assured information sharing.",
+                    "Practical risk aggregation in RBAC models.",
+                    "Towards a policy enforcement infrastructure for distributed usage control.",
+                    "SecureBPMN: modeling and enforcing access control requirements in business processes.",
+                    "Encryption-enforced access control for an RFID discovery service.",
+                    "Automating architectural security analysis.",
+                    "Efficient privacy preserving content based publish subscribe systems.",
+                    "Fine-grained access control of personal data.",
+                    "A calculus for privacy-friendly authentication.",
+                    "A trust-and-risk aware RBAC framework: tackling insider threat.",
+                    "Analyzing temporal role based access control models.",
+                    "A framework integrating attribute-based policies into role-based access control.",
+                    "A framework for verification and optimal reconfiguration of event-driven role based access control policies.",
+                    "A model-based approach to automated testing of access control policies.",
+                    "PlexC: a policy language for exposure control."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "16. SACMAT 2011",
+        "info": "Innsbruck, Austria",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacmat/2011",
+                "sub_name": "16th ACM Symposium on Access Control Models and Technologies, SACMAT 2011, Innsbruck, Austria, June 15-17, 2011, Proceedings.",
+                "count": 23,
+                "papers": [
+                    "A decade of model-driven security.",
+                    "Deriving role engineering artifacts from business processes and scenario models.",
+                    "An integrated approach for identity and access management in a SOA context.",
+                    "xDAuth: a scalable and lightweight framework for cross domain access control and delegation.",
+                    "Program synthesis in administration of higher-order permissions.",
+                    "Relationship-based access control policies and their policy languages.",
+                    "xfACL: an extensible functional language for access control.",
+                    "Rumpole: a flexible break-glass access control model.",
+                    "SEAL: a logic programming framework for specifying and verifying access control models.",
+                    "Transforming provenance using redaction.",
+                    "Data leakage mitigation for discretionary access control in collaboration clouds.",
+                    "Modeling data flow in socio-information networks: a risk estimation approach.",
+                    "An authorization scheme for version control systems.",
+                    "An approach to modular and testable security models of real-world health-care applications.",
+                    "Security validation tool for business processes.",
+                    "System for automatic estimation of data sensitivity with applications to access control and other applications.",
+                    "Visualizing security in business processes.",
+                    "Access control for a federated police information system.",
+                    "Data-centric multi-layer usage control enforcement: a social network example.",
+                    "Usable access control for all.",
+                    "Validation of security policies by the animation of Z specifications.",
+                    "Anomaly discovery and resolution in web access control policies.",
+                    "On the management of user obligations."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "15. SACMAT 2010",
+        "info": "Pittsburgh, Pennsylvania, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacmat/2010",
+                "sub_name": "15th ACM Symposium on Access Control Models and Technologies, SACMAT 2010, Pittsburgh, Pennsylvania, USA, June 9-11, 2010, Proceedings.",
+                "count": 24,
+                "papers": [
+                    "New access models for healthcare.",
+                    "A model of triangulating environments for policy authoring.",
+                    "Towards analyzing complex operating system access control configurations.",
+                    "Monitoring security policies with metric first-order temporal logic.",
+                    "On the definition of role mining.",
+                    "Mining roles with noisy data.",
+                    "StateMiner: an efficient similarity-based approach for optimal mining of role hierarchy.",
+                    "Role mining based on weights.",
+                    "Access control in practice: pain points.",
+                    "Automated management of network access control from design to enforcement.",
+                    "Role-based access control (RBAC) in Java via proxy objects using annotations.",
+                    "Role updating for assignments.",
+                    "Enforcing spatial constraints for mobile RBAC systems.",
+                    "Capability-based delegation model in RBAC.",
+                    "A card requirements language enabling privacy-preserving access control.",
+                    "Modular context-aware access control for medical sensor networks.",
+                    "Privacy-preserving trust verification.",
+                    "Personalizing access control by generalizing access control.",
+                    "Solving the access-control puzzle: finding the pieces and putting them together.",
+                    "Architectures for practical security.",
+                    "An architecture for enforcing end-to-end access control over web applications.",
+                    "Access control policy translation and verification within heterogeneous data federations.",
+                    "Data protection models for service provisioning in the cloud.",
+                    "An access control model for mobile physical objects."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "14. SACMAT 2009",
+        "info": "Stresa, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacmat/2009",
+                "sub_name": "14th ACM Symposium on Access Control Models and Technologies, SACMAT 2009, Stresa, Italy, June 3-5, 2009, Proceedings.",
+                "count": 27,
+                "papers": [
+                    "Challenges and opportunities for virtualized security in the clouds.",
+                    "Safety in discretionary access control for logic-based publish-subscribe systems.",
+                    "Ensuring spatio-temporal access control for real-world applications.",
+                    "An efficient framework for user authorization queries in RBAC systems.",
+                    "Towards formal security analysis of GTRBAC using timed automata.",
+                    "xDomain: cross-border proofs of access.",
+                    "Dynamic mandatory access control for multiple stakeholders.",
+                    "An algebra for fine-grained integration of XACML policies.",
+                    "Usability meets access control: challenges and research opportunities.",
+                    "Automating role-based provisioning by learning from examples.",
+                    "A formal framework to elicit roles with business meaning in RBAC systems.",
+                    "Evaluating role mining algorithms.",
+                    "A decision support system for secure information sharing.",
+                    "Foundations for group-centric secure information sharing models.",
+                    "Patient-centric authorization framework for sharing electronic health records.",
+                    "Access control policy combining: theory meets practice.",
+                    "Supporting RBAC with XACML+OWL.",
+                    "Efficient access enforcement in distributed role-based access control (RBAC) deployments.",
+                    "Symbolic reachability analysis for parameterized administrative role based access control.",
+                    "Spatio-temporal access control: challenges and applications.",
+                    "A semantic web based framework for social network access control.",
+                    "The next 700 access control models or a unifying meta-model?",
+                    "Extending access control models with break-glass.",
+                    "Working set-based access control for network file systems.",
+                    "Towards a dynamic and composable model of trust.",
+                    "Analysis of virtual machine system policies.",
+                    "Trojan horse resistant discretionary access control."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "13. SACMAT 2008",
+        "info": "Estes Park, CO, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacmat/2008",
+                "sub_name": "13th ACM Symposium on Access Control Models and Technologies, SACMAT 2008, Estes Park, CO, USA, June 11-13, 2008, Proceedings.",
+                "count": 22,
+                "papers": [
+                    "Fast exact and heuristic methods for role minimization problems.",
+                    "Migrating to optimal RBAC with minimal perturbation.",
+                    "Mining roles with semantic meanings.",
+                    "Delegation and satisfiability in workflow systems.",
+                    "Enforcing security properties in task-based systems.",
+                    "Task-based entailment constraints for basic workflow patterns.",
+                    "Panel on role engineering.",
+                    "Authorization recycling in RBAC systems.",
+                    "ROWLBAC: representing role based access control in OWL.",
+                    "UAQ: a framework for user authorization query processing in RBAC extended with hybrid hierarchy and constraints.",
+                    "RBAC administration in distributed systems.",
+                    "Policy decomposition for collaborative access control.",
+                    "Context-aware role-based access control in pervasive computing systems.",
+                    "A general obligation model and continuity: enhanced policy enforcement engine for usage control.",
+                    "An obligation model bridging access control policies and privacy policies.",
+                    "Access control by action control.",
+                    "A meta model for access control: why is it needed and is it even possible to achieve?",
+                    "Measuring integrity on mobile phone systems.",
+                    "Visualization based policy analysis: case study in SELinux.",
+                    "Model-based behavioral attestation.",
+                    "Detecting and resolving policy misconfigurations in access-control systems.",
+                    "Enabling verification and conformance testing for access control model."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "12. SACMAT 2007",
+        "info": "Sophia Antipolis, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacmat/2007",
+                "sub_name": "12th ACM Symposium on Access Control Models and Technologies, SACMAT 2007, Sophia Antipolis, France, June 20-22, 2007, Proceedings.",
+                "count": 28,
+                "papers": [
+                    "An approach to evaluate policy similarity.",
+                    "A posteriori compliance control.",
+                    "Enforcing access control over data streams.",
+                    "Fine-grained access control to web databases.",
+                    "Privacy-aware role based access control.",
+                    "A privacy preserving assertion based policy language for federation systems.",
+                    "Distributed access control: a privacy-conscious approach.",
+                    "Towards a VMM-based usage control framework for OS kernel integrity protection.",
+                    "Managing the risk of covert information flows in virtual machine systems.",
+                    "A logical specification and analysis for SELinux MLS policy.",
+                    "Lightweight cnsistency enforcement schemes for distributed proofs with hidden subtrees.",
+                    "Mesh: secure, lightweight grid middleware using existing SSH infrastructure.",
+                    "Multilevel filesystems in solaris trusted extensions.",
+                    "A formal approach for testing security rules.",
+                    "New constructions for provably-secure time-bound hierarchical key assignment schemes.",
+                    "Role engineering using graph optimisation.",
+                    "PEI models towards scalable, usable and high-assurance information sharing.",
+                    "Discretionary access control with the administrative role graph model.",
+                    "Inter-domain role mapping and least privilege.",
+                    "A note on the formalisation of UCON.",
+                    "Formalizing XML access control for update operations.",
+                    "The role mining problem: finding a minimal descriptive set of roles.",
+                    "Specifications of a high-level conflict-free firewall policy language for multi-domain networks.",
+                    "Action-status access control.",
+                    "PolicyMorph: interactive policy transformations for a logical attribute-based access control framework.",
+                    "Towards realizing a formal RBAC model in real systems.",
+                    "Chinese-wall process confinement for practical distributed coalitions.",
+                    "Using semantics for automatic enforcement of access control policies among dynamic coalitions."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "11. SACMAT 2006",
+        "info": "Lake Tahoe, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacmat/2006",
+                "sub_name": "11th ACM Symposium on Access Control Models and Technologies, SACMAT 2006, Lake Tahoe, California, USA, June 7-9, 2006, Proceedings.",
+                "count": 26,
+                "papers": [
+                    "Access control, confidentiality and privacy for video surveillance databases.",
+                    "Key management for non-tree access hierarchies.",
+                    "PRIMA: policy-reduced integrity measurement architecture.",
+                    "On classifying access control implementations for distributed systems.",
+                    "Traust: a trust negotiation-based authorization service for open systems.",
+                    "TrustBAC: integrating trust relationships into the RBAC model for access control in open systems.",
+                    "Integrating presence inference into trust management for ubiquitous systems.",
+                    "Security in enterprise resource planning systems and service-oriented architectures.",
+                    "Trust management with delegation in grouped peer-to-peer communities.",
+                    "Fine-grained role-based delegation in presence of the hybrid role hierarchy.",
+                    "Delegation in the role graph model.",
+                    "Systematic control and management of data integrity.",
+                    "The secondary and approximate authorization model and its application to Bell-LaPadula policies.",
+                    "Secure resource description framework: an access control model.",
+                    "Constraint generation for separation of duty.",
+                    "A model-checking approach to analysing organisational controls in a loan origination process.",
+                    "Information flow property preserving transformation of UML interaction diagrams.",
+                    "Towards reasonability properties for access-control policy languages.",
+                    "Data-centric security: role analysis and role typestates.",
+                    "A usage-based authorization framework for collaborative computing systems.",
+                    "Inter-instance authorization constraints for secure workflow management.",
+                    "Role-based access management for ad-hoc collaborative sharing.",
+                    "Redirection policies for mission-based information sharing.",
+                    "XACML policy integration algorithms: not to be confused with XACML policy combination algorithms!",
+                    "Supporting authorization query and inter-domain role mapping in presence of hybrid role hierarchy.",
+                    "Semantic access control for information interoperation."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "10. SACMAT 2005",
+        "info": "Stockholm, Sweden",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacmat/2005",
+                "sub_name": "10th ACM Symposium on Access Control Models and Technologies, SACMAT 2005, Stockholm, Sweden, June 1-3, 2005, Proceedings.",
+                "count": 20,
+                "papers": [
+                    "Integrity constraints in trust management.",
+                    "Composing and combining policies under the policy machine.",
+                    "Declaration and enforcement of fine-grained access restrictions for a service-based geospatial data infrastructure.",
+                    "GEO-RBAC: a spatially aware RBAC.",
+                    "A reference monitor for workflow systems with constrained task execution.",
+                    "Future direction of access control models, architectures, and technologies.",
+                    "Supporting conditional delegation in secure workflow management systems.",
+                    "A fine-grained, controllable, user-to-user delegation method in RBAC.",
+                    "AC-XML documents: improving the performance of a web access control module.",
+                    "Generalized XML security views.",
+                    "Relevancy based access control of versioned XML documents.",
+                    "Provable bounds for portable and flexible privacy-preserving access.",
+                    "Purpose based access control of complex data for privacy protection.",
+                    "Context sensitive access control.",
+                    "Verifiable composition of access control and application features.",
+                    "Rule support for role-based access control.",
+                    "Adaptive trust negotiation and access control.",
+                    "Peer-to-peer access control architecture using trusted computing technology.",
+                    "SERAT: SEcure role mApping technique for decentralized secure interoperability.",
+                    "Role mining with ORCA."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "9. SACMAT 2004",
+        "info": "IBM, Yorktown Heights, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacmat/2004",
+                "sub_name": "9th ACM Symposium on Access Control Models and Technologies, SACMAT 2004, Yorktown Heights, New York, USA, June 2-4, 2004, Proceedings.",
+                "count": 19,
+                "papers": [
+                    "A logical specification for usage control.",
+                    "Implementing access control to people location information.",
+                    "Role-based access control in ambient and remote space.",
+                    "Towards a credential-based implementation of compound access control policies.",
+                    "Succinct specifications of portable document access policies.",
+                    "On the role of roles: from role-based to role-sensitive access control.",
+                    "Specifying access control policies for XML documents with XPath.",
+                    "A role-based approach to access control for XML databases.",
+                    "X-GTRBAC admin: a decentralized administration model for enterprise wide access control.",
+                    "A meta model for authorisations in application security systems and their integration into RBAC administration.",
+                    "Administrative scope in the graph-based framework.",
+                    "Resolving constraint conflicts.",
+                    "Using uml to visualize role-based access control constraints.",
+                    "Security for grid-based computing systems issues and challenges.",
+                    "Security analysis in role-based access control.",
+                    "Towards a formal model for security policies specification and validation in the selinux system.",
+                    "Role-based cascaded delegation.",
+                    "Using trust and risk in role-based access control policies.",
+                    "A composite rbac approach for large, complex organizations."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "name": "8. SACMAT 2003",
+        "info": "Como, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacmat/2003",
+                "sub_name": "8th ACM Symposium on Access Control Models and Technologies, SACMAT 2003, Villa Gallia, Como, Italy, June 2-3, 2003, Proceedings.",
+                "count": 23,
+                "papers": [
+                    "An administration concept for the enterprise role-based access control model.",
+                    "The role control center: features and case studies.",
+                    "Cooperative role-based administration.",
+                    "A methodology for managing roles in legacy systems.",
+                    "Specifying and enforcing constraints in role-based access control.",
+                    "Dependencies and separation of duty constraints in GTRBAC.",
+                    "An approach to engineer and enforce context constraints in an RBAC environment.",
+                    "On context in authorization policy.",
+                    "Role-based access control for collaborative enterprise in peer-to-peer computing environments.",
+                    "Model driven security for process-oriented systems.",
+                    "An infrastructure for managing secure update operations on XML data.",
+                    "The tees confidentiality model: an authorisation model for identities and roles.",
+                    "Partial outsourcing: a new paradigm for access control.",
+                    "Induced role hierarchies with attribute-based RBAC.",
+                    "PBDM: a flexible delegation model in RBAC.",
+                    "Cryptographic access control in a distributed file system.",
+                    "On modeling system-centric information for role engineering.",
+                    "Role mining - revealing business roles for security administration using data mining technology.",
+                    "A stratification-based approach for handling conflicts in access control.",
+                    "Static verification of security requirements in role based CSCW systems.",
+                    "An access control model for dynamic client-side content.",
+                    "Dynamic and risk-aware network access management.",
+                    "Dynamic access control: preserving safety and trust for network defense operations."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2002",
+        "name": "7. SACMAT 2002",
+        "info": "Monterey, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacmat/2002",
+                "sub_name": "7th ACM Symposium on Access Control Models and Technologies, SACMAT 2002, Naval Postgraduate School, Monterey, California, USA, June 3-4, 2002.",
+                "count": 19,
+                "papers": [
+                    "Managing access control policies using access control spaces.",
+                    "A lightweight approach to specification and analysis of role-based access control extensions.",
+                    "An access control language for web services.",
+                    "A scenario-driven role engineering process for functional RBAC roles.",
+                    "Observations on the role life-cycle in the context of enterprise security management.",
+                    "Cool security trends.",
+                    "Towards usage control models: beyond traditional access control.",
+                    "A cryptographic solution to implement access control in a hierarchy and more.",
+                    "Temporal hierarchies and inheritance semantics for GTRBAC.",
+                    "Information sharing and security in dynamic coalitions.",
+                    "Models for coalition-based access control (CBAC).",
+                    "An authorization infrastructure for nomadic computing.",
+                    "A context-related authorization and access control method based on RBAC.",
+                    "A role-based delegation framework for healthcare information systems.",
+                    "The PERMIS X.509 role based privilege management infrastructure.",
+                    "Making access control more usable.",
+                    "Administrative scope and role hierarchy operations.",
+                    "A model for role administration using organization structure.",
+                    "Information flow analysis of an RBAC system."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2001",
+        "name": "6. SACMAT 2001",
+        "info": "Chantilly, Virginia, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sacmat/2001",
+                "sub_name": "6th ACM Symposium on Access Control Models and Technologies, SACMAT 2001, Litton-TASC, Chantilly, Virginia, USA, May 3-4, 2001.",
+                "count": 23,
+                "papers": [
+                    "The role-based access control system of a European bank: a case study and discussion.",
+                    "Securing context-aware applications using environment roles.",
+                    "Flexible team-based access control using contexts.",
+                    "Security verification of programs with stack inspection.",
+                    "A logical framework for reasoning about access control models.",
+                    "Panel: The next generation of acess control models (panel session): do we need them and what should they be?",
+                    "On specifying security policies for web documents with an XML-based language.",
+                    "Access control mechanisms for inter-organizational workflow.",
+                    "The YGuard access control model: set-based access control.",
+                    "Improving the granularity of access control in Windows NT.",
+                    "Modular authorization.",
+                    "A graphical definition of authorization schema in the DTAC model.",
+                    "On the specification and evolution of access control policies.",
+                    "Managing access control complexity using metrices.",
+                    "Panel: which access control technique will provide the greatest overall benefit-Abstract.",
+                    "An argument for the role-based access control model.",
+                    "Position paper.",
+                    "They want froot loops why industry will continue to deliver multi-level security.",
+                    "Which operating system access control technique will provide the greatest overall benefit to users?.",
+                    "Statement for SACMAT 2001 panel.",
+                    "A rule-based framework for role based delegation.",
+                    "Structured management of role-permission relationships.",
+                    "A model of OASIS role-based access control and its support for active security."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2000",
+        "name": "5. RBAC 2000",
+        "info": "Berlin, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/rbac/2000",
+                "sub_name": "Fifth ACM Workshop on Role-Based Access Control, RBAC 2000, Berlin, Germany, July 26-27, 2000.",
+                "count": 14,
+                "papers": [
+                    "Injecting RBAC to secure a Web-based workflow system.",
+                    "Application of XML tools for enterprise-wide RBAC implementation tasks.",
+                    "TRBAC: a temporal role-based access control model.",
+                    "Modeling users in role-based access control.",
+                    "Role delegation in role-based access control.",
+                    "The NIST model for role-based access control: towards a unified standard.",
+                    "Rebuttal to the NIST RBAC model proposal.",
+                    "Role-finding/role-engineering (panel session).",
+                    "A model of accountability, confidentiality and override for healthcare and other applications.",
+                    "Enabling technologies for role based online decision engines.",
+                    "Three for one: role-based access-control management in rapidly changing heterogeneous environments.",
+                    "Integrated constraints and inheritance in DTAC.",
+                    "Process-oriented approach for role-finding to implement role-based security administration in a large industrial organization.",
+                    "Engineering authority and trust in cyberspace: the OM-AM and RBAC way."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1999",
+        "name": "4. RBAC 1999",
+        "info": "Fairfax, VA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/rbac/1999",
+                "sub_name": "Proceedings of the Fourth ACM Workshop on Role-Based Access Control, RBAC 1999, Fairfax, VA, USA, October 28-29, 1999.",
+                "count": 17,
+                "papers": [
+                    "RBAC on the Web by Smart Certificates.",
+                    "Role-Based Access Control on the Web Using Java.",
+                    "A Framework for Implementing Role-Based Access Control Using CORBA Security Service.",
+                    "On the Increasing Importance of Constraints.",
+                    "The RSL99 Language for Role-Based Separation of Duty Constraints.",
+                    "Supporting Relationships in Access Control Using Role Based Access Control.",
+                    "User's Perspectives (Panel Session).",
+                    "Migrating to Role-Based Access Control.",
+                    "SecureFlow: A Secure Web-Enabled Workflow Management System.",
+                    "RBAC in UNIX Administration.",
+                    "Managing Trust Between Collaborating Companies Using Outsourced Role Based Acces Control.",
+                    "Dynamic Rights: Safe Extensible Access Control.",
+                    "Attribute Certification: An Enabling Technology for Delegation and Role-Based Controls in Distributed Environments.",
+                    "Products and Tools (Panel Session).",
+                    "Towards a UML Based Approach to Role Engineering.",
+                    "Napoleon: Network Application Policy Environment.",
+                    "The Uses of Role Hierarchies in Access Control."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1998",
+        "name": "3. RBAC 1998",
+        "info": "Fairfax, VA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/rbac/1998",
+                "sub_name": "Proceedings of the Third ACM Workshop on Role-Based Access Control, RBAC 1998, Fairfax, VA, USA, October 22-23, 1998.",
+                "count": 13,
+                "papers": [
+                    "Decentralized User-role Assignment for Web-based Intranets.",
+                    "An Oracle Implementation of the PRA97 Model for Permission-Role Assignment.",
+                    "Role Based Access Control on MLS Systems without Kernel Changes.",
+                    "Role Activation Hierarchies.",
+                    "Requirements for Access Control: US Healthcare Domain.",
+                    "How to Do Discretionary Access Control Using Roles.",
+                    "Towards a More Complete Model of Role.",
+                    "Control Principles and Role Hierarchies.",
+                    "Managing Role/Permission Relationships Using Object Access Types.",
+                    "Formal Specification for Role Based Access Control User/Role and Role/Role Relationship Management.",
+                    "Role-based Access Control in Java.",
+                    "Role-based Access Control in Telecommunication Service Management - Dynamic Role Creation and Management in TINA Service Environment.",
+                    "Role and Task-Based Access Control in the PerDiS Groupware Platform."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1997",
+        "name": "2. RBAC 1997",
+        "info": "Fairfax, VA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/rbac/1997",
+                "sub_name": "Proceedings of the Second Workshop on Role-Based Access Control, RBAC 1997, Fairfax, VA, USA, November 6-7, 1997.",
+                "count": 17,
+                "papers": [
+                    "A flexible model supporting the specification and enforcement of role-based authorization in workflow management systems.",
+                    "Team-based access control (TMAC): a primitive for applying role-based access controls in collaborative environments.",
+                    "Mutual exclusion of roles as a means of implementing separation of duty in role-based access control systems.",
+                    "Mandatory access control and role-based access control revisited.",
+                    "The ARBAC97 model for role-based administration of roles: preliminary description and outline.",
+                    "RBAC emulation on trusted DG/UX.",
+                    "Role based access control with the security administration manager (SAM).",
+                    "hyperDRIVE: leveraging LDAP to implement RBAC on the Web.",
+                    "Specifying and managing role-based access control within a corporate intranet.",
+                    "Support for discretionary role based access control in ACL-oriented operating systems.",
+                    "A role-based access control model for protection domain derivation and management.",
+                    "RBAC support in object-oriented role databases.",
+                    "Determining role rights from use cases.",
+                    "Comparing simple role based access control models and access control lists.",
+                    "Reconciling role based management and role based access control.",
+                    "Rule based database access control - a practical approach.",
+                    "Role templates for content-based access control."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1995",
+        "name": "1. RBAC 1995",
+        "info": "Gaithersburg, MD, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/rbac/1995",
+                "sub_name": "Proceedings of the First ACM Workshop on Role-Based Access Control, RBAC 1995, Gaithersburg, MD, USA, November 30 - December 2, 1995.",
+                "count": 21,
+                "papers": [
+                    "Workshop summary.",
+                    "Prioritizing RBAC features.",
+                    "Workshop discussion.",
+                    "Role engineering.",
+                    "RBAC transition.",
+                    "Issues in RBAC.",
+                    "Roles versus groups.",
+                    "Future directions in role-based access control.",
+                    "Rationale for the RBAC96 family of access control models.",
+                    "Characteristics of role-based access control.",
+                    "A policy based role framework for access control.",
+                    "The role graph model.",
+                    "Role-based access control: a natural approach.",
+                    "Constraints for role-based access control.",
+                    "Security and confidentiality in health care informatics.",
+                    "Requirements of role-based access control for collaborative systems.",
+                    "Role-based access control in ORACLE7 and Trusted ORACLE7.",
+                    "NetWare 4 as an example of role-based access control.",
+                    "Role-based access control for object-oriented/C++ systems.",
+                    "Implementing role-based access control using object technology.",
+                    "Role-based access control and distributed object-based enterprise computing."
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,710 @@
+[
+    {
+        "year": "2021",
+        "name": "17th SOUPS 2021",
+        "info": "",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/soups/2021",
+                "sub_name": "Seventeenth Symposium on Usable Privacy and Security, SOUPS 2021, August 8-10, 2021.",
+                "count": 36,
+                "papers": [
+                    "Towards Usable and Secure Location-based Smartphone Authentication.",
+                    "Please do not use !?_ or your License Plate Number: Analyzing Password Policies in German Companies.",
+                    "Using a Blocklist to Improve the Security of User Selection of Android Patterns.",
+                    "User Perceptions of the Usability and Security of Smartphones as FIDO2 Roaming Authenticators.",
+                    "Never ever or no matter what: Investigating Adoption Intentions and Misconceptions about the Corona-Warn-App in Germany.",
+                    "Understanding Users' Knowledge about the Privacy and Security of Browser Extensions.",
+                    "Replication: Effects of Media on the Mental Models of Technical Users.",
+                    "Comparing Security and Privacy Attitudes Among U.S. Users of Different Smartphone and Smart-Speaker Platforms.",
+                    "\"How I Know For Sure\": People's Perspectives on Solely Automated Decision-Making (SADM).",
+                    "A Fait Accompli? An Empirical Study into the Absence of Consent to Third-Party Tracking in Android Apps.",
+                    "\"Whether it's moral is a whole other story\": Consumer perspectives on privacy regulations and corporate data practices.",
+                    "Pursuing Usable and Useful Data Downloads Under GDPR/CCPA Access Rights via Co-Design.",
+                    "Facial Recognition: Understanding Privacy Concerns and Attitudes Across Increasingly Diverse Deployment Scenarios.",
+                    "\"I'm Literally Just Hoping This Will Work: \" Obstacles Blocking the Online Security and Privacy of Users with Visual Disabilities.",
+                    "WebAlly: Making Visual Task-based CAPTCHAs Transferable for People with Visual Impairments.",
+                    "Designing Toxic Content Classification for a Diversity of Perspectives.",
+                    "Why They Ignore English Emails: The Challenges of Non-Native Speakers in Identifying Phishing Emails.",
+                    "SoK: Still Plenty of Phish in the Sea - A Taxonomy of User-Oriented Phishing Interventions and Avenues for Future Research.",
+                    "Investigating Web Service Account Remediation Advice.",
+                    "Knowledge and Capabilities that Non-Expert Users Bring to Phishing Detection.",
+                    "Code Reviewing as Methodology for Online Security Studies with Developers - A Case Study with Freelancers on Password Storage.",
+                    "\"I have no idea what they're trying to accomplish: \" Enthusiastic and Casual Signal Users' Understanding of Signal PINs.",
+                    "On the Limited Impact of Visualizing Encryption: Perceptions of E2E Messaging Security.",
+                    "Concerned but Ineffective: User Perceptions, Methods, and Challenges when Sanitizing Old Devices for Disposal.",
+                    "Exploring Authentication for Security-Sensitive Tasks on Smart Home Voice Assistants.",
+                    "\"The Thing Doesn't Have a Name\": Learning from Emergent Real-World Interventions in Smart Home Security.",
+                    "Evaluating and Redefining Smartphone Permissions with Contextualized Justifications for Mobile Augmented Reality Apps.",
+                    "PowerCut and Obfuscator: An Exploration of the Design Space for Privacy-Preserving Interventions for Smart Speakers.",
+                    "A Qualitative Usability Evaluation of the Clang Static Analyzer and libFuzzer with CS Students and CTF Players.",
+                    "Deciding on Personalized Ads: Nudging Developers About User Privacy.",
+                    "Benefits and Drawbacks of Adopting a Secure Programming Language: Rust as a Case Study.",
+                    "An Analysis of the Role of Situated Learning in Starting a Security Culture in a Software Company.",
+                    "Examining the Examiners: Students' Privacy and Security Perceptions of Online Proctoring Services.",
+                    "Virtual Classrooms and Real Harms: Remote Learning at U.S. Universities.",
+                    "Challenges and Threats of Mass Telecommuting: A Qualitative Study of Workers.",
+                    "Understanding Privacy Attitudes and Concerns Towards Remote Communications During the COVID-19 Pandemic."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "name": "16th SOUPS 2020",
+        "info": "",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/soups/2020",
+                "sub_name": "Sixteenth Symposium on Usable Privacy and Security, SOUPS 2020, August 7-11, 2020.",
+                "count": 26,
+                "papers": [
+                    "Passworld: A Serious Game to Promote Password Awareness and Diversity in an Enterprise.",
+                    "\"You still use the password after all\" - Exploring FIDO2 Security Keys in a Small Company.",
+                    "Knock, Knock. Who's There? On the Security of LG's Knock Codes.",
+                    "An Empirical Study of Wireless Carrier Authentication for SIM Swaps.",
+                    "Lessons Learnt from Comparing WhatsApp Privacy Concerns Across Saudi and Indian Populations.",
+                    "Realizing Choice: Online Safeguards for Couples Adapting to Cognitive Challenges.",
+                    "Blind and Human: Exploring More Usable Audio CAPTCHA Designs.",
+                    "Usable Sexurity: Studying People's Concerns and Strategies When Sexting.",
+                    "Towards Understanding Privacy and Trust in Online Reporting of Sexual Assault.",
+                    "Replication: On the Ecological Validity of Online Security Developer Studies: Exploring Deception in a Password-Storage Study with Freelancers.",
+                    "Innovation Inaction or In Action? The Role of User Experience in the Security and Privacy Design of Smart Home Cameras.",
+                    "An Ethnographic Understanding of Software (In)Security and a Co-Creation Model to Improve Secure Software Development.",
+                    "Why Can't Johnny Fix Vulnerabilities: A Usability Evaluation of Static Analysis Tools for Security.",
+                    "Security, Availability, and Multiple Information Sources: Exploring Update Behavior of System Administrators.",
+                    "An investigation of phishing awareness and education over time: When and how to best remind users.",
+                    "An Exploratory Study of Hardware Reverse Engineering - Technical and Cognitive Processes.",
+                    "Industry Responses to the European Directive on Security of Network and Information Systems (NIS): Understanding policy implementation practices across critical infrastructures.",
+                    "\"You've Got Your Nice List of Bugs, Now What?\" Vulnerability Discovery and Management Processes in the Wild.",
+                    "User Mental Models of Cryptocurrency Systems - A Grounded Theory Approach.",
+                    "Cloudy with a Chance of Misconceptions: Exploring Users' Perceptions and Expectations of Security and Privacy in Cloud Office Suites.",
+                    "From Intent to Action: Nudging Users Towards Secure Mobile Payments.",
+                    "Do Privacy and Security Matter to Everyone? Quantifying and Clustering User-Centric Considerations About Smart Home Device Adoption.",
+                    "Enhancing Privacy through the Visual Design of Privacy Notices: Exploring the Interplay of Curiosity, Control and Affect.",
+                    "\"I Have a Narrow Thought Process\": Constraints on Explanations Connecting Inferences and Self-Perceptions.",
+                    "Replication: Why We Still Can't Browse in Peace: On the Uniqueness and Reidentifiability of Web Browsing Histories.",
+                    "How Risky Are Real Users' IFTTT Applets?"
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "15th SOUPS 2019",
+        "info": "Santa Clara, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/soups/2019",
+                "sub_name": "Fifteenth Symposium on Usable Privacy and Security, SOUPS 2019, Santa Clara, CA, USA, August 11-13, 2019.",
+                "count": 27,
+                "papers": [
+                    "Cooperative Privacy and Security: Learning from People with Visual Impairments and Their Allies.",
+                    "Privacy and Security Threat Models and Mitigation Strategies of Older Adults.",
+                    "Evaluating Users' Perceptions about a System's Privacy: Differentiating Social and Institutional Aspects.",
+                    "A Self-Report Measure of End-User Security Attitudes (SA-6).",
+                    "The Effect of Entertainment Media on Mental Models of Computer Security.",
+                    "A Typology of Perceived Triggers for End-User Security and Privacy Behaviors.",
+                    "Replication: No One Can Hack My Mind Revisiting a Study on Expert and Non-Expert Security Practices and Advice.",
+                    "\"Something isn't secure, but I'm not sure how that translates into a problem\": Promoting autonomy by designing for understanding in Signal.",
+                    "\"I was told to buy a software or lose my computer. I ignored it\": A study of ransomware.",
+                    "Enhancing Privacy through an Interactive On-demand Incremental Information Disclosure Interface: Applying Privacy-by-Design to Record Linkage.",
+                    "From Usability to Secure Computing and Back Again.",
+                    "Certified Phishing: Taking a Look at Public Key Certificates of Phishing Websites.",
+                    "\"We Can't Live Without Them!\" App Developers' Adoption of Ad Networks and Their Considerations of Consumer Risks.",
+                    "Usability Smells: An Analysis of Developers' Struggle With Crypto Libraries.",
+                    "System Administrators Prefer Command Line Interfaces, Don't They? An Exploratory Study of Firewall Interfaces.",
+                    "Keepers of the Machines: Examining How System Administrators Manage Software Updates For Multiple Machines.",
+                    "Communicating Device Confidence Level and Upcoming Re-Authentications in Continuous Authentication Systems on Mobile Devices.",
+                    "Exploring Intentional Behaviour Modifications for Password Typing on Mobile Touchscreen Devices.",
+                    "Why people (don't) use password managers effectively.",
+                    "Of Two Minds about Two-Factor: Understanding Everyday FIDO U2F Usability through Device Comparison and Experience Sampling.",
+                    "A Usability Study of Five Two-Factor Authentication Methods.",
+                    "Personal Information Leakage by Abusing the GDPR 'Right of Access'.",
+                    "An Empirical Analysis of Data Deletion and Opt-Out Choices on 150 Websites.",
+                    "The Fog of Warnings: How Non-essential Notifications Blur with Security Warnings.",
+                    "\"There is nothing that I need to keep secret\": Sharing Practices and Concerns of Wearable Fitness Data.",
+                    "I don't own the data\": End User Perceptions of Smart Home Device Data Practices and Risks.",
+                    "More than Smart Speakers: Security and Privacy Perceptions of Smart Home Personal Assistants."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "14th SOUPS 2018",
+        "info": "Baltimore, MD, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/soups/2018",
+                "sub_name": "Fourteenth Symposium on Usable Privacy and Security, SOUPS 2018, Baltimore, MD, USA, August 12-14, 2018.",
+                "count": 28,
+                "papers": [
+                    "Replication Study: A Cross-Country Field Observation Study of Real World PIN Usage at ATMs and in Various Electronic Payment Scenarios.",
+                    "User Behaviors and Attitudes Under Password Expiration Policies.",
+                    "The Effectiveness of Fear Appeals in Increasing Smartphone Locking Behavior among Saudi Arabians.",
+                    "Action Needed! Helping Users Find and Complete the Authentication Ceremony in Signal.",
+                    "Informal Support Networks: an investigation into Home Data Security Practices.",
+                    "Share and Share Alike? An Exploration of Secure Behaviors in Romantic Relationships.",
+                    "Characterizing the Use of Browser-Based Blocking Extensions To Prevent Online Tracking.",
+                    "Can Digital Face-Morphs Influence Attitudes and Online Behaviors?",
+                    "\"Privacy is not for me, it's for those rich women\": Performative Privacy Practices on Mobile Phones by Women in South Asia.",
+                    "\"You don't want to be the next meme\": College Students' Workarounds to Manage Privacy in the Era of Pervasive Photography.",
+                    "Away From Prying Eyes: Analyzing Usage and Understanding of Private Browsing.",
+                    "Online Privacy and Aging of Digital Artifacts.",
+                    "\"I've Got Nothing to Lose\": Consumers' Risk Perceptions and Protective Actions after the Equifax Data Breach.",
+                    "Data Breaches: User Comprehension, Expectations, and Concerns with Handling Exposed Data.",
+                    "User Comfort with Android Background Resource Accesses in Different Contexts.",
+                    "Let Me Out! Evaluating the Effectiveness of Quarantining Compromised Users in Walled Gardens.",
+                    "Developers Deserve Security Warnings, Too: On the Effect of Integrated Security Advice on Cryptographic API Misuse.",
+                    "Security in the Software Development Lifecycle.",
+                    "Deception Task Design in Developer Password Studies: Exploring a Student Sample.",
+                    "API Blindspots: Why Experienced Developers Write Vulnerable Code.",
+                    "\"If I press delete, it's gone\" - User Understanding of Online Data Deletion and Expiration.",
+                    "Programming Experience Might Not Help in Comprehending Obfuscated Source Code Efficiently.",
+                    "\"We make it a big deal in the company\": Security Mindsets in Organizations that Develop Cryptographic Products.",
+                    "A Comparative Usability Study of Key Management in Secure Email.",
+                    "When is a Tree Really a Truck? Exploring Mental Models of Encryption.",
+                    "\"It's Scary...It's Confusing...It's Dull\": How Cybersecurity Advocates Overcome Negative Perceptions of Security.",
+                    "Ethics Emerging: the Story of Privacy and Security Perceptions in Virtual Reality.",
+                    "Introducing the Cybersurvival Task: Assessing and Addressing Staff Beliefs about Effective Cyber Protection."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "13th SOUPS 2017",
+        "info": "Santa Clara, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/soups/2017",
+                "sub_name": "Thirteenth Symposium on Usable Privacy and Security, SOUPS 2017, Santa Clara, CA, USA, July 12-14, 2017.",
+                "count": 46,
+                "papers": [
+                    "Diversify to Survive: Making Passwords Stronger with Adaptive Policies.",
+                    "A Second Look at Password Composition Policies in the Wild: Comparing Samples from 2010 and 2016.",
+                    "Is that you, Alice? A Usability Study of the Authentication Ceremony of Secure Messaging Applications.",
+                    "\"...better to use a lock screen than to worry about saving a few seconds of time\": Effect of Fear Appeal in the Context of Smartphone Locking Behavior.",
+                    "End User Security and Privacy Concerns with Smart Homes.",
+                    "Security Developer Studies with GitHub Users: Exploring a Convenience Sample.",
+                    "Regulators, Mount Up! Analysis of Privacy Policies for Mobile Money Services.",
+                    "A Qualitative Investigation of Bank Employee Experiences of Information Security and Phishing.",
+                    "DigiTally: Piloting Offline Payments for Phones.",
+                    "Turtle Guard: Helping Android Users Apply Contextual Privacy Preferences.",
+                    "Authentication on the Go: Assessing the Effect of Movement on Mobile Device Keystroke Dynamics.",
+                    "Impact of User Characteristics on Attitudes Towards Automatic Mobile Application Updates.",
+                    "Exploring decision making with Android's runtime permission dialogs using in-context surveys.",
+                    "Weighing Context and Trade-offs: How Suburban Adults Selected Their Online Security Posture.",
+                    "How Effective is Anti-Phishing Training for Children?",
+                    "\"I feel stupid I can't delete...\": A Study of Users' Cloud Deletion Practices and Coping Strategies.",
+                    "The importance of visibility for folk theories of sensor data.",
+                    "Replication: Challenges in Using Data Logs to Validate Phishing Detection Ability Metrics.",
+                    "Can we fight social engineering attacks by social means? Assessing social salience as a means to improve phish detection.",
+                    "Raise the Curtains: The Effect of Awareness About Targeting on Consumer Attitudes and Purchase Intentions.",
+                    "Using chatbots against voice spam: Analyzing Lenny's effectiveness.",
+                    "Valuating Friends' Privacy: Does Anonymity of Sharing Personal Data Matter?",
+                    "Self-driving cars and data collection: Privacy perceptions of networked autonomous vehicles.",
+                    "Format vs. Content: The Impact of Risk and Presentation on Disclosure Decisions.",
+                    "New Me: Understanding Expert and Non-Expert Perceptions and Usage of the Tor Anonymity Network.",
+                    "Privacy Expectations and Preferences in an IoT World.",
+                    "Learning System-assigned Passwords: A Preliminary Study on the People with Learning Disabilities.",
+                    "Victim Privacy in Crowdsourcing Based Public Safety Reporting: A Case Study of LiveSafe.",
+                    "Security and privacy design considerations for low-literate users in developing regions.",
+                    "Formal Mental Models for Inclusive Privacy and Security.",
+                    "Inclusive persuasion for security software adoption.",
+                    "\"I want my money back!\" Limiting Online Password-Guessing Financially.",
+                    "Smartwatches Locking Methods: A Comparative Study.",
+                    "Key-bored to Tears: The Usability Cost of Character Authentication on Mobile Devices.",
+                    "You Want Me To Do What? A Design Study of Two-Factor Authentication Messages.",
+                    "On the Design of Distributed Adaptive Authentication Systems.",
+                    "Touchscreen Biometrics Across Multiple Devices.",
+                    "Modeling Aggregate Security with User Agents that Employ Password Memorization Techniques.",
+                    "Augmenting Centralized Password Management with Application-Specific Passwords.",
+                    "A Gamified Approach to Improve Users' Memorability of Fall-back Authentication.",
+                    "Folk Risk Analysis: Factors Influencing Security Analysts' Interpretation of Risk.",
+                    "The Shadow Warriors: In the no man's land between industrial control systems and enterprise IT systems.",
+                    "Skills and Characteristics of Successful Cybersecurity Advocates.",
+                    "A Proposed Visualization for Vulnerability Scan Data.",
+                    "Ask Me Anything: A Conversational Interface to Augment Information Security Workers.",
+                    "Comparing Educational Approaches to Secure programming: Tool vs. TA."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "12th SOUPS 2016",
+        "info": "Denver, CO, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/soups/2016",
+                "sub_name": "Twelfth Symposium on Usable Privacy and Security, SOUPS 2016, Denver, CO, USA, June 22-24, 2016.",
+                "count": 22,
+                "papers": [
+                    "Rethinking Connection Security Indicators.",
+                    "A Week to Remember: The Impact of Browser Warning Storage Policies.",
+                    "Follow My Recommendations: A Personalized Privacy Assistant for Mobile App Permissions.",
+                    "\"They Keep Coming Back Like Zombies\": Improving Software Updating Interfaces.",
+                    "Why Do They Do What They Do?: A Study of What Motivates Users to (Not) Follow Computer Security Advice.",
+                    "Expecting the Unexpected: Understanding Mismatched Privacy Expectations Online.",
+                    "Do or Do Not, There Is No Try: User Engagement May Not Improve Security Outcomes.",
+                    "An Inconvenient Trust: User Attitudes toward Security and Usability Tradeoffs for Key-Directory Encryption Systems.",
+                    "User Attitudes Toward the Inspection of Encrypted Traffic.",
+                    "Expert and Non-Expert Attitudes towards (Secure) Instant Messaging.",
+                    "Snooping on Mobile Phones: Prevalence and Trends.",
+                    "Understanding Password Choices: How Frequently Entered Passwords Are Re-used across Websites.",
+                    "A Study of Authentication in Daily Life.",
+                    "Use the Force: Evaluating Force-Sensitive Authentication for Mobile Devices.",
+                    "Ask Me Again But Don't Annoy Me: Evaluating Re-authentication Strategies for Smartphones.",
+                    "Turning Contradictions into Innovations or: How We Learned to Stop Whining and Improve Security Operations.",
+                    "Productive Security: A Scalable Methodology for Analysing Employee Security Behaviours.",
+                    "Intuitions, Analytics, and Killing Ants: Inference Literacy of High School-educated Adults in the US.",
+                    "Forgetting in Social Media: Understanding and Controlling Longitudinal Exposure of Socially Shared Data.",
+                    "Sharing Health Information on Facebook: Practices, Preferences, and Risk Perceptions of North American Users.",
+                    "How Short Is Too Short? Implications of Length and Framing on the Effectiveness of Privacy Notices.",
+                    "Addressing Physical Safety, Security, and Privacy for People with Visual Impairments."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/soups/2016way",
+                "sub_name": "Who Are You?! Adventures in Authentication, WAY@SOUPS 2016, Denver, CO, USA, June 22, 2016.",
+                "count": 15,
+                "papers": [
+                    "Strengthening Password-based Authentication.",
+                    "Standard Metrics and Scenarios for Usable Authentication.",
+                    "Recovering High-Value Secrets with SGX and Social Authentication.",
+                    "Lessons Learned from Designing and Evaluating Smart Device-based Authentication for Visually Impaired Users.",
+                    "Who Are You? It Depends (On What You Ask Me!): Context-Dependent Dynamic User Authentication.",
+                    "Exploring Games for Improved Touchscreen Authentication on Mobile Devices.",
+                    "Social Authentication for End-to-End Encryption.",
+                    "Authentication Feature and Model Selection using Penalty Algorithms.",
+                    "Who Are You Now? Fading to Multiple Personas.",
+                    "Position Paper: Measuring the Impact of Alphabet and Culture on Graphical Passwords.",
+                    "Effect of Cognitive Effort on Password Choice.",
+                    "Implications of the Use of Emojis in Mobile Authentication.",
+                    "Picking a (Smart)Lock: Locking Relationships on Mobile Devices.",
+                    "Advancing the Understanding of Android Unlocking and Usage.",
+                    "Examining Visual-Spatial Paths for Mobile Authentication."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/soups/2016wpi",
+                "sub_name": "Workshop on Privacy Indicators, WPI@SOUPS 2016, Denver, CO, USA, June 22, 2016.",
+                "count": 7,
+                "papers": [
+                    "Privacy Wedges: Area-Based Audience Selection for Social Network Posts.",
+                    "Influence of Privacy Attitude and Privacy Cue Framing on Android App Choices.",
+                    "The Privacy Policy Paradox.",
+                    "Reasonable Expectations of Privacy Indicators.",
+                    "Better Privacy Indicators: A New Approach to Quantification of Privacy Policies.",
+                    "Rating Indicator Criteria for Privacy Policies.",
+                    "Data-Driven Privacy Indicators."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/soups/2016wsf",
+                "sub_name": "Workshop on Security Fatigue, WSP@SOUPS 2016, Denver, CO, USA, June 22, 2016.",
+                "count": 7,
+                "papers": [
+                    "Beliefs about Cybersecurity Rules and Passwords: A Comparison of Two Survey Samples of Cybersecurity Professionals Versus Regular Users.",
+                    "Applying Cognitive Control Modes to Identify Security Fatigue Hotspots.",
+                    "Putting Your Passwords on Self-destruct Mode: Beating Password Fatigue.",
+                    "User-Centered Privacy Communication Design.",
+                    "Comics as a Medium for Privacy Notices.",
+                    "PriBots: Conversational Privacy with Chatbots.",
+                    "Drone-based Privacy Interfaces: Opportunities and Challenges."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/soups/2016wsiw",
+                "sub_name": "2nd Workshop on Security Information Workers, WSIW@SOUPS 2016, Denver, CO, USA, June 22, 2016.",
+                "count": 6,
+                "papers": [
+                    "How to Improve the Security Skills of Mobile App Developers? Comparing and Contrasting Expert Views.",
+                    "What Questions Remain? An Examination of How Developers Understand an Interactive Static Analysis Tool.",
+                    "Penetration Tests a Turning Point in Security Practices? Organizational Challenges and Implications in a Software Development Team.",
+                    "Preliminary Findings from an Exploratory Qualitative Study of Security-Conscious Users of Mobile Authentication.",
+                    "The Cybersecurity Competition Experience: Perceptions from Cybersecurity Workers.",
+                    "Collaborative Data Analysis and Discovery for Cyber Security."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "11th SOUPS 2015",
+        "info": "Ottawa, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/soups/2015",
+                "sub_name": "Eleventh Symposium On Usable Privacy and Security, SOUPS 2015, Ottawa, Canada, July 22-24, 2015.",
+                "count": 22,
+                "papers": [
+                    "A Design Space for Effective Privacy Notices.",
+                    "\"WTH..!?!\" Experiences, Reactions, and Expectations Related to Online Privacy Panic Situations.",
+                    "\"My Data Just Goes Everywhere: \" User Mental Models of the Internet and Implications for Privacy and Security.",
+                    "User Perceptions of Sharing, Advertising, and Tracking.",
+                    "Leading Johnny to Water: Designing for Usability and Trust.",
+                    "Usability of Augmented Reality for Revealing Secret Messages to Users but Not Their Devices.",
+                    "Unpacking Security Policy Compliance: The Motivators and Barriers of Employees' Security Behaviors.",
+                    "\"I Added '!' at the End to Make It Secure\": Observing Password Creation in the Lab.",
+                    "Social Media As a Resource for Understanding Security Experiences: A Qualitative Analysis of #Password Tweets.",
+                    "\"I'm Stuck!\": A Contextual Inquiry of People with Visual Impairments in Authentication.",
+                    "Where Have You Been? Using Location-Based Security Questions for Fallback Authentication.",
+                    "The Impact of Cues and User Interaction on the Memorability of System-Assigned Recognition-Based Graphical Passwords.",
+                    "On the Memorability of System-generated PINs: Can Chunking Help?",
+                    "Evaluating the Effectiveness of Using Hints for Autobiographical Authentication: A Field Study.",
+                    "Usability and Security Perceptions of Implicit Authentication: Convenient, Secure, Sometimes Annoying.",
+                    "Understanding the Inconsistencies between Text Descriptions and the Use of Privacy-sensitive Resources of Mobile Apps.",
+                    "On the Impact of Touch ID on iPhone Passcodes.",
+                    "Learning Assigned Secrets for Unlocking Mobile Devices.",
+                    "Security Practices for Households Bank Customers in the Kingdom of Saudi Arabia.",
+                    "Too Much Knowledge? Security Beliefs and Protective Behaviors Among United States Internet Users.",
+                    "\"...No one Can Hack My Mind\": Comparing Expert and Non-Expert Security Practices.",
+                    "A Human Capital Model for Mitigating Security Analyst Burnout."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "10th SOUPS 2014",
+        "info": "Menlo Park, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/soups/2014",
+                "sub_name": "Tenth Symposium on Usable Privacy and Security, SOUPS 2014, Menlo Park, CA, USA, July 9-11, 2014.",
+                "count": 21,
+                "papers": [
+                    "Would a Privacy Fundamentalist Sell Their DNA for $1000 ... If Nothing Bad Happened as a Result? The Westin Categories, Behavioral Intentions, and Consequences.",
+                    "Parents' and Teens' Perspectives on Privacy In a Technology-Filled World.",
+                    "Privacy Attitudes of Mechanical Turk Workers and the U.S. Public.",
+                    "Awareness of Behavioral Tracking and Information Privacy Concern in Facebook and Google.",
+                    "Too Much Choice: End-User Privacy Decisions in the Context of Choice Proliferation.",
+                    "Out of the Loop: How Automated Software Updates Cause Unintended Security Consequences.",
+                    "Harder to Ignore? Revisiting Pop-Up Fatigue and Approaches to Prevent It.",
+                    "Your Reputation Precedes You: History, Reputation, and the Chrome Malware Warning.",
+                    "Exploring Internet Security Perceptions and Practices in Urban Ghana.",
+                    "The Effect of Social Influence on Security Sensitivity.",
+                    "Privacy Concerns in Online Recommender Systems: Influences of Control and User Data Input.",
+                    "Behavioral Experiments Exploring Victims' Response to Cyber-based Financial Fraud and Identity Theft Scenario Simulations.",
+                    "Towards Continuous and Passive Authentication via Touch Biometrics: An Experimental Study on Smartphones.",
+                    "Modeling Users' Mobile App Privacy Preferences: Restoring Usability in a Sea of Permission Settings.",
+                    "It's a Hard Lock Life: A Field Study of Smartphone (Un)Locking Behavior and Risk Perception.",
+                    "Applying Psychometrics to Measure User Comfort when Constructing a Strong Password.",
+                    "The Password Life Cycle: User Behaviour in Managing Passwords.",
+                    "Crowdsourcing Attacks on Biometric Systems.",
+                    "Understanding and Specifying Social Access Control Lists.",
+                    "To Befriend Or Not? A Model of Friend Request Acceptance on Facebook.",
+                    "To Authorize or Not Authorize: Helping Users Review Access Policies in Organizations."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "9th SOUPS 2013",
+        "info": "Newcastle, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/soups/2013",
+                "sub_name": "Symposium On Usable Privacy and Security, SOUPS '13, Newcastle, United Kingdom, July 24-26, 2013.",
+                "count": 15,
+                "papers": [
+                    "When it's better to ask forgiveness than get permission: attribution mechanisms for smartphone resources.",
+                    "Formal definitions for usable access control rule sets from goals to metrics.",
+                    "CASA: context-aware scalable authentication.",
+                    "Retrospective privacy: managing longitudinal privacy in online social networks.",
+                    "Confused Johnny: when automatic encryption leads to confusion and mistakes.",
+                    "Your attention please: designing security-decision UIs to make genuine risks harder to ignore.",
+                    "What matters to users?: factors that affect users' willingness to share information with online advertisers.",
+                    "Do not embarrass: re-examining user concerns for online tracking and advertising.",
+                    "Sleights of privacy: framing, disclosures, and the limits of transparency.",
+                    "Modifying smartphone user locking behavior.",
+                    "Exploring the design space of graphical passwords on smartphones.",
+                    "\"Little brothers watching you\": raising awareness of data leaks on smartphones.",
+                    "On the ecological validity of a password study.",
+                    "Usability and security evaluation of GeoPass: a geographic location-password scheme.",
+                    "Memory retrieval and graphical passwords."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "8th SOUPS 2012",
+        "info": "Washington, DC, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/soups/2012",
+                "sub_name": "Symposium On Usable Privacy and Security, SOUPS '12, Washington, DC, USA - July 11 - 13, 2012.",
+                "count": 14,
+                "papers": [
+                    "Measuring user confidence in smartphone security and privacy.",
+                    "Goldilocks and the two mobile devices: going beyond all-or-nothing access to a device's applications.",
+                    "Android permissions: user attention, comprehension, and behavior.",
+                    "Smart, useful, scary, creepy: perceptions of online behavioral advertising.",
+                    "Reasons, rewards, regrets: privacy considerations in location sharing as an interactive practice.",
+                    "Stories as informal lessons about security.",
+                    "Correct horse battery staple: exploring the usability of system-assigned passphrases.",
+                    "Do you see your password?: applying recognition to textual passwords.",
+                    "Facebook and privacy: it's complicated.",
+                    "Are privacy concerns a turn-off?: engagement and privacy in social networks.",
+                    "Helping Johnny 2.0 to encrypt his Facebook conversations.",
+                    "+Your circles: sharing behavior on Google+.",
+                    "The PViz comprehension tool for social network privacy settings.",
+                    "Relating declarative semantics and usability in access control."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "7th SOUPS 2011",
+        "info": "Pittsburgh, PA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/soups/2011",
+                "sub_name": "Symposium On Usable Privacy and Security, SOUPS '11, Pittsburgh, PA, USA - July 20 - 22, 2011.",
+                "count": 15,
+                "papers": [
+                    "A brick wall, a locked door, and a bandit: a physical security metaphor for firewall warnings.",
+                    "Using data type based security alert dialogs to raise online security awareness.",
+                    "On the challenges in usable security lab studies: lessons learned from replicating a study on SSL warnings.",
+                    "What makes users refuse web single sign-on?: an empirical investigation of OpenID.",
+                    "Breaking undercover: exploiting design flaws and nonuniform human behavior.",
+                    "Shoulder surfing defence for recall-based graphical passwords.",
+                    "Heuristics for evaluating IT security management tools.",
+                    "Smartening the crowds: computational techniques for improving human verification to fight phishing scams.",
+                    "Reciprocity attacks.",
+                    "\"I regretted the minute I pressed share\": a qualitative study of regrets on Facebook.",
+                    "ROAuth: recommendation based open authorization.",
+                    "Privacy: is there an app for that?",
+                    "Home is safer than the cloud!: privacy concerns for consumer cloud storage.",
+                    "Eyeing your exposure: quantifying and controlling information sharing for improved privacy.",
+                    "Indirect content privacy surveys: measuring privacy without asking about it."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "6th SOUPS 2010",
+        "info": "Redmond, Washington, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/soups/2010",
+                "sub_name": "Proceedings of the Sixth Symposium on Usable Privacy and Security, SOUPS 2010, Redmond, Washington, USA, July 14-16, 2010.",
+                "count": 16,
+                "papers": [
+                    "Do windows users follow the principle of least privilege?: investigating user account control practices.",
+                    "Encountering stronger password requirements: user attitudes and behaviors.",
+                    "A closer look at recognition-based graphical passwords on mobile devices.",
+                    "Usably secure, low-cost authentication for mobile banking.",
+                    "Two heads are better than one: security and usability of device associations in group scenarios.",
+                    "Influence of user perception, security needs, and social factors on device pairing method choices.",
+                    "The impact of social navigation on privacy policy configuration.",
+                    "Optimizing a policy authoring framework for security and privacy policies.",
+                    "Feasibility of structural network clustering for group-based privacy control in social networks.",
+                    "Where do security policies come from?",
+                    "Folk models of home computer security.",
+                    "Improving users' security choices on home wireless networks.",
+                    "Textured agreements: re-envisioning electronic consent.",
+                    "On the impact of real-time feedback on users' behaviour in mobile location-sharing applications.",
+                    "Parenting from the pocket: value tensions and technical directions for secure and private parent-teen mobile safety.",
+                    "Towards understanding ATM security: a field study of real world ATM use."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "5th SOUPS 2009",
+        "info": "Mountain View, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/soups/2009",
+                "sub_name": "Proceedings of the 5th Symposium on Usable Privacy and Security, SOUPS 2009, Mountain View, California, USA, July 15-17, 2009.",
+                "count": 54,
+                "papers": [
+                    "Revealing hidden context: improving mental models of personal firewall users.",
+                    "Social applications: exploring a more secure framework.",
+                    "School of phish: a real-word evaluation of anti-phishing training.",
+                    "A \"nutrition label\" for privacy.",
+                    "Challenges in supporting end-user privacy and security management with social navigation.",
+                    "Ubiquitous systems and the family: thoughts about the networked home.",
+                    "Look into my eyes!: can you guess my password?",
+                    "Personal choice and challenge questions: a security and usability assessment.",
+                    "1 + 1 = you: measuring the comprehensibility of metaphors for configuring backup authentication.",
+                    "Serial hook-ups: a comparative usability study of secure device pairing methods.",
+                    "Usability and security of out-of-band channels in secure device pairing protocols.",
+                    "Games for extracting randomness.",
+                    "Sanitization's slippery slope: the design and study of a text revision assistant.",
+                    "Balancing usability and security in a video CAPTCHA.",
+                    "How users use access control.",
+                    "Designing and evaluating usable security and privacy technology.",
+                    "Think Evil (tm).",
+                    "Threshold things that think: usable authorization for resharing.",
+                    "Not one click for security?",
+                    "Privacy stories: confidence in privacy behaviors through end user programming.",
+                    "A new graphical password scheme against spyware by using CAPTCHA.",
+                    "The impact of expressiveness on the effectiveness of privacy mechanisms for location-sharing.",
+                    "Designing for different levels of social inference risk.",
+                    "Integrating usability and accessibility in information assurance education.",
+                    "Educated guess on graphical authentication schemes: vulnerabilities and countermeasures.",
+                    "BayeShield: conversational anti-phishing user interface.",
+                    "Recall-a-story, a story-telling graphical password system.",
+                    "Escape from the matrix: lessons from a case-study in access-control requirements.",
+                    "The impact of privacy indicators on search engine browsing patterns.",
+                    "Privacy suites: shared privacy for social networks.",
+                    "Usable deidentification of sensitive patient care data.",
+                    "Analyzing use of privacy policy attributes in a location sharing application.",
+                    "Studying location privacy in mobile applications: 'predator vs. prey' probes.",
+                    "Treat 'em like other devices: user authentication of multiple personal RFID tags.",
+                    "Textured agreements: re-envisioning electronic consent.",
+                    "A multi-method approach for user-centered design of identity management systems.",
+                    "flyByNight: mitigating the privacy risks of social networking.",
+                    "Conditioned-safe ceremonies and a user study of an application to web authentication.",
+                    "Graphical passwords as browser extension: implementation and usability study.",
+                    "It's no secret: measuring the security and reliability of authentication via 'secret' questions.",
+                    "It's not what you know, but who you know: a social approach to last-resort authentication.",
+                    "A user study of the expandable grid applied to P3P privacy policy visualization.",
+                    "Who's viewed you?: the impact of feedback in a mobile location-sharing application.",
+                    "New directions in multisensory authentication.",
+                    "Machine learning attacks against the Asirra CAPTCHA.",
+                    "A comparative study of online privacy policies and formats.",
+                    "Capturing social networking privacy preferences: can default policies help alleviate tradeoffs between expressiveness and user burden?",
+                    "Redirects to login pages are bad, or are they?",
+                    "Short and long term research suggestions for NSF and NIST.",
+                    "Ecological validity in studies of security and human behaviour.",
+                    "Invisible HCI-SEC: ways of re-architecting the operating system to increase usability and security.",
+                    "Technology transfer of successful usable security research into product.",
+                    "The family and communication technologies.",
+                    "How does the emergence of reputation mechanisms affect the overall trust formation mechanisms, implicit and explicit, in the online environment?"
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "4th SOUPS 2008",
+        "info": "Pittsburgh, PA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/soups/2008",
+                "sub_name": "Proceedings of the 4th Symposium on Usable Privacy and Security, SOUPS 2008, Pittsburgh, Pennsylvania, USA, July 23-25, 2008.",
+                "count": 12,
+                "papers": [
+                    "Improving text passwords through persuasion.",
+                    "Personal knowledge questions for fallback authentication: security questions in the era of Facebook.",
+                    "Securing passfaces for description.",
+                    "Use Your Illusion: secure authentication usable anywhere.",
+                    "Usability of CAPTCHAs or usability issues in CAPTCHA design.",
+                    "Universal device pairing using an auxiliary device.",
+                    "Evaluating assistance of natural language policy authoring.",
+                    "Expressions of expertness: the virtuous circle of natural language for access control policy specification.",
+                    "Evaluating the usability of usage controls in electronic collaboration.",
+                    "A user study of off-the-record messaging.",
+                    "The challenges of using an intrusion detection system: is it worth the effort?",
+                    "Analyzing websites for user-visible security design flaws."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "3rd SOUPS 2007",
+        "info": "Pittsburgh, PA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/soups/2007",
+                "sub_name": "Proceedings of the 3rd Symposium on Usable Privacy and Security, SOUPS 2007, Pittsburgh, Pennsylvania, USA, July 18-20, 2007.",
+                "count": 29,
+                "papers": [
+                    "A second look at the usability of click-based graphical passwords.",
+                    "Reducing shoulder-surfing by using gaze-based password entry.",
+                    "Modeling user choice in the PassPoints graphical password scheme.",
+                    "Tracking website data-collection and privacy practices with the iWatch web crawler.",
+                    "Usability of anonymous web browsing: an examination of Tor interfaces and deployability.",
+                    "Measuring privacy loss and the impact of privacy protection in web browsing.",
+                    "Lessons learned from the deployment of a smartphone-based access-control system.",
+                    "Improving security decisions with polymorphic and audited dialogs.",
+                    "Anti-Phishing Phil: the design and evaluation of a game that teaches people not to fall for phish.",
+                    "Towards understanding IT security professionals and their tools.",
+                    "An honest man has nothing to fear: user perceptions on web-based information disclosure.",
+                    "Facemail: showing faces of recipients to prevent misdirected email.",
+                    "Bitfrost: the one laptop per child security model.",
+                    "A usability evaluation of a home monitoring system.",
+                    "Establishing darknet connections: an evaluation of usability and security.",
+                    "Defeat spyware with anti-screen capture technology using visual persistence.",
+                    "Detecting, analyzing and responding to security incidents: a qualitative analysis.",
+                    "Helping users create better passwords: is this the right approach?",
+                    "Perception and acceptance of fingerprint biometric technology.",
+                    "Secure software installation in a mobile environment.",
+                    "Examining privacy and disclosure in a social networking community.",
+                    "A survey of privacy concerns with dynamic collaborator discovery capabilities.",
+                    "Graphical passwords & qualitative spatial relations.",
+                    "Vidalia: towards a usable Tor GUI.",
+                    "Is FacePIN secure and usable?",
+                    "End user concern about security and privacy threats.",
+                    "TwoKind authentication: usable authenticators for untrustworthy environments.",
+                    "Seven privacy worries in ubiquitous social computing.",
+                    "Privacy implications for single sign-on authentication in a hospital environment."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "2nd SOUPS 2006",
+        "info": "Pittsburgh, PA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/soups/2006",
+                "sub_name": "Proceedings of the 2nd Symposium on Usable Privacy and Security, SOUPS 2006, Pittsburgh, Pennsylvania, USA, July 12-14, 2006.",
+                "count": 14,
+                "papers": [
+                    "Aligning usability and security: a usability study of Polaris.",
+                    "An empirical study of natural language parsing of privacy policy rules using the SPARCLE policy workbench.",
+                    "Intentional access management: making access control usable for end-users.",
+                    "Passpet: convenient password management and phishing protection.",
+                    "Password management strategies for online accounts.",
+                    "A comparison of perceived and real shoulder-surfing risks between alphanumeric and graphical passwords.",
+                    "Human selection of mnemonic phrase-based passwords.",
+                    "Decision strategies and susceptibility to phishing.",
+                    "The methodology and an application to fight against Unicode attacks.",
+                    "Web wallet: preventing phishing attacks by revealing user intentions.",
+                    "Privacy and security threat analysis of the federal employee personal identity verification (PIV) program.",
+                    "Protecting domestic power-line communications.",
+                    "Power strips, prophylactics, and privacy, oh my!",
+                    "Seeing further: extending visualization as a basis for usable security."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "1st SOUPS 2005",
+        "info": "Pittsburgh, PA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/soups/2005",
+                "sub_name": "Proceedings of the 1st Symposium on Usable Privacy and Security, SOUPS 2005, Pittsburgh, Pennsylvania, USA, July 6-8, 2005.",
+                "count": 10,
+                "papers": [
+                    "Authentication using graphical passwords: effects of tolerance and image choice.",
+                    "Johnny 2: a user test of key continuity management with S/MIME and Outlook Express.",
+                    "Two experiences designing for effective security.",
+                    "Usable security and privacy: a case study of developing privacy management tools.",
+                    "Stopping spyware at the gate: a user study of privacy, notice and spyware.",
+                    "Making PRIME usable.",
+                    "Developing privacy guidelines for social location disclosure applications and services.",
+                    "The battle against phishing: Dynamic Security Skins.",
+                    "Attacking information visualization system usability overloading and deceiving the human.",
+                    "Social navigation as a model for usable security."
+                ]
+            }
+        ]
+    }
+]

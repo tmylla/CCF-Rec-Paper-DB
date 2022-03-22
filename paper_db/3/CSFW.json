@@ -1,0 +1,1319 @@
+[
+    {
+        "year": "2021",
+        "name": "34th CSF 2021",
+        "info": "Dubrovnik, Croatia",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/2021",
+                "sub_name": "34th IEEE Computer Security Foundations Symposium, CSF 2021, Dubrovnik, Croatia, June 21-25, 2021.",
+                "count": 43,
+                "papers": [
+                    "Yes We can: Watermarking Machine Learning Models beyond Classification.",
+                    "Formal Impact Metrics for Cyber-physical Attacks.",
+                    "KACHINA - Foundations of Private Smart Contracts.",
+                    "Machine-Checking Unforgeability Proofs for Signature Schemes with Tight Reductions to the Computational Diffie-Hellman Problem.",
+                    "CapablePtrs: Securely Compiling Partial Programs Using the Pointers-as-Capabilities Principle.",
+                    "Computationally sound Bitcoin tokens.",
+                    "Statistical Model Checking for Hyperproperties.",
+                    "Efficient Constructions of Pairing Based Accumulators.",
+                    "Efficient Algorithms for Quantitative Attack Tree Analysis.",
+                    "Consistency for Functional Encryption.",
+                    "Verifying Hyperproperties With TLA.",
+                    "DDUO: General-Purpose Dynamic Analysis for Differential Privacy.",
+                    "Formal security analysis of MPC-in-the-head zero-knowledge protocols.",
+                    "A Quantale of Information.",
+                    "Fixing the Achilles Heel of E-Voting: The Bulletin Board.",
+                    "Abstract Modeling of System Communication in Constructive Cryptography using CryptHOL.",
+                    "Mechanised Models and Proofs for Distance-Bounding.",
+                    "Concavity, Core-concavity, Quasiconcavity: A Generalizing Framework for Entropy Measures.",
+                    "Towards Language-Based Mitigation of Traffic Analysis Attacks.",
+                    "Heuristic Approach for Countermeasure Selection Using Attack Graphs.",
+                    "Performing Security Proofs of Stateful Protocols.",
+                    "Backwards-directed information flow analysis for concurrent programs.",
+                    "On Compositional Information Flow Aware Refinement.",
+                    "Gradual Security Types and Gradual Guarantees.",
+                    "Relational Analysis of Sensor Attacks on Cyber-Physical Systems.",
+                    "Accountability in the Decentralised-Adversary Setting.",
+                    "Verified Multiple-Time Signature Scheme from One-Time Signatures and Timestamping.",
+                    "Resource-Aware Session Types for Digital Contracts.",
+                    "Vertical Composition and Sound Payload Abstraction for Stateful Protocols.",
+                    "Language Support for Secure Software Development with Enclaves.",
+                    "A Coq proof of the correctness of X25519 in TweetNaCl.",
+                    "On the Soundness of Infrastructure Adversaries.",
+                    "Automating Audit with Policy Inference.",
+                    "Concise UC Zero-Knowledge Proofs for Oblivious Updatable Databases.",
+                    "Verifying Accountability for Unbounded Sets of Participants.",
+                    "A Formal Information-Theoretic Leakage Analysis of Order-Revealing Encryption.",
+                    "Cooking Cryptographers: Secure Multiparty Computation Based on Balls and Bags.",
+                    "Election Verifiability Revisited: Automated Security Proofs and Attacks on Helios and Belenios.",
+                    "Formalizing Nakamoto-Style Proof of Stake.",
+                    "SSProve: A Foundational Framework for Modular Cryptographic Proofs in Coq.",
+                    "Dynamic IFC Theorems for Free!",
+                    "Formal Verification of Secure Forwarding Protocols.",
+                    "Secure Compilation of Constant-Resource Programs."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "name": "33nd CSF 2020",
+        "info": "Boston, MA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/2020",
+                "sub_name": "33rd IEEE Computer Security Foundations Symposium, CSF 2020, Boston, MA, USA, June 22-26, 2020.",
+                "count": 28,
+                "papers": [
+                    "Dispute Resolution in Voting.",
+                    "Fifty Shades of Ballot Privacy: Privacy against a Malicious Board.",
+                    "Universal Unconditional Verifiability in E-Voting without Trusted Parties.",
+                    "SoK: Techniques for Verifiable Mix Nets.",
+                    "Transparent IFC Enforcement: Possibility and (In)Efficiency Results.",
+                    "VERONICA: Expressive and Precise Concurrent Information Flow Security.",
+                    "Reconciling progress-insensitive noninterference and declassification.",
+                    "Language-Based Web Session Integrity.",
+                    "First-Order Logic for Flow-Limited Authorization.",
+                    "Types and Abstract Interpretation for Authorization Hook Advice.",
+                    "Optimal Obfuscation Mechanisms via Machine Learning.",
+                    "A Method for Proving Unlinkability of Stateful Protocols.",
+                    "Abstracting Faceted Execution.",
+                    "Nontransitive Security Types for Coarse-grained Information Flow Control.",
+                    "Securing Asynchronous Exceptions.",
+                    "PASAPTO: Policy-aware Security and Performance Trade-off Analysis-Computation on Encrypted Data with Restricted Leakage.",
+                    "Runtime Enforcement for Control System Security.",
+                    "Provably Secure Isolation for Interruptible Enclaved Execution on Small Microprocessors.",
+                    "Limiting the impact of unreliable randomness in deployed security protocols.",
+                    "Authentication in Key-Exchange: Definitions, Relations and Composition.",
+                    "Automated Analysis of PUF-based Protocols.",
+                    "Anonymous Lottery In The Proof-of-Stake Setting.",
+                    "A Composable Security Treatment of the Lightning Network.",
+                    "Clockwork: Tracking Remote Timing Attacks.",
+                    "Controller Synthesis for Hyperproperties.",
+                    "Rely/Guarantee Reasoning for Noninterference in Non-Blocking Algorithms.",
+                    "Exploiting attack-defense trees to find an optimal set of countermeasures.",
+                    "Provably Robust Decisions based on Potentially Malicious Sources of Information."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "32nd CSF 2019",
+        "info": "Hoboken, NJ, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/2019",
+                "sub_name": "32nd IEEE Computer Security Foundations Symposium, CSF 2019, Hoboken, NJ, USA, June 25-28, 2019.",
+                "count": 30,
+                "papers": [
+                    "Optimising Faceted Secure Multi-Execution.",
+                    "Canonical Representations of k-Safety Hyperproperties.",
+                    "Timing Leaks and Coarse-Grained Clocks.",
+                    "Decidability of a Sound Set of Inference Rules for Computational Indistinguishability.",
+                    "How to Wrap it up - A Formally Verified Proposal for the use of Authenticated Wrapping in PKCS#11.",
+                    "Prime, Order Please! Revisiting Small Subgroup and Invalid Curve Attacks on Protocols using Diffie-Hellman.",
+                    "Re-Thinking Untraceability in the CryptoNote-Style Blockchain.",
+                    "Time-Dependent Decision-Making and Decentralization in Proof-of-Work Cryptocurrencies.",
+                    "Analysis of Deterministic Longest-Chain Protocols.",
+                    "Symbolic Methods in Computational Cryptography Proofs.",
+                    "Formalizing Constructive Cryptography using CryptHOL.",
+                    "EasyUC: Using EasyCrypt to Mechanize Proofs of Universally Composable Security.",
+                    "On the Meaning and Purpose of Attack Trees.",
+                    "Efficient Attack-Defense Tree Analysis using Pareto Attribute Domains.",
+                    "Games for Security Under Adaptive Adversaries.",
+                    "Information-Flow Preservation in Compiler Optimisations.",
+                    "Temporal Safety for Stack Allocated Memory on Capability Machines.",
+                    "Journey Beyond Full Abstraction: Exploring Robust Property Preservation for Secure Compilation.",
+                    "Using Information Flow to Design an ISA that Controls Timing Channels.",
+                    "A Formal Approach to Secure Speculation.",
+                    "Information Flow Control for Distributed Trusted Execution Environments.",
+                    "Securing Cross-App Interactions in IoT Platforms.",
+                    "Static Enforcement of Security in Runtime Systems.",
+                    "Beyond Labels: Permissiveness for Dynamic Information Flow Enforcement.",
+                    "BeleniosVS: Secrecy and Verifiability Against a Corrupted Voting Device.",
+                    "Resource-Bounded Intruders in Denial of Service Attacks.",
+                    "Automated Verification of Accountability in Security Protocols.",
+                    "Quantifying Information Flow in Interactive Systems.",
+                    "Deterministic Channel Design for Minimum Leakage.",
+                    "Comparing Systems: Max-Case Refinement Orders and Application to Differential Privacy."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "31st CSF 2018",
+        "info": "Oxford, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/2018",
+                "sub_name": "31st IEEE Computer Security Foundations Symposium, CSF 2018, Oxford, United Kingdom, July 9-12, 2018.",
+                "count": 27,
+                "papers": [
+                    "An Extensive Formal Analysis of Multi-factor Authentication Protocols.",
+                    "Composition Theorems for CryptoVerif and Application to TLS 1.3.",
+                    "A Cryptographic Look at Multi-party Channels.",
+                    "Invited Paper: Secure Boot and Remote Attestation in the Sanctum Processor.",
+                    "Guided Design of Attack Trees: A System-Based Approach.",
+                    "Self-Guarding Cryptographic Protocols against Algorithm Substitution Attacks.",
+                    "Formal Security Proof of CMAC and Its Variants.",
+                    "Backdoored Hash Functions: Immunizing HMAC and HKDF.",
+                    "Computer-Aided Proofs for Multiparty Computation with Active Security.",
+                    "Enforcing Ideal-World Leakage Bounds in Real-World Secret Sharing MPC Frameworks.",
+                    "Symbolic Security of Garbled Circuits.",
+                    "The Complexity of Monitoring Hyperproperties.",
+                    "Knowledge-Based Security of Dynamic Secrets for Reactive Programs.",
+                    "Assuming You Know: Epistemic Semantics of Relational Annotations for Expressive Flow Policies.",
+                    "KEVM: A Complete Formal Semantics of the Ethereum Virtual Machine.",
+                    "A Permission-Dependent Type System for Secure Information Flow Analysis.",
+                    "Types for Information Flow Control: Labeling Granularity and Semantic Models.",
+                    "Inductive Invariants for Noninterference in Multi-agent Workflows.",
+                    "Invited Paper: Local Differential Privacy on Metric Spaces: Optimizing the Trade-Off with Utility.",
+                    "Privacy Risk in Machine Learning: Analyzing the Connection to Overfitting.",
+                    "Alethea: A Provably Secure Random Sample Voting Protocol.",
+                    "Machine-Checked Proofs for Electronic Voting: Privacy and Verifiability for Belenios.",
+                    "Symbolic Side-Channel Analysis for Probabilistic Programs.",
+                    "Secure Compilation of Side-Channel Countermeasures: The Case of Cryptographic \"Constant-Time\".",
+                    "A Little More Conversation, a Little Less Action, a Lot More Satisfaction: Global States in ProVerif.",
+                    "Automated Unbounded Verification of Stateful Cryptographic Protocols with Exclusive OR.",
+                    "A Typing Result for Stateful Protocols."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "30th CSF 2017",
+        "info": "Santa Barbara, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/2017",
+                "sub_name": "30th IEEE Computer Security Foundations Symposium, CSF 2017, Santa Barbara, CA, USA, August 21-25, 2017.",
+                "count": 34,
+                "papers": [
+                    "On the Protection of Private Information in Machine Learning Systems: Two Recent Approches.",
+                    "How Shall We Play a Game?: A Game-theoretical Model for Cyber-warfare Games.",
+                    "A Sound Flow-Sensitive Heap Abstraction for the Static Analysis of Android Applications.",
+                    "Securing Concurrent Lazy Programs Against Information Leakage.",
+                    "Towards a Flow- and Path-Sensitive Information Flow Analysis.",
+                    "Symbolic and Computational Mechanized Verification of the ARINC823 Avionic Protocols.",
+                    "Mechanizing the Proof of Adaptive, Information-Theoretic Security of Cryptographic Protocols in the Random Oracle Model.",
+                    "Formal Computational Unlinkability Proofs of RFID Protocols.",
+                    "Rethinking Large-Scale Consensus.",
+                    "Formal Verification of Protocols Based on Short Authenticated Strings.",
+                    "Secure Composition of PKIs with Public Key Protocols.",
+                    "Human Computing for Handling Strong Corruptions in Authenticated Key Exchange.",
+                    "Run-Time Attack Detection in Cryptographic APIs.",
+                    "The Web SSO Standard OpenID Connect: In-depth Formal Security Analysis and Security Guidelines.",
+                    "Automatically Detecting the Misuse of Secrets: Foundations, Design Principles, and Applications.",
+                    "UC-Secure Non-interactive Public-Key Encryption.",
+                    "Symbolic Verification of Privacy-Type Properties for Security Protocols with XOR.",
+                    "Differential Privacy in Quantum Computation.",
+                    "R\u00e9nyi Differential Privacy.",
+                    "PrivatePool: Privacy-Preserving Ridesharing.",
+                    "Reconciling Privacy and Utility in Continuous-Time Diffusion Networks.",
+                    "Leakage-Minimal Design: Universality, Limitations, and Applications.",
+                    "Tight Bounds on Information Leakage from Repeated Independent Runs.",
+                    "Synthesis of Adaptive Side-Channel Attacks.",
+                    "Securing Databases from Probabilistic Inference.",
+                    "A Universally Composable Treatment of Network Time.",
+                    "Types for Location and Data Security in Cloud Environments.",
+                    "Secure Compilation and Hyperproperty Preservation.",
+                    "Verified Translation Validation of Static Analyses.",
+                    "Proving Flow Security of Sequential Logic via Automatically-Synthesized Relational Invariants.",
+                    "A Formal Approach to Cyber-Physical Attacks.",
+                    "Formalizing and Proving a Typing Result for Security Protocols in Isabelle/HOL.",
+                    "Deciding Secrecy of Security Protocols for an Unbounded Number of Sessions: The Case of Depth-Bounded Processes.",
+                    "SAT-Equiv: An Efficient Tool for Equivalence Properties."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/csfw/2017gramsec",
+                "sub_name": "Graphical Models for Security - 4th International Workshop, GraMSec 2017, Santa Barbara, CA, USA, August 21, 2017, Revised Selected Papers.",
+                "count": 10,
+                "papers": [
+                    "Graphical Modeling of Security Arguments: Current State and Future Directions.",
+                    "Evil Twins: Handling Repetitions in Attack-Defense Trees - A Survival Guide.",
+                    "Visualizing Cyber Security Risks with Bow-Tie Diagrams.",
+                    "CSIRA: A Method for Analysing the Risk of Cybersecurity Incidents.",
+                    "Quantitative Evaluation of Attack Defense Trees Using Stochastic Timed Automata.",
+                    "Probabilistic Modeling of Insider Threat Detection Systems.",
+                    "Security Modeling for Embedded System Design.",
+                    "Circle of Health Based Access Control for Personal Health Information Systems.",
+                    "New Directions in Attack Tree Research: Catching up with Industrial Needs.",
+                    "Employing Graphical Risk Models to Facilitate Cyber-Risk Monitoring - the WISER Approach."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "29th CSF 2016",
+        "info": "Lisbon, Portugal",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/2016",
+                "sub_name": "IEEE 29th Computer Security Foundations Symposium, CSF 2016, Lisbon, Portugal, June 27 - July 1, 2016.",
+                "count": 34,
+                "papers": [
+                    "Modular Verification for Computer Security.",
+                    "Data-Driven Software Security: Models and Methods.",
+                    "Are the Real Limits to Scale a Matter of Science, or Engineering, or of Something Else? (Abstract only).",
+                    "On Modular and Fully-Abstract Compilation.",
+                    "Secure Software Licensing: Models, Constructions, and Proofs.",
+                    "Beyond Good and Evil: Formalizing the Security Guarantees of Compartmentalizing Compilation.",
+                    "Relative Perfect Secrecy: Universally Optimal Strategies and Channel Design.",
+                    "Axioms for Information Leakage.",
+                    "Correlated Secrets in Quantitative Information Flow.",
+                    "Quantitative Verification and Synthesis of Attack-Defence Scenarios.",
+                    "In the Nick of Time: Proactive Prevention of Obligation Violations.",
+                    "A Calculus for Flow-Limited Authorization.",
+                    "On Access Control, Capabilities, Their Equivalence, and Confused Deputy Attacks.",
+                    "On Post-compromise Security.",
+                    "Micro-policies for Web Session Security.",
+                    "Localizing Firewall Security Policies.",
+                    "Calculational Design of Information Flow Monitors.",
+                    "Hybrid Monitoring of Attacker Knowledge.",
+                    "Runtime Verification of k-Safety Hyperproperties in HyperLTL.",
+                    "Non-interference with What-Declassification in Component-Based Systems.",
+                    "A Certified Compiler for Verifiable Computing.",
+                    "Analysis of Key Wrapping APIs: Generic Policies, Computational Security.",
+                    "A Verified Extensible Library of Elliptic Curves.",
+                    "Automated Reasoning for Equivalences in the Applied Pi Calculus with Barriers.",
+                    "Modeling Human Errors in Security Protocols.",
+                    "sElect: A Lightweight Verifiable Remote Voting System.",
+                    "A Methodology for Formalizing Model-Inversion Attacks.",
+                    "CASH: A Cost Asymmetric Secure Hash Algorithm for Optimal Password Protection.",
+                    "Multi-run Side-Channel Analysis Using Symbolic Execution and Max-SMT.",
+                    "Fault-Resilient Non-interference.",
+                    "Compositional Verification and Refinement of Concurrent Value-Dependent Noninterference.",
+                    "Resilient Delegation Revocation with Precedence for Predecessors Is NP-Complete.",
+                    "Access Control Synthesis for Physical Spaces.",
+                    "Static Detection of Collusion Attacks in ARBAC-Based Workflow Systems."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/csfw/2016gramsec",
+                "sub_name": "Graphical Models for Security - Third International Workshop, GraMSec 2016, Lisbon, Portugal, June 27, 2016, Revised Selected Papers.",
+                "count": 10,
+                "papers": [
+                    "A Bottom-Up Approach to Applying Graphical Models in Security Analysis.",
+                    "On the Soundness of Attack Trees.",
+                    "The Right Tool for the Job: A Case for Common Input Scenarios for Security Assessment.",
+                    "Differential Privacy Analysis of Data Processing Workflows.",
+                    "Bridging Two Worlds: Reconciling Practical Risk Assessment Methodologies with Theory of Attack Trees.",
+                    "Enterprise Architecture-Based Risk and Security Modelling and Analysis.",
+                    "From A to Z: Developing a Visual Vocabulary for Information Security Threat Visualisation.",
+                    "Quantitative Attack Tree Analysis: Stochastic Bounds and Numerical Analysis.",
+                    "Survivability Analysis of a Computer System Under an Advanced Persistent Threat Attack.",
+                    "Confining Adversary Actions via Measurement."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "28th CSF 2015",
+        "info": "Verona, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/2015",
+                "sub_name": "IEEE 28th Computer Security Foundations Symposium, CSF 2015, Verona, Italy, 13-17 July, 2015.",
+                "count": 35,
+                "papers": [
+                    "Analyzing First-Order Role Based Access Control.",
+                    "Decomposing, Comparing, and Synthesizing Access Control Expressiveness Simulations.",
+                    "Compositional Typed Analysis of ARBAC Policies.",
+                    "Policy Privacy in Cryptographic Access Control.",
+                    "Location Privacy via Differential Private Perturbation of Cloaking Area.",
+                    "Automatic Proofs of Privacy of Secure Multi-party Computation Protocols against Active Adversaries.",
+                    "A Game-Theoretic Study on Non-monetary Incentives in Data Analytics Projects with Privacy Implications.",
+                    "A Cut Principle for Information Flow.",
+                    "The Anatomy and Facets of Dynamic Policies.",
+                    "Hybrid Monitors for Concurrent Noninterference.",
+                    "Du-Vote: Remote Electronic Voting with Untrusted Computers.",
+                    "Decidability of Trace Equivalence for Protocols with Nonces.",
+                    "Set-Pi: Set Membership p-Calculus.",
+                    "A Complete Characterization of Secure Human-Server Communication.",
+                    "A Definitional Framework for Functional Encryption.",
+                    "Reasoning about Policy Behavior in Logic-Based Trust Management Systems: Some Complexity Results and an Operational Framework.",
+                    "Picking vs. Guessing Secrets: A Game-Theoretic Analysis.",
+                    "Program Actions as Actual Causes: A Building Block for Accountability.",
+                    "BitWhisper: Covert Signaling Channel between Air-Gapped Computers Using Thermal Manipulations.",
+                    "A Parametric Family of Attack Models for Proxy Re-encryption.",
+                    "A Hybrid Approach for Proving Noninterference of Java Programs.",
+                    "Android Permissions Unleashed.",
+                    "Cryptographic Enforcement of Language-Based Information Erasure.",
+                    "Value-Sensitive Hybrid Information Flow Control for a JavaScript-Like Language.",
+                    "Information Flow Control for Event Handling and the DOM in Web Browsers.",
+                    "An Analysis of Universal Information Flow Based on Self-Composition.",
+                    "On Power Splitting Games in Distributed Computation: The Case of Bitcoin Pooled Mining.",
+                    "Symbolic Malleable Zero-Knowledge Proofs.",
+                    "A Mechanized Proof of Security for Searchable Symmetric Encryption.",
+                    "Probabilistic Program Modeling for High-Precision Anomaly Classification.",
+                    "A Logic of Programs with Interface-Confined Code.",
+                    "Rational Protection against Timing Attacks.",
+                    "Understanding and Enforcing Opacity.",
+                    "A Methodology for Information Flow Experiments.",
+                    "Flow-Limited Authorization."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/csfw/2015gramsec",
+                "sub_name": "Graphical Models for Security - Second International Workshop, GraMSec 2015, Verona, Italy, July 13, 2015, Revised Selected Papers.",
+                "count": 7,
+                "papers": [
+                    "The Attack Navigator.",
+                    "Integrated Visualization of Network Security Metadata from Heterogeneous Data Sources.",
+                    "SysML-Sec Attack Graphs: Compact Representations for Complex Attacks.",
+                    "How to Generate Security Cameras: Towards Defence Generation for Socio-Technical Systems.",
+                    "Guided Specification and Analysis of a Loyalty Card System.",
+                    "Transforming Graphical System Models to Graphical Attack Models.",
+                    "ATSyRa: An Integrated Environment for Synthesizing Attack Trees - (Tool Paper)."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "27th CSF 2014",
+        "info": "Vienna, Austria",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/2014",
+                "sub_name": "IEEE 27th Computer Security Foundations Symposium, CSF 2014, Vienna, Austria, 19-22 July, 2014.",
+                "count": 29,
+                "papers": [
+                    "Declarative Policies for Capability Control.",
+                    "Portable Software Fault Isolation.",
+                    "Certificates for Verifiable Forensics.",
+                    "Information Flow Monitoring as Abstract Interpretation for Relational Logic.",
+                    "On Dynamic Flow-Sensitive Floating-Label Systems.",
+                    "Noninterference under Weak Memory Models.",
+                    "Who's Afraid of Which Bad Wolf? A Survey of IT Security Risk Awareness.",
+                    "How Task Familiarity and Cognitive Predispositions Impact Behavior in a Security Game of Timing.",
+                    "Attribute-Based Encryption for Access Control Using Elementary Operations.",
+                    "Automated Analysis and Synthesis of Block-Cipher Modes of Operation.",
+                    "Certified Synthesis of Efficient Batch Verifiers.",
+                    "A Peered Bulletin Board for Robust Use in Verifiable Voting Systems.",
+                    "From Input Private to Universally Composable Secure Multi-party Computation Primitives.",
+                    "Malleable Signatures: New Definitions and Delegatable Anonymous Credentials.",
+                    "Decidability for Lightweight Diffie-Hellman Protocols.",
+                    "Modeling Diffie-Hellman Derivability for Automated Analysis.",
+                    "Actor Key Compromise: Consequences and Countermeasures.",
+                    "A Sound Abstraction of the Parsing Problem.",
+                    "Compositional Information-Flow Security for Interactive Systems.",
+                    "Stateful Declassification Policies for Event-Driven Programs.",
+                    "Additive and Multiplicative Notions of Leakage, and Their Capacities.",
+                    "The Complexity of Estimating Systematic Risk in Networks.",
+                    "Automated Generation of Attack Trees.",
+                    "Mignis: A Semantic Based Tool for Firewall Configuration.",
+                    "Provably Sound Browser-Based Enforcement of Web Session Integrity.",
+                    "TUC: Time-Sensitive and Modular Analysis of Anonymous Communication.",
+                    "Differential Privacy: An Economic Method for Choosing Epsilon.",
+                    "Proving Differential Privacy in Hoare Logic.",
+                    "Balancing Societal Security and Individual Privacy: Accountable Escrow System."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "26th CSF 2013",
+        "info": "New Orleans, LA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/2013",
+                "sub_name": "2013 IEEE 26th Computer Security Foundations Symposium, New Orleans, LA, USA, June 26-28, 2013.",
+                "count": 19,
+                "papers": [
+                    "A Theory of Information-Flow Labels.",
+                    "Precise Enforcement of Confidentiality for Reactive Systems.",
+                    "Secure Multi-execution: Fine-Grained, Declassification-Aware, and Transparent.",
+                    "Memory Trace Oblivious Program Execution.",
+                    "Oblivious Program Execution and Path-Sensitive Non-interference.",
+                    "Security and Privacy by Declarative Design.",
+                    "Type-Based Analysis of Generic Key Management APIs.",
+                    "Cryptographically Enforced RBAC.",
+                    "Quantum Information-Flow Security: Noninterference and Access Control.",
+                    "Application-Sensitive Access Control Evaluation Using Parameterized Expressiveness.",
+                    "AnoA: A Framework for Analyzing Anonymous Communication Protocols.",
+                    "A Trust Framework for Evaluating GNSS Signal Integrity.",
+                    "Probabilistic Point-to-Point Information Leakage.",
+                    "Information Flow Analysis for a Dynamically Typed Language with Staged Metaprogramming.",
+                    "Gradual Security Typing with References.",
+                    "Hybrid Information Flow Monitoring against Web Tracking.",
+                    "Symbolic Universal Composability.",
+                    "Differential Privacy by Typing in Security Protocols.",
+                    "Verified Computational Differential Privacy with Applications to Smart Metering."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "25th CSF 2012",
+        "info": "Cambridge, MA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/2012",
+                "sub_name": "25th IEEE Computer Security Foundations Symposium, CSF 2012, Cambridge, MA, USA, June 25-27, 2012.",
+                "count": 25,
+                "papers": [
+                    "Information-Flow Security for a Core of JavaScript.",
+                    "Secure Information Flow for Concurrent Programs under Total Store Order.",
+                    "ENCoVer: Symbolic Exploration for Information Flow Security.",
+                    "Information-Flow Control for Programming on Encrypted Data.",
+                    "Symbolic Analysis of Cryptographic Protocols Containing Bilinear Pairings.",
+                    "Automated Analysis of Diffie-Hellman Protocols and Advanced Security Properties.",
+                    "Verifying Privacy-Type Properties in a Modular Way.",
+                    "Security Analysis of Role-Based Access Control through Program Verification.",
+                    "Gran: Model Checking Grsecurity RBAC Policies.",
+                    "Labeled Sequent Calculi for Access Control Logics: Countermodels, Saturation and Abduction.",
+                    "Mashic Compiler: Mashup Sandboxing Based on Inter-frame Communication.",
+                    "Secure Compilation to Modern Processors.",
+                    "Cache-Leakage Resilient OS Isolation in an Idealized Model of Virtualization.",
+                    "A Framework for the Cryptographic Verification of Java-Like Programs.",
+                    "Constructing Optimistic Multi-party Contract Signing Protocols.",
+                    "Refining Key Establishment.",
+                    "Discovering Concrete Attacks on Website Authorization by Formal Analysis.",
+                    "Measuring Information Leakage Using Generalized Gain Functions.",
+                    "The Thermodynamics of Confidentiality.",
+                    "Securing Interactive Programs.",
+                    "Learning is Change in Knowledge: Knowledge-Based Security for Dynamic Policies.",
+                    "Automatically Verified Mechanized Proof of One-Encryption Key Exchange.",
+                    "Generic Indifferentiability Proofs of Hash Designs.",
+                    "Verified Security of Merkle-Damg\u00e5rd.",
+                    "Provably Secure and Practical Onion Routing."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "24th CSF 2011",
+        "info": "Cernay-la-Ville, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/2011",
+                "sub_name": "Proceedings of the 24th IEEE Computer Security Foundations Symposium, CSF 2011, Cernay-la-Ville, France, 27-29 June, 2011.",
+                "count": 21,
+                "papers": [
+                    "Guiding a General-Purpose C Verifier to Prove Cryptographic Protocols.",
+                    "Integrated Specification and Verification of Security Protocols and Policies.",
+                    "StatVerif: Verification of Stateful Processes.",
+                    "Automated Proofs for Diffie-Hellman-Based Key Exchanges.",
+                    "Formal Analysis of Protocols Based on TPM State Registers.",
+                    "Resource-Aware Authorization Policies for Statically Typed Cryptographic Protocols.",
+                    "Obstruction-Free Authorization Enforcement: Aligning Security with Business Objectives.",
+                    "Dynamic Enforcement of Knowledge-Based Security Policies.",
+                    "Modular Protections against Non-control Data Attacks.",
+                    "Static Analysis for Efficient Hybrid Information-Flow Control.",
+                    "Local Memory via Layout Randomization.",
+                    "A Statistical Test for Information Leaks Using Continuous Mutual Information.",
+                    "Information-Theoretic Bounds for Differentially Private Mechanisms.",
+                    "The Complexity of Quantitative Information Flow Problems.",
+                    "Assumptions and Guarantees for Compositional Noninterference.",
+                    "Vertical Protocol Composition.",
+                    "Termination-Insensitive Computational Indistinguishability (and Applications to Computational Soundness).",
+                    "Security for Key Management Interfaces.",
+                    "A Formal Framework for Provenance Security.",
+                    "Attacking and Fixing Helios: An Analysis of Ballot Secrecy.",
+                    "Regret Minimizing Audits: A Learning-Theoretic Basis for Privacy Protection."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "23rd CSF 2010",
+        "info": "Edinburgh, United Kingdom",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/2010",
+                "sub_name": "Proceedings of the 23rd IEEE Computer Security Foundations Symposium, CSF 2010, Edinburgh, United Kingdom, July 17-19, 2010.",
+                "count": 23,
+                "papers": [
+                    "Approximation and Randomization for Quantitative Information-Flow Analysis.",
+                    "Quantitative Information Flow - Verification Hardness and Possibilities.",
+                    "Quantification of Integrity.",
+                    "Vulnerability Bounds and Leakage Resilience of Blinded Cryptography under Timing Attacks.",
+                    "Modeling and Verifying Ad Hoc Routing Protocols.",
+                    "Formal Verification of Privacy for RFID Systems.",
+                    "Robustness Guarantees for Anonymity.",
+                    "Analysing Unlinkability and Anonymity Using the Applied Pi Calculus.",
+                    "A Game-Based Definition of Coercion-Resistance and Its Applications.",
+                    "Towards Quantitative Analysis of Proofs of Authorization: Applications, Framework, and Techniques.",
+                    "Constraining Credential Usage in Logic-Based Access Control.",
+                    "Information Flow in Credential Systems.",
+                    "Dynamic vs. Static Flow-Sensitive Security Analysis.",
+                    "Information Flow Monitor Inlining.",
+                    "Required Information Release.",
+                    "Strong Invariants for the Efficient Construction of Machine-Checked Protocol Security Proofs.",
+                    "A Machine-Checked Formalization of Sigma-Protocols.",
+                    "Impossibility Results for Secret Establishment.",
+                    "A Framework for the Sound Specification of Cryptographic Tasks.",
+                    "Towards a Formal Foundation of Web Security.",
+                    "Automating Open Bisimulation Checking for the Spi Calculus.",
+                    "Protocol Composition for Arbitrary Primitives.",
+                    "On Protection by Layout Randomization."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "22nd CSF 2009",
+        "info": "Port Jefferson, NY, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/2009",
+                "sub_name": "Proceedings of the 22nd IEEE Computer Security Foundations Symposium, CSF 2009, Port Jefferson, New York, USA, July 8-10, 2009.",
+                "count": 22,
+                "papers": [
+                    "More Anonymous Onion Routing Through Trust.",
+                    "Minimal Message Complexity of Asynchronous Multi-party Contract Signing.",
+                    "Authentication without Elision: Partially Specified Protocols, Associated Data, and Cryptographic Models Described by Code.",
+                    "Tight Enforcement of Information-Release Policies for Dynamic Languages.",
+                    "Updatable Security Views.",
+                    "Language-Based Isolation of Untrusted JavaScript.",
+                    "Securing Timeout Instructions in Web Applications.",
+                    "Modeling and Verifying Physical Properties of Security Protocols for Wireless Networks.",
+                    "Cryptographic Protocol Synthesis and Verification for Multiparty Sessions.",
+                    "A Secure Cryptographic Token Interface.",
+                    "Using ProVerif to Analyze Protocols with Diffie-Hellman Exponentiation.",
+                    "ASPIER: An Automated Framework for Verifying Security Protocol Implementations.",
+                    "Inputs of Coma: Static Detection of Denial-of-Service Vulnerabilities.",
+                    "Specification and Analysis of Dynamic Authorisation Policies.",
+                    "Policy Compliance in Collaborative Systems.",
+                    "Advice from Belnap Policies.",
+                    "Expressive Power of Definite Clauses for Verifying Authenticity.",
+                    "A Method for Proving Observational Equivalence.",
+                    "Decidable Analysis for a Class of Cryptographic Group Protocols with Unbounded Lists.",
+                    "Universally Composable Symmetric Encryption.",
+                    "Achieving Security Despite Compromise Using Zero-knowledge.",
+                    "A Provably Secure and Efficient Countermeasure against Timing Attacks."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "21st CSF 2008",
+        "info": "Carnegie Mellon University, Pittsburgh, PA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/2008",
+                "sub_name": "Proceedings of the 21st IEEE Computer Security Foundations Symposium, CSF 2008, Pittsburgh, Pennsylvania, USA, 23-25 June 2008.",
+                "count": 22,
+                "papers": [
+                    "Language Based Secure Communication.",
+                    "Refinement Types for Secure Implementations.",
+                    "A Trust Management Approach for Flexible Policy Management in Security-Typed Languages.",
+                    "Hyperproperties.",
+                    "Security Decision-Making among Interdependent Organizations.",
+                    "Tractable Enforcement of Declassification Policies.",
+                    "End-to-End Enforcement of Erasure and Declassification.",
+                    "Cryptographically-Sound Protocol-Model Abstractions.",
+                    "An Authorization Logic With Explicit Time.",
+                    "DKAL: Distributed-Knowledge Authorization Language.",
+                    "Access-Control Policies via Belnap Logic: Effective and Efficient Composition and Analysis.",
+                    "Evidence-Based Audit.",
+                    "Automated Verification of Remote Electronic Voting Protocols in the Applied Pi-Calculus.",
+                    "Specifying Secure Transport Channels.",
+                    "Towards Producing Formally Checkable Security Proofs, Automatically.",
+                    "Composition of Password-Based Protocols.",
+                    "Computational Soundness of Symbolic Zero-Knowledge Proofs Against Active Attackers.",
+                    "Joint State Theorems for Public-Key Encryption and Digital Signature Functionalities with Local Computation.",
+                    "A Type System for Observational Determinism.",
+                    "Information Flow in Systems with Schedulers.",
+                    "A Correctness Proof of a Mesh Security Architecture.",
+                    "Formal Analysis of PKCS#11."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "20th CSF 2007",
+        "info": "Venice, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/2007",
+                "sub_name": "20th IEEE Computer Security Foundations Symposium, CSF 2007, 6-8 July 2007, Venice, Italy.",
+                "count": 26,
+                "papers": [
+                    "Design and Semantics of a Decentralized Authorization Language.",
+                    "Do As I SaY! Programmatic Access Control with Explicit Identities.",
+                    "A Type Discipline for Authorization in Distributed Systems.",
+                    "Security Analysis of Voice-over-IP Protocols.",
+                    "Reasoning about Concurrency for Security Tunnels.",
+                    "A Formal Theory of Key Conjuring.",
+                    "Computationally Sound Mechanized Proofs of Correspondence Assertions.",
+                    "Key-dependent Message Security under Active Attacks - BRSIM/UC-Soundness of Symbolic Encryption with Key Cycles.",
+                    "Compositional Security for Task-PIOAs.",
+                    "Approximated Computationally Bounded Simulation Relations for Probabilistic Automata.",
+                    "Implementing STV securely in Pret a Voter.",
+                    "Secure Implementations for Typed Session Abstractions.",
+                    "A Library for Secure Multi-threaded Information Flow in Haskell.",
+                    "Dynamic Dependency Monitoring to Secure Information Flow.",
+                    "Automaton-based Confidentiality Monitoring of Concurrent Programs.",
+                    "Secure information flow and program logics.",
+                    "A flow-sensitive analysis of privacy properties.",
+                    "Collaborative Planning With Privacy.",
+                    "Privacy and Utility in Business Processes.",
+                    "Electing the Doge of Venice: Analysis of a 13th Century Protocol.",
+                    "Creating Vulnerability Signatures Using Weakest Preconditions.",
+                    "Comparing Countermeasures against Interrupt-Related Covert Channels in an Information-Theoretic Framework.",
+                    "Probability of Error in Information-Hiding Protocols.",
+                    "Causality-based Abstraction of Multiplicity in Security Protocols.",
+                    "The Insecurity Problem: Tackling Unbounded Data.",
+                    "LTL Model Checking for Security Protocols."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "19th CSFW 2006",
+        "info": "Venice, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/2006",
+                "sub_name": "19th IEEE Computer Security Foundations Workshop, (CSFW-19 2006), 5-7 July 2006, Venice, Italy.",
+                "count": 25,
+                "papers": [
+                    "A Temporal Logic Characterisation of Observational Determinism.",
+                    "Encoding Information Flow in Haskell.",
+                    "Coercion-Resistance and Receipt-Freeness in Electronic Voting.",
+                    "On the Completeness of Attack Mutation Algorithms.",
+                    "Types and Effects for Secure Service Orchestration.",
+                    "Games for Controls.",
+                    "Privacy APIs: Access Control Techniques to Analyze and Verify Legal Privacy Policies.",
+                    "On Key Assignment for Hierarchical Access Control.",
+                    "Secrecy by Typing and File-Access Control.",
+                    "Policy Analysis for Administrative Role Based Access Control.",
+                    "Verified Interoperable Implementations of Security Protocols.",
+                    "Cryptographically Sound Theorem Proving.",
+                    "Resolve-Impossibility for a Contract-Signing Protocol.",
+                    "Securing Interaction between Threads and the Scheduler.",
+                    "Information-Flow Security for Interactive Programs.",
+                    "Managing Policy Updates in Security-Typed Languages.",
+                    "Noninterference in the Presence of Non-Opaque Pointers.",
+                    "Independence From Obfuscation: A Semantic Framework for Dive.",
+                    "Decentralized Robustness.",
+                    "Distributed Authorization Using Delegation with Acyclic Paths.",
+                    "A Framework for Establishing Decentralized Secure Coalitions.",
+                    "Non-Interference in Constructive Authorization Logic.",
+                    "Refuting Security Proofs for Tripartite Key Exchange with Model Checker in Planning Problem Setting.",
+                    "Simulation-Based Security with Inexhaustible Interactive Turing Machines.",
+                    "Computationally Sound Compositional Logic for Key Exchange Protocols."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "18th CSFW 2005",
+        "info": "Aix-en-Provence, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/2005",
+                "sub_name": "18th IEEE Computer Security Foundations Workshop, (CSFW-18 2005), 20-22 June 2005, Aix-en-Provence, France.",
+                "count": 22,
+                "papers": [
+                    "Preface.",
+                    "Committees.",
+                    "Practical Information-flow Control in Web-Based Information Systems.",
+                    "Achieving Information Flow Security through Precise Control of Effects.",
+                    "Belief in Information Flow.",
+                    "An Encapsulated Authentication Logic for Reasoning about Key Distribution Protocols.",
+                    "Deciding Knowledge in Security Protocols under (Many More) Equational Theories.",
+                    "A Cryptographically Sound Dolev-Yao Style Security Proof of an Electronic Payment System.",
+                    "Compositional Analysis of Contract Signing Protocols.",
+                    "Analysis of Typed Analyses of Authentication Protocols.",
+                    "Temporal Rank Functions for Forward Secrecy.",
+                    "Reconstruction of Attacks against Cryptographic Protocols.",
+                    "Polynomial Runtime in Simulatability Definitions.",
+                    "Computational and Information-Theoretic Soundness and Completeness of Formal Encryption.",
+                    "Nomad: A Security Model with Non Atomic Actions and Deadlines.",
+                    "Type Annotations to Improve Stack-Based Access Control.",
+                    "Enforcing Secure Service Composition.",
+                    "On Declassification and the Non-Disclosure Policy.",
+                    "Language-Based Information Erasure.",
+                    "Dimensions and Principles of Declassification.",
+                    "End-to-End Availability Policies and Noninterference.",
+                    "Game-Based Analysis of Denial-of-Service Prevention Protocols."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "17th CSFW 2004",
+        "info": "Asilomar, Pacific Grove, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/2004",
+                "sub_name": "17th IEEE Computer Security Foundations Workshop, (CSFW-17 2004), 28-30 June 2004, Pacific Grove, CA, USA.",
+                "count": 20,
+                "papers": [
+                    "A Theory of Dictionary Attacks and its Complexity.",
+                    "Generic Insecurity of Cliques-Type Authenticated Group Key Agreement Protocols.",
+                    "Abstraction and Refinement in Protocol Derivation.",
+                    "A Distributed Calculus for Ro^le-Based Access Control.",
+                    "From Stack Inspection to Access Control: A Security Analysis for Libraries.",
+                    "Selecting Appropriate Counter-Measures in an Intrusion Detection Framework.",
+                    "Using Active Learning in Intrusion Detection.",
+                    "Secure Information Flow by Self-Composition.",
+                    "Lenient Array Operations for Practical Secure Information Flow.",
+                    "Owned Policies for Information Security.",
+                    "Cassandra: Flexible Trust Management, Applied to Electronic Health Records.",
+                    "The Consistency of Task-Based Authorization Constraints in Workflow Systems.",
+                    "Enforcing Robust Declassification.",
+                    "Modelling Downgrading in Information Flow Security.",
+                    "Symmetric Encryption in a Simulatable Dolev-Yao Style Cryptographic Library.",
+                    "Universally Composable Signature, Certification, and Authentication.",
+                    "By Reason and Authority: A System for Authorization of Proof-Carrying Code.",
+                    "A Formal Foundation for XrML.",
+                    "Formal Analysis of Multi-Party Contract Signing.",
+                    "Symbolic Model Checking the Knowledge of the Dining Cryptographers."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "name": "16th CSFW 2003",
+        "info": "Pacific Grove, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/2003",
+                "sub_name": "16th IEEE Computer Security Foundations Workshop (CSFW-16 2003), 30 June - 2 July 2003, Pacific Grove, CA, USA.",
+                "count": 17,
+                "papers": [
+                    "Probabilistic Noninterference through Weak Probabilistic Bisimulation.",
+                    "Secure Contexts for Confidential Data.",
+                    "Observational Determinism for Concurrent Program Security.",
+                    "Symbolic Protocol Analysis with Products and Diffie-Hellman Exponentiation.",
+                    "A Procedure for Verifying Security Against Type Confusion Attacks.",
+                    "Anonymity and Information Hiding in Multiagent Systems.",
+                    "Understanding SPKI/SDSI Using First-Order Logic.",
+                    "A Derivation System for Security Protocols and its Logical Formalization.",
+                    "Automatic Validation of Protocol Narration.",
+                    "On Distributed Security Transactions that Use Secure Transport Protocols.",
+                    "Using Access Control for Secure Information Flow in a Java-like Language.",
+                    "Type-Based Distributed Access Control.",
+                    "Using First-Order Logic to Reason about Policies.",
+                    "On Generalized Authorization Problems.",
+                    "Identity Based Authenticated Key Agreement Protocols from Pairings.",
+                    "The Diffie-Hellman Key-Agreement Scheme in the Strand-Space Model.",
+                    "A Computational Analysis of the Needham-Schr\u00f6eder-(Lowe) Protocol."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2002",
+        "name": "15th CSFW 2002",
+        "info": "Cape Breton, Nova Scotia, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/2002",
+                "sub_name": "15th IEEE Computer Security Foundations Workshop (CSFW-15 2002), 24-26 June 2002, Cape Breton, Nova Scotia, Canada.",
+                "count": 23,
+                "papers": [
+                    "Approximate Non-Interference.",
+                    "Quantifying Information Flow.",
+                    "Secrecy in Multiagent Systems.",
+                    "Two Formal Analys s of Attack Graphs.",
+                    "Formal Specification of Intrusion Signatures and Detection Rules.",
+                    "Types and Effects for Asymmetric Cryptographic Protocols.",
+                    "Security Protocol Design via Authentication Tests.",
+                    "Strand Spaces and Rank Functions: More than Distant Cousins.",
+                    "Probabilistic Analysis of Anonymity.",
+                    "Analysis of SPKI/SDSI Certificates Using Model Checking.",
+                    "Capturing Parallel Attacks within the Data Independence Framework.",
+                    "Polynomial Fairness and Liveness.",
+                    "A Formal Analysis of Some Properties of Kerberos 5 Using MSR.",
+                    "A Formal Analysis of Syverson?s Rational Exchange Protocol.",
+                    "Game Analysis of Abuse-free Contract Signing.",
+                    "Fine-Grained Information Flow Analysis for a \\lambda Calculus with Sum Types.",
+                    "Cryptographic Types.",
+                    "Secure Information Flow and Pointer Confinement in a Java-like Language.",
+                    "A Privacy Policy Model for Enterprises.",
+                    "A Logic for Reasoning about Digital Rights.",
+                    "Hiding Functions and Computational Security of Image Watermarking Systems.",
+                    "Information Flow Security in Dynamic Contexts.",
+                    "A Simple View of Type-Secure Information Flow in the p-Calculus."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2001",
+        "name": "14th CSFW 2001",
+        "info": "Cape Breton, Nova Scotia, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/2001",
+                "sub_name": "14th IEEE Computer Security Foundations Workshop (CSFW-14 2001), 11-13 June 2001, Cape Breton, Nova Scotia, Canada.",
+                "count": 22,
+                "papers": [
+                    "Noninterference Equations for Nondeterministic Systems.",
+                    "Robust Declassification.",
+                    "A State-Transition Model of Trust Management and Access Control.",
+                    "Revocations-A Classification.",
+                    "A Logical Reconstruction of SPKI.",
+                    "A Security Analysis of the Cliques Protocols Suites.",
+                    "An Efficient Cryptographic Protocol Verifier Based on Prolog Rules.",
+                    "Proving Secrecy is Easy Enough.",
+                    "Relating Cryptography and Cryptographic Protocols.",
+                    "A New Type System for Secure Information Flow.",
+                    "A Generic Approach to the Security of Multi-Threaded Programs.",
+                    "Authenticity by Typing for Security Protocols.",
+                    "Computing Symbolic Models for Verifying Cryptographic Protocols.",
+                    "Protocol Insecurity with Finite Number of Sessions is NP-Complete.",
+                    "Multi-Phase Damage Confinement in Database Systems for Intrusion Tolerance.",
+                    "Markov Chains, Classifiers, and Intrusion Detection.",
+                    "Log Auditing through Model-Checking.",
+                    "Non-Interference: Who Needs It?",
+                    "A Compositional Logic for Protocol Correctness.",
+                    "Logical Relations for Encryption.",
+                    "Privacy-Preserving Cooperative Scientific Computations.",
+                    "Confidentiality-Preserving Refinement."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2000",
+        "name": "13th CSFW 2000",
+        "info": "Cambridge, England, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/2000",
+                "sub_name": "Proceedings of the 13th IEEE Computer Security Foundations Workshop, CSFW '00, Cambridge, England, UK, July 3-5, 2000.",
+                "count": 23,
+                "papers": [
+                    "Local Names in SPKI/SDSI.",
+                    "Reasoning about Trust and Insurance in a Public Key Infrastructure.",
+                    "Protocol Independence through Disjoint Encryption.",
+                    "Relating Strands and Multiset Rewriting for Security Protocol Analysis.",
+                    "Optimizing Protocol Rewrite Rules of CIL Specifications.",
+                    "Looking for Diamonds in the Desert - Extending Automatic Protocol Generation to Three-Party Authentication and Key Agreement Protocols.",
+                    "C3PO: A Tool for Automatic Sound Cryptographic Protocol Analysis.",
+                    "An Executable Specification Language for Planning Attacks to Security Protocols.",
+                    "Foundations for Intrusion Detection?.",
+                    "Analyzing Single-Server Network Inhibition.",
+                    "Reasoning about Secrecy for Active Networks.",
+                    "Towards Automatic Verification of Authentication Protocols on an Unbounded Network.",
+                    "TAPS: A First-Order Verifier for Cryptographic Protocols.",
+                    "Invariant Generation Techniques in Cryptographic Protocol Analysis.",
+                    "Information Flow Analysis in a Discrete-Time Process Algebra.",
+                    "Possibilistic Definitions of Security - An Assembly Kit.",
+                    "Probabilistic Noninterference for Multi-Threaded Programs.",
+                    "Lorenz and Colossus.",
+                    "An Operational Semantics of Java 2 Access Control.",
+                    "Confidentiality for Mobile Code: The Case of a Simple Payment Protocol.",
+                    "Secure Introduction of One-Way Functions.",
+                    "How to Prevent Type Flaw Attacks on Security Protocols.",
+                    "Secure Composition of Untrusted Code: Wrappers and Causality Types."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1999",
+        "name": "12th CSFW 1999",
+        "info": "Mordano, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/1999",
+                "sub_name": "Proceedings of the 12th IEEE Computer Security Foundations Workshop, CSFW 1999, Mordano, Italy, June 28-30, 1999.",
+                "count": 19,
+                "papers": [
+                    "A Formal Framework and Evaluation Method for Network Denial of Service.",
+                    "I/O Automaton Models and Proofs for Shared-Key Communication Systems.",
+                    "Safe Simplifying Transformations for Security Protocols.",
+                    "Decision Procedures for the Analysis of Cryptographic Protocols by Logics of Belief.",
+                    "A Meta-Notation for Protocol Analysis.",
+                    "Mixed Strand Spaces.",
+                    "Honest Functions and their Application to the Analysis of Cryptographic Protocols.",
+                    "Formalization and Proof of Secrecy Properties.",
+                    "Authentication via Localized Names.",
+                    "A Logic for SDSI's Linked Local Name Spaces.",
+                    "Trusted System Construction.",
+                    "Secure Composition of Insecure Components.",
+                    "Security Function Interactions.",
+                    "A Logic-based Knowledge Representation for Authorization with Delegation.",
+                    "A Logical Framework for Reasoning on Data Access Control Policies.",
+                    "Athena: A New Efficient Automatic Checker for Security Protocol Analysis.",
+                    "CVS: A Compiler for the Analysis of Cryptographic Protocols.",
+                    "Process Algebra and Non-Interference.",
+                    "What Is Intransitive Noninterference?"
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1998",
+        "name": "11th CSFW 1998",
+        "info": "Rockport, Massachusetts, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/1998",
+                "sub_name": "Proceedings of the 11th IEEE Computer Security Foundations Workshop, Rockport, Massachusetts, USA, June 9-11, 1998.",
+                "count": 19,
+                "papers": [
+                    "Weakly Secret Bit Commitment: Applications to Lotteries and Fair Exchange.",
+                    "On the Structure of Delegation Networks.",
+                    "Two Facets of Authentication.",
+                    "Probabilistic Noninterference in a Concurrent Language.",
+                    "Partial Model Checking and Theorem Proving for Ensuring Security Properties.",
+                    "Formal Analysis of a Non-Repudiation Protocol.",
+                    "Honest Ideals on Strand Spaces.",
+                    "Panel Introduction: Varieties of Authentication.",
+                    "Proving Security Protocols with Model Checkers by Data Independence Techniques.",
+                    "Towards a Completeness Result for Model Checking of Security Protocols.",
+                    "Efficient Finite-State Analysis for Large Security Protocols.",
+                    "Composing Secure Systems that have Emergent Properties.",
+                    "Merging Security Policies: Analysis of a Practical Example.",
+                    "Evaluating and Improving Protocol Analysis by Automatic Proof.",
+                    "A Simple Logic for Authentication Protocol Design.",
+                    "Panel Introduction: The Security Impact of Distributed Computing Technologies.",
+                    "A Fair Locking Protocol for Multilevel Secure Databases.",
+                    "Data Level Inference Detection in Database Systems.",
+                    "Abstraction-Based Misuse Detection: High-Level Specifications and Adaptable Strategies."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1997",
+        "name": "10th CSFW 1997",
+        "info": "Rockport, Massachusetts, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/1997",
+                "sub_name": "10th Computer Security Foundations Workshop (CSFW '97), June 10-12, 1997, Rockport, Massachusetts, USA.",
+                "count": 19,
+                "papers": [
+                    "Verifying authentication protocols with CSP.",
+                    "Casper: A Compiler for the Analysis of Security Protocols.",
+                    "A Hierarchy of Authentication Specification.",
+                    "Provable Security for Cryptographic Protocols: Exact Analysis and Engineering Applications.",
+                    "Strategies against Replay Attacks.",
+                    "Proving Properties of Security Protocols by Induction.",
+                    "Mechanized proofs for a recursive authentication protocol.",
+                    "Languages for Formal Specification of Security Protocols.",
+                    "On SDSI's Linked Local Name Spaces.",
+                    "A Different Look at Secure Distributed Computation.",
+                    "Unreliable Intrusion Detection in Distributed Computations.",
+                    "An Efficient Non-repudiation Protocol .",
+                    "Towards the Formal Verification of Electronic Commerce Protocols.",
+                    "A Theory for System Security.",
+                    "Eliminating Covert Flows with Minimum Typings.",
+                    "The Computer Security Foundations Workshop: Ten Years on and Ten Years Ahead.",
+                    "A Logic For State Transformations in Authorization Policies.",
+                    "Separation of Duty in Role-based Environments.",
+                    "Security Engineering of Lattice-Based Policies."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1996",
+        "name": "9th CSFW 1996",
+        "info": "Dromquinna Manor, Kenmare, County Kerry, Ireland",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/1996",
+                "sub_name": "Ninth IEEE Computer Security Foundations Workshop, March 10 - 12, 1996, Dromquinna Manor, Kenmare, County Kerry, Ireland.",
+                "count": 20,
+                "papers": [
+                    "A Class of Flexible and Efficient Key Management Protocols.",
+                    "A High-Throughput Secure Reliable Multicast Protocol.",
+                    "An Immunological Approach to Change Detection: Theoretical Results.",
+                    "Intensional specifications of security protocols.",
+                    "Narrowing terminates for encryption.",
+                    "Language generation and verification in the NRL protocol analyzer.",
+                    "A HOL extension of GNY for automatically analyzing cryptographic protocols.",
+                    "E-Commerce Payment Protocols: Requirements and Analysis.",
+                    "A Logic of Composition for Information Flow Predicates.",
+                    "How and why feedback composition fails [secure systems].",
+                    "Action Systems for Security Specification.",
+                    "Comparing Two Information Flow Security Properties.",
+                    "Specifying a security policy: a case study.",
+                    "A Formal Model for Role-Based Access Control with Constraints.",
+                    "The non-primitiveness of the simple-security property and its non-applicability to relational databases.",
+                    "A Genealogy of Non-Interference.",
+                    "Some new attacks upon security protocols.",
+                    "Simmons' protocol is not free of subliminal channels.",
+                    "Towards a model of storage jamming.",
+                    "What is an Attack on a Cryptographic Protocal?"
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1995",
+        "name": "8th CSFW 1995",
+        "info": "Dromquinna Manor, Kenmare, County Kerry, Ireland",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/1995",
+                "sub_name": "The Eighth IEEE Computer Security Foundations Workshop (CSFW '95), March 13-15, 1995, Kenmare, County Kerry, Ireland.",
+                "count": 16,
+                "papers": [
+                    "The composability of non-interference [system security].",
+                    "Composing and decomposing systems under security properties.",
+                    "Algebraic properties of system composition in the LORAL, Ulysses and McLean trace models.",
+                    "Optimal authentication protocols resistant to password guessing attacks.",
+                    "Key distribution without individual trusted authentification servers.",
+                    "Towards a classification of key agreement protocols.",
+                    "An augmentation of BAN-like logics.",
+                    "The security checker: a semantics-based tool for the verification of security properties.",
+                    "Implementation of a discretionary access control model for script-based systems.",
+                    "Building higher resolution synthetic clocks for signaling in covert timing channels.",
+                    "Modelling and verifying key-exchange protocols using CSP and FDR.",
+                    "Using temporal logic to specify and verify cryptographic protocols.",
+                    "Concurrency control for federated multilevel secure database systems.",
+                    "Specifying security for CSCW systems.",
+                    "The epistemic representation of information flow security in probabilistic systems.",
+                    "Connection policies and controlled interference."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1994",
+        "name": "7th CSFW 1994",
+        "info": "Franconia, New Hampshire, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/1994",
+                "sub_name": "Seventh IEEE Computer Security Foundations Workshop - CSFW'94, Franconia, New Hampshire, USA, June 14-16, 1994, Proceedings.",
+                "count": 19,
+                "papers": [
+                    "Unwinding Forward Correctability.",
+                    "A State-Based Approach to Non-Interference.",
+                    "Combining Components and Policies.",
+                    "Formal Methods for the Informal World.",
+                    "Formal Semantics of Rights and Confidentiality in Definite Deductive Databases.",
+                    "Confidentiality in a Replicated Architecture Trusted Database System: A Formal Model.",
+                    "Conceptual Foundations for a Model of Task-based Authorizations.",
+                    "A Model of Computation for the NRL Protocol Analyzer.",
+                    "AUTLOG - An Advanced Logic of Authentication.",
+                    "Nonmonotonic Cryptographic Protocols.",
+                    "Formal Specification of Information Flow Security Policies and Their Enforcement in Security Critical Systems.",
+                    "A Taxonomy of Security Properties for CCS.",
+                    "One-Representative Safety Analysis in the Non-Monotonic Transform Model.",
+                    "Reasoning about Confidentiality Requirements.",
+                    "Redrawing the Security Perimeter of a Trusted System.",
+                    "Panel: Reconsidering the Role fo the Reference Monitor.",
+                    "Development of Authentication Protocols: Some Misconceptions and a New Approach.",
+                    "A Taxonomy of Replay Attacks.",
+                    "Cryptographic Protocols Flaws."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1993",
+        "name": "6th CSFW 1993",
+        "info": "Franconia, New Hampshire, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/1993",
+                "sub_name": "6th IEEE Computer Security Foundations Workshop - CSFW'93, Franconia, New Hampshire, USA, June 15-17, 1993, Proceedings.",
+                "count": 15,
+                "papers": [
+                    "On Analyzing the Bus-Contention Channel Under Fuzzy Time.",
+                    "The Concurrency Control and Recovery Problem for Multilevel Update Transactions in MLS System.",
+                    "Modeling Restrictive Processes that Involve Blocking Requests.",
+                    "Information Flow Control in a Parallel Language Framework.",
+                    "A Logical Formalization of Secrecy.",
+                    "A Lattice of Information.",
+                    "Automated Support for External Consistency.",
+                    "Panel: What are the Foundations of Computer Security?",
+                    "A Petri Net Representation of the Take-Grant Model.",
+                    "On Testing for Absence of Rights in Access Control Models.",
+                    "Invited talk: An Introductions to the Mathematics of Trust in Security Protocols.",
+                    "A Variation on the Themes of Message Freshness and Replay or, the Difficulty in Devising Formal Methods to Analyze Cryptographic Protocols.",
+                    "Abstract Machines for Communication Security.",
+                    "Towards Formal Analysis of Security Protocols.",
+                    "Panel: Cryptographic Protocol Models and Requirements."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1992",
+        "name": "5th CSFW 1992",
+        "info": "Franconia, New Hampshire, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/1992",
+                "sub_name": "5th IEEE Computer Security Foundations Workshop - CSFW'92, Franconia, New Hampshire, USA, June 16-18, 1992, Proceedings.",
+                "count": 18,
+                "papers": [
+                    "A classical Automata Approach to Noninterference Type Problems.",
+                    "Unwinding and the LOCK Proof Referees Study.",
+                    "Some Laws of Non-Interference.",
+                    "An Algebraic Approach to Non-Interference.",
+                    "Panel: Fundamental Questions about Formal Methods.",
+                    "Causal Security.",
+                    "Secure Dependencies with Dynamic Level Assignments.",
+                    "Inference Working Group Kickoff: The Inference Problem for Computer Security.",
+                    "Partial Belief and Probabilistic Reasoning in the Analysis of Secure Protocols.",
+                    "An Analysis of some Delegation Protocols for Distributed Systems.",
+                    "Panel: Use of Formal Methods in the Analysis of Cryptographic Protocols.",
+                    "Foundations of Intrusion Detection.",
+                    "On Requirements and Security in a CCIS.",
+                    "A Non-monotonic Typed Multilevel Logic for Multilevel Secure Data/Knowledge - II.",
+                    "The Expressive Power of Multi-Parent Creation in a Monotonic Access Control Model.",
+                    "A Framework for Composition of Security Models.",
+                    "Realization of the Bell-LaPadula Security Policy in an OSI-Distributed System using Asymmetric and Symmetric Cryptographic Algorithms.",
+                    "Attribute Support for Inter-Domain Use."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1991",
+        "name": "4th CSFW 1991",
+        "info": "Franconia, New Hampshire, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/1991",
+                "sub_name": "4th IEEE Computer Security Foundations Workshop - CSFW'91, Franconia, New Hampshire, USA, June 18-20, 1991, Proceedings.",
+                "count": 30,
+                "papers": [
+                    "A Definition of Secure Dependencies Using the Logic of Security.",
+                    "Quantitative Evaluation of Confidentiality by Entropy Calculation.",
+                    "Multiple Trojan Horse Systems and Covert Channel Analysis.",
+                    "On the Refinement of Non-Interference.",
+                    "A Comparison of non-Interference and Non-Deducibility using CSP.",
+                    "On Information Flow Security Models.",
+                    "Towards a Theory of Penetration-Resistant Systems and its Applications.",
+                    "Separation of Duty using High Water Marks.",
+                    "The Basic Integrity Theorem.",
+                    "Handling Infeasible Specifications fo Cryptographic Protocols.",
+                    "On Belief Evolution in Authentication Protocols.",
+                    "Abductive and Approximate Reasoning Models for Characterizing Inference Channels.",
+                    "A Nonmonotonic Typed Multilevel Logic for Multilevel Secure Database/Knowledge-Based Management Systems.",
+                    "A Secure Kernelized Architecture for Multiple Object-Oriented Databases.",
+                    "Hook-Up Property of Information Flow Secure Nets.",
+                    "A Proof of Secrecy for a Network Security Model.",
+                    "Implicit Discretionary Access Propagation: A new Interpretation of DAC.",
+                    "A Formal Model of Security Dependency for Analysis and Testing of Secure Systems.",
+                    "Analysis of a Storage Channel in the Two-Phase Commit Protocol.",
+                    "Protection against Covert Storage and Timing Channels.",
+                    "Toward a Universal Integrity Model.",
+                    "Logics for Cryptographic Protocols - Virtues and Limitations.",
+                    "The NRL Protocol Analysis Tool: A Position Paper.",
+                    "The Value of Semantics for the Analysis of Cryptographic Protocols.",
+                    "Complexity Theoretic Analysis of Crypto-Protcols - Overview.",
+                    "Panel Discussion on the Polyinstantiation Problem: An Introduction.",
+                    "Panel Discussion on the Polyinstantiation Problem: A Position Paper.",
+                    "Polyinstantiation: An Inevitable Part of a Multilevel World.",
+                    "The LDV Approach to Polyinstantiation.",
+                    "The Conflict Between Confidentiality and Integrity."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1990",
+        "name": "3rd CSFW 1990",
+        "info": "Franconia, New Hampshire, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/1990",
+                "sub_name": "Third IEEE Computer Security Foundations Workshop - CSFW'90, Franconia, New Hampshire, USA, June 12-14, 1990, Proceedings.",
+                "count": 17,
+                "papers": [
+                    "A Logic for Reasoning about Security.",
+                    "A Logic of Communication in Hostile Environments.",
+                    "Representing Partial Knowledge in an Algebraic Security Model.",
+                    "Formal Semantics for Logics of Cryptographic Protocols.",
+                    "Categorizing non-interference.",
+                    "Petri Net Based Modelling of Information Flow Security Requirements.",
+                    "Secure Information Flow Using Security Groups.",
+                    "Quotient States and Probabilistic Channels.",
+                    "Hookup Security for Synchronous Machines.",
+                    "Security Models for Priority Buffering and Interrupt Handling.",
+                    "Formal Modeling in a Generalized Framework for Access Control.",
+                    "A Policy Model for Denial of Service.",
+                    "Providing a Flexible Security Override for Trusted Systems.",
+                    "Information Sharing in Secure Systems.",
+                    "Information-Flow Analysis for Covert-Channel Identification in Multilevel Secure Operating Systems.",
+                    "A Formal Framework for Single Level Decomposition of Multilevel Relations.",
+                    "A New Polyinstantiation Integrity Constraint for Multilevel Relations."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1989",
+        "name": "2nd CSFW 1989",
+        "info": "Franconia, New Hampshire, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/1989",
+                "sub_name": "Second IEEE Computer Security Foundations Workshop - CSFW'89, Franconia, New Hampshire, USA, June 11-14, 1989, Proceedings.",
+                "count": 15,
+                "papers": [
+                    "Deducibility Security with Dynamic Level Assignment.",
+                    "Security Properties Consistent with the Testing Semantics for Communicating Processes.",
+                    "Noninterference and the Unwinding for LOCK.",
+                    "Formal Policies for Trusted Processes.",
+                    "Security Properties of Ring Brackets.",
+                    "Specifying Security Constraints with Relaxation Lattices.",
+                    "A Logic of Knowledge and Belief for Reasoning about Computer Security.",
+                    "Obligation as the Basis of Integrity Specification.",
+                    "Safety via State Transition Language Plus Invariants.",
+                    "Finite-State Noiseless Covert Channels.",
+                    "Controlled Signalling Systems and Covert Channels.",
+                    "An Optimization for Information Flow Analysis.",
+                    "Achieving Understandable Results in a Formal Design Verification.",
+                    "The Sea View Verification.",
+                    "Implementing a Verification Methodology for McCullough Security."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1988",
+        "name": "1st CSFW 1988",
+        "info": "Franconia, New Hampshire, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/csfw/1988",
+                "sub_name": "First IEEE Computer Security Foundations Workshop - CSFW'88, Franconia, New Hampshire, USA, June 12-15, 1988, Proceedings.",
+                "count": 16,
+                "papers": [
+                    "Covert Channels and Degrees of Insecurity.",
+                    "What Needs Securing.",
+                    "Quantitative Formal Security Analysis.",
+                    "Security and the Composition of Machines.",
+                    "An Approach to Increasing the Automation of the Verification of Security.",
+                    "A Security Framework.",
+                    "Relating Bell-LaPadula-Style Security Models to Information Models.",
+                    "A Model-Theoretic Approach to Specifying, Verifying and Hooking Up Security Policies.",
+                    "Reasoning about Knowledge and Permission in Secure Distributed Systems.",
+                    "A Formal Definition for Information Flow in the Gypsy Expression Language.",
+                    "A General Approach to Tranquility in Information Flow Analysis.",
+                    "Derived Information Sensitivity as a Modelling Technique.",
+                    "Expressive Power of the Schematic Protection Model.",
+                    "Theft of Information in the Take-Grant Protection Model.",
+                    "Command Authorization as a Component of Information Integrity.",
+                    "Access Control Policies: Some Unanswered Questions."
+                ]
+            }
+        ]
+    }
+]
