@@ -1,0 +1,884 @@
+[
+    {
+        "year": "2021",
+        "name": "31st NOSSDAV 2021",
+        "info": "Istanbul, Turkey",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nossdav/2021",
+                "sub_name": "Proceedings of the 31st ACM Workshop on Network and Operating Systems Support for Digital Audio and Video, NOSSDAV 2021, Istanbul, Turkey, 28 September 2021 - 1 October, 2021.",
+                "count": 15,
+                "papers": [
+                    "Vibra: neural adaptive streaming of VBR-encoded videos.",
+                    "Data diet pills: in-network video quality control system for traffic usage reduction.",
+                    "Uncertainty-aware robust adaptive video streaming with bayesian neural network and model predictive control.",
+                    "Common media client data (CMCD): initial findings.",
+                    "PAAS: a preference-aware deep reinforcement learning approach for 360\u00b0 video streaming.",
+                    "Multi-resolution quality-based video coding system for DASH scenarios.",
+                    "ES-HAS: an edge- and SDN-assisted framework for HTTP adaptive video streaming.",
+                    "360NorVic: 360-degree video classification from mobile encrypted video traffic.",
+                    "Deep reinforced bitrate ladders for adaptive video streaming.",
+                    "Higher quality live streaming under lower uplink bandwidth: an approach of super-resolution based video coding.",
+                    "Understanding quality of experience of heuristic-based HTTP adaptive bitrate algorithms.",
+                    "CrowdSR: enabling high-quality video ingest in crowdsourced livecast via super-resolution.",
+                    "Dynamic 3D point cloud streaming: distortion and concealment.",
+                    "Wifi-VLC dual connectivity streaming system for 6DOF multi-user virtual reality.",
+                    "Viewport-aware dynamic 360\u00b0 video segment categorization."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "name": "30th NOSSDAV 2020",
+        "info": "Istanbul, Turkey",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nossdav/2020",
+                "sub_name": "Proceedings of the 30th ACM Workshop on Network and Operating Systems Support for Digital Audio and Video, NOSSDAV 2020, Istanbul, Turkey, June 10-11, 2020.",
+                "count": 10,
+                "papers": [
+                    "SR360: boosting 360-degree video streaming with super-resolution.",
+                    "Self-play reinforcement learning for video transmission.",
+                    "FALCON: joint fair airtime allocation and rate control for DASH video streaming in software defined wireless networks.",
+                    "Evaluation of CMAF in live streaming scenarios.",
+                    "Low-latency cloud-based volumetric video streaming using head motion prediction.",
+                    "Viewport prediction for 360\u00b0 videos: a clustering approach.",
+                    "Sensing multimedia contexts on mobile devices.",
+                    "PC-MCU: point cloud multipoint control unit for multi-user holoconferencing systems.",
+                    "LiveClip: towards intelligent mobile short-form video streaming with deep reinforcement learning.",
+                    "What you see is what you get: measure ABR video streaming QoE via on-device screen recording."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "29th NOSSDAV 2019",
+        "info": "Amherst, MA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nossdav/2019",
+                "sub_name": "Proceedings of the 29th ACM Workshop on Network and Operating Systems Support for Digital Audio and Video, NOSSDAV 2019, Amherst, MA, USA, June 21, 2019.",
+                "count": 12,
+                "papers": [
+                    "Client-server cooperative and fair DASH video streaming.",
+                    "Bandwidth prediction in low-latency chunked streaming.",
+                    "Transitions of viewport quality adaptation mechanisms in 360 degree video streaming.",
+                    "Motion-constrained tile set based 360-degree video streaming using saliency map prediction.",
+                    "Supporting untethered multi-user VR over enterprise wi-fi.",
+                    "Steward: smart edge based joint QoE optimization for adaptive video streaming.",
+                    "A new adaptation lever in 360\u00b0 video streaming.",
+                    "TAMF: towards personalized time-aware recommendation for over-the-top videos.",
+                    "A measurement study of YouTube 360\u00b0 live video streaming.",
+                    "Enhancing the crowdsourced live streaming: a deep reinforcement learning approach.",
+                    "Video processing with serverless computing: a measurement study.",
+                    "Rendering multi-party mobile augmented reality from edge."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "28th NOSSDAV 2018",
+        "info": "Amsterdam, The Netherlands",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nossdav/2018",
+                "sub_name": "Proceedings of the 28th ACM SIGMM Workshop on Network and Operating Systems Support for Digital Audio and Video, NOSSDAV 2018, Amsterdam, Netherlands, June 12-15, 2018.",
+                "count": 12,
+                "papers": [
+                    "TiCMP: A lightweight and efficient Tiled Cubemap projection strategy for Immersive Videos in Web-based players.",
+                    "QoE-Aware Video Storage Power Management Based on Hot and Cold Data Classification.",
+                    "Delay-Constrained Rate Control for Real-Time Video Streaming with Bounded Neural Network.",
+                    "Silhouette: Identifying YouTube Video Flows from Encrypted Traffic.",
+                    "Understanding Gaming Experience in Mobile Multiplayer Online Battle Arena Games.",
+                    "Layer-Assisted Adaptive Video Streaming.",
+                    "Competitive Analysis of Data Sponsoring and Edge Caching for Mobile Video Streaming.",
+                    "Cross-Layer Effects on Training Neural Algorithms for Video Streaming.",
+                    "Incorporating Prediction into Adaptive Streaming Algorithms: A QoE Perspective.",
+                    "A simple yet effective network-assisted signal for enhanced DASH quality of experience.",
+                    "Implementing Motion-Constrained Tile and Viewport Extraction for VR Streaming.",
+                    "SEWS: A Channel-Aware Stall-Free WiFi Video Streaming Mechanism."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "27th NOSSDAV 2017",
+        "info": "Taipei, Taiwan",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nossdav/2017",
+                "sub_name": "Proceedings of the 27th Workshop on Network and Operating Systems Support for Digital Audio and Video, NOSSDAV 2017, Taipei, Taiwan, June 20-23, 2017.",
+                "count": 15,
+                "papers": [
+                    "A Comparative Case Study of HTTP Adaptive Streaming Algorithms in Mobile Networks.",
+                    "Performance considerations of HTML5-based dynamic packaging for media streaming.",
+                    "Not so QUIC: A Performance Study of DASH over QUIC.",
+                    "Candid with YouTube: Adaptive Streaming Behavior and Implications on Data Consumption.",
+                    "Seeker: Topic-Aware Viewing Pattern Prediction in Crowdsourced Interactive Live Streaming.",
+                    "Unveiling Latent Behaviors of Video Viewers with Cross-Platform Information.",
+                    "Context-aware Video Recommendation by Mining Users' View Preferences Based on Access Points.",
+                    "Characterizing User Behaviors in Mobile Personal Livecast.",
+                    "Analysis of User Behavior in a Large-Scale VoD System.",
+                    "Power Evaluation of 360 VR Video Streaming on Head Mounted Display Devices.",
+                    "Spatio-Temporal Activity based Tiling for Panorama Streaming.",
+                    "Fixation Prediction for 360\u00b0 Video Streaming in Head-Mounted Virtual Reality.",
+                    "Improving Video Quality in Crowded Networks Using a DANE.",
+                    "Delivery of Live Watermarked Video in CDN: Fast and Scalable Algorithms.",
+                    "A System Model For Frameless Asynchronous High Dynamic Range Sensors."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "26th NOSSDAV 2016",
+        "info": "Klagenfurt, Austria",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nossdav/2016",
+                "sub_name": "Proceedings of the 26th International Workshop on Network and Operating Systems Support for Digital Audio and Video, NOSSDAV 2016, Klagenfurt, Austria, May 13, 2016.",
+                "count": 10,
+                "papers": [
+                    "Towards hybrid cloud-assisted crowdsourced live streaming: measurement and analysis.",
+                    "Distributed wireless video caching placement for dynamic adaptive streaming.",
+                    "Evaluating and improving push based video streaming with HTTP/2.",
+                    "A comparative study of DASH representation sets using real user characteristics.",
+                    "TCP goes to hollywood.",
+                    "Efficient coordination of web services in large-scale multimedia systems.",
+                    "Understanding content placement strategies in smartrouter-based peer video CDN.",
+                    "Step response metric for video encoder rate control characterisation.",
+                    "Impact of duration on active video testing.",
+                    "Device lending in PCI express networks."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "25th NOSSDAV 2015",
+        "info": "Portland, OR, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nossdav/2015",
+                "sub_name": "Proceedings of the 25th ACM Workshop on Network and Operating Systems Support for Digital Audio and Video, NOSSDAV 2015, Portland, OR, USA, March 20, 2015.",
+                "count": 12,
+                "papers": [
+                    "Content-adaptive display power saving in internet mobile streaming.",
+                    "Exploitation of producer intent in relation to bandwidth and QoE for online video streaming services.",
+                    "When on-the-fly erasure code makes late video decoding happen.",
+                    "Last N: relevance-based selectivity for forwarding video in multimedia conferences.",
+                    "DASH fast start using HTTP/2.",
+                    "A fuzzy-based rate adaptation controller for DASH.",
+                    "VAS: a video adaptation service to support mobile video.",
+                    "Thunder crystal: a novel crowdsourcing-based content distribution platform.",
+                    "A logical memory model for scaling parallel multimedia workloads.",
+                    "On crowdsourced interactive live streaming: a Twitch.tv-based measurement study.",
+                    "Towards bridging online game playing and live broadcasting: design and optimization.",
+                    "A taxonomy for player actions with latency in network games."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "24th NOSSDAV 2014",
+        "info": "Singapore",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nossdav/2014",
+                "sub_name": "Proceedings of the 24th ACM Workshop on Network and Operating Systems Support for Digital Audio and Video, NOSSDAV 2014, Singapore, March 19-20, 2014.",
+                "count": 18,
+                "papers": [
+                    "Fake View Analytics in Online Video Services.",
+                    "Matchmaking in multi-player on-line games: studying user traces to improve the user experience.",
+                    "Characterization of Human Mobility in Networked Virtual Environments.",
+                    "Interactive Zoom and Panning from Live Panoramic Video.",
+                    "Mixing Tile Resolutions in Tiled Video: A Perceptual Quality Assessment.",
+                    "Caching in HTTP Adaptive Streaming: Friend or Foe?",
+                    "Low Latency Live Video Streaming over HTTP 2.0.",
+                    "Server Selection and Topology Control for Multi-Party Video Conferences.",
+                    "On the Feasibility of DASH Streaming in the Cloud.",
+                    "A DASH-based Free Viewpoint Video Streaming System.",
+                    "Improving caching efficiency and quality of experience with CF-Dash.",
+                    "Performance Evaluation of Congestion Window Validation for DASH Transport.",
+                    "Insight Data of YouTube from a Partner's View.",
+                    "An Empirical Study of Video Messaging Services on Smartphones.",
+                    "Understand Instant Video Clip Sharing on Mobile Platforms: Twitter's Vine as a Case Study.",
+                    "CPU Power Management in Video Transcoding Servers.",
+                    "Fine-grained CUDA-based Parallel Intra Prediction for H.264/AVC.",
+                    "Complexity Aware Encoding of the Motion Compensation Process of the H.264/AVC Video Coding Standard."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "23rd NOSSDAV 2013",
+        "info": "Oslo, Norway",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nossdav/2013",
+                "sub_name": "Proceeding of the 23rd ACM Workshop on Network and Operating Systems Support for Digital Audio and Video, NOSSDAV 1013, Oslo, Norway, February 27, 2013.",
+                "count": 10,
+                "papers": [
+                    "Data prefetching to reduce energy use by heterogeneous disk arrays in video servers.",
+                    "Game as video: bit rate reduction through adaptive object encoding.",
+                    "TCP receive buffer aware wireless multimedia streaming: an energy efficient approach.",
+                    "Server-based traffic shaping for stabilizing oscillating adaptive streaming players.",
+                    "Continuous one-way available bandwidth change detection in high definition video conferencing.",
+                    "What should you cache?: a global analysis on YouTube related video caching.",
+                    "User-centric video delay measurements.",
+                    "Addressing the semantic gap between video sensors and applications.",
+                    "Dynamic resource allocation for cloud-based media processing.",
+                    "Controlling the transfer of Kinect data to a cloud-hosted games platform."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "22nd NOSSDAV 2012",
+        "info": "Toronto, ON, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nossdav/2012",
+                "sub_name": "Network and Operating System Support for Digital Audio and Video Workshop, NOSSDAV '12, Toronto, ON, Canada, June 7-8, 2012.",
+                "count": 19,
+                "papers": [
+                    "TV everywhere.",
+                    "Why are state-of-the-art flash-based multi-tiered storage systems performing poorly for HTTP video streaming?",
+                    "What happens when HTTP adaptive streaming players compete for bandwidth?",
+                    "To chunk or not to chunk: implications for HTTP streaming video server performance.",
+                    "Interactions between HTTP adaptive streaming and TCP.",
+                    "Quiver: a middleware for distributed gaming.",
+                    "Cloud transcoder: bridging the format and resolution gap between internet videos and mobile devices.",
+                    "A content replication scheme for wireless mesh networks.",
+                    "Evaluation of distribution of panoramic video sequences in the eXplorative television project.",
+                    "Collaborative view synthesis for interactive multi-view video streaming.",
+                    "Streaming media evolution: where to now?",
+                    "On tile assignment for region-of-interest video streaming in a wireless LAN.",
+                    "Minimizing server throughput for low-delay live streaming in content delivery networks.",
+                    "SmartTransfer: transferring your mobile multimedia contents at the \"right\" time.",
+                    "Content and geographical locality in user-generated content sharing systems.",
+                    "Video sharing in online social networks: measurement and analysis.",
+                    "Sensor-assisted camera motion analysis and motion estimation improvement for H.264/AVC video encoding.",
+                    "CAME: cloud-assisted motion estimation for mobile video compression and transmission.",
+                    "Understanding the impact of inter-lens and temporal stereoscopic video compression."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "21st NOSSDAV 2011",
+        "info": "Vancouver, BC, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nossdav/2011",
+                "sub_name": "Network and Operating System Support for Digital Audio and Video, 21st International Workshop, NOSSDAV 2011, Vancouver, BC, Canada, June 1-3, 2011, Proceedings.",
+                "count": 22,
+                "papers": [
+                    "Intro to WebM.",
+                    "LAN-awareness: improved P2P live streaming.",
+                    "In-network adaptation of H.264/SVC for HD video streaming over 802.11g networks.",
+                    "Media-aware networking for SVC-based P2P streaming.",
+                    "Mobile video streaming using location-based network prediction and transparent handover.",
+                    "The impact of inter-layer network coding on the relative performance of MRC/MDC WiFi media delivery.",
+                    "A measurement study of resource utilization in internet mobile streaming.",
+                    "Understanding demand volatility in large VoD systems.",
+                    "Sharing social content from home: a measurement-driven feasibility study.",
+                    "Load-balanced migration of social media to content clouds.",
+                    "Improving HTTP performance using \"stateless\" TCP.",
+                    "A DTN mode for reliable internet telephony.",
+                    "Inferring the time-zones of prefixes and autonomous systems by monitoring game server discovery traffic.",
+                    "GPU-based fast motion estimation for on-the-fly encoding of computer-generated video streams.",
+                    "SAS kernel: streaming as a service kernel for correlated multi-streaming.",
+                    "Managing home and network storage of television recordings: \"I filled my DVR again! Now what?\".",
+                    "Moving beyond the framebuffer.",
+                    "Systems support for stereoscopic video compression.",
+                    "Accurate and low-delay seeking within and across mash-ups of highly-compressed videos.",
+                    "Scalable video transmission: packet loss induced distortion modeling and estimation.",
+                    "Energy-efficient video streaming from high-speed trains.",
+                    "Celerity: towards low-delay multi-party conferencing over arbitrary network topologies."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "20th NOSSDAV 2010",
+        "info": "Amsterdam, The Netherlands",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nossdav/2010",
+                "sub_name": "Network and Operating System Support for Digital Audio and Video, 20th International Workshop, NOSSDAV 2010, Amsterdam, The Netherlands, June 2-4, 2010, Proceedings.",
+                "count": 22,
+                "papers": [
+                    "Active 4d tele-vision.",
+                    "Second life in-world action traffic modeling.",
+                    "Second life: a social network of humans and bots.",
+                    "Tweeting videos: coordinate live streaming and storage sharing.",
+                    "Quality-adaptive scheduling for live streaming over multiple access networks.",
+                    "Mesh-based peer-to-peer layered video streaming with taxation.",
+                    "Reducing data request contentions for improved streaming quality.",
+                    "TSync: a new synchronization framework for multi-site 3D tele-immersion.",
+                    "Video indexed VM continuous checkpoints: time travel support for virtual 3d graphics applications.",
+                    "TriggerTV: exploiting social user journeys within an interactive TV system.",
+                    "A new QoE model and evaluation method for broadcast audio contribution over IP.",
+                    "Randomised pair comparison: an economic and robust method for audiovisual quality assessment.",
+                    "Towards understanding the external links of video sharing sites: measurement and analysis.",
+                    "Tips, tricks and troubles: optimizing for cell and GPU.",
+                    "p264: open platform for designing parallel H.264/AVC video encoders on multi-core systems.",
+                    "RTP-miner: a real-time security framework for RTP fuzzing attacks.",
+                    "Designing a tit-for-tat based peer-to-peer video-on-demand system.",
+                    "Request generation for a peer-based PVR.",
+                    "Collaborative delay-aware scheduling in peer-to-peer UGC video sharing.",
+                    "Performance analysis of home streaming video using Orb.",
+                    "Wireless network interface energy conservation for bottlenecked first mile networks.",
+                    "Towards understanding user tolerance to network latency and data rate in remote viewing of progressive meshes."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "19th NOSSDAV 2009",
+        "info": "Williamsburg, Virginia, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nossdav/2009",
+                "sub_name": "Network and Operating System Support for Digital Audio and Video, 19th International Workshop, NOSSDAV 2009, Williamsburg, VA, USA. June 3-5, 2009, Proceedings.",
+                "count": 22,
+                "papers": [
+                    "Dynamic overlay multicast in 3D video collaborative systems.",
+                    "Web 2.0 traffic measurement: analysis on online map applications.",
+                    "Peer-assisted online storage and distribution: modeling and server strategies.",
+                    "InstantLeap: fast neighbor discovery in P2P VoD streaming.",
+                    "Overlay monitoring and repair in swarm-based peer-to-peer streaming.",
+                    "Adaptive overlay topology for mesh-based P2P-TV systems.",
+                    "Random network coding on the iPhone: fact or fiction?",
+                    "SLIPstream: scalable low-latency interactive perception on streaming data.",
+                    "Server-efficient high-definition media dissemination.",
+                    "Power efficient real-time disk scheduling.",
+                    "A delaunay triangulation architecture supporting churn and user mobility in MMVEs.",
+                    "Probabilistic event resolution with the pairwise random protocol.",
+                    "Cross-tree adjustment for spatialized audio streaming over networked virtual environments.",
+                    "End-to-end secure delivery of scalable video streams.",
+                    "Secure multimedia content delivery with multiparty multilevel DRM architecture.",
+                    "Rapid identification of Skype traffic flows.",
+                    "An empirical evaluation of VoIP playout buffer dimensioning in Skype, Google talk, and MSN Messenger.",
+                    "Fine-grained scalable streaming from coarse-grained videos.",
+                    "Estimate and serve: scheduling soft real-time packets for delay sensitive media applications on the internet.",
+                    "Zebroid: using IPTV data to support peer-assisted VoD content delivery.",
+                    "Robust live media streaming in swarms.",
+                    "Providing statistically guaranteed streaming quality for peer-to-peer live streaming."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "18th NOSSDAV 2008",
+        "info": "Braunschweig, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nossdav/2008",
+                "sub_name": "Network and Operating System Support for Digital Audio and Video, 18th International Workshop, NOSSDAV 2008, Braunschweig, Germany, May 28-30, 2008, Proceedings.",
+                "count": 29,
+                "papers": [
+                    "Optimising online FPS game server discovery through clustering servers by origin autonomous system.",
+                    "Receiver-driven view-dependent streaming of progressive mesh.",
+                    "Selection strategies for peer-to-peer 3D streaming.",
+                    "Remote active queue management.",
+                    "Group unicast for the real world.",
+                    "Evaluation of multi-core scheduling mechanisms for heterogeneous processing architectures.",
+                    "Analyzing video services in Web 2.0: a global perspective.",
+                    "Decoding-workload-aware video encoding.",
+                    "On developing tangible interfaces for video streaming control: a real case study.",
+                    "Performance evaluation of video streaming in multihop wireless mesh networks.",
+                    "An H.264/SVC-based adaptation proxy on a WiFi router.",
+                    "Traffic analysis of avatars in Second Life.",
+                    "Understanding hybrid CDN-P2P: why limelight needs its own Red Swoosh.",
+                    "Skype video responsiveness to bandwidth variations.",
+                    "Modeling and evaluation of overlay generation problem for peer-assisted video adaptation and streaming.",
+                    "A framework for lazy replication in P2P VoD.",
+                    "Load balancing for multimedia streaming in heterogeneous peer-to-peer systems.",
+                    "A demo for affinity based content delivery architectures.",
+                    "A mechanism for presentation-layer media continuity in media playback mode.",
+                    "A multi-agent-based toolkit for multimedia-oriented collaboration environments.",
+                    "Adaptive video streaming for mobile clients.",
+                    "Fast and flexible video content browsing based on H.264/AVC features.",
+                    "IMS advanced media delivery.",
+                    "iTVP: platform for digital audio and video delivery over broadband IP networks.",
+                    "MPEG analyzer a tool for visualizing MPEG encoding characteristics.",
+                    "Peer-to-peer infrastructures for games.",
+                    "QoS adaptation in streaming 3D graphics for FAIRVIEW.",
+                    "TCP enhancements for interactive thin-stream applications.",
+                    "Transparent protocol translation and load balancing on a network processor in a media streaming scenario."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "17th NOSSDAV 2007",
+        "info": "Urbana-Champaign, Illinois, USA",
+        "venues": []
+    },
+    {
+        "year": "2006",
+        "name": "16th NOSSDAV 2006",
+        "info": "Newport, Rhode Island, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nossdav/2006",
+                "sub_name": "Network and Operating System Support for Digital Audio and Video, 16th International Workshop, NOSSDAV 2006, Newport, Rhode Island, USA, November 22-23, 2006, Proceedings.",
+                "count": 23,
+                "papers": [
+                    "The fun of using TCP for an MMORPG.",
+                    "Assigning game server roles in mobile ad-hoc networks.",
+                    "A platform for dynamic microcell redeployment in massively multiplayer online games.",
+                    "Evaluating dead reckoning variations with a multi-player game simulator.",
+                    "FGS-MR: MPEG4 fine grained scalable multi-resolution layered video encoding.",
+                    "AMTrac: adaptive meta-caching for transcoding.",
+                    "On combining temporal scaling and quality scaling for streaming MPEG.",
+                    "Multi-hop buffering and adaptation for video-based sensor networking applications.",
+                    "NSYNC: network synchronization for peer-to-peer streaming overlay construction.",
+                    "Understanding mesh-based peer-to-peer streaming.",
+                    "Intra-stream encoding for multiple depth streams.",
+                    "Design and evaluation of a 3D video system based on H.264 view coding.",
+                    "Optimistic load balancing in a distributed virtual environment.",
+                    "A multi-stream adaptation framework for bandwidth management in 3D tele-immersion.",
+                    "A hybrid thin-client protocol for multimedia streaming and interactive gaming applications.",
+                    "Redundancy-controllable adaptive retransmission timeout estimation for packet video.",
+                    "Optimizing overlay topology by reducing cut vertices.",
+                    "GONE: an infrastructure overlay for resilient, DoS-limiting networking.",
+                    "Revisiting multimedia streaming in mobile ad hoc networks.",
+                    "Off-line economies for digital media.",
+                    "Video authentication for H.264/AVC using digital signature standard and secure hash algorithm.",
+                    "Harmonic placement: file system support for scalable streaming of layer encoded object.",
+                    "AC/DC: an algorithm for cheating detection by cheating."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "15th NOSSDAV 2005",
+        "info": "Stevenson, Washington, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nossdav/2005",
+                "sub_name": "Network and Operating System Support for Digital Audio and Video, 15th International Workshop, NOSSDAV 2005, Stevenson, Washington, USA, June 13-14, 2005, Proceedings.",
+                "count": 34,
+                "papers": [
+                    "Supporting P2P gaming when players have heterogeneous resources.",
+                    "Mitigating information exposure to cheaters in real-time strategy games.",
+                    "A traffic model for the Xbox game Halo 2.",
+                    "Game traffic analysis: an MMORPG perspective.",
+                    "Multimedia systems research: a retrospective OR whatever happened to all that QoS research?",
+                    "ACE: an active, client-directed method for reducing energy during web browsing.",
+                    "Weather forecasting: predicting performance for streaming video over wireless LANs.",
+                    "Power-efficient streaming for mobile terminals.",
+                    "Multi-context voice communication in a SIP/SIMPLE-based shared virtual sound room with early reflections.",
+                    "1-800-OVERLAYS: using overlay networks to improve VoIP quality.",
+                    "A formal approach to design optimized multimedia service overlay.",
+                    "Peer-to-peer internet telephony using SIP.",
+                    "A novel encryption algorithm for high resolution video.",
+                    "Context-aware metadata creation in a heterogeneous mobile environment.",
+                    "RETAVIC: using meta-data for real-time video encoding in multimedia servers.",
+                    "Using n-trees for scalable event ordering in peer-to-peer games.",
+                    "Natural selection in peer-to-peer streaming: from the cathedral to the bazaar.",
+                    "MOPAR: a mobile peer-to-peer overlay architecture for interest management of massively multiplayer online games.",
+                    "Mirinae: A peer-to-peer overlay network for large-scale content-based publish/subscribe systems.",
+                    "Adjusting forward error correction with quality scaling for streaming MPEG.",
+                    "Retransmission in distributed media streaming.",
+                    "Impact of FEC overhead on scalable video streaming.",
+                    "Real-time monitoring of video quality in IP networks.",
+                    "Dissecting the video sensing landscape.",
+                    "The case for multi-tier camera sensor networks.",
+                    "A bandwidth management framework for wireless camera array.",
+                    "Efficient operating system support for group unicast.",
+                    "KStreams: kernel support for efficient data streaming in proxy servers.",
+                    "Meeting CPU constraints by delaying playout of multimedia tasks.",
+                    "Platform Overlays: enabling in-network stream processing in large-scale distributed applications.",
+                    "Interactive media server with media synchronized RAID storage system.",
+                    "Facilitating robust multicast group management.",
+                    "Hierarchical disk sharing for multimedia systems.",
+                    "Online scheduling in modular multimedia systems with stream reuse."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "14th NOSSDAV 2004",
+        "info": "Cork, Ireland",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nossdav/2004",
+                "sub_name": "Network and Operating System Support for Digital Audio and Video, 14th International Workshop, NOSSDAV 2004, Cork, Ireland, June 16-18, 2004, Proceedings.",
+                "count": 25,
+                "papers": [
+                    "Beyond content delivery: applications to the edge.",
+                    "Scalable resilient media streaming.",
+                    "Considering altruism in peer-to-peer internet streaming broadcast.",
+                    "An adaptive multiple retransmission technique for continuous media streams.",
+                    "Comparison of delivery architectures for immersive audio in crowded networked games.",
+                    "Managing a portfolio of overlay paths.",
+                    "Passive inference of path correlation.",
+                    "A framework for architecting peer-to-peer receiver-driven overlays.",
+                    "Efficient and flexible parallel retrieval using priority encoded transmission.",
+                    "Connectivity restrictions in overlay multicast.",
+                    "Client-centered energy savings for concurrent HTTP connections.",
+                    "Energy-aware video streaming with QoS control for portable computing devices.",
+                    "A time series-based approach for power management in mobile processors and disks.",
+                    "Media-friendliness of a slowly-responsive congestion control protocol.",
+                    "Oscillations and buffer overflows in video streaming under non-negligible queuing delay.",
+                    "Measurements of the congestion responsiveness of windows streaming media.",
+                    "Reduced state fair queuing for edge and core routers.",
+                    "Desktop scheduling: how can we know what the user wants?",
+                    "AMPS: a flexible, scalable proxy testbed for implementing streaming services.",
+                    "A fully automated fault-tolerant system for distributed video processing and off-site replication.",
+                    "Distributed server replication in large scale networks.",
+                    "Low latency and cheat-proof event ordering for peer-to-peer games.",
+                    "Analysis of state exposure control to prevent cheating in online games.",
+                    "The effects of latency on online madden NFL football.",
+                    "Adaptive server selection for large scale interactive online games."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "name": "13th NOSSDAV 2003",
+        "info": "Monterey, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nossdav/2003",
+                "sub_name": "Network and Operating System Support for Digital Audio and Video, 13th International Workshop, NOSSDAV 2003, Monterey, CA, USA, June 1-3, 2003, Proceedings.",
+                "count": 19,
+                "papers": [
+                    "Why Johnny can't multicast: lessons about the evolution of the internet.",
+                    "Design and implementation of a distributed content management system.",
+                    "MediSyn: a synthetic streaming media service workload generator.",
+                    "Adaptive and lazy segmentation based proxy caching for streaming media delivery.",
+                    "Dynamic program insertion in high quality video over IP.",
+                    "User-perceived quality-aware adaptive delivery of MPEG-4 content.",
+                    "RITA: receiver initiated just-in-time tree adaptation for rich media distribution.",
+                    "Analysis of rate-distortion functions and congestion control in scalable internet video streaming.",
+                    "A protocol for reliable decentralized conferencing.",
+                    "Ubiquitous computing using SIP.",
+                    "A source and channel rate adaptation algorithm for AMR in VoIP using the Emodel.",
+                    "Loss concealment for multi-channel streaming audio.",
+                    "Quality-adaptive media streaming by priority drop.",
+                    "A model for MPEG with forward error correction and TCP-friendly bandwidth.",
+                    "Improving TCP smoothness by synchronized and measurement-based congestion avoidance.",
+                    "A reputation system for peer-to-peer networks.",
+                    "PALS: peer-to-peer adaptive layered streaming.",
+                    "Layered peer-to-peer streaming.",
+                    "Borg: a hybrid protocol for scalable application-level multicast in peer-to-peer networks."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2002",
+        "name": "12th NOSSDAV 2002",
+        "info": "Miami Beach, FL, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nossdav/2002",
+                "sub_name": "Network and Operating System Support for Digital Audio and Video, 12th International Workshop, NOSSDAV 2002, Miami Beach, Florida, USA, May 12-14, 2002, Proceedings.",
+                "count": 18,
+                "papers": [
+                    "Adaptive rate control for streaming stored rine-grained scalable video.",
+                    "Probabilistic congestion control for non-adaptable flows.",
+                    "On the impact of delay on real-time multiplayer games.",
+                    "Characterizing locality, evolution, and life span of accesses in enterprise media server workloads.",
+                    "The design of a transport protocol for on-demand graphical rendering.",
+                    "A SIP-based conference control framework.",
+                    "Impact of link failures on VoIP performance.",
+                    "Comparison and optimization of packet loss repair methods on VoIP perceived quality under bursty loss.",
+                    "The effect of first-hop wireless bandwidth allocation on end-to-end network performance.",
+                    "Application level hand-off support for mobile media transcoding sessions.",
+                    "Integration of dynamic voltage scaling and soft real-time scheduling for open mobile systems.",
+                    "Broadcast federation: an application-layer broadcast internetwork.",
+                    "Topology-aware overlay networks for group communication.",
+                    "A Demand Adaptive and Locality Aware (DALA) streaming media server cluster architecture.",
+                    "Optimal proxy management for multimedia streaming in content distribution networks.",
+                    "Selecting among replicated batching video-on-demand servers.",
+                    "Scheduled video delivery for scalable on-demand service.",
+                    "Distributing streaming media content using cooperative networking."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2001",
+        "name": "11th NOSSDAV 2001",
+        "info": "Port Jefferson, New York",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nossdav/2001",
+                "sub_name": "Network and Operating System Support for Digital Audio and Video, 11th International Workshop, NOSSDAV 2001, Port Jefferson, NY, USA, June 25-26, 2001, Proceedings.",
+                "count": 21,
+                "papers": [
+                    "Mocha: a quality adaptive multimedia proxy cache for internet streaming.",
+                    "Bayeux: an architecture for scalable and fault-tolerant wide-area data dissemination.",
+                    "Analysis of educational media server workloads.",
+                    "Resource allocation and management in DiffServ networks for IP telephony.",
+                    "BLUE: an alternative approach to active queue management.",
+                    "SACRIO: an active buffer management scheme for differentiated service networks.",
+                    "A comparison of layering and stream replication video multicast schemes.",
+                    "Scalable techniques for discovering multicast tree topology.",
+                    "Dimensioning server access bandwidth and multicast routing in overlay networks.",
+                    "The utility of feedback in layered multicast congestion control.",
+                    "Multimedia after a decade of research (panel discussion): multimedia after a decade of research.",
+                    "Network support for mobile multimedia using a self-adaptive distributed proxy.",
+                    "Performance evaluation of UDP lite for cellular video.",
+                    "Dynamic handoff of multimedia streams.",
+                    "Scaling video conferencing through spatial tiling.",
+                    "Lightweight kernel/user communication for real-time and multimedia applications.",
+                    "A case for network musical performance.",
+                    "Very low bit-rate audio coding technique using MIDI representation.",
+                    "Towards junking the PBX: deploying IP telephony.",
+                    "TCP-real: improving real-time capabilities of TCP over heterogeneous networks.",
+                    "Video over TCP with receiver-based delay control."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2000",
+        "name": "10th NOSSDAV 2000",
+        "info": "Chapel Hill, NC, USA",
+        "venues": []
+    },
+    {
+        "year": "1999",
+        "name": "9th NOSSDAV 1999",
+        "info": "Basking Ridge, NJ, USA",
+        "venues": []
+    },
+    {
+        "year": "1998",
+        "name": "8th NOSSDAV 1998",
+        "info": "Cambridge, UK",
+        "venues": []
+    },
+    {
+        "year": "1997",
+        "name": "7th NOSSDAV 1997",
+        "info": "St. Louis, Missouri, USA",
+        "venues": []
+    },
+    {
+        "year": "1996",
+        "name": "6th NOSSDAV 1996",
+        "info": "Shonan Village, Zushi, Japan",
+        "venues": []
+    },
+    {
+        "year": "1995",
+        "name": "5th NOSSDAV 1995",
+        "info": "Durham, New Hampshire, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nossdav/1995",
+                "sub_name": "Network and Operating System Support for Digital Audio and Video, 5th International Workshop, NOSSDAV '95, Durham, New Hampshire, USA, April 19-21, 1995, Proceedings.",
+                "count": 39,
+                "papers": [
+                    "Advance Reservations for Predictive Service.",
+                    "Distributed Advance Reservation of Real-Time Connections.",
+                    "Issues ofReserving Resources in Advance.",
+                    "A Computational and Engineering View on Open Distributed Real-Time Multimedia Exchange.",
+                    "Support for User-Centric Modular Real-Time Resource Management in the Rialto Operating System.",
+                    "A Rate-Based Execution Abstraction for Multimedia Computing.",
+                    "VuSystem Performance Measurements.",
+                    "Design of Universal Continuous Media I/O.",
+                    "A New OS Architecture for High Performance Communication over ATM Networks - Zero-copy architecture.",
+                    "Meeting Arbitrary QoS Constraints Using Dynamic Rate Shaping of Coded Digital Video.",
+                    "Dynamic QoS Management for Scalable Video Flows.",
+                    "Dynamic Service Aggregation for Efficient Use of Resource in Interactive Video Delivery.",
+                    "Evaluation of QoS-Control Servers on Real-Time Mach.",
+                    "System-Level Resource Management for Network-Based Multimedia Applications.",
+                    "An End to End Software Only Scalable Video Delivery.",
+                    "A Distributed Real-Time MPEG Video Audio Player.",
+                    "Analysis of Audio Packet Loss in the Internet.",
+                    "Digital Audio and Viseo in Industrial Systems.",
+                    "Workstation Video Playback Performance with Competitive Process Load.",
+                    "When Can We Unplug the Radio and Telephone?",
+                    "An Adaptive Stream Synchronization Protocol.",
+                    "A Method and Apparatus for Measurung media Synchronization.",
+                    "Integrated Processors Scheduling for Multimedia.",
+                    "Scheduling and Admission Testing for Jitter Constrained Periodic Threads.",
+                    "A CPU Scheduling Algorithm for Continuous Media Applications.",
+                    "Dynamic Configuration of Conferencing Applications using Pattern-Matching Multicast.",
+                    "WAVE: A New Multicast Routing Algorithm for Static and Dynamic Multicast Groups.",
+                    "Connection Establishment for Multi-Party Real-Time Communication.",
+                    "The Role of Multicast Communication in the Provision of Scalable and Interactive Video-On-Demand Service.",
+                    "RED-VBR: A New Approach to Support Delay-Sensitive VBR Video in Packet-Switched Networks.",
+                    "Determining End-to-End Delay Bounds in Heterogeneous Networks.",
+                    "Adaptive QoS-Based API for ATM Networking.",
+                    "Burst Scheduling Networks: Flow Specification and Performance Guarantees.",
+                    "A Novel Video-On-Demand Storage Architecture for Supporting Constant Frame Rate with Variable Bit Rate Retrieval.",
+                    "The Design and Implementation of a RAID-3 Multimedia File Server.",
+                    "Efficient Data Layout, Scheduling and Playout Control in MARS.",
+                    "Storage Replication and Layout in Video-on-Demand Servers.",
+                    "Scalable MPEG2 Video Servers with Heterogeneous QoS on Parallel Disk Arrays.",
+                    "The Design of a Variable Bit Rate Continuous Media Server."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1993",
+        "name": "4th NOSSDAV 1993",
+        "info": "Lancaster, U.K.",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nossdav/1993",
+                "sub_name": "Network and Operating System Support for Digital Audio and Video, 4th International Workshop, NOSSDAV '93, Lancaster, UK, November 3-5, 1993, Proceedings.",
+                "count": 24,
+                "papers": [
+                    "Overview of the Workshop.",
+                    "Operating System Support for the Desk Area Network.",
+                    "Adaptive Real-Time Resource Management Supporting Modular Composition of Digital Multimedia Services.",
+                    "Micronet Machines - New Architectural Approaches for Multimedia End-Systems.",
+                    "SVR4UNIX Scheduler Unacceptable for Multimedia Applications.",
+                    "Extending the Chorus Micro-Kernel to Support Continuous Media Applications.",
+                    "User-Level Real-Time Threads: An Approach Towards High Performance Multimedia Threads.",
+                    "IEEE 802.12 Demand Priority and Multimedia.",
+                    "A Scheduling Discipline and Admission Control Policy for Xunet 2.",
+                    "Modeling VC, VP and VN Bandwidth Assignment Strategies in Broadband Networks.",
+                    "Dynamic QOS Control based on Real-Time Threads.",
+                    "A Multimedia Enhanced Transport Service in a Quality of Service Architecture.",
+                    "Framework for Implementing the Next Generation of Communication Protocols.",
+                    "Queue Monitoring: A Delay Jitter Management Policy.",
+                    "Performance Bottlenecks in Digital Movie Systems.",
+                    "Frame-Induced Packet Discarding: An Efficient Strategy for Video Networking.",
+                    "ATM as a Link in an ST-2 Internet.",
+                    "Reservation Protocols for Internetworks: A Comparison of ST-II and RSVP.",
+                    "Probabilistic Assignment of Movies to Storage Devices in a Video-On-Demand System.",
+                    "Operating System Support for a Video-On-Demand File Service.",
+                    "The Evaluation of Video Layout Strategies on a High-Bandwidth File Server.",
+                    "Network Support for Dynamically Scaled Multimedia Data Streams.",
+                    "A Unified Framework for Multicast Forwarding.",
+                    "Filter Propagation in Dissemination Trees: Trading Off Bandwidth and Processing in Continuous Media Networks."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1992",
+        "name": "3rd NOSSDAV 1992",
+        "info": "La Jolla, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nossdav/1992",
+                "sub_name": "Network and Operating System Support for Digital Audio and Video, Third International Workshop, La Jolla, California, USA, November 12-13, 1992, Proceedings.",
+                "count": 40,
+                "papers": [
+                    "Adaptive, Best-Effort Delivery of Digital Audio and Video Across Packet-Switched Networks.",
+                    "The Architecture of Rattlesnake: a Real-Time Multimedia Network.",
+                    "Beyond ST-II: Fulfilling the Requirements of Multimedia Communiation.",
+                    "An Approach to Real-time Scheduling - but is it Really a Problem for Multimedia?",
+                    "Mon-Song Chen, Dilip D. Kandlur: Design and Analysis of a Grouped Sweeping Scheme for Multimedia Storage Management.",
+                    "Admission Control Algorithm for Multimedia On-Demand Servers.",
+                    "The Design and Implementation of a Continuous Media Storage Server.",
+                    "Performance Studies of Digital Video in a Client/Server Environment.",
+                    "Basic Synchronization Concepts in Multimedia Systems.",
+                    "Synchronization in Joint-Venture Environments.",
+                    "Synchronization of Multi-Sourced Multimedia Data for Heterogeneous Target Systems.",
+                    "An Intermedia Skew Control System for Multimedia Data Presentation.",
+                    "System Support for Efficient Dynamically-Configurable Multi-Party Interactive Multimedia Applications.",
+                    "Requirements for Network Delivery of Stored Interactive Multimedia.",
+                    "Multimedia Processing Model for a Distributed Multimedia I/O System.",
+                    "Enhancing the Touring Machine API to Support Integrated Digital Transport.",
+                    "Preliminary Measurement of the RMTP/RTIP.",
+                    "The Multimedia Multicast Channel.",
+                    "Analysis of a Resequencer Model for Multicast over ATM Networks.",
+                    "An Integrated Platform and Computational Model for Open Distrinuted Multimedia Applications.",
+                    "Scheduling Multimedia Documents Using Temporal Constraints.",
+                    "The Stratification System - A Design Emvironment for Random Access.",
+                    "On the Design of Multimedia Interchange Formats.",
+                    "Bus Bandwidth Management in a High Resolution Video Workstation.",
+                    "Analysis of I/O Subsystem Design for Multimedia Workstations.",
+                    "Tactus: Toolkit-Level Support for Synchronized Interactive Multimedia.",
+                    "An Analytic Model for Real-Time Multimedia Disk Scheduling.",
+                    "Real-Time Scheduling Support in Ultrix-4.2 for Multimedia Communiation.",
+                    "Continous Media Synchronization in Distributed Multimedia Systems.",
+                    "High Speed Networks in the Digital TV Studio.",
+                    "The Impact of Scaling on a Multimedia Connection Architecture.",
+                    "An Admission Control Algorithm for Predictive Real-Time Service (Extended Abstract).",
+                    "MEGAPHONE: A Multimedia Application based on Object-Oriented Communiation.",
+                    "System Support for Dynamic QOS Control of Continuous Media Communication.",
+                    "NMFS: Network Multimedia File System Protocol.",
+                    "A Continuous Media Player.",
+                    "Architecture of a Multimedia Information System for Content-Based Retrieval.",
+                    "Application Construction and Component Design in a Object-Oriented Multimedia Framework.",
+                    "Audio and Video Extensions to Graphical User Interface Toolkits.",
+                    "An Introduction to HeiMAT: The Heidelberg Multimedia Application Toolkit."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1991",
+        "name": "2nd NOSSDAV 1991",
+        "info": "Heidelberg, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/nossdav/1991",
+                "sub_name": "Network and Operating System Support for Digital Audio and Video, Second International Workshop, Heidelberg, Germany, November 18-19, 1991, Proceedings.",
+                "count": 33,
+                "papers": [
+                    "Workstation Support for Time-Critical Applications.",
+                    "Kernel Support for Live Digital Audio and Video.",
+                    "Priority Consistency in Protocol Architecture.",
+                    "Implementing HeiTS: Architecture and Implementation Strategy of the Heidelberg High-Speed Transport System.",
+                    "Protocol Support for Distributed Multimedia Applications.",
+                    "Integrating Computing and Telecommunications: A Tale of Two Architectures.",
+                    "Design and Applications of a Delay Jitter Control Scheme for Packet-Switching Internetworks.",
+                    "End-to-End Synchronization in Packet Switched Networks.",
+                    "Synchronization of Multimedia Data Streams in Open Distributed Environments.",
+                    "Multimedia Synchronization and UNIX.",
+                    "Scheduling of Bandwidth-Constrained Multimedia Traffic.",
+                    "Presentation Scheduling of Multimedia Objects and Its Impact on Network and Operating System Support.",
+                    "alpha-Channel - A Network Level Abstraction To Support Real-Time Communication.",
+                    "The Real-Time Channel Administration Protocol.",
+                    "A Continuous Media Data Transport Service and Protocol for Real-Time Communication in High Speed Networks.",
+                    "Design Considerations for a Multimedia Network Distribution Center.",
+                    "Next Generation Network and Operating System Requirements for Continuous Time Media.",
+                    "Dynamicity Issues in Broadband Network Computing.",
+                    "Managing Multimedia Sessions on a Private Broadband Communication System.",
+                    "Toolkit Support fro Multiuser Audio/Video Applications.",
+                    "System Support for Time-Critical Applications.",
+                    "An Application Framework for Multimedia Communication.",
+                    "A Programming Environment for Multimedia Applications.",
+                    "Tools for Specifying and Executing Synchronized Multimedia Presentations.",
+                    "Abstractions for Continuous-Media Programming.",
+                    "Integrated Multimedia at Sun Microsystems.",
+                    "Architectural Aspects of Multimedia CD-I Integration in UNIX / X-Windows Workstations.",
+                    "X-Movie: Transmission and Presentation of Digital Movies under X.",
+                    "Presenting Multimedia Documents Over a Digital Network.",
+                    "The CCITT Communication Protocol for Videophone Teleconferencing Equipment.",
+                    "FDDI-Based Digital Audio Interfaces.",
+                    "Digital Video Transmission and the FDDI Token Ring Protocol.",
+                    "A Performance Study of Forward Error Correction in ATM Networks."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1990",
+        "name": "1st NOSSDAV 1990",
+        "info": "Berkeley, California, USA",
+        "venues": []
+    }
+]

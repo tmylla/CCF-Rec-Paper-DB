@@ -1,0 +1,652 @@
+[
+    {
+        "year": "2021",
+        "name": "HotNets 2021",
+        "info": "Virtual Event, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hotnets/2021",
+                "sub_name": "HotNets '21: The 20th ACM Workshop on Hot Topics in Networks, Virtual Event, United Kingdom, November 10-12, 2021.",
+                "count": 31,
+                "papers": [
+                    "Designing for Tussle in Encrypted DNS.",
+                    "Rethinking Web for Affordability and Inclusion.",
+                    "Innovating Multi-user Volumetric Video Streaming through Cross-layer Design.",
+                    "Towards a traffic map of the Internet Connecting the dots between popular services and users: Connecting the dots between popular services and users.",
+                    "Packets as Persistent In-Memory Data Structures.",
+                    "Towards a Cost vs. Quality Sweet Spot for Monitoring Networks.",
+                    "Redesigning Data Centers for Renewable Energy.",
+                    "Interpretable Feedback for AutoML and a Proposal for Domain-customized AutoML for Networking.",
+                    "TCP is Harmful to In-Network Computing: Designing a Message Transport Protocol (MTP).",
+                    "In-situ Programmable Switching using rP4: Towards Runtime Data Plane Programmability.",
+                    "Switches are Scanners Too!: A Fast and Scalable In-Network Scanner with Programmable Switches.",
+                    "Stats 101 in P4: Towards In-Switch Anomaly Detection.",
+                    "A Vision for Runtime Programmable Networks.",
+                    "Don't You Worry 'Bout a Packet: Unified Programming for In-Network Computing.",
+                    "Zero-CPU Collection with Direct Telemetry Access.",
+                    "How Complex is DNS?",
+                    "Faur\u00e9: A Partial Approach to Network Analysis.",
+                    "Counterfeiting Congestion Control Algorithms.",
+                    "Don't Hate the Player, Hate the Game: Safety and Utility in Multi-Agent Congestion Control.",
+                    "Watching the watchmen: Least privilege for managed network services.",
+                    "Towards 6G and Beyond: Smarten Everything with Metamorphic Surfaces.",
+                    "\"Internet in Space\" for Terrestrial Users via Cyber-Physical Convergence.",
+                    "Can WiFi Backscatter Achieve the Range of RFID?: Nulling to the Rescue.",
+                    "HarvestPrint: Securing Battery-free Backscatter Tags through Fingerprinting.",
+                    "Do we want the New Old Internet?: Towards Seamless and Protocol-Independent IoT Application Interoperability.",
+                    "Don't Let RPCs Constrain Your API.",
+                    "Immunizing Systems from Distant Failures by Limiting Lamport Exposure.",
+                    "Snicket: Query-Driven Distributed Tracing.",
+                    "Charon: A Framework for Microservice Overload Control.",
+                    "MXDAG: A Hybrid Abstraction for Emerging Applications.",
+                    "Leveraging Service Meshes as a New Network Layer."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "name": "HotNets 2020",
+        "info": "Virtual Event, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hotnets/2020",
+                "sub_name": "HotNets '20: The 19th ACM Workshop on Hot Topics in Networks, Virtual Event, USA, November 4-6, 2020.",
+                "count": 30,
+                "papers": [
+                    "xBGP: When You Can't Wait for the IETF and Vendors.",
+                    "A General Framework for Compositional Network Modeling.",
+                    "Clara: Performance Clarity for SmartNIC Offloading.",
+                    "iBox: Internet in a Box.",
+                    "On the Future of Congestion Control for the Public Internet.",
+                    "Remote Memory Calls.",
+                    "TCPLS: Closely Integrating TCP and TLS.",
+                    "Bertha: Tunneling through the Network API.",
+                    "Don't Work on Individual Data Plane Algorithms. Put Them Together!",
+                    "Spineless Data Centers.",
+                    "Proving Server Faults: RPCs for Distributed Systems in Byzantine Networks.",
+                    "Incremental Network Configuration Verification.",
+                    "Online Safety Assurance for Learning-Augmented Systems.",
+                    "Towards Verified Self-Driving Infrastructure.",
+                    "Solver-Aided Multi-Party Configuration.",
+                    "Towards Hybrid Classical-Quantum Computation Structures in Wirelessly-Networked Systems.",
+                    "Full Duplex Radios: Are we there yet?",
+                    "Underwater Backscatter Localization: Toward a Battery-Free Underwater GPS.",
+                    "WiFi Says \"Hi!\" Back to Strangers!",
+                    "Millimeter Wave Backscatter: Toward Batteryless Wireless Networking at Gigabit Speeds.",
+                    "P2GO: P4 Profile-Guided Optimizations.",
+                    "Challenging the Stateless Quo of Programmable Switches.",
+                    "SwiShmem: Distributed Shared State Abstractions for Programmable Switches.",
+                    "Elastic Switch Programming with P4All.",
+                    "Enabling Active Networking on RMT Hardware.",
+                    "Pruning Edge Research with Latency Shears.",
+                    "A Distributed and Hybrid Ground Station Network for Low Earth Orbit Satellites.",
+                    "In-orbit Computing: An Outlandish thought Experiment?",
+                    "\"Internet from Space\" without Inter-satellite Links.",
+                    "DNS Does Not Suffice for MEC-CDN."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "HotNets 2019",
+        "info": "Princeton, NJ, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hotnets/2019",
+                "sub_name": "Proceedings of the 18th ACM Workshop on Hot Topics in Networks, HotNets 2019, Princeton, NJ, USA, November 13-15, 2019.",
+                "count": 20,
+                "papers": [
+                    "On Eliminating Root Nameservers from the DNS.",
+                    "Beating BGP is Harder than we Thought.",
+                    "Beyond Jain's Fairness Index: Setting the Bar For The Deployment of Congestion Control Algorithms.",
+                    "Do Switches Dream of Machine Learning?: Toward In-Network Classification.",
+                    "(Self) Driving Under the Influence: Intoxicating Adversarial Network Inputs.",
+                    "Towards Oblivious Network Analysis using Generative Adversarial Networks.",
+                    "The Case for a Network Fast Path to the CPU.",
+                    "Mind the Gap: A Case for Informed Request Scheduling at the NIC.",
+                    "Learning Network Design Objectives Using A Program Synthesis Approach.",
+                    "Putting network verification to good use.",
+                    "Robustifying Network Protocols with Adversarial Examples.",
+                    "An Effort to Democratize Networking Research in the Era of AI/ML.",
+                    "BatteryLab, A Distributed Power Monitoring Platform For Mobile Devices.",
+                    "ShareAR: Communication-Efficient Multi-User Mobile Augmented Reality.",
+                    "Wi-LE: Can WiFi Replace Bluetooth?",
+                    "Using ground relays for low-latency wide-area routing in megaconstellations.",
+                    "Event-Driven Packet Processing.",
+                    "Accelerated Service Chaining on a Single Switch ASIC.",
+                    "Autogenerating Fast Packet-Processing Code Using Program Synthesis.",
+                    "Architecting Programmable Data Plane Defenses into the Network with FastFlex."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "HotNets 2018",
+        "info": "Redmond, WA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hotnets/2018",
+                "sub_name": "Proceedings of the 17th ACM Workshop on Hot Topics in Networks, HotNets 2018, Redmond, WA, USA, November 15-16, 2018.",
+                "count": 26,
+                "papers": [
+                    "Generic External Memory for Switch Data Planes.",
+                    "dLTE: Building a more WiFi-like Cellular Network: (Instead of the Other Way Around).",
+                    "ICON: Intelligent Container Overlays.",
+                    "Networking in Heaven as on Earth.",
+                    "Routing Cryptocurrency with the Spider Network.",
+                    "Your Programmable NIC Should be a Programmable Switch.",
+                    "Revisiting Software Defined Radios in the IoT Era.",
+                    "Neural Networks Meet Physical Networks: Distributed Inference Between Edge Devices and the Cloud.",
+                    "Perfect is the Enemy of Good: Setting Realistic Goals for BGP Security.",
+                    "Internet As a Source of Randomness.",
+                    "Decoupling Algorithms and Optimizations in Network Functions.",
+                    "Untangling the world-wide mesh of undersea cables.",
+                    "Delay is Not an Option: Low Latency Routing in Space.",
+                    "Rethinking Networking for \"Five Computers\".",
+                    "Connecting Battery-free IoT Tags Using LED Bulbs.",
+                    "Learning Food Quality and Safety from Wireless Stickers.",
+                    "Gearing up for the 21st century space race.",
+                    "Hardware-Accelerated Network Control Planes.",
+                    "A Case for Spraying Packets in Software Middleboxes.",
+                    "Towards Lightweight and Robust Machine Learning for CDN Caching.",
+                    "Fast Network Simulation Through Approximation or: How Blind Men Can Describe Elephants.",
+                    "WiTAG: Rethinking Backscatter Communication for WiFi Networks.",
+                    "Music-Defined Networking.",
+                    "We don't need no licensing server.",
+                    "Treads: Transparency-Enhancing Ads.",
+                    "Packet Subscriptions for Programmable ASICs."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "HotNets 2017",
+        "info": "Palo Alto, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hotnets/2017",
+                "sub_name": "Proceedings of the 16th ACM Workshop on Hot Topics in Networks, Palo Alto, CA, USA, HotNets 2017, November 30 - December 01, 2017.",
+                "count": 28,
+                "papers": [
+                    "DIY Hosting for Online Privacy.",
+                    "Online Advertising under Internet Censorship.",
+                    "The Case For Secure Delegation.",
+                    "Securing Ultra-High-Bandwidth Science DMZ Networks with Coordinated Situational Awareness.",
+                    "Rethinking Congestion Control for Cellular Networks.",
+                    "Programmable Radio Environments for Smart Spaces.",
+                    "Wi-Fly: Widespread Opportunistic Connectivity via Commercial Air Transport.",
+                    "360\u00b0 Innovations for Panoramic Video Streaming.",
+                    "How will Deep Learning Change Internet Video Delivery?",
+                    "Network Stack as a Service in the Cloud.",
+                    "The Barriers to Overthrowing Internet Feudalism.",
+                    "FreeLab: A Free Experimentation Platform.",
+                    "Opportunities and Challenges of Ad-based Measurements from the Edge of the Network.",
+                    "Stick a fork in it: Analyzing the Ethereum network partition.",
+                    "The Case for Moving Congestion Control Out of the Datapath.",
+                    "HotCocoa: Hardware Congestion Control Abstractions.",
+                    "An Axiomatic Approach to Congestion Control.",
+                    "Congestion-Control Throwdown.",
+                    "Integrating Verification and Repair into the Control Plane.",
+                    "Low-Latency Routing on Mesh-Like Backbones.",
+                    "Run, Walk, Crawl: Towards Dynamic Link Capacities.",
+                    "In-Network Computation is a Dumb Idea Whose Time Has Come.",
+                    "Granular Computing and Network Intensive Applications: Friends or Foes?",
+                    "Tolerating Faults in Disaggregated Datacenters.",
+                    "Stop Rerouting!: Enabling ShareBackup for Failure Recovery in Data Center Networks.",
+                    "Harvesting Randomness to Optimize Distributed Systems.",
+                    "Learning to Route.",
+                    "Biases in Data-Driven Networking, and What to Do About Them."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "HotNets 2016",
+        "info": "Atlanta, GA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hotnets/2016",
+                "sub_name": "Proceedings of the 15th ACM Workshop on Hot Topics in Networks, HotNets 2016, Atlanta, GA, USA, November 9-10, 2016.",
+                "count": 30,
+                "papers": [
+                    "Helping the Lone Operator in the Vast Frontier.",
+                    "A Case for Personal Virtual Networks.",
+                    "Towards Comprehensive Repositories of Opinions.",
+                    "A Knowledge-Based Systems Approach to Reason About Networking.",
+                    "Automatic Synthesis of NF Models by Program Analysis.",
+                    "Canaries in the Network.",
+                    "FreeFlow: High Performance Container Networking.",
+                    "Resource Management with Deep Reinforcement Learning.",
+                    "Towards a Redundancy-Aware Network Stack for Data Centers.",
+                    "Fat-FREE Topologies.",
+                    "Flat-tree: A Convertible Data Center Network Architecture from Clos to Random Graph.",
+                    "P-FatTree: A multi-channel datacenter network topology.",
+                    "Unlocking Credit Loop Deadlocks.",
+                    "Deadlocks in Datacenter Networks: Why Do They Form, and How to Avoid Them.",
+                    "Switches are Monitors Too!: Stateful Property Monitoring as a Switch Design Criterion.",
+                    "Network Monitoring as a Streaming Analytics Problem.",
+                    "Mille-Feuille: Putting ISP traffic under the scalpel.",
+                    "Independent Auditing of Online Display Advertising Campaigns.",
+                    "The Impact of Brokers on the Future of Content Delivery.",
+                    "Rethinking Cloud Service Marketplaces.",
+                    "Exploiting Multipath Congestion Control for Fun and Profit.",
+                    "Rack-level Congestion Control.",
+                    "CLOVE: How I learned to stop worrying about the core and love the edge.",
+                    "Cutting the Cord in Virtual Reality.",
+                    "Millimeter Wave Communications: From Point-to-Point Links to Agile Network Connections.",
+                    "Trimming the Smartphone Network Stack.",
+                    "PASTE: Network Stacks Must Integrate with NVMM Abstractions.",
+                    "Hardware-Software Co-Design for Network Performance Measurement.",
+                    "Dispersing Asymmetric DDoS Attacks with SplitStack.",
+                    "The Internet Blockchain: A Distributed, Tamper-Resistant Transaction Framework for the Internet."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "HotNets 2015",
+        "info": "Philadelphia, PA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hotnets/2015",
+                "sub_name": "Proceedings of the 14th ACM Workshop on Hot Topics in Networks, Philadelphia, PA, USA, November 16 - 17, 2015.",
+                "count": 26,
+                "papers": [
+                    "Can Censorship Measurements Be Safe(r)?",
+                    "A Case for Marrying Censorship Measurements with Circumvention.",
+                    "Web Identity Translator: Behavioral Advertising and Identity Privacy with WIT.",
+                    "Do You Know Where Your Headers Are? Comparing the Privacy of Network Architectures with Share Count Analysis.",
+                    "Handling a trillion (unfixable) flaws on a billion devices: Rethinking network security for the Internet-of-Things.",
+                    "Destroying networks for fun (and profit).",
+                    "A First Step Towards Leveraging Commodity Trusted Execution Environments for Network Applications.",
+                    "SpaceHub: A Smart Relay System for Smart Home.",
+                    "Room-Area Networks.",
+                    "One Hop for RPKI, One Giant Leap for BGP Security.",
+                    "RiPKI: The Tragic Story of RPKI Deployment in the Web Ecosystem.",
+                    "Bootstrapping Evolvability for Inter-Domain Routing.",
+                    "Why didn't my (great!) protocol get adopted?",
+                    "High Speed Networks Need Proactive Congestion Control.",
+                    "Taking an AXE to L2 Spanning Trees.",
+                    "Xpander: Unveiling the Secrets of High-Performance Datacenters.",
+                    "Micro Load Balancing in Data Centers with DRILL.",
+                    "Time's Forgotten: Using NTP to understand Internet Latency.",
+                    "Leveraging the Power of Cloud for Reliable Wide Area Communication.",
+                    "Re-evaluating Measurement Algorithms in Software.",
+                    "Enabling a \"RISC\" Approach for Software-Defined Monitoring using Universal Streaming.",
+                    "Transparency Instead of Neutrality.",
+                    "Towards Programmable Packet Scheduling.",
+                    "Universal Packet Scheduling.",
+                    "Differential Provenance: Better Network Diagnostics with Reference Events.",
+                    "Automated Network Repair with Meta Provenance."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "HotNets 2014",
+        "info": "Los Angeles, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hotnets/2014",
+                "sub_name": "Proceedings of the 13th ACM Workshop on Hot Topics in Networks, HotNets-XIII, Los Angeles, CA, USA, October 27-28, 2014.",
+                "count": 26,
+                "papers": [
+                    "The Internet at the Speed of Light.",
+                    "An Information-Theoretic Approach to Routing Scalability.",
+                    "Sweet Little Lies: Fake Topologies for Flexible Routing.",
+                    "A Call to Arms for Management Plane Analytics.",
+                    "Intentional Network Monitoring: Finding the Needle without Capturing the Haystack.",
+                    "PRAN: Programmable Radio Access Networks.",
+                    "Reclaiming the Brain: Useful OpenFlow Functions in the Data Plane.",
+                    "Characterizing Load Imbalance in Real-World Networked Caches.",
+                    "Toward a Principled Framework to Design Dynamic Adaptive Streaming Algorithms over HTTP.",
+                    "Using Video-Based Measurements to Generate a Real-Time Network Traffic Map.",
+                    "EONA: Experience-Oriented Network Architecture.",
+                    "FUBAR: Flow Utility Based Routing.",
+                    "Beehive: Towards a Simple Abstraction for Scalable Software-Defined Networking.",
+                    "Anonymity on QuickSand: Using BGP to Compromise Tor.",
+                    "Good Network Updates for Bad Packets: Waypoint Enforcement Beyond Destination-Based Routing Policies.",
+                    "DNS Resolvers Considered Harmful.",
+                    "Crowdsourcing Access Network Spectrum Allocation Using Smartphones.",
+                    "PEERING: An AS for Us.",
+                    "Infrastructure Mobility: A What-if Analysis.",
+                    "NetEgg: Programming Network Policies by Examples.",
+                    "A Highly Available Software Defined Fabric.",
+                    "Tolerating SDN Application Failures with LegoSDN.",
+                    "InFrame: Multiflexing Full-Frame Visible Communication Channel for Humans and Devices.",
+                    "Revisiting Resource Pooling: The Case for In-Network Resource Sharing.",
+                    "PIAS: Practical Information-Agnostic Flow Scheduling for Data Center Networks.",
+                    "Theia: Simple and Cheap Networking for Ultra-Dense Data Centers."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "HotNets 2013",
+        "info": "College Park, MD, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hotnets/2013",
+                "sub_name": "Twelfth ACM Workshop on Hot Topics in Networks, HotNets-XII, College Park, MD, USA, November 21-22, 2013.",
+                "count": 26,
+                "papers": [
+                    "Corybantic: towards the modular composition of SDN control programs.",
+                    "Applying operating system principles to SDN controller design.",
+                    "Answering why-not queries in software-defined networks with negative provenance.",
+                    "Full duplex backscatter.",
+                    "Pharos: enable physical analytics through visible light based indoor localization.",
+                    "Inaccurate spectrum databases?: public transit to its rescue!",
+                    "Give in to procrastination and stop prefetching.",
+                    "Tiny packet programs for low-latency network control and monitoring.",
+                    "Network stack specialization for performance.",
+                    "Network support for resource disaggregation in next-generation datacenters.",
+                    "On the validity of geosocial mobility traces.",
+                    "AdReveal: improving transparency into online targeted advertising.",
+                    "Towards comprehensive social sharing of recommendations: augmenting push with pull.",
+                    "Crypto-Book: an architecture for privacy preserving online identities.",
+                    "Cross-path inference attacks on multipath TCP.",
+                    "On the risk of misbehaving RPKI authorities.",
+                    "Active security.",
+                    "Toward a verifiable software dataplane.",
+                    "No silver bullet: extending SDN to the data plane.",
+                    "On consistent updates in software defined networks.",
+                    "Towards minimal-delay deadline-driven data center TCP.",
+                    "Trevi: watering down storage hotspots with cool fountain codes.",
+                    "Patch panels in the sky: a case for free-space optics in data centers.",
+                    "Managing the network with Merlin.",
+                    "How to improve your network performance by asking your provider for worse service.",
+                    "Plinko: building provably resilient forwarding tables."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "HotNets 2012",
+        "info": "Redmond, WA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hotnets/2012",
+                "sub_name": "11th ACM Workshop on Hot Topics in Networks, HotNets-XI, Redmond, WA, USA - October 29 - 30, 2012.",
+                "count": 23,
+                "papers": [
+                    "Compressing IP forwarding tables for fun and profit.",
+                    "Toward software-defined middlebox networking.",
+                    "More is less: reducing latency via redundancy.",
+                    "LOUP: who's afraid of the big bad loop?",
+                    "Power-aware rateless codes in mobile wireless communication.",
+                    "Coflow: a networking abstraction for cluster applications.",
+                    "A new approach to interdomain routing based on secure multi-party computation.",
+                    "Software-defined internet architecture: decoupling architecture from infrastructure.",
+                    "Cognitive bias in network services.",
+                    "Outsourcing the routing control logic: better internet routing based on SDN principles.",
+                    "Rethinking end-to-end congestion control in software-defined networks.",
+                    "One strategy does not serve all: tailoring wireless transmission strategies to user profiles.",
+                    "Creating shared secrets out of thin air.",
+                    "Detecting price and search discrimination on the internet.",
+                    "When David helps Goliath: the case for 3G onloading.",
+                    "Towards systematic roadmaps for networked systems.",
+                    "A quest for an Internet video quality-of-experience metric.",
+                    "Act for affordable data care.",
+                    "Live migration of an entire network (and its hosts).",
+                    "Hunting mice with microsecond circuit switches.",
+                    "FreeDOM: a new baseline for the web.",
+                    "CARE: content aware redundancy elimination for challenged networks.",
+                    "Deconstructing datacenter packet transport."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "HotNets 2011",
+        "info": "Cambridge, MA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hotnets/2011",
+                "sub_name": "Tenth ACM Workshop on Hot Topics in Networks (HotNets-X), HOTNETS '11, Cambridge, MA, USA - November 14 - 15, 2011.",
+                "count": 24,
+                "papers": [
+                    "Information-centric networking: seeing the forest for the trees.",
+                    "XIA: an architecture for an evolvable and trustworthy internet.",
+                    "Intelligent design enables architectural evolution.",
+                    "3D beamforming for wireless data centers.",
+                    "Bootstrapping energy debugging on smartphones: a first look at energy bugs in mobile devices.",
+                    "Rateless spinal codes.",
+                    "Consistent updates for software-defined networks: change you can believe in!",
+                    "Data-driven network connectivity.",
+                    "The energy and emergy of the internet.",
+                    "The web interface should be radically refactored.",
+                    "Machiavellian routing: improving internet availability with BGP poisoning.",
+                    "The great IPv4 land grab: resource certification for the IPv4 grey market.",
+                    "For sale : your data: by : you.",
+                    "Tor instead of IP.",
+                    "Having your cake and eating it too: routing security with privacy protections.",
+                    "Picasso: full duplex signal shaping to exploit fragmented spectrum.",
+                    "The case for antenna cancellation for scalable full-duplex wireless communications.",
+                    "Precise indoor localization using PHY layer information.",
+                    "End-to-end transmission control by modeling uncertainty about the network state.",
+                    "BitTorrent for the less privileged.",
+                    "The middlebox manifesto: enabling innovation in middlebox deployment.",
+                    "FairCloud: sharing the network in cloud computing.",
+                    "The price is right: towards location-independent costs in datacenters.",
+                    "Bandwidth on demand for inter-data center communication."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "HotNets 2010",
+        "info": "Monterey, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hotnets/2010",
+                "sub_name": "Proceedings of the 9th ACM Workshop on Hot Topics in Networks. HotNets 2010, Monterey, CA, USA - October 20 - 21, 2010.",
+                "count": 22,
+                "papers": [
+                    "DevoFlow: cost-effective flow management for high performance enterprise networks.",
+                    "Packet re-cycling: eliminating packet losses due to network failures.",
+                    "Putting BGP on the right path: a case for next-hop routing.",
+                    "A case for information-bound referencing.",
+                    "\"Extra-sensory perception\" for wireless networks.",
+                    "HTTP as the narrow waist of the future internet.",
+                    "CloudPolice: taking access control out of the network.",
+                    "Proteus: a topology malleable data center network.",
+                    "Using strongly typed networking to architect for tussle.",
+                    "Data center networking with multipath TCP.",
+                    "SecureAngle: improving wireless security using angle-of-arrival information.",
+                    "Next generation on-chip networks: what kind of congestion control do we need?",
+                    "How to tell an airport from a home: techniques and applications.",
+                    "Automatic rate adaptation.",
+                    "Location, location, location!: modeling data proximity in the cloud.",
+                    "Listen (on the frequency domain) before you talk.",
+                    "Successive interference cancellation: a back-of-the-envelope perspective.",
+                    "The home needs an operating system (and an app store).",
+                    "A network in a laptop: rapid prototyping for software-defined networks.",
+                    "Putting the software radio on a low-calorie diet.",
+                    "SideCar: building programmable datacenter networks without programmable switches.",
+                    "Diagnosing mobile applications in the wild."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "HotNets 2009",
+        "info": "New York City, NY, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hotnets/2009",
+                "sub_name": "Eight ACM Workshop on Hot Topics in Networks (HotNets-VIII), HOTNETS '09, New York City, NY, USA, October 22-23, 2009.",
+                "count": 21,
+                "papers": [
+                    "Your Data Center Is a Router: The Case for Reconfigurable Optical Circuit Switched Paths.",
+                    "Flyways To De-Congest Data Center Networks.",
+                    "Applying NOX to the Datacenter.",
+                    "A Policy Framework for the Future Internet.",
+                    "Efficient Cross-Layer Negotiation.",
+                    "Rule-based Forwarding (RBF): Improving Internet's flexibility and security.",
+                    "Serving Ads from localhost for Performance, Privacy, and Profit.",
+                    "Securing Mediated Trace Access Using Black-box Permutation Analysis.",
+                    "Internet Protocol Made Accountable.",
+                    "Formally Verifiable Networking.",
+                    "Chemical Networking Protocols.",
+                    "WikiDo.",
+                    "Identifying Close Friends on the Internet.",
+                    "Toward Interactive Debugging for ISP Networks.",
+                    "Moving Away from Collision Avoidance: Aborting Collisions in Wireless Networks.",
+                    "Retransmission =/= Repeat: Simple Retransmission Permutation Can Resolve Overlapping Channel Collisions.",
+                    "One-Size-Fits-All Wireless Video.",
+                    "Routing Tables: Is Smaller Really Much Better?",
+                    "Pitfalls for ISP-friendly P2P design.",
+                    "The Duality between Message Routing and Epidemic Data Replication.",
+                    "Extending Networking into the Virtualization Layer."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "HotNets 2008",
+        "info": "Calgary, Alberta, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hotnets/2008",
+                "sub_name": "7th ACM Workshop on Hot Topics in Networks - HotNets-VII, Calgary, Alberta, Canada, October 6-7, 2008.",
+                "count": 22,
+                "papers": [
+                    "Rethinking Packet Forwarding Hardware.",
+                    "API Design Challenges for Open Router Platforms on Proprietary Hardware.",
+                    "Interference Avoidance and Control.",
+                    "Wireless ACK Collisions Not Considered Harmful.",
+                    "Message in Message (MIM): A Case for Shuffling Transmissions in Wireless Networks.",
+                    "Can You Fool Me? Towards Automatically Checking Protocol Gullibility.",
+                    "Revisiting Smart Dust with RFID Sensor Networks.",
+                    "Eat All You Can in an All-you-can-eat Buffet: A Case for Aggressive Resource Usage.",
+                    "Plugging Into Energy Market Diversity.",
+                    "On Delivering Embarrassingly Distributed Cloud Services.",
+                    "Dr. Multicast: Rx for Datacenter Communication Scalability.",
+                    "How to Evaluate Exotic Wireless Routing Protocols?",
+                    "Wireless Networks Should Spread Spectrum Based on Demands.",
+                    "An Architecture for Extensible Wireless LANs.",
+                    "Breaking Up the Transport Logjam.",
+                    "Reducing Transient Disconnectivity using Anomaly-Cognizant Forwarding.",
+                    "Pathlet Routing.",
+                    "Towards a New Internet Routing Architecture: Arguments for Separating Edges from Transit Core.",
+                    "ViAggre: Making Routers Last Longer!",
+                    "Good Things Come to Those Who (Can) Wait or How to Handle Delay Tolerant Traffic and Make Peace on the Internet.",
+                    "Ascertaining the Reality of Network Neutrality Violation in Backbone ISPs.",
+                    "NANO: Network Access Neutrality Observatory."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "HotNets 2007",
+        "info": "Atlanta, Georgia, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hotnets/2007",
+                "sub_name": "6th ACM Workshop on Hot Topics in Networks - HotNets-VI, Atlanta, Georgia, USA, November 14-15, 2007.",
+                "count": 22,
+                "papers": [
+                    "Procrastination Might Lead to a Longer and More Useful Life.",
+                    "Enabling an Energy-Efficient Future Internet Through Selectively Connected End Systems.",
+                    "VROOM: Virtual ROuters On the Move.",
+                    "A Message Oriented Phone System for Low Cost Connectivity.",
+                    "Supporting Emergency-Response by Retasking Network Infrastructures.",
+                    "Moving Toward the Middle: The Case Against the End-to-End Argument in Home Networking.",
+                    "Life (and routing) on the Wireless Manifold.",
+                    "Human Mobility Patterns and Their Impact on Delay Tolerant Networks.",
+                    "Architecting Citywide Ubiquitous Wi-Fi Access.",
+                    "Architectural Principles for Safe Web Programs.",
+                    "Holding the Internet Accountable.",
+                    "Towards a Modern Communications API.",
+                    "Personal Namespaces.",
+                    "Four-Bit Wireless Link Estimation.",
+                    "World Wide Web Without Walls.",
+                    "Tamper Resistant Network Tracing.",
+                    "Tryst: The Case for Confidential Service Discovery.",
+                    "Path Splicing: Reliable Connectivity with Rapid Recovery.",
+                    "PeerWise Discovery and Negotiation of Faster Paths.",
+                    "Interference Cancellation: Better Receivers for a New Wireless MAC.",
+                    "MIXIT: The Network Meets the Wireless Channel.",
+                    "Effects of Interference on Wireless Mesh Networks: Pathologies and a Preliminary Solution."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "HotNets 2006",
+        "info": "Irvine, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hotnets/2006",
+                "sub_name": "5th ACM Workshop on Hot Topics in Networks - HotNets-V, Irvine, California, USA, November 29-30, 2006.",
+                "count": 25,
+                "papers": [
+                    "Forward.",
+                    "From the reviews.",
+                    "(R)Evolutionary Bootstrapping of a Global PKI for Securing BGP.",
+                    "Don't Secure Routing Protocols, Secure Data Delivery.",
+                    "A Technical Approach to Net Neutrality.",
+                    "An Axiomatic Basis for Communication.",
+                    "Protocol Design Beyond Graph-Based Models.",
+                    "Some Implications of Low Power Wireless to IP Networking.",
+                    "Network System Challenges in Selective Sharing and Verification for Personal, Social, and Urban-Scale Sensing Applications.",
+                    "Rethinking Wireless in the Developing World.",
+                    "Service Portability.",
+                    "The End of Internet Architecture.",
+                    "Decongestion Control.",
+                    "A Simple Approach to DNS DoS Defense.",
+                    "SPACE: Secure Protocol for Address Book based Connection Establishment.",
+                    "Exploiting Social Networks for Internet Search.",
+                    "Free Riding in BitTorrent is Cheap.",
+                    "Capturing Complexity in Networked Systems Design: The Case for Improved Metrics.",
+                    "Discovering Dependencies for Network Management.",
+                    "Flexlab: A Realistic, Controlled, and Friendly Environment for Evaluating Networked Systems.",
+                    "Interconnection Discrimination: A Two-Sided Markets Perspective.",
+                    "Achieving Good End-to-End Service Using Bill-Pay.",
+                    "Fighting Coordinated Attackers with Cross-Organizational Information Sharing.",
+                    "Black Box Anomaly Detection: Is It Utopian?.",
+                    "Glavlit: Preventing Exfiltration at Wire Speed."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "HotNets 2005",
+        "info": "College Park, MD, USA",
+        "venues": []
+    },
+    {
+        "year": "2004",
+        "name": "HotNets 2004",
+        "info": "San Diego, CA, USA",
+        "venues": []
+    },
+    {
+        "year": "2003",
+        "name": "HotNets 2003",
+        "info": "Cambridge, MA, USA",
+        "venues": []
+    },
+    {
+        "year": "2002",
+        "name": "HotNets 2002",
+        "info": "Princeton, New Jersey, USA",
+        "venues": []
+    }
+]
