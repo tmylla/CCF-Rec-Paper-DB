@@ -154,13 +154,13 @@ class Parse_HTML(object):
             sub_name_abbr = ws_info.split(' -')[0].strip()
             sub_name = ws_info.split(' -')[1].strip()
 
-            db_sub_venue = dict()
-            db_sub_venue['sub_name_abbr'] = sub_name_abbr
-            db_sub_venue['sub_name'] = sub_name
-            db_sub_venue['count'] = 0
-            db_sub_venue['papers'] = list()
-
             for ws_yearly in ws.find_all('a'):  # 不同年份的workshop html链接
+                db_sub_venue = dict()
+                db_sub_venue['sub_name_abbr'] = sub_name_abbr
+                db_sub_venue['sub_name'] = sub_name
+                db_sub_venue['count'] = 0
+                db_sub_venue['papers'] = list()
+
                 ws_text = ws_yearly.text  # 举办年份，根据年份将workshop相关信息加入到主框架的paper_db['venue']
                 ws_url = ws_yearly['href']
 

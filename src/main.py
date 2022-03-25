@@ -52,7 +52,7 @@ if __name__ == '__main__':
     # fire.Fire(main)
     set_logger()
 
-    no = input('CCF期刊/会议类别：')
+    no = int(input('CCF期刊/会议类别：'))
     path = '../paper_db/{}'.format(no)
     if os.path.isdir(path):
         pass
