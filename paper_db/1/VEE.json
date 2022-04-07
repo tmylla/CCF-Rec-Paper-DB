@@ -1,0 +1,550 @@
+[
+    {
+        "year": "2022",
+        "name": "18th VEE 2022",
+        "info": "Virtual Event, Switzerland",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vee/2022",
+                "sub_name": "VEE '22: 18th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments, Virtual Event, Switzerland, 1 March 2022.",
+                "count": 9,
+                "papers": [
+                    "In pursuit of a trusted computing base: the journey through virtualization (keynote).",
+                    "Virtual programming environments: programming the cloud (keynote).",
+                    "Portkey: hypervisor-assisted container migration in nested cloud environments.",
+                    "Container-aware I/O stack: bridging the gap between container storage drivers and solid state devices.",
+                    "ClusterRR: a record and replay framework for virtual machine cluster.",
+                    "EOP: efficient operator partition for deep learning inference over edge servers.",
+                    "Enabling pipeline parallelism in heterogeneous managed runtime environments via batch processing.",
+                    "Transparent and lightweight object placement for managed workloads atop hybrid memories.",
+                    "Capability Boehm: challenges and opportunities for garbage collection with capability hardware."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2021",
+        "name": "17th VEE 2021",
+        "info": "Virtual Event, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vee/2021",
+                "sub_name": "VEE '21: 17th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments, Virtual USA, April 16, 2021.",
+                "count": 15,
+                "papers": [
+                    "virtio-mem: paravirtualized memory hot(un)plug.",
+                    "How to design a library OS for practical containers?",
+                    "Swift shadow paging (SSP): no write-protection but following TLB flushing.",
+                    "(No)Compromis: paging virtualization is not a fatality.",
+                    "Automatically exploiting the memory hierarchy of GPUs through just-in-time compilation.",
+                    "BTMMU: an efficient and versatile cross-ISA memory virtualization.",
+                    "Effective exploitation of SIMD resources in cross-ISA virtualization.",
+                    "Adaptive live migration of virtual machines under limited network bandwidth.",
+                    "Extending Intel PML for hardware-assisted working set size estimation of VMs.",
+                    "Multiple-tasks on multiple-devices (MTMD): exploiting concurrency in heterogeneous managed runtimes.",
+                    "Mitigating excessive vCPU spinning in VM-agnostic KVM.",
+                    "Automated bug localization in JIT compilers.",
+                    "Efficient LLVM-based dynamic binary translation.",
+                    "Analysis of NVMe-SSD to passthrough GPU data transfer in virtualized systems.",
+                    "Spons & Shields: practical isolation for trusted execution."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "name": "16th VEE 2020",
+        "info": "Virtual Event [Lausanne, Switzerland]",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vee/2020",
+                "sub_name": "VEE '20: 16th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments, virtual event [Lausanne, Switzerland], March 17, 2020.",
+                "count": 14,
+                "papers": [
+                    "GCPersist: an efficient GC-assisted lazy persistency framework for resilient Java applications on NVM.",
+                    "Deconstructing the garbage-first collector.",
+                    "GiantVM: a type-II hypervisor implementing many-to-one virtualization.",
+                    "Directvisor: virtualization for bare-metal cloud.",
+                    "Obtaining hard real-time performance and rich Linux features in a compounded real-time operating system by a partitioning hypervisor.",
+                    "Edge computing: the case for heterogeneous-ISA container migration.",
+                    "TruffleWasm: a WebAssembly interpreter on GraalVM.",
+                    "Blending containers and virtual machines: a study of firecracker and gVisor.",
+                    "LibrettOS: a dynamically adaptable multiserver-library OS.",
+                    "A robust and flexible operating system compatibility architecture.",
+                    "Intra-unikernel isolation with Intel memory protection keys.",
+                    "Lightweight kernel isolation with virtualization and VM functions.",
+                    "Instrew: leveraging LLVM for high performance dynamic binary instrumentation.",
+                    "Optimising dynamic binary modification across 64-bit Arm microarchitectures."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "15th VEE 2019",
+        "info": "Providence, RI, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vee/2019",
+                "sub_name": "Proceedings of the 15th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments, VEE 2019, Providence, RI, USA, April 14, 2019.",
+                "count": 16,
+                "papers": [
+                    "The changing face of enterprise virtualization (keynote).",
+                    "TEEv: virtualizing trusted execution environments on mobile platforms.",
+                    "Secure guest virtual machine support in apparition.",
+                    "ACRN: a big little hypervisor for IoT development.",
+                    "Fast and live hypervisor replacement.",
+                    "A binary-compatible unikernel.",
+                    "Cross-ISA machine instrumentation using fast and scalable dynamic binary translation.",
+                    "The janus triad: exploiting parallelism through dynamic binary modification.",
+                    "Mitigating JIT compilation latency in virtual execution environments.",
+                    "ScissorGC: scalable and efficient compaction for Java full garbage collection.",
+                    "Stochastic resource allocation.",
+                    "QuickCheck: using speculation to reduce the overhead of checks in NVM frameworks.",
+                    "Tail latency in node.js: energy efficient turbo boosting for long latency requests in event-driven web services.",
+                    "Dynamic application reconfiguration on heterogeneous hardware.",
+                    "vSocket: virtual socket interface for RDMA in public clouds.",
+                    "vCPU as a container: towards accurate CPU allocation for VMs."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "14th VEE 2018",
+        "info": "Williamsburg, VA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vee/2018",
+                "sub_name": "Proceedings of the 14th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments, VEE 2018, Williamsburg, VA, USA, March 25-25, 2018.",
+                "count": 7,
+                "papers": [
+                    "Hop, Skip, & Jump: Practical On-Stack Replacement for a Cross-Platform Language-Neutral VM.",
+                    "Improving Dynamically-Generated Code Performance on Dynamic Binary Translators.",
+                    "gMig: Efficient GPU Live Migration Optimized by Software Dirty Page for Full Virtualization.",
+                    "VM Live Migration At Scale.",
+                    "Demon: An Efficient Solution for on-Device MMU Virtualization in Mediated Pass-Through.",
+                    "Fast PokeEMU: Scaling Generated Instruction Tests Using Aggregation and State Chaining.",
+                    "An Analysis of x86-64 Inline Assembly in C Programs."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "13th VEE 2017",
+        "info": "Xi'an, China",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vee/2017",
+                "sub_name": "Proceedings of the 13th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments, VEE 2017, Xi'an, China, April 8-9, 2017.",
+                "count": 18,
+                "papers": [
+                    "Swift Birth and Quick Death: Enabling Fast Parallel Guest Boot and Destruction in the Xen Hypervisor.",
+                    "Unikernels Everywhere: The Case for Elastic CDNs.",
+                    "MigVisor: Accurate Prediction of VM Live Migration Behavior using a Working-Set Pattern Model.",
+                    "Catalyst: GPU-assisted rapid memory deduplication in virtualization environments.",
+                    "Just-In-Time GPU Compilation for Interpreted Languages with Partial Evaluation.",
+                    "Heterogeneous Managed Runtime Systems: A Computer Vision Case Study.",
+                    "Dancing with Wolves: Towards Practical Event-driven VMM Monitoring.",
+                    "Safe Inspection of Live Virtual Machines.",
+                    "Improving Virtualized Storage Performance with Sky.",
+                    "Security Analysis of Encrypted Virtual Machines.",
+                    "ReRanz: A Light-Weight Virtual Machine to Mitigate Memory Disclosure Attacks.",
+                    "Using OS Design Patterns to Provide Reliability and Security as-a-Service for VM-based Clouds.",
+                    "One Process to Reap Them All: Garbage Collection as-a-Service.",
+                    "Designing Locality and NUMA Aware MPI Runtime for Nested Virtualization based HPC Cloud with SR-IOV Enabled InfiniBand.",
+                    "Flexible Page-level Memory Access Monitoring Based on Virtualization Hardware.",
+                    "Content Look-Aside Buffer for Redundancy-Free Virtual Disk I/O and Caching.",
+                    "HyperMAMBO-X64: Using Virtualization to Support High-Performance Transparent Binary Translation.",
+                    "HA-VMSI: A Lightweight Virtual Machine Isolation Approach with Commodity Hardware for ARM."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "12th VEE 2016",
+        "info": "Atlanta, GA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vee/2016",
+                "sub_name": "Proceedings of the 12th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments, Atlanta, GA, USA, April 2-3, 2016.",
+                "count": 16,
+                "papers": [
+                    "Virtualizing the Edge of the Cloud: the New Frontier.",
+                    "Building a KVM-based Hypervisor for a Heterogeneous System Architecture Compliant System.",
+                    "Shoot4U: Using VMM Assists to Optimize TLB Operations on Preempted vCPUs.",
+                    "Performance Implications of Extended Page Tables on Virtualized x86 Processors.",
+                    "On Selecting the Right Optimizations for Virtual Machine Migration.",
+                    "Urgent Virtual Machine Eviction with Enlightened Post-Copy.",
+                    "SRVM: Hypervisor Support for Live Migration with Passthrough SR-IOV Network Devices.",
+                    "Enabling Efficient Hypervisor-as-a-Service Clouds with Eemeral Virtualization.",
+                    "Abstractions for Practical Virtual Machine Replay.",
+                    "Next Generation Virtual Memory Management.",
+                    "Exploiting FIFO Scheduler to Improve Parallel Garbage Collection Performance.",
+                    "Performance Analysis and Optimization of Full Garbage Collection in Memory-hungry Environments.",
+                    "Leveraging Managed Runtime Systems to Build, Analyze, and Optimize Memory Graphs.",
+                    "The nom Profit-Maximizing Operating System.",
+                    "Enabling Hybrid Parallel Runtimes Through Kernel and Virtualization Support.",
+                    "Sweet Spots and Limits for Virtualization."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "11th VEE 2015",
+        "info": "Istanbul, Turkey",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vee/2015",
+                "sub_name": "Proceedings of the 11th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments, Istanbul, Turkey, March 14-15, 2015.",
+                "count": 17,
+                "papers": [
+                    "A Comprehensive Implementation and Evaluation of Direct Interrupt Delivery.",
+                    "A Hybrid I/O Virtualization Framework for RDMA-capable Network Interfaces.",
+                    "Supporting High Performance Molecular Dynamics in Virtualized Clusters using IOMMU, SR-IOV, and GPUDirect.",
+                    "Proactively Breaking Large Pages to Improve Memory Overcommitment Performance in VMware ESXi.",
+                    "HSPT: Practical Implementation and Efficient Management of Embedded Shadow Page Tables for Cross-ISA System Virtual Machines.",
+                    "GPUswap: Enabling Oversubscription of GPU Memory through Transparent Swapping.",
+                    "HeteroVisor: Exploiting Resource Heterogeneity to Enhance the Elasticity of Cloud Platforms.",
+                    "A-DRM: Architecture-aware Distributed Resource Management of Virtualized Clusters.",
+                    "Towards VM Consolidation Using a Hierarchy of Idle States.",
+                    "Application of Domain-aware Binary Fuzzing to Aid Android Virtual Machine Testing.",
+                    "Exploring VM Introspection: Techniques and Trade-offs.",
+                    "PEMU: A Pin Highly Compatible Out-of-VM Dynamic Binary Instrumentation Framework.",
+                    "Improving Remote Desktopping Through Adaptive Record/Replay.",
+                    "Migration of Web Applications with Seamless Execution.",
+                    "AppSec: A Safe Execution Environment for Security Sensitive Applications.",
+                    "Hardware-Assisted Secure Resource Accounting under a Vulnerable Hypervisor.",
+                    "PARS: A Page-Aware Replication System for Efficiently Storing Virtual Machine Snapshots."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "10th VEE 2014",
+        "info": "Salt Lake City, UT, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vee/2014",
+                "sub_name": "10th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments, VEE '14, Salt Lake City, UT, USA, March 01 - 02, 2014.",
+                "count": 20,
+                "papers": [
+                    "Experiences in the land of virtual abstractions.",
+                    "Real-time deep virtual machine introspection and its applications.",
+                    "Tesseract: reconciling guest I/O and hypervisor swapping in a VM.",
+                    "Virtual asymmetric multiprocessor for interactive performance of consolidated desktops.",
+                    "Ginseng: market-driven memory allocation.",
+                    "Mortar: filling the gaps in data center memory.",
+                    "CMD: classification-based memory deduplication through page access characteristics.",
+                    "MuscalietJS: rethinking layered dynamic web runtimes.",
+                    "A fast abstract syntax tree interpreter for R.",
+                    "Deoptimization for dynamic language JITs on typed, stack-based virtual machines.",
+                    "The case for the three R's of systems research: repeatability, reproducibility and rigor.",
+                    "Efficient memory virtualization for Cross-ISA system mode emulation.",
+                    "A platform for secure static binary instrumentation.",
+                    "DBILL: an efficient and retargetable dynamic binary instrumentation framework using llvm backend.",
+                    "COMMA: coordinating the migration of multi-tier applications.",
+                    "Friendly barriers: efficient work-stealing with return barriers.",
+                    "String deduplication for Java-based middleware in virtualized environments.",
+                    "Shrinking the hypervisor one subsystem at a time: a userspace packet switch for virtual machines.",
+                    "A virtualized separation kernel for mixed criticality systems.",
+                    "Composable multi-level debugging with Stackdb."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "9th VEE 2013",
+        "info": "Houston, TX, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vee/2013",
+                "sub_name": "ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments (co-located with ASPLOS 2013), VEE '13, Houston, TX, USA, March 16-17, 2013.",
+                "count": 18,
+                "papers": [
+                    "SPIRE: improving dynamic binary translation through SPC-indexed indirect branch redirecting.",
+                    "Limits of region-based dynamic binary parallelization.",
+                    "Improving dynamic binary optimization through early-exit guided code region formation.",
+                    "Superblock compilation and other optimization techniques for a Java-based DPT machine emulator.",
+                    "Efficient live migration of virtual machines using shared storage.",
+                    "Introspection-based memory de-duplication and migration.",
+                    "VMScatter: migrate virtual machines to many hosts.",
+                    "Optimizing virtual machine live storage migration in heterogeneous storage environment.",
+                    "Parallelizing live migration of virtual machines.",
+                    "EXTERIOR: using a dual-VM based external shell for guest-OS introspection, configuration, and recovery.",
+                    "A lightweight VMM on many core for high performance computing.",
+                    "Traveling forward in time to newer operating systems using ShadowReboot.",
+                    "Performance potential of optimization phase selection during dynamic JIT compilation.",
+                    "A modular approach to on-stack replacement in LLVM.",
+                    "A framework for application guidance in virtual memory systems.",
+                    "Towards verifiable resource accounting for outsourced computation.",
+                    "Leveraging phase change memory to achieve efficient virtual machine execution.",
+                    "Preemptable ticket spinlocks: improving consolidated performance in the cloud."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "8th VEE 2012",
+        "info": "London, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vee/2012",
+                "sub_name": "Proceedings of the 8th International Conference on Virtual Execution Environments, VEE 2012, London, UK, March 3-4, 2012 (co-located with ASPLOS 2012).",
+                "count": 21,
+                "papers": [
+                    "Challenges in building a real, large private cloud.",
+                    "Modeling virtualized applications using machine learning techniques.",
+                    "Virtualization challenges: a view from server consolidation perspective.",
+                    "REEact: a customizable virtual execution manager for multicore platforms.",
+                    "DVM: towards a datacenter-scale virtual machine.",
+                    "SimTester: a controllable and observable testing framework for embedded systems.",
+                    "Swift: a register-based JIT compiler for embedded JVMs.",
+                    "Facilitating inter-application interactions for OS-level virtualization.",
+                    "Enhancing TCP throughput of highly available virtual machines via speculative communication.",
+                    "SecondSite: disaster tolerance as a service.",
+                    "CompSC: live migration with pass-through devices.",
+                    "libdft: practical dynamic data flow tracking for commodity systems.",
+                    "Transparent dynamic instrumentation.",
+                    "Execution mining.",
+                    "DDGacc: boosting dynamic DDG-based binary optimizations through specialized hardware support.",
+                    "Adding dynamically-typed language support to a statically-typed language compiler: performance evaluation, analysis, and tradeoffs.",
+                    "Unpicking the knot: teasing apart VM/application interdependencies.",
+                    "Block storage virtualization with commodity secure digital cards.",
+                    "Replacement attacks against VM-protected applications.",
+                    "Protecting applications against TOCTTOU races by user-space caching of file metadata.",
+                    "V2E: combining hardware virtualization and softwareemulation for transparent and extensible malware analysis."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "7th VEE 2011",
+        "info": "Newport Beach, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vee/2011",
+                "sub_name": "Proceedings of the 7th International Conference on Virtual Execution Environments, VEE 2011, Newport Beach, CA, USA, March 9-11, 2011 (co-located with ASPLOS 2011).",
+                "count": 21,
+                "papers": [
+                    "Virtualization in the age of heterogeneous machines.",
+                    "Performance profiling of virtual machines.",
+                    "Perfctr-Xen: a framework for performance counter virtualization.",
+                    "Dynamic cache contention detection in multi-threaded applications.",
+                    "Rethink the virtual machine template.",
+                    "Dolly: virtualization-driven database provisioning for the cloud.",
+                    "ReHype: enabling VM survival across hypervisor failures.",
+                    "Fast and space-efficient virtual machine checkpointing.",
+                    "Fast restore of checkpointed memory using working set estimation.",
+                    "Fast and correct performance recovery of operating systems using a virtual machine monitor.",
+                    "Evaluation of delta compression techniques for efficient live migration of large virtual machines.",
+                    "CloudNet: dynamic pooling of cloud resources by live WAN migration of virtual machines.",
+                    "Workload-aware live storage migration for clouds.",
+                    "Patch auditing in infrastructure as a service clouds.",
+                    "Fine-grained user-space security through virtualization.",
+                    "Minimal-overhead virtualization of a large scale supercomputer.",
+                    "Virtual WiFi: bring virtualization from wired to wireless.",
+                    "SymCall: symbiotic virtualization through VMM-to-guest upcalls.",
+                    "Overdriver: handling memory overload in an oversubscribed cloud.",
+                    "Selective hardware/software memory virtualization.",
+                    "Hybrid binary rewriting for memory access instrumentation."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "6th VEE 2010",
+        "info": "Pittsburgh, Pennsylvania, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vee/2010",
+                "sub_name": "Proceedings of the 6th International Conference on Virtual Execution Environments, VEE 2010, Pittsburgh, Pennsylvania, USA, March 17-19, 2010.",
+                "count": 16,
+                "papers": [
+                    "Transistors to toys: teaching systems to freshmen.",
+                    "Capability wrangling made easy: debugging on a microkernel with valgrind.",
+                    "Multi-stage replay with crosscut.",
+                    "Optimizing crash dump in virtualized environments.",
+                    "Looking beyond a singularity.",
+                    "Improving compiler-runtime separation with XIR.",
+                    "VMKit: a substrate for managed runtime environments.",
+                    "Neon: system support for derived data management.",
+                    "Energy-efficient storage in virtual machine environments.",
+                    "AASH: an asymmetry-aware scheduler for hypervisors.",
+                    "Supporting soft real-time tasks in the xen hypervisor.",
+                    "Efficient runtime tracking of allocation sites in Java.",
+                    "Evaluation of a just-in-time compiler retrofitted for PHP.",
+                    "Novel online profiling for virtual machines.",
+                    "DBT path selection for holistic memory efficiency and performance.",
+                    "Dynamic binary translation specialized for embedded systems."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "5th VEE 2009",
+        "info": "Washington, DC, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vee/2009",
+                "sub_name": "Proceedings of the 5th International Conference on Virtual Execution Environments, VEE 2009, Washington, DC, USA, March 11-13, 2009.",
+                "count": 14,
+                "papers": [
+                    "Architectural support for shadow memory in multiprocessors.",
+                    "A lock-free, concurrent, and incremental stack scanning for garbage collectors.",
+                    "Dynamic memory balancing for virtual machines.",
+                    "Memory buddies: exploiting page sharing for smart colocation in virtualized data centers.",
+                    "Entropy: a consolidation manager for clusters.",
+                    "Post-copy based live virtual machine migration using adaptive pre-paging and dynamic self-ballooning.",
+                    "Achieving 10 Gb/s using safe and transparent network interface virtualization.",
+                    "Tracing for web 3.0: trace compilation for the next generation web applications.",
+                    "Demystifying magic: high-level low-level programming.",
+                    "Influence of program inputs on the selection of garbage collectors.",
+                    "Task-aware virtual machine scheduling for I/O performance.",
+                    "The hybrid scheduling framework for virtual machine systems.",
+                    "BitVisor: a thin hypervisor for enforcing i/o device security.",
+                    "ClientVisor: leverage COTS OS functionalities for power management in virtualized desktop environment."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "4th VEE 2008",
+        "info": "Seattle, WA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vee/2008",
+                "sub_name": "Proceedings of the 4th International Conference on Virtual Execution Environments, VEE 2008, Seattle, WA, USA, March 5-7, 2008.",
+                "count": 18,
+                "papers": [
+                    "Scheduling I/O in virtual machine monitors.",
+                    "Inter-domain socket communications supporting high performance and full binary compatibility on Xen.",
+                    "Characterization & analysis of a server consolidation benchmark.",
+                    "Netchannel: a VMM-level mechanism for continuous, transparentdevice access during VM migration.",
+                    "Trace fragment selection within method-based JVMs.",
+                    "A method specialisation and virtualised execution environment for Java.",
+                    "Process-shared and persistent code caches.",
+                    "Using hypervisor to provide data secrecy for user applications on a per-page basis.",
+                    "Virtual machine-provided context sensitive page mappings.",
+                    "VMM-based hidden process detection and identification using Lycosid.",
+                    "Policy enforcement and compliance proofs for Xen virtual machines.",
+                    "Opening black boxes: using semantic information to combat virtual machine image sprawl.",
+                    "Execution replay of multiprocessor virtual machines.",
+                    "A principled approach to nondeferred reference-counting garbage collection.",
+                    "Cell GC: using the cell synergistic processor as a garbage collection coprocessor.",
+                    "Improving Xen security through disaggregation.",
+                    "Running a Java VM inside an operating system kernel.",
+                    "Applications of a feather-weight virtual machine."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "3rd VEE 2007",
+        "info": "San Diego, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vee/2007",
+                "sub_name": "Proceedings of the 3rd International Conference on Virtual Execution Environments, VEE 2007, San Diego, California, USA, June 13-15, 2007.",
+                "count": 19,
+                "papers": [
+                    "Cloneable JVM: a new approach to start isolated java applications faster.",
+                    "Automatic feedback-directed object inlining in the java hotspotTM virtual machine.",
+                    "Speculative optimization using hardware-monitored guarded regions for java virtual machines.",
+                    "VMM-independent graphics acceleration.",
+                    "Libra: a library operating system for a jvm in a virtualized execution environment.",
+                    "FoxyTechnique: tricking operating system policies with a virtual machine monitor.",
+                    "How to shadow every byte of memory used by a program.",
+                    "Cibyl: an environment for language diversity on mobile devices.",
+                    "YETI: a graduallY extensible trace interpreter.",
+                    "Dynamic compilation: the benefits of early investing.",
+                    "Virtual I/O scheduler: a scheduler of schedulers for performance virtualization.",
+                    "I/O processing in a virtualized platform: a simulation-driven approach.",
+                    "Xen and co.: communication-aware CPU scheduling for consolidated xen-based hosting platforms.",
+                    "PinOS: a programmable framework for whole-system dynamic instrumentation.",
+                    "Metadata driven memory optimizations in dynamic binary translator.",
+                    "Nomad: migrating OS-bypass networks in virtual machines.",
+                    "Live wide-area migration of virtual machines including local persistent state.",
+                    "Practical escape analyses: how good are they?",
+                    "Reflexes: abstractions for highly responsive systems."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "2nd VEE 2006",
+        "info": "Ottawa, Ontario, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vee/2006",
+                "sub_name": "Proceedings of the 2nd International Conference on Virtual Execution Environments, VEE 2006, Ottawa, Ontario, Canada, June 14-16, 2006.",
+                "count": 16,
+                "papers": [
+                    "Abolish runtime systems: operating systems should control the execution.",
+                    "Secure and practical defense against code-injection attacks using software dynamic translation.",
+                    "Using VMM-based sensors to monitor honeypots.",
+                    "A feather-weight virtual machine for windows applications.",
+                    "Live updating operating systems using virtualization.",
+                    "Hardware virtualization trends.",
+                    "Vector LLVA: a virtual vector instruction set for media processing.",
+                    "A stackless runtime environment for a Pi-calculus.",
+                    "A new approach to real-time checkpointing.",
+                    "JavaTM on the bare metal of wireless sensor devices: the squawk Java virtual machine.",
+                    "snBench: programming and virtualization framework for distributed multitasking sensor networks.",
+                    "Impact of virtual execution environments on processor energy consumption and hardware adaptation.",
+                    "Relative factors in performance analysis of Java virtual machines.",
+                    "Evaluating fragment construction policies for SDT systems.",
+                    "Dynamic code management: improving whole program code locality in managed runtimes.",
+                    "HotpathVM: an effective JIT compiler for resource-constrained devices."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "1st VEE 2005",
+        "info": "Chicago, IL, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vee/2005",
+                "sub_name": "Proceedings of the 1st International Conference on Virtual Execution Environments, VEE 2005, Chicago, IL, USA, June 11-12, 2005.",
+                "count": 21,
+                "papers": [
+                    "A unified view of virtualization.",
+                    "Friendly virtual machines: leveraging a feedback-control model for application adaptation.",
+                    "Diagnosing performance overheads in the xen virtual machine environment.",
+                    "Supporting per-processor local-allocation buffers using lightweight user-level preemption notification.",
+                    "A programmable microkernel for real-time systems.",
+                    "The pauseless GC algorithm.",
+                    "Using page residency to balance tradeoffs in tracing garbage collection.",
+                    "Exploiting frequent field values in java objects for reducing heap memory requirements.",
+                    "An efficient and generic reversible debugger using the virtual machine based approach.",
+                    "Module-aware translation for real-life desktop applications.",
+                    "Planning for code buffer management in distributed virtual execution environments.",
+                    "Application servers: virtualizing location, resources, memory, users and threads for business applications and web applications.",
+                    "Escape analysis in the context of dynamic compilation and deoptimization.",
+                    "Inlining java native calls at runtime.",
+                    "Optimized interval splitting in a linear scan register allocator.",
+                    "An execution layer for aspect-oriented programming languages.",
+                    "Virtual machine showdown: stack versus registers.",
+                    "Instrumenting annotated programs.",
+                    "PDS: a virtual execution environment for software deployment.",
+                    "The entropia virtual machine for desktop grids.",
+                    "HyperSpector: virtual distributed monitoring environments for secure intrusion detection."
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,1234 @@
+[
+    {
+        "year": "2021",
+        "name": "28th SAS 2021",
+        "info": "Chicago, IL, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/2021",
+                "sub_name": "Static Analysis - 28th International Symposium, SAS 2021, Chicago, IL, USA, October 17-19, 2021, Proceedings.",
+                "count": 22,
+                "papers": [
+                    "Fast and Efficient Bit-Level Precision Tuning.",
+                    "Hash Consed Points-To Sets.",
+                    "Backward Symbolic Execution with Loop Folding.",
+                    "Accelerating Program Analyses in Datalog by Merging Library Facts.",
+                    "Static Analysis of Endian Portability by Abstract Interpretation.",
+                    "Verified Functional Programming of an Abstract Interpreter.",
+                    "Disjunctive Interval Analysis.",
+                    "Static Analysis of ReLU Neural Networks with Tropical Polyhedra.",
+                    "Exploiting Verified Neural Networks via Floating Point Numerical Error.",
+                    "Verifying Low-Dimensional Input Neural Networks via Input Quantization.",
+                    "Data Abstraction: A General Framework to Handle Program Verification of Data Structures.",
+                    "Toward Neural-Network-Guided Program Synthesis and Verification.",
+                    "Selective Context-Sensitivity for k-CFA with CFL-Reachability.",
+                    "Selectively-Amortized Resource Bounding.",
+                    "Reduced Products of Abstract Domains for Fairness Certification of Neural Networks.",
+                    "A Multilanguage Static Analysis of Python Programs with Native C Extensions.",
+                    "Automated Verification of the Parallel Bellman-Ford Algorithm.",
+                    "Improving Thread-Modular Abstract Interpretation.",
+                    "Thread-Modular Analysis of Release-Acquire Concurrency.",
+                    "Symbolic Automatic Relations and Their Applications to SMT and CHC Solving.",
+                    "Compositional Verification of Smart Contracts Through Communication Abstraction.",
+                    "Automatic Synthesis of Data-Flow Analyzers."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "name": "27th SAS 2020",
+        "info": "Virtual Event",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/2020",
+                "sub_name": "Static Analysis - 27th International Symposium, SAS 2020, Virtual Event, November 18-20, 2020, Proceedings.",
+                "count": 16,
+                "papers": [
+                    "Static Resource Analysis at Scale (Extended Abstract).",
+                    "Cost Analysis of Smart Contracts Via Parametric Resource Analysis.",
+                    "Memory-Efficient Fixpoint Computation.",
+                    "Abstract Neural Networks.",
+                    "Termination of Polynomial Loops.",
+                    "Stratified Guarded First-Order Transition Systems.",
+                    "Predicate Abstraction and CEGAR for $\\nu \\mathrm {HFL}_\\mathbb {Z}$ Validity Checking.",
+                    "Counterexample- and Simulation-Guided Floating-Point Loop Invariant Synthesis.",
+                    "Formal Framework for Reasoning About the Precision of Dynamic Analysis.",
+                    "Simple and Efficient Computation of Minimal Weak Control Closure.",
+                    "A Library Modeling Language for the Static Analysis of C Programs.",
+                    "Interprocedural Shape Analysis Using Separation Logic-Based Transformer Summaries.",
+                    "Probabilistic Lipschitz Analysis of Neural Networks.",
+                    "On Multi-language Abstraction - Towards a Static Analysis of Multi-language Programs.",
+                    "Exact and Linear-Time Gas-Cost Analysis.",
+                    "Farkas-Based Tree Interpolation."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "26th SAS 2019",
+        "info": "Porto, Portugal",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/2019",
+                "sub_name": "Static Analysis - 26th International Symposium, SAS 2019, Porto, Portugal, October 8-11, 2019, Proceedings.",
+                "count": 22,
+                "papers": [
+                    "Rethinking Static Analysis by Combining Discrete and Continuous Reasoning.",
+                    "Static Analysis of Data Science Software.",
+                    "Fast and Precise Handling of Positive Weight Cycles for Field-Sensitive Pointer Analysis.",
+                    "Per-Dereference Verification of Temporal Heap Safety via Adaptive Context-Sensitive Analysis.",
+                    "A Change-Based Heuristic for Static Analysis with Policy Iteration.",
+                    "Syntactic and Semantic Soundness of Structural Dataflow Analysis.",
+                    "Abstract Interpretation of Indexed Grammars.",
+                    "Language Inclusion Algorithms as Complete Abstract Interpretations.",
+                    "On the Monniaux Problem in Abstract Interpretation.",
+                    "Revisiting Polyhedral Analysis for Hybrid Systems.",
+                    "An Efficient Parametric Linear Programming Solver and Application to Polyhedral Projection.",
+                    "Analysis of Software Patches Using Numerical Abstract Interpretation.",
+                    "Verifying Numerical Programs via Iterative Abstract Testing.",
+                    "Robustness Verification of Support Vector Machines.",
+                    "Analyzing Deep Neural Networks with Symbolic Propagation: Towards Higher Precision and Faster Verification.",
+                    "Sorcar: Property-Driven Algorithms for Learning Conjunctive Invariants.",
+                    "Direct Manipulation for Imperative Programs.",
+                    "Responsibility Analysis by Abstract Interpretation.",
+                    "Abstract Semantic Dependency.",
+                    "Temporal Verification of Programs via First-Order Fixpoint Logic.",
+                    "A Temporal Logic for Higher-Order Functional Programs.",
+                    "Multiphase-Linear Ranking Functions and Their Relation to Recurrent Sets."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "25th SAS 2018",
+        "info": "Freiburg, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/2018",
+                "sub_name": "Static Analysis - 25th International Symposium, SAS 2018, Freiburg, Germany, August 29-31, 2018, Proceedings.",
+                "count": 25,
+                "papers": [
+                    "Fairness: A Formal-Methods Perspective.",
+                    "The MISRA C Coding Standard and its Role in the Development and Analysis of Safety- and Security-Critical Embedded Software.",
+                    "Numerical Invariants via Abstract Machines.",
+                    "Deductive Verification in Decidable Fragments with Ivy.",
+                    "Experience Developing and Deploying Concurrency Analysis at Facebook.",
+                    "New Applications of Software Synthesis: Verification of Configuration Files and Firewall Repair.",
+                    "Interactive Verification of Distributed Protocols Using Decidable Logic.",
+                    "Abstract Interpretation of Stateful Networks.",
+                    "Block-Size Independence for GPU Programs.",
+                    "Extending Constraint-Only Representation of Polyhedra with Boolean Constraints.",
+                    "An Efficient Abstract Domain for Not Necessarily Closed Polyhedra.",
+                    "Modular Software Fault Isolation as Abstract Interpretation.",
+                    "Closing the Performance Gap Between Doubles and Rationals for Octagons.",
+                    "Verifying Properties of Differentiable Programs.",
+                    "A Reduced Product of Absolute and Relative Error Bounds for Floating-Point Analysis.",
+                    "Modular Static Analysis of String Manipulations in C Programs.",
+                    "Verifying Bounded Subset-Closed Hyperproperties.",
+                    "Process-Local Static Analysis of Synchronous Processes.",
+                    "The Impact of Program Transformations on Static Program Analysis.",
+                    "Efficiently Learning Safety Proofs from Appearance as well as Behaviours.",
+                    "Invertible Linear Transforms of Numerical Abstract Domains.",
+                    "Incremental Verification Using Trace Abstraction.",
+                    "Volume-Based Merge Heuristics for Disjunctive Numeric Domains.",
+                    "Abstract Interpretation of CTL Properties.",
+                    "Inductive Termination Proofs with Transition Invariants and Their Relationship to the Size-Change Abstraction."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "24th SAS 2017",
+        "info": "New York, NY, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/2017",
+                "sub_name": "Static Analysis - 24th International Symposium, SAS 2017, New York, NY, USA, August 30 - September 1, 2017, Proceedings.",
+                "count": 22,
+                "papers": [
+                    "Probabilistic Horn Clause Verification.",
+                    "Combining Forward and Backward Abstract Interpretation of Horn Clauses.",
+                    "Abstract Semantic Diffing of Evolving Concurrent Programs.",
+                    "Learning Shape Analysis.",
+                    "Securing the SSA Transform.",
+                    "Relative Store Fragments for Singleton Abstraction.",
+                    "Loop Invariants from Counterexamples.",
+                    "A Context-Sensitive Memory Model for Verification of C/C++ Programs.",
+                    "Effect Summaries for Thread-Modular Analysis - Sound Analysis Despite an Unsound Heuristic.",
+                    "Toward a Sound Analysis of Guarded LTI Loops with Inputs by Abstract Acceleration.",
+                    "Scalable Minimizing-Operators on Polyhedra via Parametric Linear Programming.",
+                    "Hyperhierarchy of Semantics - A Formal Framework for Hyperproperties Verification.",
+                    "Thread-Local Semantics and Its Efficient Sequential Abstractions for Race-Free Programs.",
+                    "Quantitative Static Analysis of Communication Protocols Using Abstract Markov Chains.",
+                    "Portability Analysis for Weak Memory Models. PORTHOS: One Tool for all Models.",
+                    "Template Polyhedra with a Twist.",
+                    "A New Abstraction Framework for Affine Transformers.",
+                    "Synthesizing Imperative Programs from Examples Guided by Static Analysis.",
+                    "A Gradual Interpretation of Union Types.",
+                    "Modular Demand-Driven Analysis of Semantic Difference for Program Versions.",
+                    "Verifying Array Manipulating Programs by Tiling.",
+                    "Incremental Analysis for Probabilistic Programs."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "23rd SAS 2016",
+        "info": "Edinburgh, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/2016",
+                "sub_name": "Static Analysis - 23rd International Symposium, SAS 2016, Edinburgh, UK, September 8-10, 2016, Proceedings.",
+                "count": 24,
+                "papers": [
+                    "Simulation and Invariance for Weak Consistency.",
+                    "Quantitative Monitor Automata.",
+                    "The Julia Static Analyzer for Java.",
+                    "Automated Verification of Linearization Policies.",
+                    "Structure-Sensitive Points-To Analysis for C and C++.",
+                    "Bounded Abstract Interpretation.",
+                    "Completeness in Approximate Transduction.",
+                    "Relational Verification Through Horn Clause Transformation.",
+                    "Securing a Compiler Transformation.",
+                    "Exploiting Sparsity in Difference-Bound Matrices.",
+                    "Flow- and Context-Sensitive Points-To Analysis Using Generalized Points-To Graphs.",
+                    "Learning a Variable-Clustering Strategy for Octagon from Labeled Data Generated by a Static Analysis.",
+                    "Static Analysis by Abstract Interpretation of the Functional Correctness of Matrix Manipulating Programs.",
+                    "Generalized Homogeneous Polynomials for Efficient Template-Based Nonlinear Invariant Synthesis.",
+                    "On the Linear Ranking Problem for Simple Floating-Point Loops.",
+                    "Alive-FP: Automated Verification of Floating Point Based Peephole Optimizations in LLVM.",
+                    "A Parametric Abstract Domain for Lattice-Valued Regular Expressions.",
+                    "Cell Morphing: From Array Programs to Array-Free Horn Clauses.",
+                    "Loopy: Programmable and Formally Verified Loop Transformations.",
+                    "Abstract Interpretation of Supermodular Games.",
+                    "Validating Numerical Semidefinite Programming Solvers for Polynomial Invariants.",
+                    "Enforcing Termination of Interprocedural Analysis.",
+                    "From Array Domains to Abstract Interpretation Under Store-Buffer-Based Memory Models.",
+                    "Making k-Object-Sensitive Pointer Analysis More Precise with Still k-Limiting."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "22nd SAS 2015",
+        "info": "Saint-Malo, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/2015",
+                "sub_name": "Static Analysis - 22nd International Symposium, SAS 2015, Saint-Malo, France, September 9-11, 2015, Proceedings.",
+                "count": 18,
+                "papers": [
+                    "Static Analysis of Non-interference in Expressive Low-Level Languages.",
+                    "Static Analysis with Set-Closure in Secrecy.",
+                    "A Binary Decision Tree Abstract Domain Functor.",
+                    "Precise Data Flow Analysis in the Presence of Correlated Method Calls.",
+                    "May-Happen-in-Parallel Analysis for Asynchronous Programs with Inter-Procedural Synchronization.",
+                    "Shape Analysis for Unstructured Sharing.",
+                    "Synthesizing Heap Manipulations via Integer Linear Programming.",
+                    "Explaining the Effectiveness of Small Refinement Heuristics in Program Verification with CEGAR.",
+                    "Safety Verification and Refutation by k-Invariants and k-Induction.",
+                    "Effective Soundness-Guided Reflection Analysis.",
+                    "SJS: A Type System for JavaScript with Fixed Object Layout.",
+                    "Refinement Type Inference via Horn Constraint Optimization.",
+                    "A Simple Abstraction of Arrays and Maps by Program Translation.",
+                    "Property-based Polynomial Invariant Generation Using Sums-of-Squares Optimization.",
+                    "Modularity in Lattices: A Case Study on the Correspondence Between Top-Down and Bottom-Up Analysis.",
+                    "Parallel Cost Analysis of Distributed Systems.",
+                    "A Forward Analysis for Recurrent Sets.",
+                    "Unbounded-Time Analysis of Guarded LTI Systems with Inputs by Abstract Acceleration."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "21st SAS 2014",
+        "info": "Munich, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/2014",
+                "sub_name": "Static Analysis - 21st International Symposium, SAS 2014, Munich, Germany, September 11-13, 2014. Proceedings.",
+                "count": 20,
+                "papers": [
+                    "Block Me If You Can! - Context-Sensitive Parameterized Verification.",
+                    "Peak Cost Analysis of Distributed Systems.",
+                    "Backward Analysis via over-Approximate Abstraction and under-Approximate Subtraction.",
+                    "SawjaCard: A Static Analysis Tool for Certifying Java Card Applications.",
+                    "Cyclic Abduction of Inductively Defined Safety and Termination Preconditions.",
+                    "Expectation Invariants for Probabilistic Program Loops as Fixed Points.",
+                    "An Abstract Domain to Infer Octagonal Constraints with Absolute Value.",
+                    "Verifying Recursive Programs Using Intraprocedural Analyzers.",
+                    "Automatic Analysis of Open Objects in Dynamic Language Programs.",
+                    "Invariance of Conjunctions of Polynomial Equalities for Algebraic Differential Equations.",
+                    "On Program Equivalence with Reductions.",
+                    "A Progress Bar for Static Analyzers.",
+                    "Sparse Dataflow Analysis with Pointers and Reachability.",
+                    "Reactivity of Cooperative Systems - Application to ReactiveML.",
+                    "Synthesis of Memory Fences via Refinement Propagation.",
+                    "Speeding Up Logico-Numerical Strategy Iteration.",
+                    "Cost-Aware Automatic Program Repair.",
+                    "An Abstract Domain Combinator for Separately Conjoining Memory Abstractions.",
+                    "A Decision Tree Abstract Domain for Proving Conditional Termination.",
+                    "Region-Based Selective Flow-Sensitive Pointer Analysis."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "20th SAS 2013",
+        "info": "Seattle, WA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/2013",
+                "sub_name": "Static Analysis - 20th International Symposium, SAS 2013, Seattle, WA, USA, June 20-22, 2013. Proceedings.",
+                "count": 25,
+                "papers": [
+                    "Static Analysis by Abstract Interpretation of Numerical Programs and Systems, and FLUCTUAT.",
+                    "Static Analysis in the Continuously Changing World.",
+                    "Abstract Interpretation over Non-lattice Abstract Domains.",
+                    "Localizing Widening and Narrowing.",
+                    "The Abstract Domain of Segmented Ranking Functions.",
+                    "Symbolic Automata for Static Specification Mining.",
+                    "Predicate Abstraction for Relaxed Memory Models.",
+                    "On Solving Universally Quantified Horn Clauses.",
+                    "From Concrete Examples to Heap Manipulating Programs.",
+                    "Local Shape Analysis for Overlaid Data Structures.",
+                    "Quantified Data Automata on Skinny Trees: An Abstract Domain for Lists.",
+                    "Static Validation of Dynamically Generated HTML Documents Based on Abstract Parsing and Semantic Processing.",
+                    "Byte-Precise Verification of Low-Level List Manipulation.",
+                    "Abstract Semantic Differencing for Numerical Programs.",
+                    "Precise Slicing in Imperative Programs via Term-Rewriting and Abstract Interpretation.",
+                    "Automatic Synthesis of Deterministic Concurrency.",
+                    "Witnessing Program Transformations.",
+                    "Formal Verification of a C Value Analysis Based on Abstract Interpretation.",
+                    "Efficient Generation of Correctness Certificates for the Abstract Domain of Polyhedra.",
+                    "Static Provenance Verification for Message Passing Programs.",
+                    "Verification as Learning Geometric Concepts.",
+                    "Interpolation-Based Verification of Floating-Point Programs with Abstract CDCL.",
+                    "Concise Analysis Using Implication Algebras for Task-Local Memory Optimisation.",
+                    "Automatic Verification of Erlang-Style Concurrency.",
+                    "Contextual Locking for Dynamic Pushdown Networks."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "19th SAS 2012",
+        "info": "Deauville, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/2012",
+                "sub_name": "Static Analysis - 19th International Symposium, SAS 2012, Deauville, France, September 11-13, 2012. Proceedings.",
+                "count": 29,
+                "papers": [
+                    "Computer-Aided Cryptographic Proofs.",
+                    "A Voyage to the Deep-Heap.",
+                    "Semantics and Analyses for JavaScript and the Web.",
+                    "Efficient May Happen in Parallel Analysis for Async-Finish Parallelism.",
+                    "Modular Static Analysis with Zonotopes.",
+                    "Polyhedral Analysis Using Parametric Objectives.",
+                    "Inference of Polynomial Invariants for Imperative Programs: A Farewell to Gr\u00f6bner Bases.",
+                    "A New Abstract Domain for the Representation of Mathematically Equivalent Expressions.",
+                    "An Abstract Domain to Infer Types over Zones in Spreadsheets.",
+                    "Bilateral Algorithms for Symbolic Abstraction.",
+                    "Making Abstract Interpretation Incomplete: Modeling the Potency of Obfuscation.",
+                    "Invariant Generation for Parametrized Systems Using Self-reflection - (Extended Version).",
+                    "Automatic Fence Insertion in Integer Programs via Predicate Abstraction.",
+                    "Control Flow Analysis for the Join Calculus.",
+                    "When the Decreasing Sequence Fails.",
+                    "Loop Leaping with Closures.",
+                    "Path-Sensitive Backward Slicing.",
+                    "Symbolic Learning of Component Interfaces.",
+                    "Liveness-Based Pointer Analysis.",
+                    "Succinct Representations for Abstract Interpretation - Combined Analysis Algorithms and Experimental Evaluation.",
+                    "Craig Interpretation.",
+                    "Satisfiability Solvers Are Static Analysers.",
+                    "A Generalization of St\u00e5lmarck's Method.",
+                    "A Structural Soundness Proof for Shivers's Escape Technique - A Case for Galois Connections.",
+                    "Modular Heap Analysis for Higher-Order Programs.",
+                    "Binary Reachability Analysis of Higher Order Functional Programs.",
+                    "On the Limits of the Classical Approach to Cost Analysis.",
+                    "Termination Proofs for Linear Simple Loops.",
+                    "Finding Non-terminating Executions in Distributed Asynchronous Programs."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "18th SAS 2011",
+        "info": "Venice, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/2011",
+                "sub_name": "Static Analysis - 18th International Symposium, SAS 2011, Venice, Italy, September 14-16, 2011. Proceedings.",
+                "count": 27,
+                "papers": [
+                    "Widening and Interpolation.",
+                    "Program Analysis and Machine Learning: A Win-Win Deal.",
+                    "Program Analysis for Web Security.",
+                    "Astr\u00e9e: Design and Experience.",
+                    "Formal Model Reduction.",
+                    "Purity Analysis: An Abstract Interpretation Formulation.",
+                    "The Complexity of Abduction for Separated Heap Abstractions.",
+                    "Efficient Decision Procedures for Heaps Using STRAND.",
+                    "The Flow-Insensitive Precision of Andersen's Analysis in Practice.",
+                    "Side-Effect Analysis of Assembly Code.",
+                    "Directed Symbolic Execution.",
+                    "Statically Validating Must Summaries for Incremental Compositional Dynamic Test Generation.",
+                    "On Sequentializing Concurrent Programs.",
+                    "Verifying Fence Elimination Optimisations.",
+                    "An Efficient Static Trace Simplification Technique for Debugging Concurrent Programs.",
+                    "A Family of Abstract Interpretations for Static Analysis of Concurrent Higher-Order Programs.",
+                    "Abstract Domains of Affine Relations.",
+                    "Transitive Closures of Affine Integer Tuple Relations and Their Overapproximations.",
+                    "Logico-Numerical Abstract Acceleration and Application to the Verification of Data-Flow Programs.",
+                    "Invisible Invariants and Abstract Interpretation.",
+                    "An Abstraction-Refinement Framework for Trigger Querying.",
+                    "Bound Analysis of Imperative Programs with the Size-Change Abstraction.",
+                    "Satisfiability Modulo Recursive Programs.",
+                    "Probabilistically Accurate Program Transformations.",
+                    "Probabilistic Abstractions with Arbitrary Domains.",
+                    "Software Verification Using k-Induction.",
+                    "Using Bounded Model Checking to Focus Fixpoint Iterations."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "17th SAS 2010",
+        "info": "Perpignan, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/2010",
+                "sub_name": "Static Analysis - 17th International Symposium, SAS 2010, Perpignan, France, September 14-16, 2010. Proceedings.",
+                "count": 28,
+                "papers": [
+                    "Time of Time.",
+                    "Static Verification for Code Contracts.",
+                    "Translation Validation of Loop Optimizations and Software Pipelining in the TVOC Framework - In Memory of Amir Pnueli.",
+                    "Size-Change Termination and Transition Invariants.",
+                    "Using Static Analysis in Space: Why Doing so?",
+                    "Statically Inferring Complex Heap, Array, and Numeric Invariants.",
+                    "From Object Fields to Local Variables: A Practical Approach to Field-Sensitive Analysis.",
+                    "Multi-dimensional Rankings, Program Termination, and Complexity Bounds of Flowchart Programs.",
+                    "Deriving Numerical Abstract Domains via Principal Component Analysis.",
+                    "Concurrent Separation Logic for Pipelined Parallelization.",
+                    "Automatic Abstraction for Intervals Using Boolean Formulae.",
+                    "Interval Slopes as a Numerical Abstract Domain for Floating-Point Variables.",
+                    "A Shape Analysis for Non-linear Data Structures.",
+                    "Modelling Metamorphism by Abstract Interpretation.",
+                    "Small Formulas for Large Programs: On-Line Constraint Simplification in Scalable Static Analysis.",
+                    "Compositional Bitvector Analysis for Concurrent Programs with Nested Locks.",
+                    "Computing Relaxed Abstract Semantics w.r.t. Quadratic Zones Precisely.",
+                    "Boxes: A Symbolic Abstract Domain of Boxes.",
+                    "Alternation for Termination.",
+                    "Interprocedural Analysis with Lazy Propagation.",
+                    "Verifying a Local Generic Solver in Coq.",
+                    "Thread-Modular Counterexample-Guided Abstraction Refinement.",
+                    "Generating Invariants for Non-linear Hybrid Systems by Linear Algebraic Methods.",
+                    "Linear-Invariant Generation for Probabilistic Programs: - Automated Support for Proof-Based Methods.",
+                    "Abstract Interpreters for Free.",
+                    "Points-to Analysis as a System of Linear Equations.",
+                    "Strictness Meets Data Flow.",
+                    "Automatic Verification of Determinism for Structured Parallel Programs."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "16th SAS 2009",
+        "info": "Los Angeles, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/2009",
+                "sub_name": "Static Analysis, 16th International Symposium, SAS 2009, Los Angeles, CA, USA, August 9-11, 2009. Proceedings.",
+                "count": 23,
+                "papers": [
+                    "Algorithmic Program Synthesis with Partial Programs and Decision Procedures.",
+                    "Algorithmic Verification of Systems Software Using SMT Solvers.",
+                    "Abstraction Refinement for Quantified Array Assertions.",
+                    "Inferring Dataflow Properties of User Defined Table Processors.",
+                    "Polymorphic Fractional Capabilities.",
+                    "Automatic Parallelization and Optimization of Programs by Proof Rewriting.",
+                    "Refinement of Trace Abstraction.",
+                    "The Causal Graph Revisited for Directed Model Checking.",
+                    "Proving the Correctness of the Implementation of a Control-Command Algorithm.",
+                    "Abstract Interpretation of FIFO Replacement.",
+                    "A Verifiable, Control Flow Aware Constraint Analyzer for Bounds Check Elimination.",
+                    "Increasing the Scope and Resolution of Interprocedural Static Single Assignment.",
+                    "Region Analysis for Race Detection.",
+                    "Bottom-Up Shape Analysis.",
+                    "The Complexity of Andersen's Analysis in Practice.",
+                    "Optimizing Pointer Analysis Using Bisimilarity.",
+                    "Type Analysis for JavaScript.",
+                    "Abstract Parsing: Static Analysis of Dynamically Generated String Output Using LR-Parsing Technology.",
+                    "Creating Transformations for Matrix Obfuscation.",
+                    "Abstract Interpretation from a Topological Perspective.",
+                    "Interval Polyhedra: An Abstract Domain to Infer Interval Linear Relationships.",
+                    "Invariant Checking for Programs with Procedure Calls.",
+                    "Inter-program Properties."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "15th SAS 2008",
+        "info": "Valencia, Spain",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/2008",
+                "sub_name": "Static Analysis, 15th International Symposium, SAS 2008, Valencia, Spain, July 16-18, 2008. Proceedings.",
+                "count": 24,
+                "papers": [
+                    "Transforming Abstract Interpretations by Abstract Interpretation.",
+                    "Reflections on the Role of Static Analysis in Cooperative Bug Isolation.",
+                    "Relational Analysis of Correlation.",
+                    "Convex Hull of Arithmetic Automata.",
+                    "Pointer Analysis, Conditional Soundness, and Proving the Absence of Errors.",
+                    "Protocol Inference Using Static Path Profiles.",
+                    "Solving Multiple Dataflow Queries Using WPDSs.",
+                    "Field Flow Sensitive Pointer and Escape Analysis for Java Using Heap Array SSA.",
+                    "Typing Linear Constraints for Moding CLP() Programs.",
+                    "On Polymorphic Recursion, Type Systems, and Abstract Interpretation.",
+                    "Modal Abstractions of Concurrent Behaviour.",
+                    "Hiding Software Watermarks in Loop Structures.",
+                    "Inferring Min and Max Invariants Using Max-Plus Polyhedra.",
+                    "Conflict Analysis of Programs with Procedures, Dynamic Thread Creation, and Monitors.",
+                    "Automatic Inference of Upper Bounds for Recurrence Relations in Cost Analysis.",
+                    "SLR: Path-Sensitive Analysis through Infeasible-Path Detection and Syntactic Language Refinement.",
+                    "Flow Analysis, Linearity, and PTIME.",
+                    "Quantum Entanglement Analysis Based on Abstract Interpretation.",
+                    "Language Strength Reduction.",
+                    "Analysing All Polynomial Equations in .",
+                    "Splitting the Control Flow with Boolean Flags.",
+                    "Reasoning about Control Flow in the Presence of Transient Faults.",
+                    "A Calculational Approach to Control-Flow Analysis by Abstract Interpretation.",
+                    "Heap Decomposition for Concurrent Shape Analysis."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "14th SAS 2007",
+        "info": "Kongens Lyngby, Denmark",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/2007",
+                "sub_name": "Static Analysis, 14th International Symposium, SAS 2007, Kongens Lyngby, Denmark, August 22-24, 2007, Proceedings.",
+                "count": 28,
+                "papers": [
+                    "Refactoring Using Type Constraints.",
+                    "Programming Language Design and Analysis Motivated by Hardware Evolution.",
+                    "A Compilation Model for Aspect-Oriented Polymorphically Typed Functional Languages.",
+                    "Lattice Automata: A Representation for Languages on Infinite Alphabets, and Some Applications to Verification.",
+                    "Compositional Verification and 3-Valued Abstractions Join Forces.",
+                    "Formalised Inductive Reasoning in the Logic of Bunched Implications.",
+                    "Optimal Abstraction on Real-Valued Programs.",
+                    "Taming the Wrapping of Integer Arithmetic.",
+                    "Under-Approximations of Computations in Real Numbers Based on Generalized Affine Arithmetic.",
+                    "A Framework for End-to-End Verification and Evaluation of Register Allocators.",
+                    "A New Algorithm for Identifying Loops in Decompilation.",
+                    "Accelerated Data-Flow Analysis.",
+                    "Abstract Error Projection.",
+                    "Precise Thread-Modular Verification.",
+                    "Modular Safety Checking for Fine-Grained Concurrency.",
+                    "Static Analysis of Dynamic Communication Systems by Partner Abstraction.",
+                    "Exploiting Pointer and Location Equivalence to Optimize Pointer Analysis.",
+                    "Hierarchical Pointer Analysis for Distributed Programs.",
+                    "Semantics-Based Transformation of Arithmetic Expressions.",
+                    "A Fast Implementation of the Octagon Abstract Domain on Graphics Hardware.",
+                    "Fixpoint-Guided Abstraction Refinements.",
+                    "Guided Static Analysis.",
+                    "Program Analysis Using Symbolic Ranges.",
+                    "Shape Analysis with Structural Invariant Checkers.",
+                    "Footprint Analysis: A Shape Analysis That Discovers Preconditions.",
+                    "Arithmetic Strengthening for Shape Analysis.",
+                    "Astr\u00e9e: From Research to Industry.",
+                    "Magic-Sets Transformation for the Analysis of Java Bytecode."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "13th SAS 2006",
+        "info": "Seoul, Korea",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/2006",
+                "sub_name": "Static Analysis, 13th International Symposium, SAS 2006, Seoul, Korea, August 29-31, 2006, Proceedings.",
+                "count": 27,
+                "papers": [
+                    "Unleashing the Power of Static Analysis.",
+                    "Static Analysis in Disjunctive Numerical Domains.",
+                    "Static Analysis of Numerical Algorithms.",
+                    "Static Analysis of String Manipulations in Critical Embedded C Programs.",
+                    "Abstract Regular Tree Model Checking of Complex Dynamic Data Structures.",
+                    "Structural Invariants.",
+                    "Existential Label Flow Inference Via CFL Reachability.",
+                    "Abstract Interpretation with Specialized Definitions.",
+                    "Underapproximating Predicate Transformers.",
+                    "Combining Widening and Acceleration in Linear Relation Analysis.",
+                    "Beyond Iteration Vectors: Instancewise Relational Abstract Domains.",
+                    "Separation Logic and Program Analysis.",
+                    "Beyond Reachability: Shape Abstraction in the Presence of Pointer Arithmetic.",
+                    "Specialized 3-Valued Logic Shape Analysis Using Structure-Based Refinement and Loose Embedding.",
+                    "Recency-Abstraction for Heap-Allocated Storage.",
+                    "Interprocedural Shape Analysis with Separated Heap Abstractions.",
+                    "Automated Verification of the Deutsch-Schorr-Waite Tree-Traversal Algorithm.",
+                    "Shape Analysis for Low-Level Code.",
+                    "Catching and Identifying Bugs in Register Allocation.",
+                    "Certificate Translation for Optimizing Compilers.",
+                    "Analysis of Low-Level Code Using Cooperating Decompilers.",
+                    "Static Analysis for Java Servlets and JSP.",
+                    "Cryptographically-Masked Flows.",
+                    "Proving the Properties of Communicating Imperfectly-Clocked Synchronous Systems.",
+                    "Parametric and Termination-Sensitive Control Dependence.",
+                    "Memory Leak Analysis by Contradiction.",
+                    "Path-Sensitive Dataflow Analysis with Iterative Refinement."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "12th SAS 2005",
+        "info": "London, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/2005",
+                "sub_name": "Static Analysis, 12th International Symposium, SAS 2005, London, UK, September 7-9, 2005, Proceedings.",
+                "count": 24,
+                "papers": [
+                    "Algorithmic Game Semantics and Static Analysis.",
+                    "From Typed Process Calculi to Source-Based Security.",
+                    "Widening Operators for Weakly-Relational Numeric Abstractions.",
+                    "Generation of Basic Semi-algebraic Invariants Using Convex Polyhedra.",
+                    "Inference of Well-Typings for Logic Programs with Application to Termination Analysis.",
+                    "Memory Space Conscious Loop Iteration Duplication for Reliable Execution.",
+                    "Memory Usage Verification for OO Programs.",
+                    "Abstraction Refinement for Termination.",
+                    "Data-Abstraction Refinement: A Game Semantic Approach.",
+                    "Locality-Based Abstractions.",
+                    "Type-Safe Optimisation of Plugin Architectures.",
+                    "Using Dependent Types to Certify the Safety of Assembly Code.",
+                    "The PER Model of Abstract Non-interference.",
+                    "A Relational Abstraction for Functions.",
+                    "Taming False Alarms from a Domain-Unaware C Analyzer by a Bayesian Statistical Post Analysis.",
+                    "Banshee: A Scalable Constraint-Based Analysis Toolkit.",
+                    "A Generic Framework for Interprocedural Analysis of Numerical Properties.",
+                    "Finding Basic Block and Variable Correspondence.",
+                    "Boolean Heaps.",
+                    "Interprocedural Shape Analysis for Cutpoint-Free Programs.",
+                    "Understanding the Origin of Alarms in Astr\u00e9e.",
+                    "Pair-Sharing Analysis of Object-Oriented Programs.",
+                    "Exploiting Sparsity in Polyhedral Analysis.",
+                    "Secure Information Flow as a Safety Problem."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "11th SAS 2004",
+        "info": "Verona, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/2004",
+                "sub_name": "Static Analysis, 11th International Symposium, SAS 2004, Verona, Italy, August 26-28, 2004, Proceedings.",
+                "count": 27,
+                "papers": [
+                    "Injecting Life with Computers.",
+                    "The Blast Query Language for Software Verification..",
+                    "Program Generators and the Tools to Make Them.",
+                    "Towards Declarative Programming for Web Services.",
+                    "Closed and Logical Relations for Over- and Under-Approximation of Powersets.",
+                    "Completeness Refinement in Abstract Symbolic Trajectory Evaluation.",
+                    "Constraint-Based Linear-Relations Analysis.",
+                    "Spatial Analysis of BioAmbients.",
+                    "Modular and Constraint-Based Information Flow Inference for an Object-Oriented Language.",
+                    "Information Flow Analysis in Logical Form.",
+                    "Type Inference Against Races.",
+                    "Pointer-Range Analysis.",
+                    "A Scalable Nonuniform Pointer Analysis for Embedded Programs.",
+                    "Bottom-Up and Top-Down Context-Sensitive Summary-Based Pointer Analysis.",
+                    "Abstract Interpretation of Combinational Asynchronous Circuits.",
+                    "Static Analysis of Gated Data Dependence Graphs.",
+                    "A Polynomial-Time Algorithm for Global Value Numbering.",
+                    "Shape Analysis Quantitative Shape Analysis.",
+                    "A Relational Approach to Interprocedural Shape Analysis.",
+                    "Partially Disjunctive Heap Abstraction.",
+                    "An Abstract Interpretation Approach for Automatic Generation of Polynomial Invariants.",
+                    "Approximating the Algebraic Relational Semantics of Imperative Programs.",
+                    "The Octahedron Abstract Domain.",
+                    "Path-Sensitive Analysis for Linear Arithmetic and Uninterpreted Functions.",
+                    "On Logics of Aliasing.",
+                    "Generalized Records and Spatial Conjunction in Role Logic.",
+                    "Non-termination Inference for Constraint Logic Programs."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "name": "10th SAS 2003",
+        "info": "San Diego, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/2003",
+                "sub_name": "Static Analysis, 10th International Symposium, SAS 2003, San Diego, CA, USA, June 11-13, 2003, Proceedings.",
+                "count": 27,
+                "papers": [
+                    "Precise Analysis of String Expressions.",
+                    "Modular Class Analysis with DATALOG.",
+                    "Class-Level Modular Analysis for Object Oriented Languages.",
+                    "Checking Interference with Fractional Permissions.",
+                    "Message Analysis for Concurrent Languages.",
+                    "Instantaneous Termination in Pure Esterel.",
+                    "Stack Size Analysis for Interrupt-Driven Programs.",
+                    "Program Development Using Abstract Interpretation (And The Ciao System Preprocessor).",
+                    "Selective Tail Call Elimination.",
+                    "Inserting Safe Memory Reuse Commands into ML-Like Programs.",
+                    "Weighted Pushdown Systems and Their Application to Interprocedural Dataflow Analysis.",
+                    "Client-Driven Pointer Analysis.",
+                    "Abstract Interpretation of Programs as Markov Decision Processes.",
+                    "A Logic for Analyzing Abstractions of Graph Transformation Systems.",
+                    "Type Systems for Distributed Data Sharing.",
+                    "Z-Ranking: Using Statistical Analysis to Counter the Impact of Static Analysis Approximations.",
+                    "Computer-Assisted Verification of a Protocol for Certified Email.",
+                    "Craig Interpolation and Reachability Analysis.",
+                    "Precise Widening Operators for Convex Polyhedra.",
+                    "Cartesian Factoring of Polyhedra in Linear Relation Analysis.",
+                    "Continuation-Based Partial Evaluation without Continuations.",
+                    "Loop Transformations for Reducing Data Space Requirements of Resource-Constrained Applications.",
+                    "Code Compaction of Matching Single-Entry Multiple-Exit Regions.",
+                    "Existential Heap Abstraction Entailment Is Undecidable.",
+                    "Typestate Verification: Abstraction Techniques and Complexity Results.",
+                    "Static Analysis of Accessed Regions in Recursive Data Structures.",
+                    "Establishing Local Temporal Heap Safety Properties with Applications to Compile-Time Memory Management."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2002",
+        "name": "9th SAS 2002",
+        "info": "Madrid, Spain",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/2002",
+                "sub_name": "Static Analysis, 9th International Symposium, SAS 2002, Madrid, Spain, September 17-20, 2002, Proceedings.",
+                "count": 35,
+                "papers": [
+                    "Static Program Analysis via 3-Valued Logic.",
+                    "Open Modeling in Multi-stakeholder Distributed Systems: Research and Tool Challenges.",
+                    "An Algebraic Approach to the Static Analysis of Concurrent Software.",
+                    "Polynomial Constants Are Decidable.",
+                    "Normalizable Horn Clauses, Strongly Recognizable Relations, and Spi.",
+                    "Nonuniform Alias Analysis of Recursive Data Structures and Arrays.",
+                    "Representing and Approximating Transfer Functions in Abstract Interpretation of Hetereogeneous Datatypes.",
+                    "Automated Verification of Concurrent Linked Lists with Counters.",
+                    "Backward Type Inference Generalises Type Checking.",
+                    "More Precise Yet Efficient Type Inference for Logic Programs.",
+                    "A Few Graph-Based Relational Numerical Abstract Domains.",
+                    "Static Analysis of the Numerical Stability of Loops.",
+                    "On Termination of Logic Programs with Floating Point Computations.",
+                    "Modular Control Flow Analysis for Libraries.",
+                    "An Efficient Inclusion-Based Points-To Analysis for Strictly-Typed Languages.",
+                    "Compactly Representing First-Order Structures for Static Analysis.",
+                    "Possibly Not Closed Convex Polyhedra and the Parma Polyhedra Library.",
+                    "Speeding Up Dataflow Analysis Using Flow-Insensitive Pointer Analysis.",
+                    "Improving the Precision of Equality-Based Dataflow Analyses.",
+                    "Guaranteed Optimization: Proving Nullspace Properties of Compilers.",
+                    "Representation Analysis for Coercion Placement.",
+                    "Pipeline Modeling for Timing Analysis.",
+                    "Analysing Approximate Confinement under Uniform Attacks.",
+                    "An Improved Constraint-Based System for the Verification of Security Protocols.",
+                    "From Secrecy to Authenticity in Security Protocols.",
+                    "Security Typings by Abstract Interpretation.",
+                    "Securing Communication in a Concurrent Language.",
+                    "Refinement of LTL Formulas for Abstract Model Checking.",
+                    "Making Abstract Model Checking Strongly Preserving.",
+                    "Semantics for Abstract Interpretation-Based Static Analyzes of Temporal Properties.",
+                    "Checking Safety Properties of Behavioral VHDL Descriptions by Abstract Interpretation.",
+                    "States vs. Traces in Model Checking by Abstract Interpretation.",
+                    "Reuse of Results in Termination Analysis of Typed Logic Programs.",
+                    "Finiteness Analysis in Polynomial Time.",
+                    "Detecting Optimal Termination Conditions of Logic Programs."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2001",
+        "name": "8th SAS 2001",
+        "info": "Paris, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/2001",
+                "sub_name": "Static Analysis, 8th International Symposium, SAS 2001, Paris, France, July 16-18, 2001, Proceedings.",
+                "count": 28,
+                "papers": [
+                    "Analysis of Multithreaded Programs.",
+                    "Communication and Parallelism Introduction and Elimination in Imperative Concurrent Programs.",
+                    "Using Slicing to Identify Duplication in Source Code.",
+                    "Soft Scheduling for Hardware.",
+                    "Effective Strictness Analysis with HORN Constraints.",
+                    "Applying Static Analysis Techniques for Inferring Termination Conditions of Logic Programs.",
+                    "An Abstract Analysis of the Probabilistic Termination of Programs.",
+                    "Watchpoint Semantics: A Tool for Compositional and Focussed Static Analyses.",
+                    "Parameterizing a Groundness Analysis of Logic Programs.",
+                    "Finite-Tree Analysis for Constraint Logic-Based Languages.",
+                    "Applications of Extended Static Checking.",
+                    "Cleanness Checking of String Manipulations in C Programs via Integer Analysis.",
+                    "Solving Regular Tree Grammar Based Constraints.",
+                    "Static Analyses of the Precision of Floating-Point Operations.",
+                    "Estimating the Impact of Scalable Pointer Analysis on Optimization.",
+                    "Efficient Computation of Parameterized Pointer Information for Interprocedural Analyses.",
+                    "Parametric Optimization of Open Real-Time Systems.",
+                    "Embedding Chaos.",
+                    "Analyzing Fair Parametric Extended Automata.",
+                    "Incompleteness, Counterexamples, and Refinements in Abstract Model-Checking.",
+                    "Language-Based Security: What's Needed and Why.",
+                    "A Behavioral Module System for the Pi-Calculus.",
+                    "An Abstract Interpretation Framework for Analysing Mobile Ambients.",
+                    "Abstract Interpretation-Based Static Analysis of Mobile Ambients.",
+                    "Static Analysis and Software Assurance.",
+                    "A Type and Effect Analysis of Security Protocols.",
+                    "Abstracting Cryptographic Protocols by Prolog Rules.",
+                    "Security-Typed Languages and Distributed Computation."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2000",
+        "name": "7th SAS 2000",
+        "info": "Santa Barbara, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/2000",
+                "sub_name": "Static Analysis, 7th International Symposium, SAS 2000, Santa Barbara, CA, USA, June 29 - July 1, 2000, Proceedings.",
+                "count": 22,
+                "papers": [
+                    "Enforcing Design Constraints with Object Logic.",
+                    "Model Checking as Constraint Solving.",
+                    "Abstract Interpretation Based Semantics of Sequent Calculi.",
+                    "A Transformational Approach for Generating Non-linear Invariants.",
+                    "Deriving Parallel Codes via Invariants.",
+                    "Safety of Strictness Analysis via Term Graph Rewriting.",
+                    "Checking Cleanness in Linked Lists.",
+                    "Confidentiality Analysis of Mobile Systems.",
+                    "Unified Analysis of Array and Object References in Strongly Typed Languages.",
+                    "Polymorphic versus Monomorphic Flow-Insensitive Points-to Analysis for C.",
+                    "Efficient Inference of Static Types for Java Bytecode.",
+                    "Abstract Interpretation of Game Properties.",
+                    "FULLDOC: A Full Reporting Debugger for Optimized Code.",
+                    "Partial Redundancy Elimination on Predicated Code.",
+                    "TVLA: A System for Implementing Static Analyses.",
+                    "Tree Schemata and Fair Termination.",
+                    "Abstract Interpretation of Probabilistic Semantics.",
+                    "Code Specialization Based on Value Profiles.",
+                    "Flattening Is an Improvement.",
+                    "Model Checking Guided Abstraction and Analysis.",
+                    "Abstract Domains for Sharing Analysis by Optimal Semantics.",
+                    "Concurrency Analysis for Java."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1999",
+        "name": "6th SAS 1999",
+        "info": "Venice, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/1999",
+                "sub_name": "Static Analysis, 6th International Symposium, SAS '99, Venice, Italy, September 22-24, 1999, Proceedings.",
+                "count": 23,
+                "papers": [
+                    "A Formal Study of Slicing for Multi-threaded Programs with JVM Concurrency Primitives.",
+                    "Static Analyses for Eliminating Unnecessary Synchronization from Java Programs.",
+                    "Dynamic Partitioning in Analyses of Numerical Properties.",
+                    "Polyhedral Analysis for Synchronous Languages.",
+                    "Decomposing Non-redundant Sharing by Complementation.",
+                    "Freeness Analysis Through Linear Refinement.",
+                    "Binary Decision Graphs.",
+                    "Binding-Time Analysis for Both Static and Dynamic Expressions.",
+                    "Abstract Interpretation of Mobile Ambients.",
+                    "Abstracting Cryptographic Protocols with Tree Automata.",
+                    "State Space Reduction Based on Live Variables Analysis.",
+                    "Partial Dead Code Elimination Using Extended Value Graph.",
+                    "Translating Out of Static Single Assignment Form.",
+                    "Eliminating Dead Code on Recursive Data.",
+                    "Detecting Equalities of Variables: Combining Efficiency with Precision.",
+                    "A New Class of Functions for Abstract Interpretation.",
+                    "Equational Semantics.",
+                    "Abstract Animator for Temporal Specifications: Application to TLA.",
+                    "Static Analysis of Mega-Programs.",
+                    "Safety versus Secrecy.",
+                    "On the Complexity Analysis of Static Analyses.",
+                    "Model-Checking: A Tutorial Introduction.",
+                    "Tutorial: Techniques to Improve the Scalability and Precision of Data Flow Analysis."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1998",
+        "name": "5th SAS 1998",
+        "info": "Pisa, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/1998",
+                "sub_name": "Static Analysis, 5th International Symposium, SAS '98, Pisa, Italy, September 14-16, 1998, Proceedings.",
+                "count": 23,
+                "papers": [
+                    "Bidirectional Data Flow Analysis in Code Motion: Myth and Reality.",
+                    "On a New Method for Dataflow Analysis of Java Virtual Machine Subroutines.",
+                    "Enabling Sparse Constant Propagation of Array Elements via Array SSA Form.",
+                    "Assessing the Effects of Flow-Sensitivity on Pointer Alias Analyses.",
+                    "Analysis of Normal Logic Programs.",
+                    "The Correctness of Set-Sharing.",
+                    "Deriving Analysers by Folding/Unfolding of Natural Semantics and a Case Study: Slicing.",
+                    "A Symbolic Semantics for Abstract Model Checking.",
+                    "Automatic Determination of Communication Topologies in Mobile Systems.",
+                    "Constructing Specific SOS Semantics for Concurrency via Abstract Interpretation.",
+                    "A First-Order Language for Expressing Aliasing and Type Properties of Logic Programs.",
+                    "Refining Static Analyses by Trace-Based Partitioning Using Control Flow.",
+                    "Building Complete Abstract Interpretations in a Linear Logic-based Setting.",
+                    "On the Power of Homeomorphic Embedding for Online Termination.",
+                    "Analysis of Imperative Programs through Analysis of Constraint Logic Programs.",
+                    "Improving Control in Functional Logic Program Specialization.",
+                    "Directional Type Inference for Logic Programs.",
+                    "Finite Subtype Inference with Explicit Polymorphism.",
+                    "Sparse Jacobian Computation in Automatic Differentiation by Static Program Analysis.",
+                    "A New Solution to the Hidden Copy Problem.",
+                    "A Tutorial on Domain Theory in Abstract Interpretation.",
+                    "Program Analysis as Model Checking of Abstract Interpretations.",
+                    "Certifying, Optimizing Compilation (Abstract)."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1997",
+        "name": "4th SAS 1997",
+        "info": "Paris, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/1997",
+                "sub_name": "Static Analysis, 4th International Symposium, SAS '97, Paris, France, September 8-10, 1997, Proceedings.",
+                "count": 33,
+                "papers": [
+                    "On Sparse Evaluation Representations.",
+                    "The Effects of the Precision of Pointer Analysis.",
+                    "Fast and Effective Procedure Inlining.",
+                    "Set-Sharing is Redundant for Pair-Sharing.",
+                    "An Algebraic Approach to Sharing Analysis of Logic Programs.",
+                    "Logical Optimality of Groundness Analysis.",
+                    "Towards a Cost-Effective Estimation of Uncaught Exceptions in SML Programs.",
+                    "Program Analysis Using Mixed Term and Set Constraints.",
+                    "Set-Based Analysis for Logic Programming and Tree Automata.",
+                    "Denotational Abstract Interpretation of Functional Logic Programs.",
+                    "Termination Analysis for Mercury.",
+                    "The Power of QDDs (Extended Abstract).",
+                    "Type-Based Analysis of Communication for Concurrent Programming Languages.",
+                    "True Concurrency via Abstract Interpretation.",
+                    "Static Analysis of Interaction Nets for Distributed Implementations.",
+                    "Type-Directed Flow Analysis for Typed Intermediate Languages.",
+                    "Exact Flow Analysis.",
+                    "Satisfying Subtype Inequalities in Polynomial Space.",
+                    "Static Analyses of Congruence Properties on Rational Numbers (Extended Abstract).",
+                    "Effective Specialization of Realistic Programs via Use Sensitivity.",
+                    "Coalescing Conditional Branches into Efficient Indirect Jumps.",
+                    "Automatic Termination Analysis for Partial Functions Using Polynomial Orderings.",
+                    "TEA: Automatically Proving Termination of Programs in a Non-strict Higher-Order Functional Language.",
+                    "Semantic Analyzer of Modula-Programs.",
+                    "Abstract Interpretation from Improving WAM Code.",
+                    "Attribute Grammars and Functional Programming Deforestation.",
+                    "Data Dependence as Abstract Interpretations.",
+                    "Abstract Interpretation: A Theory of Approximate Computation.",
+                    "On the Desirable Link Between Theory and Practice in Abstract Interpretation (Extended Abstract).",
+                    "Abstract Interpretation Based Static Analysis Parameterized by Semantics.",
+                    "Can Abstract Interpretation Become a Mainstream Compiler Technology? (Abstract).",
+                    "Combining Abstract Interpretation and Partial Evaluation (Brief Overview).",
+                    "Practical Compile-Time Analysis."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1996",
+        "name": "3rd SAS 1996",
+        "info": "Aachen, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/1996",
+                "sub_name": "Static Analysis, Third International Symposium, SAS'96, Aachen, Germany, September 24-26, 1996, Proceedings.",
+                "count": 28,
+                "papers": [
+                    "Constraint-Based Program Analysis (Abstract).",
+                    "Semantics-Directed Program Analysis: A Tool-Maker's Perspective.",
+                    "Property-Oriented Expansion.",
+                    "Generalized Dominators for Structured Programs.",
+                    "Cache Behavior Prediction by Abstract Interpretation.",
+                    "Termination Analysis for Offline Partial Evaluation of a Higher Order Functional Language.",
+                    "Proving Correctness of Constraint Logic Programs with Dynamic Scheduling.",
+                    "Understanding Mobile Agents via a Non-Interleaving Semantics for Facile.",
+                    "Termination Analysis for Partial Functions.",
+                    "A Freeness and Sharing Analysis of Logic Programs Based on a Pre-interpretation.",
+                    "Refinement Types for Program Analysis.",
+                    "A Comparison of Three Occur-Check Analysers.",
+                    "Analysis of the Equality Relations for the Program Terms.",
+                    "An Even Faster Solver for General Systems of Equations.",
+                    "Inferring Program Specifications in Polynomial-Time.",
+                    "Automated Modular Termination Proofs for Real Prolog Programs.",
+                    "Data-Flow-Based Virtual Function Resolution.",
+                    "Compiling Laziness Using Projections.",
+                    "Optimized Algorithms for Incremental Analysis of Logic Programs.",
+                    "Tractable Constraints in Finite Semilattices.",
+                    "Uniformity for the Decidability of Hybrid Automata.",
+                    "A Backward Slicing Algorithm for Prolog.",
+                    "Combining Slicing and Constraint Solving for Validation of Measurement Software.",
+                    "Subtyping Constrained Types.",
+                    "Abstract Cofibered Domains: Application to the Alias Analysis of Untyped Programs.",
+                    "STAN: A Static Analyzer for CLP(R) Based on Abstract Interpretation.",
+                    "Two Applications of an Incremental Analysis Engine for (Constraint) Logic Programs.",
+                    "PAN - The Prolog Analyzer."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1995",
+        "name": "2nd SAS 1995",
+        "info": "Glasgow, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/95",
+                "sub_name": "Static Analysis, Second International Symposium, SAS'95, Glasgow, UK, September 25-27, 1995, Proceedings.",
+                "count": 27,
+                "papers": [
+                    "Natural-Semantics-Based Abstract Interpretation (Preliminary Version).",
+                    "Region Inference for Higher-Order Functional Languages.",
+                    "An Automata-Theoretic Approach to Presburger Arithmetic Constraints (Extended Abstract).",
+                    "Generation of Efficient Interprocedural Analyzers with PAG.",
+                    "Optimality in Abstractions of Model Checking.",
+                    "Determining Storage Properties of Sequential and Concurrent Programs with Assignment and Structured Data.",
+                    "Partitioning Non-strict Functional Languages for Multi-threaded Code Generation.",
+                    "Complementation in Abstract Interpretation.",
+                    "Polymorphic Recursion and Subtype Qualifications: Polymorphic Binding-Time Analysis in Polynomial Time.",
+                    "Optimizing Lazy Functional Programs Using Flow Inference.",
+                    "Termination Analysis for Functional Programs using Term Orderings.",
+                    "A Type-based Analysis for Stack Allocation in Functional Languages.",
+                    "Control-Flow Analysis and Type Systems.",
+                    "Effective Flow Analysis for Avoiding Run-Time Checks.",
+                    "Static Analysis of Communication for Asynchronous Concurrent Programming Languages.",
+                    "Unification-Free Execution of Well-Moded and Well-Typed Prolog Programs.",
+                    "Efficient Closure Utilisation by Higher-Order Inheritance Analysis.",
+                    "System F and Abstract Interpretation.",
+                    "Call-By-Name CPS-Translation as a Binding-Time Improvement.",
+                    "Trust in the lambda-Calculus.",
+                    "LSign Reordered.",
+                    "Abstract Reduction Using a Tableau Calculus.",
+                    "Bigloo: A Portable and Optimizing Compiler for Strict Functional Languages.",
+                    "Beyond Prototype Implementations: Polymorphic Projection Analysis for Glasgow Haskell.",
+                    "Binding-Time Analysis and Strictness Analysis by Abstract Interpretation.",
+                    "GENA - A Tool for Generating Prolog Analyzers from Specifications.",
+                    "IGOR: A Tool for Developing Prolog Dataflow Analyzers."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1994",
+        "name": "1st SAS 1994",
+        "info": "Namur, Belgium",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/94",
+                "sub_name": "Static Analysis, First International Static Analysis Symposium, SAS'94, Namur, Belgium, September 28-30, 1994, Proceedings.",
+                "count": 29,
+                "papers": [
+                    "The Costs and Benefits of Abstract Interpretation-driven Prolog Optimization.",
+                    "Mode Analysis of Functional Logic Programs.",
+                    "Directional Type Checking of Logic Programs.",
+                    "A Systematic Construction of Abstract Domains.",
+                    "Constraint-Based Type Inference and Parametric Polymorphism.",
+                    "Efficient On-the-fly Analysis of Program Behavior and Static Cache Simulation.",
+                    "From Processor Timing Specifications to Static Intruction Scheduling.",
+                    "Stackability in the Simply-Typed Call-by-Value Lambda Calculus.",
+                    "Generalized Boxings, Congruences and Partial Inlining.",
+                    "Selective Thunkification.",
+                    "About Synchronous Programming and Abstract Interpretation.",
+                    "Uniqueness and Completeness Analysis of Array Comprehensions.",
+                    "Extended Analysis of Data Fields.",
+                    "Verification of Linear Hybrid Systems by Means of Convex Approximations.",
+                    "Compile-time Detection of Uncaught Exceptions in Standard ML Programs.",
+                    "Estimating the Computational Cost of Logic Programs.",
+                    "Boolean Functions for Dependency Analysis: Algebraic Properties and Efficient Representation.",
+                    "Deriving Polymorphic Type Dependencies for Logic Programs Using Multiple Incarnations of Prop.",
+                    "Extracting Non-Strict Independent And-Parallelism Using Sharing and Freeness Information.",
+                    "Efficient FixPoint Computation.",
+                    "Finding Fixpoints in Finite Function Spaces Using Neddedness Analysis and Chaotic Iteration.",
+                    "Efficient Strictness Analysis of Haskell.",
+                    "Abstract Interpretation Using TDGs.",
+                    "A Type-based Framework for Program Analysis.",
+                    "Iterative Fixed Point Computation for Type-Based Strictness Analysis.",
+                    "Strictness and Totality Analysis.",
+                    "Fast Strictness Analysis Via Symbolic Fixpoint Iteration.",
+                    "Generating Transformers for Deforestation and Supercompilation.",
+                    "Mechanical Elimination of Commutative Redundancy."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1993",
+        "name": "3. WSA 1993",
+        "info": "Padova, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/1993",
+                "sub_name": "Static Analysis, Third International Workshop, WSA'93, Padova, Italy, September 22-24, 1993, Proceedings.",
+                "count": 24,
+                "papers": [
+                    "The Impact of Granularity in Abstract Interpretation of Prolog.",
+                    "Optimization Techniques for General Purpose Fixpoint Algorithms - Practical Efficiency for the Abstract Interpretation of Prolog.",
+                    "Chaotic Fixpoint Iteration Guided by Dynamic Dependency.",
+                    "Fast Abstract Interpretation Using Sequential Algorithms.",
+                    "Abstract Interpretation and Verification of Reactive Systems.",
+                    "Semantics and Analysis of Linda-Based Languages.",
+                    "Compiling FX on the CM-2.",
+                    "Combining Dependability with Architectural Adatability by Means of the SIGNAL Language.",
+                    "Challenges in Developing Useful and Practical Static Analysis for Logic Programs.",
+                    "Occam's Razor in Metacompuation: the Notion of a Perfect Process Tree.",
+                    "Tupling Functions with Multiple Recursion Parameters.",
+                    "Avoiding Repeated Tests in Pattern Matching.",
+                    "Freeness, Sharing, Linearity and Correctness - All at Once.",
+                    "Synthesis of Directionality Information for Functional Logic Programs.",
+                    "Abstract Rewriting.",
+                    "Reflections on Program Optimization.",
+                    "Finiteness Conditions for Strictness Analysis.",
+                    "Strictness Properties of Lazy Algebraic Datatypes.",
+                    "Minimal Thunkification.",
+                    "An Efficient Abductive Reasoning System Based on Program Analysis.",
+                    "A Congruence for Gamma Programs.",
+                    "Usage Analysis with Natural Reduction Types.",
+                    "Polymorphic Types and Widening Operators.",
+                    "Demonstration: Static Analysis of AKL."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1992",
+        "name": "2. WSA 1992",
+        "info": "Bordeaux, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/1992",
+                "sub_name": "Actes WSA'92 Workshop on Static Analysis (Bordeaux, France), September 1992, Laboratoire Bordelais de Recherche en Informatique (LaBRI), Proceedings.",
+                "count": 35,
+                "papers": [
+                    "Thunks (Continued).",
+                    "Transformation of Gamma Programs.",
+                    "Value Transforming Style.",
+                    "Automatic Generation of Valid Linear Measures for CLP(Q) Programs.",
+                    "Efficient Analysis of Reactive Properties of Concurrent Constraint Logic Programs.",
+                    "Static Analysis of CLP Programs over Numeric Domains.",
+                    "The Mu-Calculus over Finite Domains as an Abstract Semantics of Prolog.",
+                    "Minimal Function Graphs are not Instrumented.",
+                    "Sharing Analysis of Lazy First-Order Functional Programs.",
+                    "Approximations d'\u00e9valuateurs fonctionnels.",
+                    "Order-of-Demand Analysis for Lazy Languages.",
+                    "Partial Evaluation in an Industrial Context: Compiling for Endomorphic Machines.",
+                    "Partial Evaluation applied to Symbolic Pattern Matching with Intelligent Backtrack.",
+                    "A Practical Application of Sharing and Freeness Inference.",
+                    "Efficient Closure Analysis with Reachability.",
+                    "Program Transformation in a Nonmonotonic Reasoning System.",
+                    "Axiomatising Uniform Properties of Recursive Data Structures.",
+                    "Speeding Up Parallelism Detection for Attribute Grammars.",
+                    "Weighted Systems Revisited.",
+                    "Analysis of Concurrent Transactions in a Functional Database Programming Language.",
+                    "Inf\u00e9rer rapidement la g\u00e9om\u00e9trie des collections.",
+                    "Using Abstract Interpretation for Gate splitting in LOTOS Specifications.",
+                    "An Application of Abstract Interpretation to Floating Point Arithmetic.",
+                    "On Boolean Feature Types.",
+                    "Relevant Logic and Strictness Analysis.",
+                    "On the Design of Generic Abstract Interpretation Frameworks.",
+                    "Inference Systems for Binding Time Analysis.",
+                    "Decompilation is the Efficient Enumeration of Types.",
+                    "Fractional Types.",
+                    "Static Analysis for Logic Program Specification.",
+                    "Towards Optimization of Full Prolog Programs guided by Abstract Interpretation.",
+                    "An Abstract Interpretation Algorithm for Residuating Logic Programs.",
+                    "Control-Flow Effects for Escape Analysis.",
+                    "A Polyvariant Binding Time Analysis Handling Partially Known Values.",
+                    "Partial Evaluation of Interaction Nets."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1991",
+        "name": "1. JTASPEFL/WSA 1991",
+        "info": "Bordeaux, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sas/1991",
+                "sub_name": "Actes JTASPEFL'91 (Bordeaux, France), October 1991, Laboratoire Bordelais de Recherche en Informatique (LaBRI), Proceedings.",
+                "count": 33,
+                "papers": [
+                    "A Proposal for a Modular Lisp with Macros and Dynamic Evaluation.",
+                    "Polymorphic Time Systems for Estimating Program Complexity.",
+                    "An Attempt to Find Polymorphic Types by Abstract Interpretation.",
+                    "Polymorphic Type, Region and Effect Inference.",
+                    "Relational Abstract Interpretation of Higher Order Functional Programs (extended abstract).",
+                    "Interpr\u00e9tation abstraite pour am\u00e9liorer la repr\u00e9sentation des environnements dans les langages fonctionnels.",
+                    "Equational Logics.",
+                    "Equational Reasonning and the Completion Procedure. A Comparative Study in Program Transformation.",
+                    "Une analyse du comportement r\u00e9cursif de programmes Prolog par une interpr\u00e9tation abstraite.",
+                    "Computations, Abstractions and Constraints (abstract).",
+                    "Evaluation partielle param\u00e9trable.",
+                    "An Implementation of Parametrized Partial Evaluation.",
+                    "Partial Evaluation of Polymorphically Typed Functional Languages: the Representation Problem.",
+                    "Partial Evaluation of an Intermediate Language for Equational Programs.",
+                    "Comparison of the Galois Connection and Widening/Narrowing Approaches to Abstract Interpretation.",
+                    "Axiomatizations of Backtracking.",
+                    "Modelling Prolog Control.",
+                    "A propos du contr\u00f4le de la r\u00e9solution.",
+                    "Techniques de transformations de programmes Prolog g\u00e9n\u00e9raux et validation de m\u00e9ta-interpr\u00e9teurs.",
+                    "Pr\u00e9dire \u00e0 bon escient.",
+                    "Interpr\u00e9tation abstraite au moyen de grammaires attribu\u00e9es.",
+                    "A Tool for Abstract Interpretation: Dynamic Programming.",
+                    "Unfolding, Procedural and Fixpoint Semantics of Logic Programs.",
+                    "Automatic Construction of Prolog Primitives for Type Checking Analysis.",
+                    "Generalising Deforestation for All First-Order Functional Programs.",
+                    "Transforming Programs to Eliminate Intermediate Structures.",
+                    "Non Functional Properties Can Guide Program Developments.",
+                    "Useless-Variable Elimination.",
+                    "An Analysis/Synthesis Language with Learning Strategies.",
+                    "A propos des redondances dans les syst\u00e8mes d'in\u00e9quations lin\u00e9aires.",
+                    "Analyse et transformation de programmes Prolog en vue de leur parall\u00e9lisation avec les pr\u00e9dicats parand et paror.",
+                    "Une repr\u00e9sentation abstraite des expressions et continuations en Scheme.",
+                    "On Static Properties of Specialized Programs."
+                ]
+            }
+        ]
+    }
+]

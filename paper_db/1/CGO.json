@@ -1,0 +1,901 @@
+[
+    {
+        "year": "2021",
+        "name": "19th CGO 2021",
+        "info": "Seoul, South Korea",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/cgo/2021",
+                "sub_name": "IEEE/ACM International Symposium on Code Generation and Optimization, CGO 2021, Seoul, South Korea, February 27 - March 3, 2021.",
+                "count": 35,
+                "papers": [
+                    "Message from the General Chair.",
+                    "Message from the Program Chairs.",
+                    "Report from the Artifact Evaluation Committee.",
+                    "Data Layout and Data Representation Optimizations to Reduce Data Movement Keynote.",
+                    "MLIR: Scaling Compiler Infrastructure for Domain Specific Computation.",
+                    "Progressive Raising in Multi-level IR.",
+                    "Towards a Domain-Extensible Compiler: Optimizing an Image Processing Pipeline on Mobile CPUs.",
+                    "BuildIt: A Type-Based Multi-stage Programming Framework for Code Generation in C++.",
+                    "An Interval Compiler for Sound Floating-Point Computations.",
+                    "Seamless Compiler Integration of Variable Precision Floating-Point Arithmetic.",
+                    "UNIT: Unifying Tensorized Instruction Compilation.",
+                    "Unleashing the Low-Precision Computation Potential of Tensor Cores on GPUs.",
+                    "Cinnamon: A Domain-Specific Language for Binary Profiling and Monitoring.",
+                    "GPA: A GPU Performance Advisor Based on Instruction Sampling.",
+                    "ELFies: Executable Region Checkpoints for Performance Analysis and Simulation.",
+                    "Vulkan Vision: Ray Tracing Workload Characterization using Automatic Graphics Instrumentation.",
+                    "Loop Parallelization using Dynamic Commutativity Analysis.",
+                    "Fine-Grained Pipeline Parallelization for Network Function Programs.",
+                    "YaskSite: Stencil Optimization Techniques Applied to Explicit ODE Methods on Modern Architectures.",
+                    "GoBench: A Benchmark Suite of Real-World Go Concurrency Bugs.",
+                    "Memory-Safe Elimination of Side Channels.",
+                    "Variable-Sized Blocks for Locality-Aware SpMV.",
+                    "Object Versioning for Flow-Sensitive Pointer Analysis.",
+                    "Scaling Up the IFDS Algorithm with Efficient Disk-Assisted Computing.",
+                    "Compiling Graph Applications for GPU s with GraphIt.",
+                    "Efficient Execution of Graph Algorithms on CPU with SIMD Extensions.",
+                    "r3d3: Optimized Query Compilation on GPUs.",
+                    "C-for-Metal: High Performance Simd Programming on Intel GPUs.",
+                    "Relaxed Peephole Optimization: A Novel Compiler Optimization for Quantum Circuits.",
+                    "StencilFlow: Mapping Large Stencil Programs to Distributed Spatial Computing Systems.",
+                    "Thread-Aware Area-Efficient High-Level Synthesis Compiler for Embedded Devices.",
+                    "HHVM Jump-Start: Boosting Both Warmup and Steady-State Performance at Scale.",
+                    "Enhancing Atomic Instruction Emulation for Cross-ISA Dynamic Binary Translation.",
+                    "An Experience with Code-Size Optimization for Production iOS Mobile Applications.",
+                    "ANGHABENCH: A Suite with One Million Compilable C Benchmarks for Code-Size Reduction."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "name": "18th CGO 2020",
+        "info": "San Diego, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/cgo/2020",
+                "sub_name": "CGO '20: 18th ACM/IEEE International Symposium on Code Generation and Optimization, San Diego, CA, USA, February, 2020.",
+                "count": 25,
+                "papers": [
+                    "Efficient nursery sizing for managed languages on multi-core processors with shared caches.",
+                    "Type freezing: exploiting attribute type monomorphism in tracing JIT compilers.",
+                    "Low-cost prediction-based fault protection strategy.",
+                    "Secure automatic bounds checking: prevention is simpler than cure.",
+                    "Aloe: verifying reliability of approximate programs in the presence of recovery mechanisms.",
+                    "Interactive debugging of concurrent programs under relaxed memory models.",
+                    "Testing static analyses for precision and soundness.",
+                    "HALO: post-link heap-layout optimisation.",
+                    "Efficient and scalable cross-ISA virtualization of hardware transactional memory.",
+                    "Speculative reconvergence for improved SIMT efficiency.",
+                    "Optimizing occupancy and ILP on the GPU using a combinatorial approach.",
+                    "Multi-layer optimizations for end-to-end data analytics.",
+                    "Optimizing ordered graph algorithms with GraphIt.",
+                    "A performance-optimizing compiler for cyber-physical digital microfluidic biochips.",
+                    "CogniCryptGEN: generating code for the secure usage of crypto APIs.",
+                    "AN5D: automated stencil framework for high-degree temporal blocking on GPUs.",
+                    "The design and implementation of the wolfram language compiler.",
+                    "SIMD support in .NET: abstract and concrete vector types and operations.",
+                    "NeuroVectorizer: end-to-end vectorization with deep reinforcement learning.",
+                    "Introducing the pseudorandom value generator selection in the compilation toolchain.",
+                    "COLAB: a collaborative multi-factor scheduler for asymmetric multicore processors.",
+                    "PreScaler: an efficient system-aware precision scaling framework on heterogeneous systems.",
+                    "ATMem: adaptive data placement in graph applications on heterogeneous memories.",
+                    "Automatic generation of high-performance quantized machine learning kernels.",
+                    "Deriving parametric multi-way recursive divide-and-conquer dynamic programming algorithms using polyhedral compilers."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "17th CGO 2019",
+        "info": "Washington, DC, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/cgo/2019",
+                "sub_name": "IEEE/ACM International Symposium on Code Generation and Optimization, CGO 2019, Washington, DC, USA, February 16-20, 2019.",
+                "count": 33,
+                "papers": [
+                    "BOLT: A Practical Binary Optimizer for Data Centers and Beyond.",
+                    "Janus: Statically-Driven and Profile-Guided Automatic Dynamic Binary Parallelisation.",
+                    "Smokestack: Thwarting DOP Attacks with Runtime Stack Layout Randomization.",
+                    "Automatic Equivalence Checking for Assembly Implementations of Cryptography Libraries.",
+                    "CSOD: Context-Sensitive Overflow Detection.",
+                    "Reasoning about the Node.js Event Loop using Async Graphs.",
+                    "Automatic Generation of Warp-Level Primitives and Atomic Instructions for Fast and Portable Parallel Reduction on GPUs.",
+                    "A Code Generator for High-Performance Tensor Contractions on GPUs.",
+                    "Transforming Query Sequences for High-Throughput B+ Tree Processing on Many-Core Processors.",
+                    "Quantifying and Reducing Execution Variance in STM via Model Driven Commit Optimization.",
+                    "White-Box Program Tuning.",
+                    "Generation of In-Bounds Inputs for Arrays in Memory-Unsafe Languages.",
+                    "Function Merging by Sequence Alignment.",
+                    "An Optimization-Driven Incremental Inline Substitution Algorithm for Just-in-Time Compilers.",
+                    "Tensor Algebra Compilation with Workspaces.",
+                    "Tiramisu: A Polyhedral Compiler for Expressing Fast and Portable Code.",
+                    "Super-Node SLP: Optimized Vectorization for Code Sequences Containing Operators and Their Inverse Elements.",
+                    "Locus: A System and a Language for Program Optimization.",
+                    "Decoding CUDA Binary.",
+                    "From Loop Fusion to Kernel Fusion: A Domain-Specific Approach to Locality Optimization.",
+                    "IGC: The Open Source Intel Graphics Compiler.",
+                    "Automatic Parallelization of Irregular x86-64 Loops.",
+                    "A Shared BTB Design for Multicore Systems.",
+                    "Optimizing RNA-RNA Interaction Computations.",
+                    "Code Generation from Formal Models for Automatic RTOS Portability.",
+                    "Understanding RDMA Behavior in NUMA Systems.",
+                    "Translating Traditional SIMD Instructions to Vector Length Agnostic Architectures.",
+                    "Accelerating GPU Computing at Runtime with Binary Optimization.",
+                    "Extending LLVM for Lightweight SPMD Vectorization: Using SIMD and Vector Instructions Easily from Any Language.",
+                    "Multi-target Compiler for the Deployment of Machine Learning Models.",
+                    "A Tool for Performance Analysis of GPU-Accelerated Applications.",
+                    "Kernel Fusion/Decomposition for Automatic GPU-Offloading.",
+                    "Translating CUDA to OpenCL for Hardware Generation using Neural Machine Translation."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/cgo/2019rwdsl",
+                "sub_name": "Proceedings of the 4th ACM International Workshop on Real World Domain Specific Languages, RWDSL@CGO 2019, Washington, DC, DC, USA, February 17, 2019.",
+                "count": 3,
+                "papers": [
+                    "A Case Study on RNA-RNA Interaction Application Implementation using AlphaZ.",
+                    "What we talk about when we talk about pcap expressions.",
+                    "Athos - A Model Driven Approach to Describe and Solve Optimisation Problems: An Application to the Vehicle Routing Problem with Time Windows."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "16th CGO 2018",
+        "info": "V\u00f6sendorf / Vienna, Austria",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/cgo/2018",
+                "sub_name": "Proceedings of the 2018 International Symposium on Code Generation and Optimization, CGO 2018, V\u00f6sendorf / Vienna, Austria, February 24-28, 2018.",
+                "count": 31,
+                "papers": [
+                    "Biological computation (keynote).",
+                    "SIMD intrinsics on managed language runtimes.",
+                    "CollectionSwitch: a framework for efficient and dynamic collection selection.",
+                    "Analyzing and optimizing task granularity on the JVM.",
+                    "Automating efficient variable-grained resiliency for low-power IoT systems.",
+                    "Resilient decentralized Android application repackaging detection using logic bombs.",
+                    "nAdroid: statically detecting ordering violations in Android applications.",
+                    "SGXElide: enabling enclave code secrecy via self-modification.",
+                    "Poker: permutation-based SIMD execution of intensive tree search by path encoding.",
+                    "High performance stencil code generation with lift.",
+                    "Qubit allocation.",
+                    "Dominance-based duplication simulation (DBDS): code duplication to enable compiler optimizations.",
+                    "The generalized matrix chain algorithm.",
+                    "CVR: efficient vectorization of SpMV on x86 processors.",
+                    "Look-ahead SLP: auto-vectorization in the presence of commutative operations.",
+                    "Conflict-free vectorization of associative irregular applications with recent SIMD architectural advances.",
+                    "Scalable concurrency debugging with distributed graph processing.",
+                    "Lightweight detection of cache conflicts.",
+                    "CUDAAdvisor: LLVM-based runtime profiling for modern GPUs.",
+                    "May-happen-in-parallel analysis with static vector clocks.",
+                    "DeLICM: scalar dependence removal at zero memory cost.",
+                    "Loop transformations leveraging hardware prefetching.",
+                    "Transforming loop chains via macro dataflow graphs.",
+                    "Local memory-aware kernel perforation.",
+                    "AutoPA: automatically generating active driver from original passive driver code.",
+                    "Synthesizing an instruction selection rule library from semantic specifications.",
+                    "Synthesizing programs that expose performance bottlenecks.",
+                    "Program generation for small-scale linear algebra applications.",
+                    "Optimal DNN primitive selection with partitioned boolean quadratic programming.",
+                    "Register allocation for Intel processor graphics.",
+                    "A compiler for cyber-physical digital microfluidic biochips."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/cgo/2018rwdsl",
+                "sub_name": "Proceedings of the Real World Domain Specific Languages Workshop, RWDSL@CGO 2018, Vienna, Austria, February 24-24, 2018.",
+                "count": 7,
+                "papers": [
+                    "Industrial Experience with the Migration of Legacy Models using a DSL.",
+                    "D'Artagnan: An Embedded DSL Framework for Distributed Embedded Systems.",
+                    "dsmodels: A Little Language for Dynamical Systems.",
+                    "A Task-Based DSL for Microcomputers.",
+                    "CFDlang: High-level code generation for high-order methods in fluid dynamics.",
+                    "Saiph: Towards a DSL for High-Performance Computational Fluid Dynamics.",
+                    "Q#: Enabling Scalable Quantum Computing and Development with a High-level DSL."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "15th CGO 2017",
+        "info": "Austin, TX, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/cgo/2017",
+                "sub_name": "Proceedings of the 2017 International Symposium on Code Generation and Optimization, CGO 2017, Austin, TX, USA, February 4-8, 2017.",
+                "count": 26,
+                "papers": [
+                    "Legato: end-to-end bounded region serializability using commodity hardware transactional memory.",
+                    "Automatic detection of extended data-race-free regions.",
+                    "FinePar: irregularity-aware fine-grained workload partitioning on integrated architectures.",
+                    "TwinKernels: an execution model to improve GPU hardware scheduling at compile time.",
+                    "Taming warp divergence.",
+                    "Dynamic buffer overflow detection for GPGPUs.",
+                    "Lift: a functional data-parallel IR for high-performance GPU code generation.",
+                    "Synthesizing benchmarks for predictive modeling.",
+                    "Formalizing the concurrency semantics of an LLVM fragment.",
+                    "ThinLTO: scalable and incremental LTO.",
+                    "Automatic generation of fast BLAS3-GEMM: a portable compiler approach.",
+                    "Pointer disambiguation via strict inequalities.",
+                    "A collaborative dependence analysis framework.",
+                    "Characterizing data organization effects on heterogeneous memory architectures.",
+                    "Clairvoyance: look-ahead compile-time scheduling.",
+                    "Phase-aware optimization in approximate computing.",
+                    "A space- and energy-efficient code Compression/Decompression technique for coarse-grained reconfigurable architectures.",
+                    "Cross-ISA machine emulation for multicores.",
+                    "Incremental whole program optimization and compilation.",
+                    "Optimizing function placement for large-scale data-center applications.",
+                    "Minimizing the cost of iterative compilation with active learning.",
+                    "Removing checks in dynamically typed languages through efficient profiling.",
+                    "Discovery and exploitation of general reductions: a constraint based approach.",
+                    "Parallel associative reductions in halide.",
+                    "Optimistic loop optimization.",
+                    "Software prefetching for indirect memory accesses."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/cgo/2017rwdsl",
+                "sub_name": "Proceedings of the 2nd International Workshop on Real World Domain Specific Languages, RWDSL@CGO 2017, Austin, TX, USA, February 4, 2017.",
+                "count": 4,
+                "papers": [
+                    "Hansl: a DSL for econometrics.",
+                    "Evolution of a Stream Transformation DSL.",
+                    "DEFIne: A Fluent Interface DSL for Deep Learning Applications.",
+                    "AFrame: A Domain Specific Language for Virtual Reality: Extended Abstract."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "14th CGO 2016",
+        "info": "Barcelona, Spain",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/cgo/2016",
+                "sub_name": "Proceedings of the 2016 International Symposium on Code Generation and Optimization, CGO 2016, Barcelona, Spain, March 12-18, 2016.",
+                "count": 25,
+                "papers": [
+                    "Cheetah: detecting false sharing efficiently and effectively.",
+                    "AutoFDO: automatic feedback-directed optimization for warehouse-scale applications.",
+                    "Portable performance on asymmetric multicore processors.",
+                    "StructSlim: a lightweight profiler to guide structure splitting.",
+                    "Exploiting recent SIMD architectural advances for irregular applications.",
+                    "Exploiting mixed SIMD parallelism by reducing data reorganization overhead.",
+                    "A black-box approach to energy-aware scheduling on integrated CPU-GPU systems.",
+                    "Portable and transparent software managed scheduling on accelerators for fair resource sharing.",
+                    "Communication-aware mapping of stream graphs for multi-GPU platforms.",
+                    "gpucc: an open-source GPGPU compiler.",
+                    "A basic linear algebra compiler for structured matrices.",
+                    "Opening polyhedral compiler's black box.",
+                    "Trace-based affine reconstruction of codes.",
+                    "Inference of peak density of indirect branches to detect ROP attacks.",
+                    "Sparse flow-sensitive pointer analysis for multithreaded programs.",
+                    "Symbolic range analysis of pointers.",
+                    "Towards automatic significance analysis for approximate computing.",
+                    "Have abstraction and eat performance, too: optimized heterogeneous computing with parallel patterns.",
+                    "NRG-loops: adjusting power from within applications.",
+                    "Validating optimizations of concurrent C/C++ programs.",
+                    "IPAS: intelligent protection against silent output corruption in scientific applications.",
+                    "Atomicity violation checker for task parallel programs.",
+                    "Flexible on-stack replacement in LLVM.",
+                    "BlackBox: lightweight security monitoring for COTS binaries.",
+                    "Re-constructing high-level information for language-specific binary re-optimization."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/cgo/2016rwdsl",
+                "sub_name": "Proceedings of the 1st International Workshop on Real World Domain Specific Languages, RWDSL@CGO 2016, Barcelona, Spain, March 12, 2016.",
+                "count": 6,
+                "papers": [
+                    "Are there Domain Specific Languages?",
+                    "Industrial Application of Domain Specific Languages Combined with Formal Techniques.",
+                    "Automatic Generation of Code Analysis Tools: The CastQL Approach.",
+                    "Visual Instance Inlining and Specialization: Building Domain-Specific Diagrams from Reusable Types.",
+                    "Why So Many?: A Brief Tour of Haskell DSLs for Parallel Programming.",
+                    "An Image Processing Language: External and Shallow/Deep Embeddings."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "13th CGO 2015",
+        "info": "San Francisco, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/cgo/2015",
+                "sub_name": "Proceedings of the 13th Annual IEEE/ACM International Symposium on Code Generation and Optimization, CGO 2015, San Francisco, CA, USA, February 07 - 11, 2015.",
+                "count": 24,
+                "papers": [
+                    "Improving GPGPU energy-efficiency through concurrent kernel execution and DVFS.",
+                    "Characterizing and enhancing global memory data coalescing on GPUs.",
+                    "Automatic data placement into GPU on-chip memory resources.",
+                    "A parallel abstract interpreter for JavaScript.",
+                    "MemorySanitizer: fast detector of uninitialized memory use in C++.",
+                    "On performance debugging of unnecessary lock contentions on multicore processors: a replay-based approach.",
+                    "Optimizing binary translation of dynamically generated code.",
+                    "Getting in control of your control flow with control-data isolation.",
+                    "Reactive tiling.",
+                    "Branch prediction and the performance of interpreters: don't trust folklore.",
+                    "Optimizing the flash-RAM energy trade-off in deeply embedded systems.",
+                    "EMEURO: a framework for generating multi-purpose accelerators via deep learning.",
+                    "Optimizing and auto-tuning scale-free sparse matrix-vector multiplication on Intel Xeon Phi.",
+                    "Data provenance tracking for concurrent programs.",
+                    "Locality aware concurrent start for stencil applications.",
+                    "Checking correctness of code generator architecture specifications.",
+                    "Snapshot-based loading-time acceleration for web applications.",
+                    "PSLP: padded SLP automatic vectorization.",
+                    "A graph-based higher-order intermediate representation.",
+                    "Scalable conditional induction variables (CIV) analysis.",
+                    "Approximating flow-sensitive pointer analysis using frequent itemset mining.",
+                    "HELIX-UP: relaxing program semantics to unleash parallelization.",
+                    "HERMES: a fast cross-ISA binary translator with post-optimization.",
+                    "Locality-centric thread scheduling for bulk-synchronous programming models on CPU architectures."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/cgo/2015cosmic",
+                "sub_name": "Proceedings of the 2015 International Workshop on Code Optimisation for Multi and Many Cores, COSMIC@CGO 2015, San Francisco Bay Area, CA, USA, February 8, 2015.",
+                "count": 8,
+                "papers": [
+                    "Dependence-Based Code Transformation for Coarse-Grained Parallelism.",
+                    "Hardware-Aware Automatic Code-Transformation to Support Compilers in Exploiting the Multi-Level Parallel Potential of Modern CPUs.",
+                    "The Basic Building Blocks of Parallel Tasks.",
+                    "Runtime Support for Multiple Offload-Based Programming Models on Embedded Manycore Accelerators.",
+                    "Exploiting Dynamic Parallelism to Efficiently Support Irregular Nested Loops on GPUs.",
+                    "An Evaluation of Memory Sharing Performance for Heterogeneous Embedded SoCs with Many-Core Accelerators.",
+                    "A Roadmap for a Type Architecture Based Parallel Programming Language.",
+                    "Cycle-based Model to Evaluate Consistency Protocols within a Multi-protocol Compilation Tool-chain."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "12th CGO 2014",
+        "info": "Orlando, Florida, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/cgo/2014",
+                "sub_name": "12th Annual IEEE/ACM International Symposium on Code Generation and Optimization, CGO 2014, Orlando, FL, USA, February 15-19, 2014.",
+                "count": 29,
+                "papers": [
+                    "Software Transactional Memory for GPU Architectures.",
+                    "Just-In-Time Software Pipelining.",
+                    "A Basic Linear Algebra Compiler.",
+                    "Efficient Mapping of Irregular C++ Applications to Integrated GPUs.",
+                    "Red Fox: An Execution Environment for Relational Query Processing on GPUs.",
+                    "Portable and Transparent Host-Device Communication Optimization for GPGPU Environments.",
+                    "Hybrid Hexagonal/Classical Tiling for GPUs.",
+                    "Call Paths for Pin Tools.",
+                    "LeakChecker: Practical Static Memory Leak Detection for Managed Languages.",
+                    "DrDebug: Deterministic Replay based Cyclic Debugging with Dynamic Slicing.",
+                    "DeltaPath: Precise and Scalable Calling Context Encoding.",
+                    "Dynamic and Adaptive Calling Context Encoding.",
+                    "Fine-grained Benchmark Subsetting for System Selection.",
+                    "Static Reference Analysis for GUI Objects in Android Software.",
+                    "Accelerating Dynamic Detection of Uses of Undefined Values with Static Value-Flow Analysis.",
+                    "Partial Escape Analysis and Scalar Replacement for Java.",
+                    "WatchdogLite: Hardware-Accelerated Compiler-Based Pointer Checking.",
+                    "Non-affine Extensions to Polyhedral Code Generation.",
+                    "Single Assignment Compiler, Single Assignment Architecture: Future Gated Single Assignment Form*; Static Single Assignment with Congruence Classes.",
+                    "Simplifying Scalable Graph Processing with a Domain-Specific Language.",
+                    "Security Signature Inference for JavaScript-based Browser Addons.",
+                    "Estimating the Empirical Cost Function of Routines with Dynamic Workloads.",
+                    "Automated Algorithmic Error Resilience for Structured Grid Problems Based on Outlier Detection.",
+                    "Adaptive Mapping and Parameter Selection Scheme to Improve Automatic Code Generation for GPUs.",
+                    "Fix the code. Don't tweak the hardware: A new compiler approach to Voltage-Frequency scaling.",
+                    "Fluidic Kernels: Cooperative Execution of OpenCL Programs on Multiple Heterogeneous Devices.",
+                    "Warm-Up Simulation Methodology for HW/SW Co-Designed Processors.",
+                    "Optimizing R VM: Allocation Removal and Path Length Reduction via Interpreter-level Specialization.",
+                    "Extending the PCRE Library with Static Backtracking Based Just-in-Time Compilation Support."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/cgo/2014odes",
+                "sub_name": "Proceedings of the 11th Workshop on Optimizations for DSP and Embedded Systems, ODES@CGO 2014, Orlando, Florida, USA, February 15, 2014.",
+                "count": 6,
+                "papers": [
+                    "Energy efficient data access techniques.",
+                    "Refresh-aware DDR3 barrel memory controller with deterministic functionality.",
+                    "Evaluating and estimating the WCET criticality metric.",
+                    "BCIBench: a benchmarking suite for EEG-based brain computer interface.",
+                    "Integrated modulo scheduling and cluster assignment for TI TMS320C64x+ architecture.",
+                    "Preliminary results for neuroevolutionary optimization phase order generation for static compilation."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "11th CGO 2013",
+        "info": "Shenzhen, China",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/cgo/2013",
+                "sub_name": "Proceedings of the 2013 IEEE/ACM International Symposium on Code Generation and Optimization, CGO 2013, Shenzhen, China, February 23-27, 2013.",
+                "count": 33,
+                "papers": [
+                    "Query-directed adaptive heap cloning for optimizing compilers.",
+                    "Lightweight fault detection in parallelized programs.",
+                    "Acceldroid: Co-designed acceleration of Android bytecode.",
+                    "Performance upper bound analysis and optimization of SGEMM on Fermi and Kepler GPUs.",
+                    "Effective fault localization based on minimum debugging frontier set.",
+                    "Practical lock/unlock pairing for concurrent programs.",
+                    "Hidp: A hierarchical data parallel language.",
+                    "On the platform specificity of STM instrumentation mechanisms.",
+                    "Automatic construction of inlining heuristics using machine learning.",
+                    "A polynomial spilling heuristic: Layered allocation.",
+                    "JSWhiz: Static analysis for JavaScript memory leaks.",
+                    "Locality-aware mapping and scheduling for multicores.",
+                    "Smart, adaptive mapping of parallelism in the presence of external workload.",
+                    "Experiences in designing a robust and scalable interpreter profiling framework.",
+                    "Instant profiling: Instrumentation sampling for profiling datacenter applications.",
+                    "Pertinent path profiling: Tracking interactions among relevant statements.",
+                    "Profmig: A framework for flexible migration of program profiles across software versions.",
+                    "Skadu: Efficient vector shadow memories for poly-scopic program analysis.",
+                    "Bandwidth Bandit: Quantitative characterization of memory contention.",
+                    "SIMD parallelization of applications that traverse irregular data structures.",
+                    "Vlock: Lock virtualization mechanism for exploiting fine-grained parallelism in graph traversal algorithms.",
+                    "Portable mapping of data parallel programs to OpenCL for heterogeneous systems.",
+                    "Profile-guided automated software diversity.",
+                    "Schnauzer: scalable profiling for likely security bug sites.",
+                    "Hydra: Automatic algorithm exploration from linear algebra equations.",
+                    "Automatically exploiting cross-invocation parallelism using runtime information.",
+                    "Idempotent code generation: Implementation, analysis, and evaluation.",
+                    "Improving data access efficiency by using a tagless access buffer (TAB).",
+                    "Just-in-time value specialization.",
+                    "Defensive loop tiling for shared cache.",
+                    "Runtime dependence computation and execution of loops on heterogeneous systems.",
+                    "Convergence and scalarization for data-parallel architectures.",
+                    "A fast and low-overhead technique to secure programs against integer overflows."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/cgo/2013cosmic",
+                "sub_name": "Proceedings of the First International Workshop on Code Optimisation for Multi and Many Cores, COSMIC@CGO 2013, Shenzhen, China, February 24, 2013.",
+                "count": 4,
+                "papers": [
+                    "Automatic speculative parallelization of loops using polyhedral dependence analysis.",
+                    "MIC acceleration of short-range molecular dynamics simulations.",
+                    "Prius: a runtime for hybrid computing.",
+                    "Fast dynamic binary rewriting to support thread migration in shared-ISA asymmetric multicores."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "10th CGO 2012",
+        "info": "San Jose, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/cgo/2012",
+                "sub_name": "10th Annual IEEE/ACM International Symposium on Code Generation and Optimization, CGO 2012, San Jose, CA, USA, March 31 - April 04, 2012.",
+                "count": 26,
+                "papers": [
+                    "Compiling for niceness: mitigating contention for QoS in warehouse scale computers.",
+                    "Compiling for automatically generated instruction set extensions.",
+                    "Dynamic compilation of data-parallel kernels for vector processors.",
+                    "Panacea: towards holistic optimization of MapReduce applications.",
+                    "WCET-aware static locking of instruction caches.",
+                    "Reconciling transactional conflicts with compiler's help.",
+                    "Micro-specialization: dynamic code specialization of database management systems.",
+                    "Scan detection and parallelization in \"inherently sequential\" nested loop programs.",
+                    "HELIX: automatic parallelization of irregular programs for chip multiprocessing.",
+                    "Automatic speculative DOALL for clusters.",
+                    "HQEMU: a multi-threaded and retargetable dynamic binary translator on multicores.",
+                    "PinADX: an interface for customizable debugging with dynamic instrumentation.",
+                    "DeadSpy: a tool to pinpoint program inefficiencies.",
+                    "Light-weight bounds checking.",
+                    "Runtime asynchronous fault tolerance via speculation.",
+                    "Auto-generation and auto-tuning of 3D stencil codes on GPU clusters.",
+                    "Dynamically managed data for CPU-GPU architectures.",
+                    "Phase guided profiling for fast cache modeling.",
+                    "Efficient and accurate data dependence profiling using software signatures.",
+                    "Using graph-based program characterization for predictive modeling.",
+                    "Hierarchical overlapped tiling.",
+                    "An automatic code overlaying technique for multicores with explicitly-managed memory hierarchies.",
+                    "Matching memory access patterns and data placement for NUMA systems.",
+                    "Deferred methods: accelerating dynamic program analysis on multicores.",
+                    "Efficient bottom-up heap analysis for symbolic path-based data access summaries.",
+                    "On-demand dynamic summary-based points-to analysis."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "9th CGO 2011",
+        "info": "Chamonix, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/cgo/2011",
+                "sub_name": "Proceedings of the CGO 2011, The 9th International Symposium on Code Generation and Optimization, Chamonix, France, April 2-6, 2011.",
+                "count": 30,
+                "papers": [
+                    "The language, optimizer, and tools mess.",
+                    "Formally verifying a compiler: Why? How? How far?",
+                    "MAO - An extensible micro-architectural optimizer.",
+                    "Phase-based tuning for better utilization of performance-asymmetric multicore processors.",
+                    "Dynamic register promotion of stack variables.",
+                    "Link-time optimization for power efficiency in a tagless instruction cache.",
+                    "The runtime abort graph and its application to software transactional memory optimization.",
+                    "LAR-CC: Large atomic regions with conditional commits.",
+                    "Runtime automatic speculative parallelization.",
+                    "Dynamically accelerating client-side web applications through decoupled execution.",
+                    "Language and compiler support for auto-tuning variable-accuracy algorithms.",
+                    "Automated programmable control and parameterization of compiler optimizations.",
+                    "Extendable pattern-oriented optimization directives.",
+                    "Predictive modeling in a polyhedral optimization space.",
+                    "Automatic parallelization of fine-grained meta-functions on a chip multiprocessor.",
+                    "Whole-function vectorization.",
+                    "Vapor SIMD: Auto-vectorize once, run everywhere.",
+                    "On-chip cache hierarchy-aware tile scheduling for multicore machines.",
+                    "Pinpointing data locality problems using data-centric analysis.",
+                    "Automated locality optimization based on the reuse distance of string operations.",
+                    "Neighborhood-aware data locality optimization for NoC-based multicores.",
+                    "Acculock: Accurate and efficient detection of data races.",
+                    "Practical memory checking with Dr. Memory.",
+                    "Intel's Array Building Blocks: A retargetable, dynamic compiler and embedded language.",
+                    "A HW/SW co-designed heterogeneous multi-core virtual machine for energy-efficient general purpose computing.",
+                    "A trace-based Java JIT compiler retrofitted from a method-based compiler.",
+                    "Using machines to learn method-specific compilation strategies.",
+                    "Prioritizing constraint evaluation for efficient points-to analysis.",
+                    "Highly scalable distributed dataflow analysis.",
+                    "Flow-sensitive pointer analysis for millions of lines of code."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "8th CGO 2010",
+        "info": "Toronto, Ontario, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/cgo/2010",
+                "sub_name": "Proceedings of the CGO 2010, The 8th International Symposium on Code Generation and Optimization, Toronto, Ontario, Canada, April 24-28, 2010.",
+                "count": 31,
+                "papers": [
+                    "Performance is dead, long live performance!",
+                    "PinPlay: a framework for deterministic replay and reproducible analysis of parallel programs.",
+                    "TAO: two-level atomicity for dynamic binary optimizations.",
+                    "Umbra: efficient and scalable memory shadowing.",
+                    "Large program trace analysis and compression with ZDDs.",
+                    "Taming hardware event samples for FDO compilation.",
+                    "Lightweight feedback-directed cross-module optimization.",
+                    "Automated just-in-time compiler tuning.",
+                    "Hybrid Java compilation and optimization for digital TV software platform.",
+                    "A self-adjusting code cache manager to balance start-up time and memory usage.",
+                    "On improving heap memory layout by dynamic pool allocation.",
+                    "An efficient software transactional memory using commit-time invalidation.",
+                    "Efficient compilation of fine-grained SPMD-threaded programs for multicore CPUs.",
+                    "There are at least two sides to every heterogeneous system.",
+                    "Decoupled software pipelining creates parallelization opportunities.",
+                    "Prospect: a compiler framework for speculative parallelization.",
+                    "Speculative parallelization of partial reduction variables.",
+                    "Automatic parallelization of simulink applications.",
+                    "Coloring-based coalescing for graph coloring register allocation.",
+                    "Linear scan register allocation on SSA form.",
+                    "Integrated instruction selection and register allocation for compact code generation exploiting freeform mixing of 16- and 32-bit instructions.",
+                    "Automatic creation of tile size selection models.",
+                    "Parameterized tiling revisited.",
+                    "Minimizing communication in rate-optimal software pipelining for stream programs.",
+                    "Level by level: making flow- and context-sensitive pointer analysis scalable for millions of lines of code.",
+                    "Towards program optimization through automated analysis of numerical precision.",
+                    "Statistically regulating program behavior via mainstream computing.",
+                    "Exploiting statistical correlations for proactive prediction of program behaviors.",
+                    "Contention aware execution: online contention detection and response.",
+                    "An adaptive task creation strategy for work-stealing scheduling.",
+                    "Dynamic interpretation for dynamic scripting languages."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "7th CGO 2009",
+        "info": "Seattle, Washington, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/cgo/2009",
+                "sub_name": "Proceedings of the CGO 2009, The Seventh International Symposium on Code Generation and Optimization, Seattle, Washington, USA, March 22-25, 2009.",
+                "count": 26,
+                "papers": [
+                    "Communication-Sensitive Static Dataflow for Parallel Message Passing Applications.",
+                    "Reducing Memory Ordering Overheads in Software Transactional Memory.",
+                    "Detecting and Eliminating Potential Violations of Sequential Consistency for Concurrent C/C++ Programs.",
+                    "ESoftCheck: Removal of Non-vital Checks for Fault Tolerance.",
+                    "Alchemist: A Transparent Dependence Distance Profiling Infrastructure.",
+                    "Workload Reduction for Multi-input Feedback-Directed Optimization.",
+                    "Profiling k-Iteration Paths: A Generalization of the Ball-Larus Profiling Algorithm.",
+                    "Automatic Feature Generation for Machine Learning Based Optimizing Compilation.",
+                    "Cross-Input Learning and Discriminative Prediction in Evolvable Virtual Machines.",
+                    "Computer Generation of General Size Linear Transform Libraries.",
+                    "Revisiting Out-of-SSA Translation for Correctness, Code Quality and Efficiency.",
+                    "Wave Propagation and Deep Propagation for Pointer Analysis.",
+                    "A Fast and Precise Static Loop Analysis Based on Abstract Interpretation, Program Slicing and Polytope Models.",
+                    "Techniques for Region-Based Register Allocation.",
+                    "Fast Track: A Software System for Speculative Program Optimization.",
+                    "Scenario Based Optimization: A Framework for Statically Enabling Online Optimizations.",
+                    "An Evaluation of Misaligned Data Access Handling Mechanisms in Dynamic Binary Translation Systems.",
+                    "A Practical Approach to Hardware Performance Monitoring Based Dynamic Optimizations in a Production JVM.",
+                    "Software Pipelined Execution of Stream Programs on GPUs.",
+                    "Stream Compilation for Real-Time Embedded Multicore Systems.",
+                    "Building Approximate Calling Context from Partial Call Traces.",
+                    "Two-Level Dictionary Code Compression: A New Scheme to Improve Instruction Code Density of Embedded Applications.",
+                    "Procedural Abstraction with Reverse Prefix Trees.",
+                    "OptiScope: Performance Accountability for Optimizing Compilers.",
+                    "Perflint: A Context Sensitive Performance Advisor for C++ Programs.",
+                    "Transparent Debugging of Dynamically Optimized Code."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "6th CGO 2008",
+        "info": "Boston, MA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/cgo/2008",
+                "sub_name": "Sixth International Symposium on Code Generation and Optimization (CGO 2008), April 5-9, 2008, Boston, MA, USA.",
+                "count": 24,
+                "papers": [
+                    "Perfdiff: a framework for performance difference analysis in a virtual machine environment.",
+                    "Automatic array inlining in java virtual machines.",
+                    "Phase-based adaptive recompilation in a JVM.",
+                    "Fast liveness checking for ssa-form programs.",
+                    "Near-optimal instruction selection on dags.",
+                    "Comprehensive path-sensitive data-flow analysis.",
+                    "Accurate critical path prediction via random trace construction.",
+                    "Efficient fine-grained binary instrumentationwith applications to taint-tracking.",
+                    "Branch-on-random.",
+                    "Prediction and trace compression of data access addresses through nested loop recognition.",
+                    "Latency-tolerant software pipelining in a production compiler.",
+                    "Parallel-stage decoupled software pipelining.",
+                    "Modulo scheduling for highly customized datapaths to increase hardware reusability.",
+                    "Removing redundancy via exception check motion.",
+                    "Fault-safe code motion for type-safe languages.",
+                    "Prefetching irregular references for software cache on cell.",
+                    "Cole: compiler optimization level exploration.",
+                    "Spice: speculative parallel iteration chunk execution.",
+                    "Pipa: pipelined profiling and analysis on multi-core systems.",
+                    "Program optimization space pruning for a multithreaded gpu.",
+                    "Compiling for vector-thread architectures.",
+                    "Code optimization of parallel programs: evolutionary vs. revolutionary approaches.",
+                    "Issues and challenges in compiling for graphics processors.",
+                    "Parallelism by design: data analysis with sawzall."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "5th CGO 2007",
+        "info": "San Jose, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/cgo/2007",
+                "sub_name": "Fifth International Symposium on Code Generation and Optimization (CGO 2007), 11-14 March 2007, San Jose, California, USA.",
+                "count": 29,
+                "papers": [
+                    "GPU Computing: Programming a Massively Parallel Processor.",
+                    "Parallel Programming Environment: A Key to Translating Tera-Scale Platforms into a Big Success.",
+                    "Understanding Tradeoffs in Software Transactional Memory.",
+                    "Code Generation and Optimization for Transactional Memory Constructs in an Unmanaged Language.",
+                    "Run-Time Support for Optimizations Based on Escape Analysis.",
+                    "Evaluating Indirect Branch Handling Mechanisms in Software Dynamic Translation Systems.",
+                    "Persistent Code Caching: Exploiting Code Reuse Across Executions and Applications.",
+                    "Virtual Cluster Scheduling Through the Scheduling Graph.",
+                    "On the Complexity of Register Coalescing.",
+                    "A Dimension Abstraction Approach to Vectorization in Matlab.",
+                    "Microarchitecture Sensitive Empirical Models for Compiler Optimizations.",
+                    "Iterative Optimization in the Polyhedral Model: Part I, One-Dimensional Time.",
+                    "Evaluating Heuristic Optimization Phase Order Search Algorithms.",
+                    "Loop Optimization using Hierarchical Compilation and Kernel Decomposition.",
+                    "Rapidly Selecting Good Compiler Optimizations using Performance Counters.",
+                    "Shadow Profiling: Hiding Instrumentation Costs with Parallelism.",
+                    "SuperPin: Parallelizing Dynamic Instrumentation for Real-Time Performance.",
+                    "Compilation Techniques for Real-Time Java Programs.",
+                    "Compiler-Directed Variable Latency Aware SPM Management to CopeWith Timing Problems.",
+                    "Compiler-Managed Software-based Redundant Multi-Threading for Transient Fault Detection.",
+                    "Graph-Based Procedural Abstraction.",
+                    "Structure Layout Optimization for Multithreaded Programs.",
+                    "Code Compaction of an Operating System Kernel.",
+                    "Ubiquitous Memory Introspection.",
+                    "Pipelined Execution of Critical Sections Using Software-Controlled Caching in Network Processors.",
+                    "Isla Vista Heap Sizing: Using Feedback to Avoid Paging.",
+                    "Exploiting Narrow Accelerators with Data-Centric Subgraph Mapping.",
+                    "Heterogeneous Clustered VLIW Microarchitectures.",
+                    "Profile-assisted Compiler Support for Dynamic Predication in Diverge-Merge Processors."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "4th CGO 2006",
+        "info": "New York, NY, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/cgo/2006",
+                "sub_name": "Fourth IEEE/ACM International Symposium on Code Generation and Optimization (CGO 2006), 26-29 March 2006, New York, New York, USA.",
+                "count": 37,
+                "papers": [
+                    "International Symposium on Code Generation and Optimization - Front Cover.",
+                    "International Symposium on Code Generation and Optimization - Title Page.",
+                    "International Symposium on Code Generation and Optimization - Copyright.",
+                    "Message from the General Co-Chairs.",
+                    "Message from the Program Chair.",
+                    "Committees.",
+                    "Reviewers.",
+                    "Corporate Sponsors.",
+                    "A Cross-Architectural Interface for Code Cache Manipulation.",
+                    "Thread-Shared Software Code Caches.",
+                    "Tailoring Graph-coloring Register Allocation For Runtime Compilation.",
+                    "A Self-Repairing Prefetcher in an Event-Driven Dynamic Optimization Framework.",
+                    "Java JNI Bridge: A Framework for Mixed Native ISA Execution.",
+                    "Space-Efficient 64-bit Java Objects through Selective Typed Virtual Addressing.",
+                    "Experiences with Multi-threading and Dynamic Class Loading in a Java Just-In-Time Compiler.",
+                    "Dynamic Class Hierarchy Mutation.",
+                    "Online Phase Detection Algorithms.",
+                    "Region Monitoring for Local Phase Detection in Dynamic Optimization Systems.",
+                    "Selecting Software Phase Markers with Code Structure Analysis.",
+                    "Profiling over Adaptive Ranges.",
+                    "2D-Profiling: Detecting Input-Dependent Branches with a Single Input Data Set.",
+                    "Constructing Virtual Architectures on a Tiled Processor.",
+                    "Compiling for EDGE Architectures.",
+                    "Data and Computation Transformations for Brook Streaming Applications on Multiprocessors.",
+                    "Compiler-directed Data Partitioning for Multicluster Processors.",
+                    "Inline Analysis: Beyond Selection Heuristics.",
+                    "Practical Structure Layout Optimization and Advice.",
+                    "Post Register Allocation Spill Code Optimization.",
+                    "A Compiler-Guided Approach for Reducing Disk Power Consumption by Exploiting Disk Access Locality.",
+                    "Optimizing Dynamic Binary Translation for SIMD Instructions.",
+                    "Multi-platform Auto-vectorization.",
+                    "Using Machine Learning to Focus Iterative Optimization.",
+                    "Exhaustive Optimization Phase Order Space Exploration.",
+                    "Fast and Effective Orchestration of Compiler Optimizations for Automatic Performance Tuning.",
+                    "Software-Based Transparent and Comprehensive Control-Flow Error Detection.",
+                    "Compiler Optimizations to Reduce Security Overhead.",
+                    "BIRD: Binary Interpretation using Runtime Disassembly."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "3rd CGO 2005",
+        "info": "San Jose, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/cgo/2005",
+                "sub_name": "3nd IEEE / ACM International Symposium on Code Generation and Optimization (CGO 2005), 20-23 March 2005, San Jose, CA, USA.",
+                "count": 28,
+                "papers": [
+                    "Virtual Machine Learning: Thinking like a Computer Architect.",
+                    "Context Threading: A Flexible and Efficient Dispatch Technique for Virtual Machine Interpreters.",
+                    "Automatically Reducing Repetitive Synchronization with a Just-in-Time Compiler for Java.",
+                    "Compile-Time Concurrent Marking Write Barrier Removal.",
+                    "Collecting and Exploiting High-Accuracy Call Graph Profiles in Virtual Machines.",
+                    "Effective Adaptive Computing Environment Management via Dynamic Optimization.",
+                    "Maintaining Consistency and Bounding Capacity of Software Code Caches.",
+                    "Performance of Runtime Optimization on BLAST.",
+                    "Optimizing Sorting with Genetic Algorithms.",
+                    "Combining Models and Guided Empirical Search to Optimize for Multiple Levels of the Memory Hierarchy.",
+                    "Predicting Unroll Factors Using Supervised Classification.",
+                    "Multicores from the Compiler's Perspective: A Blessing or a Curse?.",
+                    "Optimizing Address Code Generation for Array-Intensive DSP Applications.",
+                    "Efficient SIMD Code Generation for Runtime Alignment and Length Conversion.",
+                    "Superword-Level Parallelism in the Presence of Control Flow.",
+                    "Compiler Managed Dynamic Instruction Placement in a Low-Power Code Cache.",
+                    "Phase-Aware Remote Profiling.",
+                    "Practical Path Profiling for Dynamic Optimizers.",
+                    "A Programmable Hardware Path Profiler.",
+                    "Automatic Generation of High-Performance Trace Compressors.",
+                    "SWIFT: Software Implemented Fault Tolerance.",
+                    "Building Intrusion-Tolerant Secure Software.",
+                    "A Progressive Register Allocator for Irregular Architectures.",
+                    "A General Compiler Framework for Speculative Optimizations Using Data Speculative Code Motion.",
+                    "Practical and Accurate Low-Level Pointer Analysis.",
+                    "Reactive Techniques for Controlling Software Speculation.",
+                    "Model-Based Framework: An Approach for Profit-Driven Optimization.",
+                    "Sentinel PRE: Hoisting beyond Exception Dependency with Dynamic Deoptimization."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "2nd CGO 2004",
+        "info": "San Jose, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/cgo/2004",
+                "sub_name": "2nd IEEE / ACM International Symposium on Code Generation and Optimization (CGO 2004), 20-24 March 2004, San Jose, CA, USA.",
+                "count": 25,
+                "papers": [
+                    "Ispike: A Post-link Optimizer for the Intel\u00aeItanium\u00aeArchitecture.",
+                    "Physical Experimentation with Prefetching Helper Threads on Intel's Hyper-Threaded Processors.",
+                    "Compiler Optimization of Memory-Resident Value Communication Between Speculative Threads.",
+                    "VHC: Quickly Building an Optimizer for Complex Embedded Architectures.",
+                    "SYZYGY - A Framework for Scalable Cross-Module IPO.",
+                    "LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation.",
+                    "Exploring Code Cache Eviction Granularities in Dynamic Optimization Systems.",
+                    "Improving 64-Bit Java IPF Performance by Compressing Heap References.",
+                    "A Dynamically Tuned Sorting Library.",
+                    "Software-Controlled Operand-Gating.",
+                    "Specialized Dynamic Optimizations for High-Performance Energy-Efficient Microarchitecture.",
+                    "Probabilistic Predicate-Aware Modulo Scheduling.",
+                    "Single-Dimension Software Pipelining for Multi-Dimensional Loops.",
+                    "Code Generation for Single-Dimension Software Pipelining of Multi-Dimensional Loops.",
+                    "Exploring the Performance Potential of Itanium\u00ae Processors with ILP-based Scheduling.",
+                    "FLASH: Foresighted Latency-Aware Scheduling Heuristic for Processors with Customized Datapaths.",
+                    "Using Dynamic Binary Translation to Fuse Dependent Instructions.",
+                    "The Accuracy of Initial Prediction in Two-Phase Dynamic Binary Translators.",
+                    "Targeted Path Profiling: Lower Overhead Path Profiling for Staged Dynamic Optimization Systems.",
+                    "Extending Path Profiling across Loop Backedges and Procedure Boundaries.",
+                    "Optimizing Translation Out of SSA Using Renaming Constraints.",
+                    "A Compiler Scheme for Reusing Intermediate Computation Results.",
+                    "Custom Data Layout for Memory Parallelism.",
+                    "Static Identification of Delinquent Loads.",
+                    "Exposing Memory Access Regularities Using Object-Relative Memory Profiling."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "name": "1st CGO 2003",
+        "info": "San Francisco, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/cgo/2003",
+                "sub_name": "1st IEEE / ACM International Symposium on Code Generation and Optimization (CGO 2003), 23-26 March 2003, San Francisco, CA, USA.",
+                "count": 29,
+                "papers": [
+                    "The Transmeta Code Morphing - Software: Using Speculation, Recovery, and Adaptive Retranslation to Address Real-Life Challenges.",
+                    "Dynamic Binary Translation for Accumulator-Oriented Architectures.",
+                    "Retargetable and Reconfigurable Software Dynamic Translation.",
+                    "Jumbo: Run-Time Code Generation for Java and Its Applications.",
+                    "Reality-Based Optimization.",
+                    "Coupling On-Line and Off-Line Profile Information to Improve Program Performance.",
+                    "Dynamic Trace Selection Using Performance Monitoring Hardware Sampling.",
+                    "Optimal and Efficient Speculation-Based Partial Redundancy Elimination.",
+                    "Optimizations to Prevent Cache Penalties for the Intel \u00ae Itanium 2 Processor.",
+                    "Optimization for the Intel\u00ae Itanium \u00aeArchitectur Register Stack.",
+                    "Speculative Register Promotion Using Advanced Load Address Table (ALAT).",
+                    "Inlining of Mathematical Functions in HP-UX for Itanium \u00ae 2.",
+                    "Improving Quasi-Dynamic Schedules through Region Slip.",
+                    "Integrated Prepass Scheduling for a Java Just-In-Time Compiler on the IA-64 Architecture.",
+                    "Predicate-Aware Scheduling: A Technique for Reducing Resource Constraints.",
+                    "Phi-Predication for Light-Weight If-Conversion.",
+                    "Local Scheduling Techniques for Memory Coherence in a Clustered VLIW Processor with a Distributed Data Cache.",
+                    "Compiler Optimization-Space Exploration.",
+                    "Optimizing Memory Accesses For Spatial Computation.",
+                    "Optimization Opportunities Created by Global Data Reordering.",
+                    "Design, Implementation and Evaluation of Adaptive Recompilation with On-Stack Replacement.",
+                    "Adaptive Online Context-Sensitive Inlining.",
+                    "An Infrastructure for Adaptive Dynamic Optimization.",
+                    "Dynamic Profiling and Trace Cache Generation.",
+                    "METRIC: Tracking Down Inefficiencies in the Memory Hierarchy via Binary Rewriting.",
+                    "TEST: A Tracer for Extracting Speculative Thread.",
+                    "Code Optimization for Code Compression.",
+                    "Hiding Program Slices for Software Security.",
+                    "Addressing Mode Selection."
+                ]
+            }
+        ]
+    }
+]

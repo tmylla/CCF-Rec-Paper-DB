@@ -1,0 +1,867 @@
+[
+    {
+        "year": "2021",
+        "name": "19th APLAS 2021",
+        "info": "Chicago, IL, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/aplas/2021",
+                "sub_name": "Programming Languages and Systems - 19th Asian Symposium, APLAS 2021, Chicago, IL, USA, October 17-18, 2021, Proceedings.",
+                "count": 17,
+                "papers": [
+                    "Scalable and Modular Robustness Analysis of Deep Neural Networks.",
+                    "Function Pointer Eliminator for C Programs.",
+                    "PyCT: A Python Concolic Tester.",
+                    "Program Synthesis for Musicians: A Usability Testbed for Temporal Logic Specifications.",
+                    "Server-Side Computation of Package Dependencies in Package-Management Systems.",
+                    "Fully Abstract and Robust Compilation: And How to Reconcile the Two, Abstractly.",
+                    "A Dictionary-Passing Translation of Featherweight Go.",
+                    "Hybrid Quantum-Classical Circuit Simplification with the ZX-Calculus.",
+                    "A Compilation Method for Dynamic Typing in ML.",
+                    "The Choice Construct in the Souffl\u00e9 Language.",
+                    "Latent Effects for Reusable Language Components.",
+                    "Adaptable Traces for Program Explanations.",
+                    "A Typed Programmatic Interface to Contracts on the Blockchain.",
+                    "Simplifying Alternating Automata for Emptiness Testing.",
+                    "Termination Analysis for the $$\\pi $$-Calculus by Reduction to Sequential Program Termination.",
+                    "Proving LTL Properties of Bitvector Programs and Decompiled Binaries.",
+                    "Solving Not-Substring Constraint withFlat Abstraction."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "name": "18th APLAS 2020",
+        "info": "Fukuoka, Japan",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/aplas/2020",
+                "sub_name": "Programming Languages and Systems - 18th Asian Symposium, APLAS 2020, Fukuoka, Japan, November 30 - December 2, 2020, Proceedings.",
+                "count": 19,
+                "papers": [
+                    "A Set-Based Context Model for Program Analysis.",
+                    "Declarative Stream Runtime Verification (hLola).",
+                    "Formal Verification of Atomicity Requirements for Smart Contracts.",
+                    "Neural Networks, Secure by Construction - An Exploration of Refinement Types.",
+                    "A New Refinement Type System for Automated $\\nu \\text {HFL}_\\mathbb {Z}$ Validity Checking.",
+                    "Behavioural Types for Memory and Method Safety in a Core Object-Oriented Language.",
+                    "Syntactically Restricting Bounded Polymorphism for Decidable Subtyping.",
+                    "An Abstract Machine for Strong Call by Value.",
+                    "Certified Semantics for Relational Programming.",
+                    "Algebraic and Coalgebraic Perspectives on Interaction Laws.",
+                    "Stack-Driven Program Generation of WebAssembly.",
+                    "Banyan: Coordination-Free Distributed Transactions over Mergeable Types.",
+                    "Automatically Generating Descriptive Texts in Logging Statements: How Far Are We?",
+                    "Parameterized Synthesis with Safety Properties.",
+                    "Relational Synthesis for Pattern Matching.",
+                    "REFINITY to Model and Prove Program Transformation Rules.",
+                    "A Counterexample-Guided Debugger for Non-recursive Datalog.",
+                    "A Symbolic Algorithm for the Case-Split Rule in String Constraint Solving.",
+                    "P3: A Profiler Suite for Parallel Applications on the Java Virtual Machine."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "17th APLAS 2019",
+        "info": "Nusa Dua, Bali, Indonesia",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/aplas/2019",
+                "sub_name": "Programming Languages and Systems - 17th Asian Symposium, APLAS 2019, Nusa Dua, Bali, Indonesia, December 1-4, 2019, Proceedings.",
+                "count": 24,
+                "papers": [
+                    "Proving that Programs Are Differentially Private.",
+                    "On Strings in Software Model Checking.",
+                    "Manifest Contracts with Intersection Types.",
+                    "A Dependently Typed Multi-stage Calculus.",
+                    "Existential Types for Relaxed Noninterference.",
+                    "Dissecting Widening: Separating Termination from Information.",
+                    "Reducing Static Analysis Alarms Based on Non-impacting Control Dependencies.",
+                    "A Type-Based HFL Model Checking Algorithm.",
+                    "Factorization and Normalization, Essentially.",
+                    "Formal Verifications of Call-by-Need and Call-by-Name Evaluations with Mutual Recursion.",
+                    "Recursion Schemes in Coq.",
+                    "Lightweight Functional Logic Meta-Programming.",
+                    "Mimalloc: Free List Sharding in Action.",
+                    "LiFtEr: Language to Encode Induction Heuristics for Isabelle/HOL.",
+                    "Android Multitasking Mechanism: Formal Semantics and Static Analysis of Apps.",
+                    "Conflict Abstractions and Shadow Speculation for Optimistic Transactional Objects.",
+                    "TxForest: A DSL for Concurrent Filestores.",
+                    "J-ReCoVer: Java Reducer Commutativity Verifier.",
+                    "Completeness of Cyclic Proofs for Symbolic Heaps with Inductive Definitions.",
+                    "Uniform Random Process Model Revisited.",
+                    "Compositional Verification of Heap-Manipulating Programs Through Property-Guided Learning.",
+                    "Pumping, with or Without Choice.",
+                    "Simulations in Rank-Based B\u00fcchi Automata Complementation.",
+                    "Succinct Determinisation of Counting Automata via Sphere Construction."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "16th APLAS 2018",
+        "info": "Wellington, New Zealand",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/aplas/2018",
+                "sub_name": "Programming Languages and Systems - 16th Asian Symposium, APLAS 2018, Wellington, New Zealand, December 2-6, 2018, Proceedings.",
+                "count": 22,
+                "papers": [
+                    "Non-linear Pattern Matching with Backtracking for Non-free Data Types.",
+                    "Factoring Derivation Spaces via Intersection Types.",
+                    "Types of Fireballs.",
+                    "On the Soundness of Call Graph Construction in the Presence of Dynamic Language Features - A Benchmark and Tool Evaluation.",
+                    "Complexity Analysis of Tree Share Structure.",
+                    "Relational Thread-Modular Abstract Interpretation Under Relaxed Memory Models.",
+                    "Scallina: Translating Verified Programs from Coq to Scala.",
+                    "HoIce: An ICE-Based Non-linear Horn Clause Solver.",
+                    "Traf: A Graphical Proof Tree Viewer Cooperating with Coq Through Proof General.",
+                    "The Practice of a Compositional Functional Programming Language.",
+                    "New Approaches for Almost-Sure Termination of Probabilistic Programs.",
+                    "Particle-Style Geometry of Interaction as a Module System.",
+                    "Automated Synthesis of Functional Programs with Auxiliary Functions.",
+                    "Modular Verification of SPARCv8 Code.",
+                    "Formal Small-Step Verification of a Call-by-Value Lambda Calculus Machine.",
+                    "Automated Modular Verification for Relaxed Communication Protocols.",
+                    "Automated Proof Synthesis for the Minimal Propositional Logic with Deep Neural Networks.",
+                    "On the Complexity of Pointer Arithmetic in Separation Logic.",
+                    "A Decision Procedure for String Logic with Quadratic Equations, Regular Expressions and Length Constraints.",
+                    "Certifying CPS Transformation of Let-Polymorphic Calculus Using PHOAS.",
+                    "Model Checking Differentially Private Properties.",
+                    "Shallow Effect Handlers."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "15th APLAS 2017",
+        "info": "Suzhou, China",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/aplas/2017",
+                "sub_name": "Programming Languages and Systems - 15th Asian Symposium, APLAS 2017, Suzhou, China, November 27-29, 2017, Proceedings.",
+                "count": 26,
+                "papers": [
+                    "Programming by Examples: PL Meets ML.",
+                    "Synthesizing SystemC Code from Delay Hybrid CSP.",
+                    "Taming Message-Passing Communication in Compositional Reasoning About Confidentiality.",
+                    "Capabilities for Java: Secure Access to Resources.",
+                    "Enforcing Programming Guidelines with Region Types and Effects.",
+                    "Automatically Generating Secure Wrappers for SGX Enclaves from Separation Logic Specifications.",
+                    "Black-Box Equivalence Checking Across Compiler Optimizations.",
+                    "Weakly Sensitive Analysis for Unbounded Iteration over JavaScript Objects.",
+                    "Decision Procedure for Entailment of Symbolic Heaps with Arrays.",
+                    "Bringing Order to the Separation Logic Jungle.",
+                    "Programming and Proving with Classical Types.",
+                    "Static Analysis of Multithreaded Recursive Programs Communicating via Rendez-Vous.",
+                    "Verified Root-Balanced Trees.",
+                    "Safety and Liveness of MCS Lock - Layer by Layer.",
+                    "Palgol: A High-Level DSL for Vertex-Centric Graph Processing with Remote Data Access.",
+                    "Efficient Functional Reactive Programming Through Incremental Behaviors.",
+                    "Implementing Algebraic Effects in C - \"Monads for Free in C\".",
+                    "Sound and Efficient Language-Integrated Query - Maintaining the ORDER.",
+                    "A Computational Interpretation of Context-Free Expressions.",
+                    "Partiality and Container Monads.",
+                    "The Negligible and Yet Subtle Cost of Pattern Matching.",
+                    "A Lambda Calculus for Density Matrices with Classical and Probabilistic Controls.",
+                    "Compact Difference Bound Matrices.",
+                    "Sharper and Simpler Nonlinear Interpolants for Program Verification.",
+                    "A Nonstandard Functional Programming Language.",
+                    "Counterexample-Guided Bit-Precision Selection."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "14th APLAS 2016",
+        "info": "Hanoi, Vietnam",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/aplas/2016",
+                "sub_name": "Programming Languages and Systems - 14th Asian Symposium, APLAS 2016, Hanoi, Vietnam, November 21-23, 2016, Proceedings.",
+                "count": 23,
+                "papers": [
+                    "Substructural Proofs as Automata.",
+                    "Learning a Strategy for Choosing Widening Thresholds from a Large Codebase.",
+                    "AUSPICE-R: Automatic Safety-Property Proofs for Realistic Features in Machine Code.",
+                    "Observation-Based Concurrent Program Logic for Relaxed Memory Consistency Models.",
+                    "SPEC: An Equivalence Checker for Security Protocols.",
+                    "Binary Session Types for Psi-Calculi.",
+                    "Static Trace-Based Deadlock Analysis for Synchronous Mini-Go.",
+                    "AkkaProf: A Profiler for Akka Actors in Parallel and Distributed Applications.",
+                    "A Debugger-Cooperative Higher-Order Contract System in Python.",
+                    "A Sound and Complete Bisimulation for Contextual Equivalence in \\lambda -Calculus with Call/cc.",
+                    "A Realizability Interpretation for Intersection and Union Types.",
+                    "Open Call-by-Value.",
+                    "Implementing Cantor's Paradise.",
+                    "Unified Syntax with Iso-types.",
+                    "Refined Environment Classifiers - Type- and Scope-Safe Code Generation with Mutable Cells.",
+                    "Higher-Order Model Checking in Direct Style.",
+                    "Verifying Concurrent Graph Algorithms.",
+                    "Verification of Higher-Order Concurrent Programs with Dynamic Resource Creation.",
+                    "Probabilistic Programming Language and its Incremental Evaluation.",
+                    "Eliom: A Core ML Language for Tierless Web Programming.",
+                    "DOM: Specification and Client Reasoning.",
+                    "Decision Procedure for Separation Logic with Inductive Definitions and Presburger Arithmetic.",
+                    "Completeness for a First-Order Abstract Separation Logic."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "13th APLAS 2015",
+        "info": "Pohang, South Korea",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/aplas/2015",
+                "sub_name": "Programming Languages and Systems - 13th Asian Symposium, APLAS 2015, Pohang, South Korea, November 30 - December 2, 2015, Proceedings.",
+                "count": 26,
+                "papers": [
+                    "Programming with \"Big Code\".",
+                    "Memory-Efficient Tail Calls in the JVM with Imperative Functional Objects.",
+                    "A Secure Compiler for ML Modules.",
+                    "Detection of Redundant Expressions: A Complete and Polynomial-Time Algorithm in SSA.",
+                    "Separation Logic with Monadic Inductive Definitions and Implicit Existentials.",
+                    "Tree-Like Grammars and Separation Logic.",
+                    "Randomized Resource-Aware Path-Sensitive Static Analysis.",
+                    "Quadratic Zonotopes - An Extension of Zonotopes to Quadratic Arithmetics.",
+                    "Abstraction of Optional Numerical Values.",
+                    "Fault-Tolerant Resource Reasoning.",
+                    "Shifting the Blame - A Blame Calculus with Delimited Control.",
+                    "Aliasing Control in an Imperative Pure Calculus.",
+                    "A Strong Distillery.",
+                    "From Call-by-Value to Interaction by Typed Closure Conversion.",
+                    "Kripke Open Bisimulation - A Marriage of Game Semantics and Operational Techniques.",
+                    "Automata-Based Abstraction for Automated Verification of Higher-Order Tree-Processing Programs.",
+                    "Decision Algorithms for Checking Definability of Order-2 Finitary PCF.",
+                    "Uncovering JavaScript Performance Code Smells Relevant to Type Mutations.",
+                    "Analyzing Distributed Multi-platform Java and Android Applications with ShadowVM.",
+                    "Quasi-Linearizability is Undecidable.",
+                    "Objects in Polynomial Time.",
+                    "Programming Techniques for Reversible Comparison Sorts.",
+                    "Transactions on Mergeable Objects.",
+                    "A Sound Type System for Layer Subtyping and Dynamically Activated First-Class Layers.",
+                    "Bottom-Up Context-Sensitive Pointer Analysis for Java.",
+                    "More Sound Static Handling of Java Reflection."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "12th APLAS 2014",
+        "info": "Singapore",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/aplas/2014",
+                "sub_name": "Programming Languages and Systems - 12th Asian Symposium, APLAS 2014, Singapore, November 17-19, 2014, Proceedings.",
+                "count": 25,
+                "papers": [
+                    "NetKAT - A Formal System for the Verification of Networks.",
+                    "Optimized Compilation of Multiset Rewriting with Comprehensions.",
+                    "Logic Programming and Logarithmic Space.",
+                    "Automatic Memory Management Based on Program Transformation Using Ownership.",
+                    "The Essence of Ruby.",
+                    "Types for Flexible Objects.",
+                    "A Translation of Intersection and Union Types for the \u03bb\u03bc-Calculus.",
+                    "A Formalized Proof of Strong Normalization for Guarded Recursive Types.",
+                    "Functional Pearl: Nearest Shelters in Manhattan.",
+                    "Suppl: A Flexible Language for Policies.",
+                    "A Method for Scalable and Precise Bug Finding Using Program Analysis and Model Checking.",
+                    "Model-Checking for Android Malware Detection.",
+                    "Necessary and Sufficient Preconditions via Eager Abstraction.",
+                    "Resource Protection Using Atomics - Patterns and Verification.",
+                    "Resource Analysis of Complex Programs with Cost Equations.",
+                    "Simple and Efficient Algorithms for Octagons.",
+                    "Compositional Entailment Checking for a Fragment of Separation Logic.",
+                    "Automatic Constrained Rewriting Induction towards Verifying Procedural Programs.",
+                    "A ZDD-Based Efficient Higher-Order Model Checking Algorithm.",
+                    "Inferring Grammatical Summaries of String Values.",
+                    "Syntax-Directed Divide-and-Conquer Data-Flow Analysis.",
+                    "Address Chain: Profiling Java Objects without Overhead in Java Heaps.",
+                    "Call-by-Value in a Basic Logic for Interaction.",
+                    "A Precise and Abstract Memory Model for C Using Symbolic Values.",
+                    "Hereditary History-Preserving Bisimilarity: Logics and Automata."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "11th APLAS 2013",
+        "info": "Melbourne, Victoria, Australia",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/aplas/2013",
+                "sub_name": "Programming Languages and Systems - 11th Asian Symposium, APLAS 2013, Melbourne, VIC, Australia, December 9-11, 2013. Proceedings.",
+                "count": 26,
+                "papers": [
+                    "Brzozowski's and Up-To Algorithms for Must Testing.",
+                    "Practical Alternating Parity Tree Automata Model Checking of Higher-Order Recursion Schemes.",
+                    "Model Checking Dynamic Pushdown Networks.",
+                    "Robustness Analysis of Finite Precision Implementations.",
+                    "A Hoare Logic for SIMT Programs.",
+                    "The Undefined Domain: Precise Relational Information for Entities That Do Not Exist.",
+                    "Separation Logic Modulo Theories.",
+                    "Bi-Abduction with Pure Properties for Specification Inference.",
+                    "Laws of Programming for References.",
+                    "Dynamic Alias Protection with Aliasing Contracts.",
+                    "Fine-Grained Function Visibility for Multiple Dispatch with Multiple Inheritance.",
+                    "Internal Deployment of the Parfait Static Code Analysis Tool at Oracle - (Invited Talk).",
+                    "Secure Compilation of Object-Oriented Components to Protected Module Architectures.",
+                    "Generalized Quantitative Analysis of Metric Transition Systems.",
+                    "GDSL: A Universal Toolkit for Giving Semantics to Machine Language.",
+                    "Paragon for Practical Programming with Information-Flow Control.",
+                    "ThisJava: An Extension of Java with Exact Types.",
+                    "Semantics of Probabilistic Programs: A Weak Limit Approach.",
+                    "Ambivalent Types for Principal Type Inference with GADTs.",
+                    "Temporal Specification Mining for Anomaly Analysis.",
+                    "Automated Inference of Library Specifications for Source-Sink Property Verification.",
+                    "The Proof Assistant as an Integrated Development Environment.",
+                    "Sorting and Searching by Distribution: From Generic Discrimination to Generic Tries.",
+                    "Environmental Bisimulations for Delimited-Control Operators.",
+                    "On Bar Recursion and Choice in a Classical Setting.",
+                    "Proofs, Upside Down - A Functional Correspondence between Natural Deduction and the Sequent Calculus."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "10th APLAS 2012",
+        "info": "Kyoto, Japan",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/aplas/2012",
+                "sub_name": "Programming Languages and Systems - 10th Asian Symposium, APLAS 2012, Kyoto, Japan, December 11-13, 2012. Proceedings.",
+                "count": 27,
+                "papers": [
+                    "Planet Dynamic or: How I Learned to Stop Worrying and Love Reflection.",
+                    "JATO: Native Code Atomicity for Java.",
+                    "Ownership Types for Object Synchronisation.",
+                    "A Functional View of Imperative Information Flow.",
+                    "End-to-end Multilevel Hybrid Information Flow Control.",
+                    "Succour to the Confused Deputy - Types for Capabilities.",
+                    "Types and Access Controls for Cross-Domain Security in Flash.",
+                    "Linear Approximation of Continuous Systems with Trapezoid Step Functions.",
+                    "Signedness-Agnostic Program Analysis: Precise Integer Bounds for Low-Level Code.",
+                    "Hierarchical Shape Abstraction of Dynamic Structures in Static Blocks.",
+                    "Vinter: A Vampire-Based Tool for Interpolation.",
+                    "Side-Effecting Constraint Systems: A Swiss Army Knife for Program Analysis.",
+                    "Inference of Necessary Field Conditions with Abstract Interpretation.",
+                    "Lazy v. Yield: Incremental, Linear Pretty-Printing.",
+                    "Dynamic Software Update for Message Passing Programs.",
+                    "A Synchronous Language with Partial Delay Specification for Real-Time Systems Programming.",
+                    "Concurrent Test Generation Using Concolic Multi-trace Analysis.",
+                    "Java Bytecode Instrumentation Made Easy: The DiSL Framework for Dynamic Program Analysis.",
+                    "Indexed Realizability for Bounded-Time Programming with References and Type Fixpoints.",
+                    "A New Order-Theoretic Characterisation of the Polytime Computable Functions.",
+                    "A Dynamic Interpretation of the CPS Hierarchy.",
+                    "Scalable Formal Machine Models.",
+                    "Modular Verification of Concurrent Thread Management.",
+                    "A Case for Behavior-Preserving Actions in Separation Logic.",
+                    "A Generic Cyclic Theorem Prover.",
+                    "Decision Procedures over Sophisticated Fractional Permissions.",
+                    "Mechanized Semantics for Compiler Verification."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "9th APLAS 2011",
+        "info": "Kenting, Taiwan",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/aplas/2011",
+                "sub_name": "Programming Languages and Systems - 9th Asian Symposium, APLAS 2011, Kenting, Taiwan, December 5-7, 2011. Proceedings.",
+                "count": 27,
+                "papers": [
+                    "Program Analysis and Machine Learning: A Win-Win Deal.",
+                    "Software Verification with Liquid Types.",
+                    "Engineering Theories with Z3.",
+                    "Algebra, Logic, Locality, Concurrency.",
+                    "Modular Abstractions of Reactive Nodes Using Disjunctive Invariants.",
+                    "Template-Based Unbounded Time Verification of Affine Hybrid Automata.",
+                    "Access-Based Localization with Bypassing.",
+                    "A Deductive Database with Datalog and SQL Query Languages.",
+                    "Constructing List Homomorphisms from Proofs.",
+                    "Extending Hindley-Milner Type Inference with Coercive Structural Subtyping.",
+                    "Polymorphic Multi-stage Language with Control Effects.",
+                    "Compiler Backend Generation for Application Specific Instruction Set Processors.",
+                    "A Non-iterative Data-Flow Algorithm for Computing Liveness Sets in Strict SSA Programs.",
+                    "SPAS: Scalable Path-Sensitive Pointer Analysis on Full-Sparse SSA.",
+                    "On the Strength of Owicki-Gries for Resources.",
+                    "Solving Recursion-Free Horn Clauses over LI+UIF.",
+                    "Macro Tree Transformations of Linear Size Increase Achieve Cost-Optimal Parallelism.",
+                    "Decentralized Delimited Release.",
+                    "Cost Analysis of Concurrent OO Programs.",
+                    "Static Object Race Detection.",
+                    "Soundness of Data Flow Analyses for Weak Memory Models.",
+                    "Towards a General Theory of Barbs, Contexts and Labels.",
+                    "Computation-by-Interaction with Effects.",
+                    "Towards a Certified Petri Net Model-Checker.",
+                    "Elementary Linear Logic Revisited for Polynomial Time and an Exponential Time Hierarchy.",
+                    "A Proof Pearl with the Fan Theorem and Bar Induction - Walking through Infinite Trees with Mixed Induction and Coinduction.",
+                    "A Semantics for Context-Sensitive Reduction Semantics."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "8th APLAS 2010",
+        "info": "Shanghai, China",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/aplas/2010",
+                "sub_name": "Programming Languages and Systems - 8th Asian Symposium, APLAS 2010, Shanghai, China, November 28 - December 1, 2010. Proceedings.",
+                "count": 30,
+                "papers": [
+                    "A Calculus for Hybrid CSP.",
+                    "Foundations of Quantum Programming (Extended Abstract).",
+                    "From a Verified Kernel towards Verified Systems.",
+                    "Reasoning about Computations Using Two-Levels of Logic.",
+                    "Typechecking Higher-Order Security Libraries.",
+                    "Towards Deriving Type Systems and Implementations for Coroutines.",
+                    "Liberal Typing for Functional Logic Programs.",
+                    "A Provably Correct Stackless Intermediate Representation for Java Bytecode.",
+                    "JNI Light: An Operational Model for the Core JNI.",
+                    "An Interactive Tool for Analyzing Embedded SQL Queries.",
+                    "Simple and Precise Widenings for H-Polyhedra.",
+                    "Metric Spaces and Termination Analyses.",
+                    "Amortized Resource Analysis with Polymorphic Recursion and Partial Big-Step Operational Semantics.",
+                    "Interprocedural Control Flow Reconstruction.",
+                    "Data Structure Fusion.",
+                    "Categorical Descriptional Composition.",
+                    "Bisimulation Proof Methods in a Path-Based Specification Language for Polynomial Coalgebras.",
+                    "Context-Preserving XQuery Fusion.",
+                    "Index-Compact Garbage Collection.",
+                    "Live Heap Space Bounds for Real-Time Systems.",
+                    "A Quick Tour of the VeriFast Program Verifier.",
+                    "Verification of Tree-Processing Programs via Higher-Order Model Checking.",
+                    "Automatically Inferring Quantified Loop Invariants by Algorithmic Learning from Simple Templates.",
+                    "Relational Parametricity for a Polymorphic Linear Lambda Calculus.",
+                    "A Certified Implementation of ML with Structural Polymorphism.",
+                    "Type Inference for Sublinear Space Functional Programming.",
+                    "Liveness of Communicating Transactions (Extended Abstract).",
+                    "Model Independent Order Relations for Processes.",
+                    "Concurrency Can't Be Observed, Asynchronously.",
+                    "A Logical Mix of Approximation and Separation."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "7th APLAS 2009",
+        "info": "Seoul, Korea",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/aplas/2009",
+                "sub_name": "Programming Languages and Systems, 7th Asian Symposium, APLAS 2009, Seoul, Korea, December 14-16, 2009. Proceedings.",
+                "count": 24,
+                "papers": [
+                    "The Twilight Zone: From Testing to Formal Specifications and Back Again.",
+                    "Types and Recursion Schemes for Higher-Order Program Verification.",
+                    "The Sketching Approach to Program Synthesis.",
+                    "Large Spurious Cycle in Global Static Analyses and Its Algorithmic Mitigation.",
+                    "Abstract Transformers for Thread Correlation Analysis.",
+                    "Scalable Context-Sensitive Points-to Analysis Using Multi-dimensional Bloom Filters.",
+                    "A Short Cut to Optimal Sequences.",
+                    "A Skeletal Parallel Framework with Fusion Optimizer for GPGPU Programming.",
+                    "Witnessing Purity, Constancy and Mutability.",
+                    "On the Decidability of Subtyping with Bounded Existential Types.",
+                    "Fractional Ownerships for Safe Memory Deallocation.",
+                    "Ownership Downgrading for Ownership Types.",
+                    "A Fresh Look at Separation Algebras and Share Accounting.",
+                    "Weak updates and separation logic.",
+                    "Proving Copyless Message Passing.",
+                    "On Stratified Regions.",
+                    "Parallel Reduction in Resource Lambda-Calculus.",
+                    "Classical Natural Deduction for S4 Modal Logic.",
+                    "Bi-abductive Resource Invariant Synthesis.",
+                    "Certify Once, Trust Anywhere: Modular Certification of Bytecode Programs for Certified Virtual Machine.",
+                    "Asymptotic Resource Usage Bounds.",
+                    "The Higher-Order, Call-by-Value Applied Pi-Calculus.",
+                    "Branching Bisimilarity between Finite-State Systems and BPA or Normed BPP Is Polynomial-Time Decidable.",
+                    "Refining Abstract Interpretation-Based Static Analyses with Hints."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "6th APLAS 2008",
+        "info": "Bangalore, India",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/aplas/2008",
+                "sub_name": "Programming Languages and Systems, 6th Asian Symposium, APLAS 2008, Bangalore, India, December 9-11, 2008. Proceedings.",
+                "count": 23,
+                "papers": [
+                    "Abductive Inference for Reasoning about Heaps.",
+                    "A Sound Floating-Point Polyhedra Abstract Domain.",
+                    "A Flow-Sensitive Region Inference for CLI.",
+                    "Context-Sensitive Relevancy Analysis for Efficient Symbolic Execution.",
+                    "Static Detection of Place Locality and Elimination of Runtime Checks.",
+                    "Certified Reasoning in Memory Hierarchies.",
+                    "The Complexity of Coverage.",
+                    "Game Characterizations of Process Equivalences.",
+                    "Extensional Universal Types for Call-by-Value.",
+                    "Harnessing the Multicores: Nested Data Parallelism in Haskell.",
+                    "Minimal Ownership for Active Objects.",
+                    "Type-Based Deadlock-Freedom Verification for Non-Block-Structured Lock Primitives and Mutable References.",
+                    "Reasoning about Java's Reentrant Locks.",
+                    "ML Modules and Haskell Type Classes: A Constructive Comparison.",
+                    "The Essence of Form Abstraction.",
+                    "On Affine Usages in Signal-Based Communication.",
+                    "Abstraction of Clocks in Synchronous Data-Flow Systems.",
+                    "From Authorization Logics to Types for Authorization.",
+                    "Interface Types for Haskell.",
+                    "Exception Handlers as Extensible Cases.",
+                    "Sound and Complete Type Inference for a Systems Programming Language.",
+                    "An Operational Semantics for JavaScript.",
+                    "JavaScript Instrumentation in Practice."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "5th APLAS 2007",
+        "info": "Singapore",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/aplas/2007",
+                "sub_name": "Programming Languages and Systems, 5th Asian Symposium, APLAS 2007, Singapore, November 29-December 1, 2007, Proceedings.",
+                "count": 28,
+                "papers": [
+                    "X10: Concurrent Programming for Modern Architectures.",
+                    "The Nuggetizer: Abstracting Away Higher-Orderness for Program Verification.",
+                    "Local Reasoning for Storable Locks and Threads.",
+                    "Monadic, Prompt Lazy Assertions in Haskell.",
+                    "Translation Correctness for First-Order Object-Oriented Pattern Matching.",
+                    "Persistent Oberon: A Programming Language with Integrated Persistence.",
+                    "More Typed Assembly Languages for Confidentiality.",
+                    "A Novel Test Case Generation Method for Prolog Programs Based on Call Patterns Semantics.",
+                    "On a Tighter Integration of Functional and Logic Programming.",
+                    "Scalable Simulation of Cellular Signaling Networks.",
+                    "Timed, Distributed, Probabilistic, Typed Processes.",
+                    "A Probabilistic Applied Pi-Calculus.",
+                    "Type-Based Verification of Correspondence Assertions for Communication Protocols.",
+                    "Deriving Compilers and Virtual Machines for a Multi-level Language.",
+                    "Finally Tagless, Partially Evaluated.",
+                    "Polymorphic Delimited Continuations.",
+                    "Adjunct Elimination in Context Logic for Trees.",
+                    "Positive Arithmetic Without Exchange Is a Subclassical Logic.",
+                    "Mixed Inductive/Coinductive Types and Strong Normalization.",
+                    "Static and Dynamic Analysis: Better Together.",
+                    "The Semantics of \"Semantic Patches\" in Coccinelle: Program Transformation for the Working Programmer.",
+                    "An Efficient SSA-Based Algorithm for Complete Global Value Numbering.",
+                    "A Systematic Approach to Probabilistic Pointer Analysis.",
+                    "Complete Lattices and Up-To Techniques.",
+                    "A Trace Based Bisimulation for the Spi Calculus: An Extended Abstract.",
+                    "CCS with Replication in the Chomsky Hierarchy: The Expressive Power of Divergence.",
+                    "Call-by-Name and Call-by-Value in Normal Modal Logic.",
+                    "Call-by-Value Is Dual to Call-by-Name, Extended."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "4th APLAS 2006",
+        "info": "Sydney, Australia",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/aplas/2006",
+                "sub_name": "Programming Languages and Systems, 4th Asian Symposium, APLAS 2006, Sydney, Australia, November 8-10, 2006, Proceedings.",
+                "count": 25,
+                "papers": [
+                    "Type Processing by Constraint Reasoning.",
+                    "Principal Type Inference for GHC-Style Multi-parameter Type Classes.",
+                    "Private Row Types: Abstracting the Unnamed.",
+                    "Type and Effect System for Multi-staged Exceptions.",
+                    "Relational Reasoning for Recursive Types and References.",
+                    "Proof Abstraction for Imperative Languages.",
+                    "Reading, Writing and Relations.",
+                    "A Fine-Grained Join Point Model for More Reusable Aspects.",
+                    "Automatic Testing of Higher Order Functions.",
+                    "Event Driven Software Quality.",
+                    "Widening Polyhedra with Landmarks.",
+                    "Comparing Completeness Properties of Static Analyses and Their Logics.",
+                    "Polymorphism, Subtyping, Whole Program Analysis and Accurate Data Types in Usage Analysis.",
+                    "A Modal Language for the Safety of Mobile Values.",
+                    "An Analysis for Proving Temporal Properties of Biological Systems.",
+                    "Computational Secrecy by Typing for the Pi Calculus.",
+                    "Scheme with Classes, Mixins, and Traits.",
+                    "Using Metadata Transformations to Integrate Class Extensions in an Existing Class Hierarchy.",
+                    "Combining Offline and Online Optimizations: Register Allocation and Method Inlining.",
+                    "A Localized Tracing Scheme Applied to Garbage Collection.",
+                    "A Pushdown Machine for Recursive XML Processing.",
+                    "XML Validation for Context-Free Grammars.",
+                    "A Practical String Analyzer by the Widening Approach.",
+                    "A Bytecode Logic for JML and Types.",
+                    "On Jones-Optimal Specializers: A Case Study Using Unmix."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "3rd APLAS 2005",
+        "info": "Tsukuba, Japan",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/aplas/2005",
+                "sub_name": "Programming Languages and Systems, Third Asian Symposium, APLAS 2005, Tsukuba, Japan, November 2-5, 2005, Proceedings.",
+                "count": 27,
+                "papers": [
+                    "Type Systems for XML.",
+                    "The Essence of Dataflow Programming.",
+                    "Data Refinement with Low-Level Pointer Operations.",
+                    "A Simple Semantics for Polymorphic Recursion.",
+                    "Symbolic Execution with Separation Logic.",
+                    "An Abstract Interpretation Perspective on Linear vs. Branching Time.",
+                    "The Parallel Implementation of the Astr\u00e9e Static Analyzer.",
+                    "Using Datalog with Binary Decision Diagrams for Program Analysis.",
+                    "Loop Invariants on Demand.",
+                    "Integrating Physical Systems in the Static Analysis of Embedded Control Software.",
+                    "Reflection Analysis for Java.",
+                    "Lightweight Family Polymorphism.",
+                    "A Portable and Customizable Profiling Framework for Java Based on Bytecode Instruction Counting.",
+                    "Race Conditions in Message Sequence Charts.",
+                    "A Next-Generation Platform for Analyzing Executables.",
+                    "Calculating Polynomial Runtime Properties.",
+                    "Resource Bound Certification for a Tail-Recursive Virtual Machine.",
+                    "A Path Sensitive Type System for Resource Usage Verification of C Like Languages.",
+                    "Termination Analysis of Higher-Order Functional Programs.",
+                    "Heterogeneous Fixed Points with Application to Points-To Analysis.",
+                    "Register Allocation Via Coloring of Chordal Graphs.",
+                    "Transformation to Dynamic Single Assignment Using a Simple Data Flow Analysis.",
+                    "Abstract Dependences for Alarm Diagnosis.",
+                    "A Typed, Compositional Logic for a Stack-Based Abstract Machine.",
+                    "A New Occurrence Counting Analysis for BioAmbients.",
+                    "A Parametric Model for the Analysis of Mobile Ambients.",
+                    "On the R\u00f4le of Abstract Non-interference in Language-Based Security."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "2nd APLAS 2004",
+        "info": "Taipei, Taiwan",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/aplas/2004",
+                "sub_name": "Programming Languages and Systems: Second Asian Symposium, APLAS 2004, Taipei, Taiwan, November 4-6, 2004. Proceedings.",
+                "count": 29,
+                "papers": [
+                    "A CLP Approach to Modelling Systems.",
+                    "An Algebraic Approach to Bi-directional Updating.",
+                    "Network Fusion.",
+                    "Translation of Tree-Processing Programs into Stream-Processing Programs Based on Ordered Linear Type.",
+                    "An Implementation of Subtyping Among Regular Expression Types.",
+                    "An Implementation Scheme for XML Transformation Languages Through Derivation of Stream Processors.",
+                    "Detecting Software Defects in Telecom Applications Through Lightweight Static Analysis: A War Story.",
+                    "History Effects and Verification.",
+                    "Controlled Declassification Based on Intransitive Noninterference.",
+                    "A Concurrent System of Multi-ported Processes with Causal Dependency.",
+                    "Concurrency Combinators for Declarative Synchronization.",
+                    "A Uniform Reduction Equivalence for Process Calculi.",
+                    "Substructural Operational Semantics and Linear Destination-Passing Style (Invited Talk).",
+                    "PType System: A Featherweight Parallelizability Detector.",
+                    "A Type Theory for Krivine-Style Evaluation and Compilation.",
+                    "Region-Based Memory Management for a Dynamically-Typed Language.",
+                    "Protocol Specialization.",
+                    "Automatic Generation of Editors for Higher-Order Data Structures.",
+                    "A MATLAB-Based Code Generator for Sparse Matrix Computations.",
+                    "D-Fusion: A Distinctive Fusion Calculus.",
+                    "A Functional Language for Logarithmic Space.",
+                    "Build, Augment and Destroy, Universally.",
+                    "Free S-Monoids: A Higher-Order Syntax with Metavariables.",
+                    "The Scala Experiment - Can We Provide Better Language Support for Component Systems?",
+                    "Pointcuts as Functional Queries.",
+                    "Formal Design and Verification of Real-Time Embedded Software.",
+                    "McJava - A Design and Implementation of Java with Mixin-Types.",
+                    "A Relational Model for Object-Oriented Designs.",
+                    "Exploiting Java Objects Behavior for Memory Management and Optimizations."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "name": "1st APLAS 2003",
+        "info": "Beijing, China",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/aplas/2003",
+                "sub_name": "Programming Languages and Systems, First Asian Symposium, APLAS 2003, Beijing, China, November 27-29, 2003, Proceedings.",
+                "count": 27,
+                "papers": [
+                    "On a Method of Global Optimization.",
+                    "Observing Asymmetry and Mismatch.",
+                    "Expressive Synchronization Types for Inheritance in the Join Calculus.",
+                    "Term Graph Rewriting for the pi-Calculus.",
+                    "Useless Code Elimination and Programm Slicing for the Pi-Calculus.",
+                    "Constraint Functional Logic Programming for Origami Construction.",
+                    "A Typeful and Tagless Representation for XML Documents.",
+                    "Dataflow Pointcut in Aspect-Oriented Programming.",
+                    "Affine-Based Size-Change Termination.",
+                    "Using Locality of Flow in Dataflow Analyses.",
+                    "A Differential Fixpoint Evaluation Framework for Non-distributive Systems.",
+                    "Model Checking: From Hardware to Software.",
+                    "Executing Verified Compiler Specification.",
+                    "Controlling and Optimizing the Usage of One Resource.",
+                    "Resource Usage Verification.",
+                    "Automatic Construction of Hoare Proofs from Abstract Interpretation Results.",
+                    "A Program Inverter for a Functional Language with Equality and Constructors.",
+                    "Rebuilding a Tree from Its Traversals: A Case Study of Program Inversion.",
+                    "Type Inference with Structural Subtyping: A Faithful Formalization of an Efficient Constraint Solver.",
+                    "Continutation Semantics for Parallel Haskell Dialects.",
+                    "Translating a Continuous-Time Temporal Logic into Timed Automata.",
+                    "The Semantic Layers of Timber.",
+                    "Scrap Your Boilerplate.",
+                    "Correctness of a Higher-Order Removal Transformation through a Relational Reasoning.",
+                    "Extensional Polymorphism by Flow Graph Dispatching.",
+                    "Register Allocation Based on a Reference Flow Analysis.",
+                    "Lazy Stack Copying and Stack Copy Sharing for the Efficient Implementation of Continuations."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2002",
+        "name": "3rd APLAS 2002",
+        "info": "Shanghai, China",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/aplas/2002",
+                "sub_name": "The Third Asian Workshop on Programming Languages and Systems, APLAS'02, Shanghai Jiao Tong University, Shanghai, China, November 29 - December 1, 2002, Proceedings.",
+                "count": 31,
+                "papers": [
+                    "Shrinkable Polymorphic Variants.",
+                    "An Overview of the Chameleon System.",
+                    "Relaxing the Value Restriction.",
+                    "Pruning Unnecessary Computations using Improving Sequences.",
+                    "Algebraic construction of graphs with bounded tree width and its applications - Catamorphic Approach to Program Analyses.",
+                    "Folds with Dependent Types.",
+                    "What Is the Right Logical Framework for Evolution of Knowledge.",
+                    "Specification based on Backus-Naur Formalism and Programming Language.",
+                    "COPLA* - a Middleware for Distributed Databases.",
+                    "Functional Logic Origami Programming.",
+                    "Programming with Logical Links.",
+                    "An Interoperable Calculus for External Object Access.",
+                    "Static Extensionality Checking for Lambda-Definable Functions Over Lattices.",
+                    "Deforesting in Accumulating Parameters via Type-Directed Transformations.",
+                    "Fusion Transformation on Functional Programs of Regular Expression Types.",
+                    "A Type-Based Approach to Parallelization (preliminary report).",
+                    "On Quasi-Open Bisimulation.",
+                    "Bisimulation for Higher-Order Pi-calculus.",
+                    "An Automatic Program Inverter for Lisp: Potential and Limitations.",
+                    "Flattening Transformation for Efficient Segmented Computation - Segmented Diffusion Theorem.",
+                    "Implementation of Parallel Tree Skeletons on Distributed Systems.",
+                    "An Optimal Staging Algorithm.",
+                    "An Improved Differential Fixpoint Iteration Method for Program Analysis.",
+                    "Type-Based Information Analysis for Low-Level Languages.",
+                    "Inserting Safe Memory Re-use Commands into ML-like Programs.",
+                    "Association Computation for Information Access.",
+                    "An Approach for Assessing Software Coupling.",
+                    "Data Flow Analysis of Secure Information-Flow.",
+                    "Yicho - A System for Programming Program Calculations.",
+                    "Recursion Removal from Recursive Programs with One Descent Function.",
+                    "Extending Sized Type with Collection Analysis."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2001",
+        "name": "2nd APLAS 2001",
+        "info": "Daejeon, Korea",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/aplas/2001",
+                "sub_name": "The Second Asian Workshop on Programming Languages and Systems, APLAS'01, Korea Advanced Institute of Science and Technology, Daejeon, Korea, December 17-18, 2001, Proceedings.",
+                "count": 29,
+                "papers": [
+                    "Dynamic Control Operators in Type Theory.",
+                    "A Type System for the Push-Enter Model.",
+                    "Verifying the CPS Transformation in Isabelle/HOL.",
+                    "Efficient Interpretation of Chart Pattern Language.",
+                    "Collaborative Constraint Functional Logic Programming in an Open Environment.",
+                    "Exploring Dataflow in Legacy Systems.",
+                    "Functional Quantum Programming.",
+                    "An Accumulative Parallel Skeleton for All.",
+                    "Jones Optimality and the Strength of Program Specializers.",
+                    "Higher-Order Polymorphic Sized Types for Safety Checks.",
+                    "An Effect System Combining Alias and Liveness for Explicit Memory Reuse.",
+                    "Resource Usage Analysis.",
+                    "Developing the Generic Path Algorithmic Program and its Instantiations Using PAR Method.",
+                    "A Differential Evaluation of Fixpoint Iterations.",
+                    "Abstract Interpretation over Infinite Abstract Domains (Tentative Report).",
+                    "Abstract A* Algorithm and Its Application to Linearly Priced Timed Automata.",
+                    "Efficient Model-Checking of Timed Automata with Clock-Restriction Diagram.",
+                    "Analysis of Secure Information Flow by Model-Checking.",
+                    "Optimizing Compilation of Concurrent Logic Programs Directed by Interface Analysis.",
+                    "On Modular Transformations of Structural Content.",
+                    "VM lambda: a Functional Calculus for Scientific Discovery.",
+                    "Linearly Used Effects: Monadic and CPS Transformations into the Linear Lambda Calculus.",
+                    "Computability and Complexity Results for a Spatial Assertion Language for Data Structures.",
+                    "Proof-Directed Compilation for Inter-operable Languages.",
+                    "Resource-Passing Concurrent Programming.",
+                    "Simple Type Inference for Structural Polymorphism.",
+                    "Static Monotonicity Analysis for lambda-Definable Functions. over Lattices.",
+                    "A Compositional Framework for Querying Optimized Ranges.",
+                    "Estimating Exception-Induced Control Flow for Java."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2000",
+        "name": "1st APLAS 2000",
+        "info": "Singapore",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/aplas/2000",
+                "sub_name": "The First Asian Workshop on Programming Languages and Systems, APLAS 2000, National University of Singapore, Singapore, December 18-20, 2000, Proceedings.",
+                "count": 22,
+                "papers": [
+                    "Abstraction of Link Structures by Regular Expressions and Abstract Model Checking of Concurrent Garbage Collection.",
+                    "Deriving Pre-Conditions for Array Bound Check Elimination.",
+                    "Proving Syntactic Properties of Exceptions in an Ordered Logical Framework.",
+                    "Conditional Analysis and Verification.",
+                    "Linearity Analysis of Concurrent Logic Programs.",
+                    "A Note on Model Checkers Reuse and Validation.",
+                    "A Generalization of Hybrid Let-Polymorphic Type Inference Algorithms.",
+                    "A Declarative Approach to Concurrency in Java.",
+                    "Kima - An Automated Error Correction System for Concurrent Logic Programs.",
+                    "Mining Optimized Ranges.",
+                    "Generic Validation of Structural Content with Parametric Modules.",
+                    "Principles of Inverse Computation in a Functional Language.",
+                    "On Building Trees with Minimum Height, Relationally.",
+                    "An Open Environment for Cooperative Equational Solving.",
+                    "An Efficient Algorithm for Scheduling Instructions with Deadline Constraints on ILP Machines.",
+                    "Logical Analysis of Assembly Language.",
+                    "Light Logic and Resource Bounded Computation.",
+                    "Automatic Generation of Very Efficient Programs by Generalized Partial Computation.",
+                    "Partial CPS Transformation Using Static Annotation.",
+                    "A New Criterion for Safe Program Transformations.",
+                    "Berlioz: Compiling Oz to Java Bytecode.",
+                    "A Note on Algebraic Structure of Tree Decomposition of Graphs."
+                ]
+            }
+        ]
+    }
+]

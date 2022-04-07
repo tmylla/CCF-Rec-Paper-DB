@@ -1,0 +1,754 @@
+[
+    {
+        "year": "2021",
+        "name": "18th ICTAC 2021",
+        "info": "Virtual Event, Nur-Sultan, Kazakhstan",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ictac/2021",
+                "sub_name": "Theoretical Aspects of Computing - ICTAC 2021 - 18th International Colloquium, Virtual Event, Nur-Sultan, Kazakhstan, September 8-10, 2021, Proceedings.",
+                "count": 22,
+                "papers": [
+                    "Concurrency and Objects Matter! Disentangling the Fabric of Real Operational Processes to Create Digital Twins.",
+                    "Qualitative-Quantitative Reasoning: Thinking Informally About Formal Things.",
+                    "Some Aspects of the Database Resilience.",
+                    "On the Correctness Problem for Serializability.",
+                    "A Set Automaton to Locate All Pattern Matches in a Term.",
+                    "Accelerating SpMV Multiplication in Probabilistic Model Checkers Using GPUs.",
+                    "A Divide & Conquer Approach to Conditional Stable Model Checking.",
+                    "Certifying Choreography Compilation.",
+                    "A Mechanically Verified Theory of Contracts.",
+                    "A Complete Semantics of $\\mathbb {K}$ and Its Translation to Isabelle.",
+                    "A New Connective in Natural Deduction, and Its Application to Quantum Computing.",
+                    "An Incentive Mechanism for Trading Personal Data in Data Markets.",
+                    "Assessing Security of Cryptocurrencies with Attack-Defense Trees: Proof of Concept and Future Directions.",
+                    "Compositional Analysis of Protocol Equivalence in the Applied \u03c0-Calculus Using Quasi-open Bisimilarity.",
+                    "Card-Based Cryptographic Protocols with a Standard Deck of Cards Using Private Operations.",
+                    "Normalising Lustre Preserves Security.",
+                    "Learning Probabilistic Automata Using Residuals.",
+                    "AlCons : Deductive Synthesis of Sorting Algorithms in Theorema.",
+                    "Reactive Synthesis from Visibly Register Pushdown Automata.",
+                    "ComplexityParser: An Automatic Tool for Certifying Poly-Time Complexity of Java Programs.",
+                    "A Calculus for Attribute-Based Memory Updates.",
+                    "A Proof Method for Local Sufficient Completeness of Term Rewriting Systems."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "name": "17th ICTAC 2020",
+        "info": "Macau, China",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ictac/2020",
+                "sub_name": "Theoretical Aspects of Computing - ICTAC 2020 - 17th International Colloquium, Macau, China, November 30 - December 4, 2020, Proceedings.",
+                "count": 16,
+                "papers": [
+                    "A Flight Rule Checker for the LADEE Lunar Spacecraft.",
+                    "Proof-Theoretic Conservative Extension of HOL with Ad-hoc Overloading.",
+                    "A Myhill-Nerode Theorem for Register Automata and Symbolic Trace Languages.",
+                    "CiMPG+F: A Proof Generator and Fixer-Upper for CafeOBJ Specifications.",
+                    "Statistical Analysis of Non-deterministic Fork-Join Processes.",
+                    "On Two Characterizations of Feature Models.",
+                    "The Complexity of Boolean State Separation.",
+                    "Occupancy Number Restricted Boolean Petri Net Synthesis: A Fixed-Parameter Algorithm.",
+                    "Star-Freeness, First-Order Definability and Aperiodicity of Structured Context-Free Languages.",
+                    "Formal Verification of Parallel Stream Compaction and Summed-Area Table Algorithms.",
+                    "Compositionality of Safe Communication in Systems of Team Automata.",
+                    "Analysis of Bayesian Networks via Prob-Solvable Loops.",
+                    "Semantics of a Relational \u03bb-Calculus.",
+                    "Implementing Hybrid Semantics: From Functional to Imperative.",
+                    "Implementation Correctness for Replicated Data Types, Categorically.",
+                    "Qsimulation V2.0: An Optimized Quantum Simulator."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "16th ICTAC 2019",
+        "info": "Hammamet, Tunisia",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ictac/2019",
+                "sub_name": "Theoretical Aspects of Computing - ICTAC 2019 - 16th International Colloquium, Hammamet, Tunisia, October 31 - November 4, 2019, Proceedings.",
+                "count": 22,
+                "papers": [
+                    "Calculational Design of a Regular Model Checker by Abstract Interpretation.",
+                    "Verification by Construction of Distributed Algorithms.",
+                    "The Linear Time-Branching Time Spectrum of Equivalences for Stochastic Systems with Non-determinism.",
+                    "Computing Branching Distances Using Quantitative Games.",
+                    "Clinical Pathways Formal Modelling Using Bigraphical Reactive Systems.",
+                    "Optimal Run Problem for Weighted Register Automata.",
+                    "Time4sys2imi: A Tool to Formalize Real-Time System Models Under Uncertainty.",
+                    "Testing Real-Time Systems Using Determinization Techniques for Automata over Timed Domains.",
+                    "Verification of Multi-agent Systems with Timeouts for Migration and Communication.",
+                    "LTL to Smaller Self-Loop Alternating Automata and Back.",
+                    "Starvation-Free Monitors.",
+                    "Taming Concurrency for Verification Using Multiparty Session Types.",
+                    "Towards a Call Behavior-Based Compositional Verification Framework for SysML Activity Diagrams.",
+                    "Context-Free Grammars for Deterministic Regular Expressions with Interleaving.",
+                    "Completeness of Abstract Domains for String Analysis of JavaScript Programs.",
+                    "BCARET Model Checking for Malware Detection.",
+                    "DABSTERS: A Privacy Preserving e-Voting Protocol for Permissioned Blockchain.",
+                    "Enhanced Models for Privacy and Utility in Continuous-Time Diffusion Networks.",
+                    "Taylor Series Revisited.",
+                    "Solving the Expression Problem in C++, \u00e1 la LMS.",
+                    "Laws of Monadic Error Handling.",
+                    "Solving of Regular Equations Revisited."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/ictac/2019dicesn",
+                "sub_name": "Distributed Computing for Emerging Smart Networks - First International Workshop, DiCES-N 2019, Hammamet, Tunisia, October 30, 2019, Revised Selected Papers.",
+                "count": 9,
+                "papers": [
+                    "VANETs Routing Protocols Survey: Classifications, Optimization Methods and New Trends.",
+                    "A Systematic Literature Review of Studies on Road Congestion Modelling.",
+                    "A Comparative Study of Vehicle Detection Methods in a Video Sequence.",
+                    "Energy Efficient Handshake Algorithm for Wireless Sensor Networks.",
+                    "Inter-slice Mobility Management in the Context of SDN/NFV Networks.",
+                    "On a New Quantization Algorithm for Secondary User Scheduling in 5G Network.",
+                    "An Efficient Fault-Tolerant Scheduling Approach with Energy Minimization for Hard Real-Time Embedded Systems.",
+                    "Using Dynamic Bayesian Networks to Solve Road Traffic Congestion in the Sfax City.",
+                    "Energy Efficient Target Coverage in Wireless Sensor Networks Using Adaptive Learning."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "15th ICTAC 2018",
+        "info": "Stellenbosch, South Africa",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ictac/2018",
+                "sub_name": "Theoretical Aspects of Computing - ICTAC 2018 - 15th International Colloquium, Stellenbosch, South Africa, October 16-19, 2018, Proceedings.",
+                "count": 27,
+                "papers": [
+                    "Formal Verification of a Geometry Algorithm: A Quest for Abstract Views and Symmetry in Coq Proofs.",
+                    "LTL Semantic Tableaux and Alternating \\omega \u03c9 -automata via Linear Factors.",
+                    "Proof Nets and the Linear Substitution Calculus.",
+                    "Modular Design of Domain-Specific Languages Using Splittings of Catamorphisms.",
+                    "An Automata-Based View on Configurability and Uncertainty.",
+                    "Formalising Boost POSIX Regular Expression Matching.",
+                    "Monoidal Multiplexing.",
+                    "Input/Output Stochastic Automata with Urgency: Confluence and Weak Determinism.",
+                    "Layer by Layer - Combining Monads.",
+                    "Layer Systems for Confluence - Formalized.",
+                    "A Metalanguage for Guarded Iteration.",
+                    "Generating Armstrong ABoxes for ALC ALC TBoxes.",
+                    "Spatio-Temporal Domains: An Overview.",
+                    "Checking Modal Contracts for Virtually Timed Ambients.",
+                    "Abstraction of Bit-Vector Operations for BDD-Based SMT Solvers.",
+                    "Weak Bisimulation Metrics in Models with Nondeterminism and Continuous State Spaces.",
+                    "Symbolic Computation via Program Transformation.",
+                    "Double Applicative Functors.",
+                    "Checking Sequence Generation for Symbolic Input/Output FSMs by Constraint Solving.",
+                    "Explicit Auditing.",
+                    "Complexity and Expressivity of Branching- and Alternating-Time Temporal Logics with Finitely Many Variables.",
+                    "Complexity Results on Register Context-Free Grammars and Register Tree Automata.",
+                    "Information Flow Certificates.",
+                    "The Smallest FSSP Partial Solutions for One-Dimensional Ring Cellular Automata: Symmetric and Asymmetric Synchronizers.",
+                    "Convex Language Semantics for Nondeterministic Probabilistic Automata.",
+                    "Fast Computations on Ordered Nominal Sets.",
+                    "Non-preemptive Semantics for Data-Race-Free Programs."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "14th ICTAC 2017",
+        "info": "Hanoi, Vietnam",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ictac/2017",
+                "sub_name": "Theoretical Aspects of Computing - ICTAC 2017 - 14th International Colloquium, Hanoi, Vietnam, October 23-27, 2017, Proceedings.",
+                "count": 17,
+                "papers": [
+                    "A Formal Proof Generator from Semi-formal Proof Documents.",
+                    "Institutions for Behavioural Dynamic Logic with Binders.",
+                    "The Delay Monad and Restriction Categories.",
+                    "Logical Characterisation of Parameterised Bisimulations.",
+                    "A Probabilistic Semantics for the Pure \\lambda -Calculus.",
+                    "Towards a Calculus for Dynamic Architectures.",
+                    "Class-Diagrams for Abstract Data Types.",
+                    "Value-Based or Conflict-Based? Opacity Definitions for STMs.",
+                    "Smaller-State Implementations of 2D FSSP Algorithms - Recent Developments.",
+                    "Derived-Term Automata of Weighted Rational Expressions with Quotient Operators.",
+                    "Polynomial Time Learner for Inferring Subclasses of Internal Contextual Grammars with Local Maximum Selectors.",
+                    "Trace Relations and Logical Preservation for Continuous-Time Markov Decision Processes.",
+                    "Constructing Cycles in the Simplex Method for DPLL(T).",
+                    "Tableaux with Partial Caching for Hybrid PDL with Satisfaction Statements.",
+                    "PTrie: Data Structure for Compressing and Storing Sets via Prefix Sharing.",
+                    "Inferring Secrets by Guided Experiments.",
+                    "ECBC: A High Performance Educational Certificate Blockchain with Efficient Query."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "13th ICTAC 2016",
+        "info": "Taipei, Taiwan",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ictac/2016",
+                "sub_name": "Theoretical Aspects of Computing - ICTAC 2016 - 13th International Colloquium, Taipei, Taiwan, ROC, October 24-31, 2016, Proceedings.",
+                "count": 27,
+                "papers": [
+                    "Verification of Concurrent Programs on Weak Memory Models.",
+                    "Petri Nets and Semilinear Sets (Extended Abstract).",
+                    "Termination of Single-Path Polynomial Loop Programs.",
+                    "Relation-Algebraic Verification of Prim's Minimum Spanning Tree Algorithm.",
+                    "Certified Impossibility Results and Analyses in Coq of Some Randomised Distributed Algorithms.",
+                    "Calculating Statically Maximum Log Memory Used by Multi-threaded Transactional Programs.",
+                    "Synthesis of Petri Nets with Whole-Place Operations and Localities.",
+                    "Schedulers and Finishers: On Generating the Behaviours of an Event Structure.",
+                    "On the Expressiveness of Symmetric Communication.",
+                    "Towards MC/DC Coverage of Properties Specification Patterns.",
+                    "Unification for \\lambda -calculi Without Propagation Rules.",
+                    "Soundly Proving B Method Formul\u00e6 Using Typed Sequent Calculus.",
+                    "Deriving Inverse Operators for Modal Logic.",
+                    "Specifying Properties of Dynamic Architectures Using Configuration Traces.",
+                    "Behavioural Models for FMI Co-simulations.",
+                    "An Abstract Model for Proving Safety of Autonomous Urban Traffic.",
+                    "Unifying Heterogeneous State-Spaces with Lenses.",
+                    "Ensuring Correctness of Model Transformations While Remaining Decidable.",
+                    "ProofScript: Proof Scripting for the Masses.",
+                    "Derived-Term Automata for Extended Weighted Rational Expressions.",
+                    "Weighted Register Automata and Weighted Logic on Data Words.",
+                    "Hybrid Automata as Coalgebras.",
+                    "Temporal Logic Verification for Delay Differential Equations.",
+                    "Dynamic Logic with Binders and Its Application to the Development of Reactive Systems.",
+                    "Propositional Dynamic Logic for Petri Nets with Iteration.",
+                    "ML Pattern-Matching, Recursion, and Rewriting: From FoCaLiZe to Dedukti.",
+                    "Parametric Deadlock-Freeness Checking Timed Automata."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "12th ICTAC 2015",
+        "info": "Cali, Colombia",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ictac/2015",
+                "sub_name": "Theoretical Aspects of Computing - ICTAC 2015 - 12th International Colloquium Cali, Colombia, October 29-31, 2015, Proceedings.",
+                "count": 36,
+                "papers": [
+                    "An Exercise in Mathematical Engineering: Stating and Proving Kuratowski Theorem.",
+                    "Location Privacy via Geo-Indistinguishability.",
+                    "A Note on Monitors and B\u00fcchi Automata.",
+                    "Formal Methods in Air Traffic Management: The Case of Unmanned Aircraft Systems (Invited Lecture).",
+                    "The Proof Technique of Unique Solutions of Contractions.",
+                    "On Probabilistic Distributed Strategies.",
+                    "Newton Series, Coinductively.",
+                    "Quotienting the Delay Monad by Weak Bisimilarity.",
+                    "Inverse Monoids of Higher-Dimensional Strings.",
+                    "A Functorial Bridge Between the Infinitary Affine Lambda-Calculus and Linear Logic.",
+                    "Learning Register Automata with Fresh Value Generation.",
+                    "Modeling Product Lines with Kripke Structures and Modal Logic.",
+                    "Deterministic Regular Expressions with Interleaving.",
+                    "Rigid Families for CCS and the \u03c0-calculus.",
+                    "Quotients of Unbounded Parallelism.",
+                    "Higher-Order Dynamics in Event Structures.",
+                    "Asynchronous Announcements in a Public Channel.",
+                    "A Totally Distributed Fair Scheduler for Population Protocols by Randomized Handshakes.",
+                    "Extending the Notion of Preferred Explanations for Quantified Constraint Satisfaction Problems.",
+                    "A Graphical Theorem of the Alternative for UTVPI Constraints.",
+                    "Converging from Branching to Linear Metrics on Markov Chains.",
+                    "MSO Logic and the Partial Order Semantics of Place/Transition-Nets.",
+                    "A Resource Aware Computational Interpretation for Herbelin's Syntax.",
+                    "Undecidability Results for Multi-Lane Spatial Logic.",
+                    "Aspect-Oriented Development of Trustworthy Component-based Systems.",
+                    "A Game of Attribute Decomposition for Software Architecture Design.",
+                    "Multi-rate System Design Through Integrating Synchronous Components.",
+                    "Verifying Android's Permission Model.",
+                    "CSP and Kripke Structures.",
+                    "Specifying and Analyzing the Kademlia Protocol in Maude.",
+                    "Enforcement of (Timed) Properties with Uncontrollable Events.",
+                    "A Tool Prototype for Model-Based Testing of Cyber-Physical Systems.",
+                    "CAAL: Concurrency Workbench, Aalborg Edition.",
+                    "A Tool for the Automated Verification of Nash Equilibria in Concurrent Games.",
+                    "A Mathematical Game Semantics of Concurrency and Nondeterminism.",
+                    "First Steps Towards Cumulative Inductive Types in CIC."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "11th ICTAC 2014",
+        "info": "Bucharest, Romania",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ictac/2014",
+                "sub_name": "Theoretical Aspects of Computing - ICTAC 2014 - 11th International Colloquium, Bucharest, Romania, September 17-19, 2014. Proceedings.",
+                "count": 27,
+                "papers": [
+                    "From Universal Logic to Computer Science, and Back.",
+                    "Event Analytics.",
+                    "A Logical Descriptor for Regular Languages via Stone Duality.",
+                    "On Clock-Aware LTL Properties of Timed Automata.",
+                    "Linguistic Mechanisms for Context-Aware Security.",
+                    "Partial Models and Weak Equivalence.",
+                    "Probabilistic Recursion Theory and Implicit Computational Complexity.",
+                    "Heterogeneous Timed Machines.",
+                    "Refinement of Structured Interactive Systems.",
+                    "Reasoning Algebraically About Refinement on TSO Architectures.",
+                    "Structural Refinement for the Modal nu-Calculus.",
+                    "Precise Interprocedural Side-Effect Analysis.",
+                    "Expressiveness via Intensionality and Concurrency.",
+                    "Optimally Streaming Greedy Regular Expression Parsing.",
+                    "Learning Cover Context-Free Grammars from Structural Data.",
+                    "Context-Free Sequences.",
+                    "Modular Reasoning for Message-Passing Programs.",
+                    "Symbolic Analysis Tools for CSP.",
+                    "A Heterogeneous Characterisation of Component-Based System Design in a Categorical Setting.",
+                    "On Unary Fragments of MTL and TPTL over Timed Words.",
+                    "A Behavioral Congruence for Concurrent Constraint Programming with Nondeterministic Choice.",
+                    "Distributed Testing of Concurrent Systems: Vector Clocks to the Rescue.",
+                    "UTP Designs for Binary Multirelations.",
+                    "The Arithmetic of Recursively Run-Length Compressed Natural Numbers.",
+                    "Synchronous Parallel Composition in a Process Calculus for Ecological Models.",
+                    "Finite Vector Spaces as Model of Simply-Typed Lambda-Calculi.",
+                    "A Decidable Recursive Logic for Weighted Transition Systems."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "10th ICTAC 2013",
+        "info": "Shanghai, China",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ictac/2013",
+                "sub_name": "Theoretical Aspects of Computing - ICTAC 2013 - 10th International Colloquium, Shanghai, China, September 4-6, 2013. Proceedings.",
+                "count": 25,
+                "papers": [
+                    "Stochastic Pi-calculus Revisited.",
+                    "A Clock-Based Framework for Construction of Hybrid Systems.",
+                    "Advances in Quantitative Verification for Ubiquitous Computing.",
+                    "Mobile Membranes: Computability and Complexity.",
+                    "Cruise Control in Hybrid Event-B.",
+                    "From Distributions to Probabilistic Reactive Programs.",
+                    "hol-TestGen/fw - An Environment for Specification-Based Firewall Conformance Testing.",
+                    "Random Walks on Some Basic Classes of Digraphs.",
+                    "A Probabilistic Logic for pTiMo.",
+                    "An Interface Model of Software Components.",
+                    "A High-Level Semantics for Program Execution under Total Store Order Memory.",
+                    "Preemptive Type Checking in Dynamically Typed Languages.",
+                    "On Refinements of Boolean and Parametric Modal Transition Systems.",
+                    "Proof Theory of a Multi-Lane Spatial Logic.",
+                    "Counterexample-Preserving Reduction for Symbolic Model Checking.",
+                    "A Transformation from p-\u03c0 to MSVL.",
+                    "On Slicing of Programs with Input Statements.",
+                    "Deterministic Logics for UL.",
+                    "Finitary Fairness in Action Systems.",
+                    "Spatio-temporal Hybrid Automata for Cyber-Physical Systems.",
+                    "Embedding Functions into Disjunctive Logic Programs.",
+                    "Reactive Designs of Interrupts in Circus Time.",
+                    "A Proof System in PADS.",
+                    "Scope Logic: An Extension to Hoare Logic for Pointers and Recursive Data Structures.",
+                    "Durative Graph Transformation Rules for Modelling Real-Time Reconfiguration."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/ictac/2013s",
+                "sub_name": "Unifying Theories of Programming and Formal Engineering Methods - International Training School on Software Engineering, Held at ICTAC 2013, Shanghai, China, August 26-30, 2013, Advanced Lectures.",
+                "count": 5,
+                "papers": [
+                    "rCOS: Defining Meanings of Component-Based Software Architectures.",
+                    "Model-Based Verification, Optimization, Synthesis and Performance Evaluation of Real-Time Systems.",
+                    "Unifying Theories of Programming in Isabelle.",
+                    "FORMULA 2.0: A Language for Formal Specifications.",
+                    "Formal Modelling, Analysis and Verification of Hybrid Systems."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "9th ICTAC 2012",
+        "info": "Bangalore, India",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ictac/2012",
+                "sub_name": "Theoretical Aspects of Computing - ICTAC 2012 - 9th International Colloquium, Bangalore, India, September 24-27, 2012. Proceedings.",
+                "count": 19,
+                "papers": [
+                    "Symbolically Bounding the Drift in Time-Constrained MSC Graphs.",
+                    "A Compositional Hierarchical Monitoring Automaton Construction for LTL.",
+                    "How to Translate Efficiently Extensions of Temporal Logics into Alternating Automata.",
+                    "Correctness of Object Oriented Models by Extended Type Inference.",
+                    "Non-termination Sets of Simple Linear Loops.",
+                    "Definite Expression Aliasing Analysis for Java Bytecode.",
+                    "Using Semantics Specified in Maude to Generate Test Cases.",
+                    "A Locally Nameless Representation for a Natural Semantics for Lazy Evaluation.",
+                    "Modal Process Rewrite Systems.",
+                    "S-Narrowing for Constructor Systems.",
+                    "Data Privacy Using MASKETEERTM.",
+                    "A Conformance Checker Tool CSPConCheck.",
+                    "SmartTestGen+: A Test Suite Booster for Enhanced Structural Coverage.",
+                    "Model Checking under Fairness in ProB and Its Application to Fair Exchange Protocols.",
+                    "Model Checking of OSEK/VDX OS Design Model Based on Environment Modeling.",
+                    "A Cure for Stuttering Parity Games.",
+                    "Ensuring Reachability by Design.",
+                    "Approximate Verification and Enumeration Problems.",
+                    "Undecidability of Quantized State Feedback Control for Discrete Time Linear Hybrid Systems."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "8th ICTAC 2011",
+        "info": "Johannesburg, South Africa",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ictac/2011",
+                "sub_name": "Theoretical Aspects of Computing - ICTAC 2011 - 8th International Colloquium, Johannesburg, South Africa, August 31 - September 2, 2011. Proceedings.",
+                "count": 17,
+                "papers": [
+                    "Virtual Time and Timeout in Client-Server Networks - (Extended Abstract).",
+                    "The Use of Mathematics in Software Development - (Extended Abstract).",
+                    "Infinitely Often Testing - (Extended Abstract).",
+                    "Axiomatizing Weak Ready Simulation Semantics over BCCSP.",
+                    "Symbolic Worst Case Execution Times.",
+                    "Selecting Good a Priori Sequences for Vehicle Routing Problem with Stochastic Demand.",
+                    "On Characterization, Definability and \u03c9-Saturated Models.",
+                    "On the Complexity of Szilard Languages of Regulated Grammars.",
+                    "Energy Games in Multiweighted Automata.",
+                    "Intersection Types for the Resource Control Lambda Calculi.",
+                    "Modal Interface Theories for Communication-Safe Component Assemblies.",
+                    "WP Semantics and Behavioral Subtyping.",
+                    "Computing Preconditions and Postconditions of While Loops.",
+                    "A Framework for Instantiating Pedagogic mLearning Objects Applications.",
+                    "Emulating Primality with Multiset Representations of Natural Numbers.",
+                    "Formal Verification of a Lock-Free Stack with Hazard Pointers.",
+                    "Ambiguity of Unary Symmetric Difference NFAs."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "7th ICTAC 2010",
+        "info": "Natal, Rio Grande do Norte, Brazil",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ictac/2010",
+                "sub_name": "Theoretical Aspects of Computing - ICTAC 2010, 7th International Colloquium, Natal, Rio Grande do Norte, Brazil, September 1-3, 2010. Proceedings.",
+                "count": 26,
+                "papers": [
+                    "Invariants and Well-Foundedness in Program Algebra.",
+                    "A Theory of Software Product Line Refinement.",
+                    "The TLA+ Proof System: Building a Heterogeneous Verification Platform.",
+                    "Subtyping Algorithm of Regular Tree Grammars with Disjoint Production Rules.",
+                    "Minimal Tree Language Extensions: A Keystone of XML Type Compatibility and Evolution.",
+                    "Tracking Down the Origins of Ambiguity in Context-Free Grammars.",
+                    "Prioritized slotted-Circus.",
+                    "A Denotational Semantical Model for Orc Language.",
+                    "An Extended cCSP with Stable Failures Semantics.",
+                    "Preference and Non-deterministic Choice.",
+                    "Material Flow Abstraction of Manufacturing Systems.",
+                    "Specification and Verification of a MPI Implementation for a MP-SoC.",
+                    "Testing of Abstract Components.",
+                    "Scalable Distributed Concolic Testing: A Case Study on a Flash Storage Platform.",
+                    "Analyzing a Formal Specification of Mondex Using Model Checking.",
+                    "Formal Modelling of Separation Kernel Components.",
+                    "Mechanized Verification with Sharing.",
+                    "Industrial-Strength Certified SAT Solving through Verified SAT Proof Checking.",
+                    "Dynamite 2.0: New Features Based on UnSAT-Core Extraction to Improve Verification of Software Requirements.",
+                    "Complete Calculi for Structured Specifications in Fork Algebra.",
+                    "Towards Managing Dynamic Reconfiguration of Software Systems in a Categorical Setting.",
+                    "Characterizing Locality (Encapsulation) with Bisimulation.",
+                    "Justification Logic and History Based Computation.",
+                    "A Class of Greedy Algorithms and Its Relation to Greedoids.",
+                    "On Arithmetic Computations with Hereditarily Finite Sets, Functions and Types.",
+                    "A Modality for Safe Resource Sharing and Code Reentrancy."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "6th ICTAC 2009",
+        "info": "Kuala Lumpur, Malaysia",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ictac/2009",
+                "sub_name": "Theoretical Aspects of Computing - ICTAC 2009, 6th International Colloquium, Kuala Lumpur, Malaysia, August 16-20, 2009. Proceedings.",
+                "count": 24,
+                "papers": [
+                    "Static Analysis of Concurrent Programs Using Ordinary Differential Equations.",
+                    "The PlusCal Algorithm Language.",
+                    "The Secret Art of Computer Programming.",
+                    "Verification, Testing and Statistics.",
+                    "nu-Types for Effects and Freshness Analysis.",
+                    "A First-Order Policy Language for History-Based Transaction Monitoring.",
+                    "Checking Thorough Refinement on Modal Transition Systems Is EXPTIME-Complete.",
+                    "Transmission Protocols for Instruction Streams.",
+                    "A Deadlock-Free Semantics for Shared Memory Concurrency.",
+                    "On the Expressiveness of Forwarding in Higher-Order Communication.",
+                    "On the Hairpin Completion of Regular Languages.",
+                    "Context-Free Languages of Countable Words.",
+                    "Automatic Conflict Detection on Contracts.",
+                    "A Sound Observational Semantics for Modal Transition Systems.",
+                    "Regular Expressions with Numerical Constraints and Automata with Counters.",
+                    "On the Relative Expressive Power of Contextual Grammars with Maximal and Depth-First Derivations.",
+                    "Integration Testing from Structured First-Order Specifications via Deduction Modulo.",
+                    "A Minimized Assumption Generation Method for Component-Based Software Verification.",
+                    "A Formal Approach to Heuristically Test Restorable Systems.",
+                    "Constrained Reachability of Process Rewrite Systems.",
+                    "Input-Output Model Programs.",
+                    "IMITATOR: A Tool for Synthesizing Constraints on Timing Bounds of Timed Automata.",
+                    "GSPeeDI - A Verification Tool for Generalized Polygonal Hybrid Systems.",
+                    "Hierarchical Graph Rewriting as a Unifying Tool for Analyzing and Understanding Nondeterministic Systems."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "5th ICTAC 2008",
+        "info": "Istanbul, Turkey",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ictac/2008",
+                "sub_name": "Theoretical Aspects of Computing - ICTAC 2008, 5th International Colloquium, Istanbul, Turkey, September 1-3, 2008. Proceedings.",
+                "count": 30,
+                "papers": [
+                    "Using Design Patterns in Formal Methods: An Event-B Approach.",
+                    "A Unified Approach to Abstract Interpretation, Formal Verification and Testing of C/C++ Modules.",
+                    "The Three Platonic Models of Divergence-Strict CSP.",
+                    "Monotonic Abstraction in Action.",
+                    "Non-interleaving Semantics with Causality for Nondeterministic Dataflow.",
+                    "Symbolic Reachability for Process Algebras with Recursive Data Types.",
+                    "Inclusion Test Algorithms for One-Unambiguous Regular Expressions.",
+                    "Refinement of Kripke Models for Dynamics.",
+                    "Tomorrow and All our Yesterdays: MTL Satisfiability over the Integers.",
+                    "A Theory of Pointers for the UTP.",
+                    "Recasting Constraint Automata into B\u00fcchi Automata.",
+                    "A Complete Realisability Semantics for Intersection Types and Arbitrary Expansion Variables.",
+                    "Towards Efficient Verification of Systems with Dynamic Process Creation.",
+                    "An Observational Model for Transactional Calculus of Services Orchestration.",
+                    "Everything Is PSPACE-Complete in Interaction Systems.",
+                    "A New Approach for the Construction of Multiway Decision Graphs.",
+                    "Congruence Results of Scope Equivalence for a Graph Rewriting Model of Concurrent Programs.",
+                    "Guided Test Generation from CSP Models.",
+                    "Relaxing Goodness Is Still Good.",
+                    "Benchmarking Model- and Satisfiability-Checking on Bi-infinite Time.",
+                    "Formal Analysis of Workflows Using UML 2.0 Activities and Graph Transformation Systems.",
+                    "Testing Concurrent Objects with Application-Specific Schedulers.",
+                    "A Theory of Bounded Fair Scheduling.",
+                    "Fair Exchange Is Incomparable to Consensus.",
+                    "Automatic Generation of CSP || B Skeletons from xUML Models.",
+                    "Bounded Model Checking for Partial Kripke Structures.",
+                    "Verification of Linear Duration Invariants by Model Checking CTL Properties.",
+                    "Exact Response Time Scheduling Analysis of Accumulatively Monotonic Multiframe Real Time Tasks.",
+                    "Endomorphisms for Non-trivial Non-linear Loop Invariant Generation.",
+                    "Instantiation for Parameterised Boolean Equation Systems."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "4th ICTAC 2007",
+        "info": "Macau, China",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ictac/2007",
+                "sub_name": "Theoretical Aspects of Computing - ICTAC 2007, 4th International Colloquium, Macau, China, September 26-28, 2007, Proceedings.",
+                "count": 32,
+                "papers": [
+                    "Domain Theory: Practice and Theories A Discussion of Possible Research Topics.",
+                    "Linking Semantic Models.",
+                    "Discovering Non-linear Ranking Functions by Solving Semi-algebraic Systems.",
+                    "Mobile Ambients with Timers and Types.",
+                    "Automatic Refinement of Split Binary Semaphore.",
+                    "Stepwise Development of Simulink Models Using the Refinement Calculus Framework.",
+                    "Bisimulations for a Distributed Higher Order pi -Calculus.",
+                    "A Complete and Compact Propositional Deontic Logic.",
+                    "Verifying Lock-Freedom Using Well-Founded Orders.",
+                    "Tree Components Programming: An Application to XML.",
+                    "A Framework for Incorporating Trust into Formal Systems Development.",
+                    "A Higher-Order Demand-Driven Narrowing Calculus with Definitional Trees.",
+                    "Distributed Time-Asynchronous Automata.",
+                    "Skolem Machines and Geometric Logic.",
+                    "A Logical Calculus for Modelling Interferences.",
+                    "Reflection and Preservation of Properties in Coalgebraic (bi)Simulations.",
+                    "Controlling Process Modularity in Mobile Computing.",
+                    "Failures: Their Definition, Modelling and Analysis.",
+                    "C-clock-WS: A Timed Service-Oriented Calculus.",
+                    "Regular Linear Temporal Logic.",
+                    "Algebraic Semantics for Compensable Transactions.",
+                    "Axiomatizing Extended Temporal Logic Fragments Via Instantiation.",
+                    "Deciding Weak Bisimilarity of Normed Context-Free Processes Using Tableau.",
+                    "Linear Context Free Languages.",
+                    "FM for FMS: Lessons Learned While Applying Formal Methods to the Study of Flexible Manufacturing Systems.",
+                    "On Equality Predicates in Algebraic Specification Languages.",
+                    "Data-Distributions in PowerList Theory.",
+                    "Quasi-interpretation Synthesis by Decomposition.",
+                    "Composing Transformations to Optimize Linear Code.",
+                    "Building Extended Canonizers by Graph-Based Deduction.",
+                    "A Randomized Algorithm for BBCSPs in the Prover-Verifier Model.",
+                    "On the Expressive Power of QLTL."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "3rd ICTAC 2006",
+        "info": "Tunis, Tunisia",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ictac/2006",
+                "sub_name": "Theoretical Aspects of Computing - ICTAC 2006, Third International Colloquium, Tunis, Tunisia, November 20-24, 2006, Proceedings.",
+                "count": 26,
+                "papers": [
+                    "Verifying a Hotel Key Card System.",
+                    "Z/Eves and the Mondex Electronic Purse.",
+                    "Verification Constraint Problems with Strengthening.",
+                    "Quantitative \u00b5-Calculus Analysis of Power Management in Wireless Networks.",
+                    "Termination and Divergence Are Undecidable Under a Maximum Progress Multi-step Semantics for LinCa.",
+                    "A Topological Approach of the Web Classification.",
+                    "Bisimulation Congruences in the Calculus of Looping Sequences.",
+                    "Stronger Reduction Criteria for Local First Search.",
+                    "A Lattice-Theoretic Model for an Algebra of Communicating Sequential Processes.",
+                    "A Petri Net Translation of pi-Calculus Terms.",
+                    "Handling Algebraic Properties in Automatic Analysis of Security Protocols.",
+                    "A Compositional Algorithm for Parallel Model Checking of Polygonal Hybrid Systems.",
+                    "Thread-Modular Verification Is Cartesian Abstract Interpretation.",
+                    "Capture-Avoiding Substitution as a Nominal Algebra.",
+                    "Prime Decomposition Problem for Several Kinds of Regular Codes.",
+                    "A New Approach to Determinisation Using Bit-Parallelism.",
+                    "Proving ATL* Properties of Infinite-State Systems.",
+                    "Type Safety for FJ and FGJ.",
+                    "Partizan Games in Isabelle/HOLZF.",
+                    "Proof-Producing Program Analysis.",
+                    "Reachability Analysis of Mobile Ambients in Fragments of AC Term Rewriting.",
+                    "Interesting Properties of the Real-Time Conformance Relation.",
+                    "Model Checking Duration Calculus: A Practical Approach.",
+                    "Spatio-temporal Model Checking for Mobile Real-Time Systems.",
+                    "Tutorial on Formal Methods for Distributed and Cooperative Systems.",
+                    "Decision Procedures for the Formal Analysis of Software."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "2nd ICTAC 2005",
+        "info": "Hanoi, Vietnam",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ictac/2005",
+                "sub_name": "Theoretical Aspects of Computing - ICTAC 2005, Second International Colloquium, Hanoi, Vietnam, October 17-21, 2005, Proceedings.",
+                "count": 40,
+                "papers": [
+                    "A Rewriting Logic Sampler.",
+                    "Codes and Length-Increasing Transitive Binary Relations.",
+                    "Languages and Process Calculi for Network Aware Programming - Short Summary -.",
+                    "Stochastic Analysis of Graph Transformation Systems: A Case Study in P2P Networks.",
+                    "Component-Based Software Engineering.",
+                    "Outfix-Free Regular Languages and Prime Outfix-Free Decomposition.",
+                    "Solving First Order Formulae of Pseudo-Regular Theory.",
+                    "Splicing Array Grammar Systems.",
+                    "Compositionality of Fixpoint Logic with Chop.",
+                    "An SLD-Resolution Calculus for Basic Serial Multimodal Logics.",
+                    "Upside-Down Transformation in SOL/Connection Tableaux and Its Application.",
+                    "On the Stability Semantics of Combinational Programs.",
+                    "Generating C Code from LOGS Specifications.",
+                    "Formalizing the Debugging Process in Haskell.",
+                    "Finding Resource Bounds in the Presence of Explicit Deallocation.",
+                    "The Timer Cascade: Functional Modelling and Real Time Calculi.",
+                    "A Robust Interpretation of Duration Calculus.",
+                    "Symbolic Model Checking of Finite Precision Timed Automata.",
+                    "Covarieties of Coalgebras: Comonads and Coequations.",
+                    "Linking Theories of Concurrency.",
+                    "On Cool Congruence Formats for Weak Bisimulations.",
+                    "Externalized and Internalized Notions of Behavioral Refinement.",
+                    "Information Flow Is Linear Refinement of Constancy.",
+                    "On Typing Information Flow.",
+                    "Representation and Reasoning on RBAC: A Description Logic Approach.",
+                    "Revisiting Failure Detection and Consensus in Omission Failure Environments.",
+                    "Congruences and Bisimulations for Continuous-Time Stochastic Logic.",
+                    "A Logic for Quantum Circuits and Protocols.",
+                    "Quantitative Temporal Logic Mechanized in HOL.",
+                    "Weak Stochastic Bisimulation for Non-markovian Processes.",
+                    "On Refinement of Software Architectures.",
+                    "POST: A Case Study for an Incremental Development in rCOS.",
+                    "Implementing Application-Specific Object-Oriented Theories in HOL.",
+                    "Constructing Open Systems via Consistent Components.",
+                    "A Sub-quadratic Algorithm for Conjunctive and Disjunctive Boolean Equation Systems.",
+                    "Using Fairness Constraints in Process-Algebraic Verification.",
+                    "Maximum Marking Problems with Accumulative Weight Functions.",
+                    "Toward an Abstract Computer Virology.",
+                    "On Superposition-Based Satisfiability Procedures and Their Combination.",
+                    "A Summary of the Tutorials at ICTAC 2005."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "1st ICTAC 2004",
+        "info": "Guiyang, China",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ictac/2004",
+                "sub_name": "Theoretical Aspects of Computing - ICTAC 2004, First International Colloquium, Guiyang, China, September 20-24, 2004, Revised Selected Papers.",
+                "count": 39,
+                "papers": [
+                    "Software Services: Scientific Challenge or Industrial Hype?.",
+                    "Integrating Variants of DC.",
+                    "Challenges in Increasing Tool Support for Programming.",
+                    "A Predicate Spatial Logic and Model Checking for Mobile Processes.",
+                    "Object Connectivity and Full Abstraction for a Concurrent Calculus of Classes.",
+                    "Specifying Software Connectors.",
+                    "Replicative - Distribution Rules in P Systems with Active Membranes.",
+                    "A Generalisation of a Relational Structures Model of Concurrency.",
+                    "A Logical Characterization of Efficiency Preorders.",
+                    "Inherent Causal Orderings of Partial Order Scenarios.",
+                    "Atomic Components.",
+                    "Towards an Optimization-Based Method for Consolidating Domain Variabilities in Domain-Specific Web Services Composition.",
+                    "A Formal Framework for Ontology Integration Based on a Default Extension to DDL.",
+                    "A Predicative Semantic Model for Integrating UML Models.",
+                    "An Automatic Mapping from Statecharts to Verilog.",
+                    "Reverse Observation Equivalence Between Labelled State Transition Systems.",
+                    "Minimal Spanning Set for Coverage Testing of Interactive Systems.",
+                    "An Approach to Integration Testing Based on Data Flow Specifications.",
+                    "Combining Algebraic and Model-Based Test Case Generation.",
+                    "Verifying OWL and ORL Ontologies in PVS.",
+                    "Symbolic and Parametric Model Checking of Discrete-Time Markov Chains.",
+                    "Verifying Linear Duration Constraints of Timed Automata.",
+                    "Idempotent Relations in Isabelle/HOL.",
+                    "Program Verification Using Automatic Generation of Invariants.",
+                    "Random Generators for Dependent Types.",
+                    "A Proof of Weak Termination Providing the Right Way to Terminate.",
+                    "Nelson-Oppen, Shostak and the Extended Canonizer: A Family Picture with a Newborn.",
+                    "Real Time Reactive Programming in Lucid Enriched with Contexts.",
+                    "Revision Programs with Explicit Negation.",
+                    "An Algebraic Approach for Codesign.",
+                    "Duration Calculus: A Real-Time Semantic for B.",
+                    "An Algebra of Petri Nets with Arc-Based Time Restrictions.",
+                    "A Calculus for Shapes in Time and Space.",
+                    "A Framework for Specification and Validation of Real-Time Systems Using Circus Actions.",
+                    "Switched Probabilistic I/O Automata.",
+                    "Decomposing Controllers into Non-conflicting Distributed Controllers.",
+                    "Reasoning About Co-B\u00fcchi Tree Automata.",
+                    "Foundations for the Run-Time Monitoring of Reactive Systems - Fundamentals of the MaC Language.",
+                    "A Summary of the Tutorials at ICTAC 2004."
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,324 @@
+[
+    {
+        "year": "2019",
+        "name": "17th SGP 2019",
+        "info": "Milan, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sgp/2019p",
+                "sub_name": "Eurographics Symposium on Geometry Processing - Posters, SGP 2019 - Posters, Milan, Italy, July 8-10, 2019.",
+                "count": 2,
+                "papers": [
+                    "Solving Variational Problems Using Nonlinear Rotation-invariant Coordinates.",
+                    "Adaptive Block Coordinate Descent for Distortion Minimization."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "16th SGP 2018",
+        "info": "Paris, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sgp/2018p",
+                "sub_name": "16th Eurographics Symposium on Geometry Processing, SGP 2018 - Posters, Paris, France, July 7-11, 2018.",
+                "count": 5,
+                "papers": [
+                    "Out-of-core Resampling of Gigantic Point Clouds.",
+                    "Using Mathematical Morphology to Simplify Archaeological Fracture Surfaces.",
+                    "Denoising of Point-clouds Based on Structured Dictionary Learning.",
+                    "Solving PDEs on Deconstructed Domains.",
+                    "Functional Maps on Product Manifolds."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "15th SGP 2017",
+        "info": "London, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sgp/2017p",
+                "sub_name": "15th Eurographics Symposium on Geometry Processing, SGP 2017 - Posters, London, UK, July 3-5, 2017.",
+                "count": 6,
+                "papers": [
+                    "Sequentially-Defined Compressed Modes via ADMM.",
+                    "DepthCut: Improved Depth Edge Estimation Using Multiple Unreliable Channels.",
+                    "Localized Manifold Harmonics for Spectral Shape Analysis.",
+                    "A Primal-to-Primal Discretization of Exterior Calculus on Polygonal Meshes.",
+                    "Schr\u00f6dinger Operator for Sparse Approximation of 3D Meshes.",
+                    "PCR: A Geometric Cocktail for Triangulating Point Clouds Beautifully Without Angle Bounds."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "14th SGP 2016",
+        "info": "Berlin, Germany",
+        "venues": []
+    },
+    {
+        "year": "2015",
+        "name": "13th SGP 2015",
+        "info": "Graz, Austria",
+        "venues": []
+    },
+    {
+        "year": "2014",
+        "name": "12th SGP 2014",
+        "info": "Cardiff, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sgp/2014p",
+                "sub_name": "2014 Eurographics Symposium on Geometry Processing - Posters, SGP 2014 Posters, Cardiff, UK, July 9-11, 2014.",
+                "count": 6,
+                "papers": [
+                    "Geodesic Voronoi Diagrams with Polyline Generators.",
+                    "Irregular Model Synthesis via Boundary Consistency Analysis.",
+                    "Depth-layer Architecture Reconstruction From Image Collections.",
+                    "Construction of G3 Conic Spline Interpolation.",
+                    "Statistical Mesh Shape Analysis with Nonlandmark Nonrigid Registration.",
+                    "Learning Geometric Primitives in Point Clouds."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "11th SGP 2013",
+        "info": "Genoa, Italy",
+        "venues": []
+    },
+    {
+        "year": "2012",
+        "name": "10th SGP 2012",
+        "info": "Tallinn, Estonia",
+        "venues": []
+    },
+    {
+        "year": "2011",
+        "name": "9th SGP 2011",
+        "info": "Lausanne, Switzerland",
+        "venues": []
+    },
+    {
+        "year": "2010",
+        "name": "8th SGP 2010",
+        "info": "Lyon, France",
+        "venues": []
+    },
+    {
+        "year": "2009",
+        "name": "7th SGP 2009",
+        "info": "Berlin, Germany",
+        "venues": []
+    },
+    {
+        "year": "2008",
+        "name": "6th SGP 2008",
+        "info": "Copenhagen, Denmark",
+        "venues": []
+    },
+    {
+        "year": "2007",
+        "name": "5th SGP 2007",
+        "info": "Barcelona, Spain",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sgp/2007",
+                "sub_name": "Proceedings of the Fifth Eurographics Symposium on Geometry Processing, Barcelona, Spain, July 4-6, 2007.",
+                "count": 28,
+                "papers": [
+                    "Robust statistical estimation of curvature on discretized surfaces.",
+                    "Focal surfaces of discrete geometry.",
+                    "Discrete laplace operators: no free lunch.",
+                    "Voronoi-based variational reconstruction of unoriented point sets.",
+                    "Reconstruction of deforming geometry from time-varying point clouds.",
+                    "Data-dependent MLS for faithful surface approximation.",
+                    "Multilevel streaming for out-of-core surface reconstruction.",
+                    "A streaming algorithm for surface reconstruction.",
+                    "Shape reconstruction from unorganized cross-sections.",
+                    "Elastic secondary deformations by vector field integration.",
+                    "As-rigid-as-possible surface modeling.",
+                    "GPU-assisted positive mean value coordinates for mesh deformations.",
+                    "Unconstrained isosurface extraction on arbitrary octrees.",
+                    "Linear angle based parameterization.",
+                    "Triangulations with locally optimal Steiner points.",
+                    "Example-based skeleton extraction.",
+                    "Developable surfaces from arbitrary sketched boundaries.",
+                    "Dynamic geometry registration.",
+                    "Generalized surface flows for mesh processing.",
+                    "Shape optimization using reflection lines.",
+                    "Constraint-based fairing of surface meshes.",
+                    "Bayesian surface reconstruction via iterative scan alignment to an optimized prototype.",
+                    "Laplace-Beltrami eigenfunctions for deformation invariant shape representation.",
+                    "Symmetry-enhanced remeshing of surfaces.",
+                    "Ridge based curve and surface reconstruction.",
+                    "Surface reconstruction using local shape priors.",
+                    "Fast normal vector compression with bounded error.",
+                    "Delaunay mesh construction."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "4th SGP 2006",
+        "info": "Cagliari, Sardinia, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sgp/2006",
+                "sub_name": "Proceedings of the Fourth Eurographics Symposium on Geometry Processing, Cagliari, Sardinia, Italy, June 26-28, 2006.",
+                "count": 26,
+                "papers": [
+                    "PriMo: coupled prisms for intuitive surface modeling.",
+                    "Hierarchical error-driven approximation of implicit surfaces from polygonal meshes.",
+                    "Constructing curvature-continuous surfaces by blending.",
+                    "Robust reconstruction of watertight 3D models from non-uniformly sampled point clouds without normal information.",
+                    "Reconstruction with Voronoi centered radial basis functions.",
+                    "Poisson surface reconstruction.",
+                    "Error bounds and optimal neighborhoods for MLS approximation.",
+                    "Spherical barycentric coordinates.",
+                    "On transfinite barycentric coordinates.",
+                    "A decomposition-based representation for 3D simplicial complexes.",
+                    "Folding meshes: hierarchical mesh segmentation based on planar symmetry.",
+                    "Probabilistic fingerprints for shapes.",
+                    "Partial matching of 3D shapes with priority-driven search.",
+                    "Defining and computing curve-skeletons with medial geodesic function.",
+                    "Selectively refinable subdivision meshes.",
+                    "Loop subdivision with curvature control.",
+                    "A C2 polar jet subdivision.",
+                    "Rectangular multi-chart geometry images.",
+                    "Automatic and interactive mesh to T-spline conversion.",
+                    "Designing quadrangulations with discrete harmonic forms.",
+                    "Reliable implicit surface polygonization using visibility mapping.",
+                    "Robust principal curvatures on multiple scales.",
+                    "A quadratic bending model for inextensible surfaces.",
+                    "Overfitting control for surface reconstruction.",
+                    "Nonobtuse remeshing and mesh decimation.",
+                    "Size functions for 3D shape retrieval."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "3rd SGP 2005",
+        "info": "Vienna, Austria",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sgp/2005",
+                "sub_name": "Third Eurographics Symposium on Geometry Processing, Vienna, Austria, July 4-6, 2005.",
+                "count": 25,
+                "papers": [
+                    "Surface Tiling with Differential Topology.",
+                    "Template-Based Mesh Completion.",
+                    "Example-Based 3D Scan Completion.",
+                    "Atomic Volumes for Mesh Completion.",
+                    ". An Adaptive MLS Surface for Reconstruction with Guarantees.",
+                    "Surface Reconstruction for Noisy Point Clouds.",
+                    "Triangulating Point Set Surfaces with Bounded Error.",
+                    "Reconstruction of Solid Models from Oriented Point Sets.",
+                    "Non-conforming Surface Rrepresentations.",
+                    "Smooth Feature Lines on Surface Meshes.",
+                    "Setting the Boundary Free: A Composite Approach to Surface Parameterization.",
+                    "Discrete Willmore Flow.",
+                    "Streaming Compression of Triangle Meshes.",
+                    "Data Structures for Simplicial Complexes: An Analysis And A Comparison.",
+                    "Progressive Buffers: View-dependent Geometry and Texture for LOD Rendering.",
+                    "Extraction and Simplification of Iso-surfaces in Tandem.",
+                    "Sparse Low-degree Implicits with Applications to High Quality Rendering, Feature Extraction, and Smoothing.",
+                    "Modeling with Simplicial Diffeomorphisms.",
+                    "Swept Volumes of many Poses.",
+                    "Subdivision Schemes and Attractors.",
+                    "A Geometric Construction of Coordinates for Convex Polyhedra using Polar Duals.",
+                    "Global Registration of Multiple 3D Point Sets via Optimization-on-a-Manifold.",
+                    "Robust Global Registration.",
+                    "An Image Processing Approach to Surface Matching.",
+                    "Multiscale Features for Approximate Alignment of Point-based Surfaces."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "2nd SGP 2004",
+        "info": "Nice, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sgp/2004",
+                "sub_name": "Second Eurographics Symposium on Geometry Processing, Nice, France, July 8-10, 2004.",
+                "count": 25,
+                "papers": [
+                    "Spectral Surface Reconstruction From Noisy Point Clouds.",
+                    "Registration of Point Cloud Data from a Geometric Optimization Perspective.",
+                    "Comparing Point Clouds.",
+                    "Geometric Texture Synthesis by Example.",
+                    "Iso-charts: Stretch-driven Mesh Parameterization using Spectral Analysis.",
+                    "Signal-Specialized Parameterization for Piecewise Linear Reconstruction.",
+                    "Seamless Texture Atlases.",
+                    "Connectivity Transformation for Mesh Metamorphosis.",
+                    "A data structure for non-manifold simplicial d-complexes.",
+                    "Simplification and Improvement of Tetrahedral Models for Simulation.",
+                    "Lofting Curve Networks using Subdivision Surfaces.",
+                    "Symmetry Descriptors and 3D Shape Matching.",
+                    "Persistence Barcodes for Shapes.",
+                    "Fast Collision Detection between Massive Models using Dynamic Simplification.",
+                    "Smooth Subdivision of Tetrahedral Meshes.",
+                    "Differentiable Parameterization of Catmull-Clark Subdivision Surfaces.",
+                    "Second Order Smoothness over Extraordinary Vertices.",
+                    "Laplacian Surface Editing.",
+                    "A Remeshing Approach to Multiresolution Modeling.",
+                    "Parameterization of Triangle Meshes over Quadrilateral Domains.",
+                    "Similarity-Based Surface Modelling Using Geodesic Fans.",
+                    "Shape Segmentation Using Local Slippage Analysis.",
+                    "Two Algorithms for Fast Reclustering of Dynamic Meshed Surfaces.",
+                    "Topology Preserving Surface Extraction Using Adaptive Subdivision.",
+                    "Isotopic Approximation of Implicit Curves and Surfaces."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "name": "1st SGP 2003",
+        "info": "Aachen, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sgp/2003",
+                "sub_name": "First Eurographics Symposium on Geometry Processing, Aachen, Germany, June 23-25, 2003.",
+                "count": 25,
+                "papers": [
+                    "Provably Good Surface Sampling and Approximation.",
+                    "Explicit Surface Remeshing.",
+                    "Domain Decomposition for Multiresolution Analysis.",
+                    "High-Pass Quantization for Mesh Encoding.",
+                    "Geometry Compression of Normal Meshes Using Rate-Distortion Algorithms.",
+                    "Edge-Sharpener: Recovering Sharp Features in Triangulations of non-adaptively re-meshed surfaces.",
+                    "A scalable data structure for three-dimensional non-manifold objects.",
+                    "A Concise B-Rep Data Structure For Stratified Subanalytic Objects.",
+                    "CLODs: Dual Hierarchies for Multiresolution Collision Detection.",
+                    "Simple Silhouettes for Complex Meshes.",
+                    "Statistical Point Geometry.",
+                    "Efficient Max-Norm Distance Computation for Reliable Voxelization.",
+                    "Global Conformal Parameterization.",
+                    "Smooth Geometry Images.",
+                    "Multi-Chart Geometry Images.",
+                    "Rotation Invariant Spherical Harmonic Representation of 3D Shape Descriptors.",
+                    "A geometric database for gene expression data.",
+                    "Estimating Differential Quantities using Polynomial fitting of Osculating Jets.",
+                    "Stellar Subdivision Grammars.",
+                    "Filling Holes in Meshes.",
+                    "Mesh Forging: Editing of 3D-Meshes Using Implicitly Defined Occluders.",
+                    "A geometric-based convection approach of 3-D reconstruction.",
+                    "Approximating and Intersecting Surfaces from Points.",
+                    "Approximate implicitization via curve fitting.",
+                    "3D Reconstruction Using Labeled Image Regions."
+                ]
+            }
+        ]
+    }
+]

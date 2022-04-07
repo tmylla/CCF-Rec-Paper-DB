@@ -1,0 +1,751 @@
+[
+    {
+        "year": "2021",
+        "name": "HiPEAC 2021",
+        "info": "Budapest, Hungary",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hipeac/2021ngres",
+                "sub_name": "Second Workshop on Next Generation Real-Time Embedded Systems, NG-RES@HiPEAC 2021, January 20, 2021, Budapest, Hungary.",
+                "count": 6,
+                "papers": [
+                    "Front Matter, Table of Contents, Preface, Conference Organization.",
+                    "A Comparative Evaluation of Latency-Aware Energy Optimization Approaches in Many-Core Systems (Invited Paper).",
+                    "EDF Scheduling and Minimal-Overlap Shortest-Path Routing for Real-Time TSCH Networks.",
+                    "Static Allocation of Basic Blocks Based on Runtime and Memory Requirements in Embedded Real-Time Systems with Hierarchical Memory Layout.",
+                    "Event-Based Control Enters the Real-Time World: Perspectives and Pitfalls.",
+                    "M2OS-Mc: An RTOS for Many-Core Processors."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/hipeac/2021parma",
+                "sub_name": "12th Workshop on Parallel Programming and Run-Time Management Techniques for Many-core Architectures and 10th Workshop on Design Tools and Architectures for Multicore Embedded Computing Platforms, PARMA-DITAM 2021, January 19, 2021, Budapest, Hungary.",
+                "count": 6,
+                "papers": [
+                    "Front Matter, Table of Contents, Preface, Conference Organization.",
+                    "Towards Adaptive Multi-Alternative Process Network.",
+                    "BifurKTM: Approximately Consistent Distributed Transactional Memory for GPUs.",
+                    "The Impact of Precision Tuning on Embedded Systems Performance: A Case Study on Field-Oriented Control.",
+                    "Resource Aware GPU Scheduling in Kubernetes Infrastructure.",
+                    "HPC Application Cloudification: The StreamFlow Toolkit (Invited Paper)."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/hipeac/2021dronese",
+                "sub_name": "DroneSE and RAPIDO '21: Methods and Tools, Budapest, Hungary, January 18, 2021.",
+                "count": 10,
+                "papers": [
+                    "Unmanned Vehicles in Smart Farming: a Survey and a Glance at Future Horizons.",
+                    "Gyro: A Digital Spiking Neural Network Architecture for Multi-Sensory Data Analytics.",
+                    "ReconfROS: Running ROS on Reconfigurable SoCs.",
+                    "Reliable Command, Control and Communication Links for Unmanned Aircraft Systems: Towards compliance of commercial drones.",
+                    "Designing Drone Systems with Papyrus for Robotics.",
+                    "System Simulation for Autonomous UAV Design.",
+                    "PathTracing: Raising the Level of Understanding of Processing Latency in Heterogeneous MPSoCs.",
+                    "GANNoC: A Framework for Automatic Generation of NoC Topologies using Generative Adversarial Networks.",
+                    "Execution Time Modeling for CNN Inference on Embedded GPUs.",
+                    "Mocasin - Rapid Prototyping of Rapid Prototyping Tools: A Framework for Exploring New Approaches in Mapping Software to Heterogeneous Multi-cores."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "name": "HiPEAC 2020",
+        "info": "Bologna, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hipeac/2020ngres",
+                "sub_name": "Workshop on Next Generation Real-Time Embedded Systems, NG-RES@HiPEAC 2020, January 21, 2020, Bologna, Italy.",
+                "count": 6,
+                "papers": [
+                    "Front Matter, Table of Contents, Preface, Conference Organization.",
+                    "SDN for Dynamic Reservations on Real-Time Networks (Invited Talk).",
+                    "Energy Minimization in DAG Scheduling on MPSoCs at Run-Time: Theory and Practice.",
+                    "Bao: A Lightweight Static Partitioning Hypervisor for Modern Multi-Core Embedded Systems.",
+                    "A Low Energy FPGA Platform for Real-Time Event-Based Control.",
+                    "Real-Time Task Migration for Dynamic Resource Management in Many-Core Systems."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/hipeac/2020parma",
+                "sub_name": "11th Workshop on Parallel Programming and Run-Time Management Techniques for Many-core Architectures / 9th Workshop on Design Tools and Architectures for Multicore Embedded Computing Platforms, PARMA-DITAM@HiPEAC 2020, Bologna, Italy, January, 2020.",
+                "count": 5,
+                "papers": [
+                    "Sparse Matrix-Dense Matrix Multiplication on Heterogeneous CPU+FPGA Embedded System.",
+                    "Run-Time Power Modelling in Embedded GPUs with Dynamic Voltage and Frequency Scaling.",
+                    "Fault-Tolerant Online Scheduling Algorithms for CubeSats.",
+                    "An OpenMP Parallel Genetic Algorithm for Design Space Exploration of Heterogeneous Multi-processor Embedded Systems.",
+                    "Automated Precision Tuning in Activity Classification Systems: A Case Study."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "HiPEAC 2018",
+        "info": "Manchester, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hipeac/2018cosh",
+                "sub_name": "Proceedings of the 3rd Workshop on Co-Scheduling of HPC Applications, COSH@HiPEAC 2018, Manchester, United Kingdom, January 23, 2018.",
+                "count": 4,
+                "papers": [
+                    "Foreword by Editors / Workshop Description / TPC List.",
+                    "Co-Scheduling in a Task-Based Programming Model.",
+                    "Node Sharing for Increased Throughput and Shorter Runtimes - an Industrial Co-Scheduling Case Study.",
+                    "A Case Study for a New Invasive Extension of Intel's Threading Building Blocks."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/hipeac/2018cs",
+                "sub_name": "Proceedings of the Fifth Workshop on Cryptography and Security in Computing Systems, CS2 2018, Manchester, United Kingdom, January 24, 2018.",
+                "count": 6,
+                "papers": [
+                    "Speeding up Curve25519 using Toeplitz Matrix-vector Multiplication.",
+                    "Exploring the Vulnerability of R-LWE Encryption to Fault Attacks.",
+                    "TinyWIDS: a WPM-based Intrusion Detection System for TinyOS2.x/802.15.4 Wireless Sensor Networks.",
+                    "All paths lead to Rome: Polymorphic Runtime Code Generation for Embedded Systems.",
+                    "Automotive Cyber Security: Lessons Learned and Research Challenges.",
+                    "rev.ng: A Tale of Reverse Engineering, Dynamic Analysis and Translation of Binaries Using QEMU and LLVM."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/hipeac/2018parma",
+                "sub_name": "Proceedings of the 9th Workshop on Parallel Programming and RunTime Management Techniques for Manycore Architectures and 7th Workshop on Design Tools and Architectures for Multicore Embedded Computing Platforms, PARMA-DITAM@HiPEAC 2018, Manchester, United Kingdom, January 23-23, 2018.",
+                "count": 11,
+                "papers": [
+                    "HyperLoom: A Platform for Defining and Executing Scientific Pipelines in Distributed Environments.",
+                    "Managing Heterogeneous Resources in HPC Systems.",
+                    "AutoPar-Clava: An Automatic Parallelization source-to-source tool for C code applications.",
+                    "Implicit Data-Parallelism in Kahn Process Networks: Bridging the MacQueen Gap.",
+                    "Aspect-Driven Mixed-Precision Tuning Targeting GPUs.",
+                    "Impact of Vectorization Over 16-bit Data-Types on GPUs.",
+                    "Enabling Run-Time Managed Distributed Mobile Computing.",
+                    "Automatic OpenCL Code Generation from LLVM-IR using Polyhedral Optimization.",
+                    "Embedded Runtime for Reconfigurable Dataflow Graphs on Manycore Architectures.",
+                    "Reducing Code Size in Scheduling Synchronous Dataflow Graphs on Multicore Systems.",
+                    "Criticality-driven Design Space Exploration for Mixed-Criticality Heterogeneous Parallel Embedded Systems."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/hipeac/2018aistecs",
+                "sub_name": "Proceedings of the 3rd International Workshop on Advanced Interconnect Solutions and Technologies for Emerging Computing Systems, AISTECS 2018, Manchester, United Kingdom, January 22-22, 2018.",
+                "count": 4,
+                "papers": [
+                    "Integrated Vivaldi antennas, an enabling technology for optical wireless networks on chip.",
+                    "Spoofing Prevention via RF Power Profiling in Wireless Network-on-Chip.",
+                    "A Software-defined SoC Memory Bus Bridge Architecture for Disaggregated Computing.",
+                    "Monolithic Optical Interconnects in Zero-Change CMOS."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "HiPEAC 2017",
+        "info": "Stockholm, Sweden",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hipeac/2017coshvisorhpc",
+                "sub_name": "Proceedings of the Joined Workshops COSH 2017 and VisorHPC 2017, COSH/VisorHPC@HiPEAC 2017, Stockholm, Sweden, January 24, 2017.",
+                "count": 5,
+                "papers": [
+                    "Disallowing Same-program Co-schedules to Improve Efficiency in Quad-core Servers.",
+                    "Improving QoS and Utilisation in modern multi-core servers with Dynamic Cache Partitioning.",
+                    "Co-scheduling on Upcoming Many-Core Architectures.",
+                    "On the Applicability of Virtualization in an Industrial HPC Environment.",
+                    "Towards a Lightweight RDMA Para-Virtualization for HPC."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/hipeac/2017cs",
+                "sub_name": "Proceedings of the Fourth Workshop on Cryptography and Security in Computing Systems, CS2@HiPEAC 2017, Stockholm, Sweden, January 24, 2017.",
+                "count": 6,
+                "papers": [
+                    "Reliable low-overhead arbiter-based physical unclonable functions for resource-constrained IoT devices.",
+                    "Side-channel leakage aware instruction scheduling.",
+                    "Large scale characterization of SRAM on infineon XMC microcontrollers as PUF.",
+                    "Multi-core data analytics SoC with a flexible 1.76 Gbit/s AES-XTS cryptographic accelerator in 65 nm CMOS.",
+                    "TrustZone-backed bitcoin wallet.",
+                    "Filtering-based CPA: a successful side-channel attack against desynchronization countermeasures."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/hipeac/2017parma",
+                "sub_name": "Proceedings of the 8th Workshop and 6th Workshop on Parallel Programming and Run-Time Management Techniques for Many-core Architectures and Design Tools and Architectures for Multicore Embedded Computing Platforms, PARMA-DITAM@HiPEAC 2017, Stockholm, Sweden, January 25, 2017.",
+                "count": 6,
+                "papers": [
+                    "Dataflow Acceleration of scikit-learn Gaussian Process Regression.",
+                    "VectorPU: A Generic and Efficient Data-container and Component Model for Transparent Data Transfer on GPU-based Heterogeneous Systems.",
+                    "Using PEGs for Automatic Extraction of Memory Access Descriptions to Support Data-Parallel Pattern Recognition.",
+                    "On Boosting Energy-Efficiency of Heterogeneous Embedded Systems via Game Theory.",
+                    "Scaling Binarized Neural Networks on Reconfigurable Logic.",
+                    "MTP-Caffe: Memory, Timing, and Power aware tool for mapping CNNs to GPUs."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/hipeac/2017aistecs",
+                "sub_name": "Proceedings of the 2nd International Workshop on Advanced Interconnect Solutions and Technologies for Emerging Computing Systems, AISTECS@HiPEAC 2017, Stockholm, Sweden, January 25, 2017.",
+                "count": 13,
+                "papers": [
+                    "Interconnects for next generation SoC designs.",
+                    "BXI: designing a network for eXascale.",
+                    "Microserver + micro-switch = micro-datacenter.",
+                    "Enabling high performance rack-scale optical switching through global synchronisation.",
+                    "Bringing minimal routing back to HPC through silicon photonics: a study of \"flexfly\" architectures with the structural simulation toolkit (SST).",
+                    "Software-defined board- and chip-level optical interconnects for multi-socket communication and disaggregated computing.",
+                    "Low-cost congestion management in networks-on-chip using edge and in-network traffic throttling.",
+                    "Transparent lifetime built-in self-testing of networks-on-chip through the selective non-concurrent testing of their communication channels.",
+                    "Optimal application mapping to 2D-mesh NoCs by using a tabu-based particle swarm methodology.",
+                    "A survey of low power NoC design techniques.",
+                    "Secure communications in wireless network-on-chips.",
+                    "Model-based framework for networks-on-chip design space exploration.",
+                    "Network-on-chip service guarantees on the kalray MPPA-256 bostan processor."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "HiPEAC 2016",
+        "info": "Prague, Czech Republic",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hipeac/2016cs",
+                "sub_name": "Proceedings of the Third Workshop on Cryptography and Security in Computing Systems, CS2@HiPEAC, Prague, Czech Republic, January 20, 2016.",
+                "count": 10,
+                "papers": [
+                    "Compilation of a Countermeasure Against Instruction-Skip Fault Attacks.",
+                    "A Cautionary Note: Side-Channel Leakage Implications of Deterministic Signature Schemes.",
+                    "Practical Aspects of Quantization and Tamper-Sensitivity for Physically Obfuscated Keys.",
+                    "Mode-based Obfuscation using Control-Flow Modifications.",
+                    "Efficient Algorithms and Architectures for Double Point Multiplication on Elliptic Curves.",
+                    "Tag-Protector: An Effective and Dynamic Detection of Out-of-bound Memory Accesses.",
+                    "AEGIS-Based Efficient Solution for Secure Reconfiguration of FPGAs.",
+                    "A High Speed Scalar Multiplier for Binary Edwards Curves.",
+                    "Differential Fault Attack on SIMECK.",
+                    "Body Biasing Injection Attacks in Practice."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/hipeac/2016parma",
+                "sub_name": "Proceedings of the 7th Workshop on Parallel Programming and Run-Time Management Techniques for Many-core Architectures and the 5th Workshop on Design Tools and Architectures For Multicore Embedded Computing Platforms, PARMA-DITAM 2016, Prague, Czech Republic, January 18, 2016.",
+                "count": 6,
+                "papers": [
+                    "Stack size estimation on machine-independent intermediate code for OpenCL kernels.",
+                    "Predictive modeling methodology for compiler phase-ordering.",
+                    "Flexible resource allocation and management for application graphs on ReN\u00c9 MPSoC.",
+                    "Low communication overhead dynamic mapping of multiple HEVC video stream decoding on NoCs.",
+                    "Deploying and monitoring hadoop MapReduce analytics on single-chip cloud computer.",
+                    "Runtime resource management for embedded and HPC systems."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/hipeac/2016rapido",
+                "sub_name": "Proceedings of the 2016 Workshop on Rapid Simulation and Performance Evaluation - Methods and Tools, RAPIDO@HiPEAC 2016, Prague, Czech Republic, January 18, 2016.",
+                "count": 6,
+                "papers": [
+                    "Virtual prototyping of floating point units.",
+                    "Design space exploration for complex automotive applications: an engine control system case study.",
+                    "Performance estimation of streaming applications for hierarchical MPSoCs.",
+                    "Towards bridging the gap between academic and industrial heterogeneous system architecture design space exploration.",
+                    "Adaptive routing framework for network on chip architectures.",
+                    "Black box power estimation for digital signal processors using virtual platforms."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/hipeac/2016cosh",
+                "sub_name": "Proceedings of the 1st COSH Workshop on Co-Scheduling of HPC Applications, COSH@HiPEAC 2016, Prague, Czech Republic, January 19, 2016.",
+                "count": 6,
+                "papers": [
+                    "Foreword / Workshop Description.",
+                    "A resource-centric Application Classification Approach.",
+                    "Detailed Characterization of HPC Applications for Co-Scheduling.",
+                    "Terrible Twins: A Simple Scheme to Avoid Bad Co-Schedules.",
+                    "Implications of Process-Migration in Virtualized Environments.",
+                    "Impact of the Scheduling Strategy in Heterogeneous Systems That Provide Co-Scheduling."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/hipeac/2016coshr",
+                "sub_name": "Co-Scheduling of HPC Applications [extended versions of all papers from COSH@HiPEAC 2016, Prague, Czech Republic, January 19, 2016].",
+                "count": 8,
+                "papers": [
+                    "Co-Scheduling: Prospects and Challenges.",
+                    "Recent Processor Technologies and Co-Scheduling.",
+                    "Contention-Aware Scheduling Policies for Fairness and Throughput.",
+                    "Allocation-Internal Co-Scheduling - Interaction and Orchestration of Multiple Concurrent MPI Sessions.",
+                    "Detailed Application Characterization and Its Use for Effective Co-Scheduling.",
+                    "Initial Formulation of Why Disallowing Same Program Co-Schedules Improves Performance.",
+                    "Virtualization in HPC - An Enabler for Adaptive Co-Scheduling?",
+                    "Impact of the Scheduling Strategy in Heterogeneous Systems That Provide Co-Scheduling."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/hipeac/2016aistecs",
+                "sub_name": "Proceedings of the 1st International Workshop on Advanced Interconnect Solutions and Technologies for Emerging Computing Systems, AISTECS@HiPEAC 2016, Prague, Czech Republic, January 18, 2016.",
+                "count": 8,
+                "papers": [
+                    "Energy Efficient And Low Latency Interconnection Network For Multicast Invalidates In Shared Memory Systems.",
+                    "Hierarchical Clustering for On-Chip Networks.",
+                    "Evolutionary vs. Revolutionary Interconnect Technologies for Future Low-Power Multi-Core Systems.",
+                    "Designing an Efficient MPLS-Based Switch for FAT Tree Network-on-Chip Systems.",
+                    "Consideration of the Flit Size for Deflection Routing based Network-on-Chips.",
+                    "Bringing OptoBoards to HPC-scale environments: An OptoHPC simulation engine.",
+                    "PhoenixSim: Crosslayer Design and Modeling of Silicon Photonic Interconnects.",
+                    "JADE: a Heterogeneous Multiprocessor System Simulation Platform Using Recorded and Statistical Application Models."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/hipeac/2016mils",
+                "sub_name": "International Workshop on MILS: Architecture and Assurance for Secure Systems, MILS@HiPEAC 2016, Prague, Czech Republic, January 19, 2016.",
+                "count": 9,
+                "papers": [
+                    "EURO-MILS: Building and certifying modular secure systems.",
+                    "Asset-Centric Security Risk Assessment of Software Components.",
+                    "MILS Compliant Software Architecture for Satellites.",
+                    "An Architecture-Centric Process for MILS Development.",
+                    "Content-Dependent Security Policies in Avionics.",
+                    "The Security for Safety Problem in Cyberphysical Systems.",
+                    "Applying MILS to multicore avionics systems.",
+                    "Modeling Information Routing with Noninterference.",
+                    "Non-Interfering Composed Evaluation."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "HiPEAC 2015",
+        "info": "Amsterdam, The Netherlands",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hipeac/2015cs",
+                "sub_name": "Proceedings of the Second Workshop on Cryptography and Security in Computing Systems, CS2@HiPEAC 2015, Amsterdam, Netherlands, January 19-21, 2015.",
+                "count": 9,
+                "papers": [
+                    "Evaluation Tools for Multivariate Side-Channel Analysis.",
+                    "A new Definition and Classification of Physical Unclonable Functions.",
+                    "Pipelined SHA-3 Implementations on FPGA: Architecture and Performance Analysis.",
+                    "Stretching the limits of Programmable Embedded Devices for Public-key Cryptography.",
+                    "Evidence of an information leakage between logically independent blocks.",
+                    "On Continuous After-the-Fact Leakage-Resilient Key Exchange.",
+                    "Interest of MIA in frequency domain?",
+                    "Placement Security Analysis for Side-Channel Resistant Dual-Rail Scheme in FPGA.",
+                    "Fault and Power Analysis Attack Resistant RNS based Edwards Curve Point Multiplication."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/hipeac/2015parma",
+                "sub_name": "Proceedings of the 6th Workshop on Parallel Programming and Run-Time Management Techniques for Many-core Architectures and the 4th Workshop on Design Tools and Architectures for Multicore Embedded Computing Platforms, PARMA-DITAM 2015, Amsterdam, Netherlands, January 21, 2015.",
+                "count": 6,
+                "papers": [
+                    "Fast&Furious: A Tool for Detecting Covert Racing.",
+                    "Intelligent Vehicle Perception: Toward the Integration on Embedded Many-core.",
+                    "Sequential and Parallel Code Sections are Different: they may require different Processors.",
+                    "Adaptive Energy Minimization of OpenMP Parallel Applications on Many-Core Systems.",
+                    "Scalable and Dynamic Global Power Management for Multicore Chips.",
+                    "Auto-Tuning OmpSs-OpenCL Kernels Across GPU Machines."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/hipeac/2015rapido",
+                "sub_name": "Proceedings of the 2015 Workshop on Rapid Simulation and Performance Evaluation: Methods and Tools, RAPIDO@HiPEAC 2015, 21 January, 2015, Amsterdam, The Netherlands.",
+                "count": 8,
+                "papers": [
+                    "StatTask: reuse distance analysis for task-based applications.",
+                    "An efficient joint analytical and simulation-based design space exploration flow for predictable multi-core systems.",
+                    "A workload extraction framework for software performance model generation.",
+                    "Collecting traces in dynamic binary translation based virtual prototyping platforms.",
+                    "An accurate simulation framework for thermal explorations and optimizations.",
+                    "An ILP approach for mapping AUTOSAR runnables on multi-core architectures.",
+                    "Micro-architectural simulation of embedded core heterogeneity with gem5 and McPAT.",
+                    "On the performance of freescale i.MX6 cryptographic acceleration and assurance module."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/hipeac/2015siphotonics",
+                "sub_name": "2015 Workshop on Exploiting Silicon Photonics for Energy-Efficient High Performance Computing, SiPhotonics@HiPEAC 2015, Amsterdam, Netherlands, January 19, 2015.",
+                "count": 5,
+                "papers": [
+                    "High-Speed Optical Cache Memory as Single-Level Shared Cache in Chip-Multiprocessor Architectures.",
+                    "On the Design of a Path-Setup Architecture for Exploiting Hybrid Photonic-Electronic NoCs.",
+                    "Partitioning Strategies of Wavelength-Routed Optical Networks-on-Chip for Laser Power Minimization.",
+                    "Optimal Power Efficient Photonic SWMR Buses.",
+                    "Channel Allocation Protocol for Reconfigurable Optical Network-on-Chip."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/hipeac/2015ina-ocmc",
+                "sub_name": "Ninth International Workshop on Interconnection Network Architectures: On-Chip, Multi-Chip, INA-OCMC@HiPEAC 2015, Amsterdam, Netherlands, January 19, 2015.",
+                "count": 5,
+                "papers": [
+                    "Towards High-Performance and Power-Efficient Optical NoCs Using Silicon-in-Silica Photonic Components.",
+                    "Contrasting Power Efficiency of Contention Resolution vs. Avoidance Strategies in Optical Ring Interconnects for Photonically-Integrated Embedded Systems.",
+                    "Automatic ILP-based Firewall Insertion for Secure Application-Specific Networks-on-Chip.",
+                    "A Parallel Gauss-Seidel Algorithm on a 3D Torus Network-on-Chip Architecture.",
+                    "A Co-design Approach for Hardware Optimizations in Multicore Architectures Using MCAPI."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/hipeac/2015mils",
+                "sub_name": "International Workshop on MILS: Architecture and Assurance for Secure Systems, MILS@HiPEAC 2015, Amsterdam, The Netherlands, January 20, 2015.",
+                "count": 11,
+                "papers": [
+                    "EURO-MILS: Building and certifying modular secure systems.",
+                    "Two Architecture Approaches for MILS Systems in Mobility Domains (Automobile, Railway and Avionik).",
+                    "ProvenCore: Towards a Verified Isolation Micro-Kernel.",
+                    "Security Type Checking for MILS-AADL Specifications.",
+                    "MILS Initiatives Within The Open Group.",
+                    "Security-Informed Safety Case Approach to Analysing MILS Systems.",
+                    "Evaluation paradigm selection according to Common Criteria for an incremental product development.",
+                    "Distributed MILS (D-MILS) Specification, Analysis, Deployment, and Assurance of Distributed Critical Systems.",
+                    "Partitioning in Safety and Security: Mapping to MILS Core Partitioning Mechanisms.",
+                    "Developing Assurance Cases for D-MILS Systems.",
+                    "Formal Methods for MILS: Formalisations of the GWV Firewall."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "HiPEAC 2014",
+        "info": "Vienna, Austria",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hipeac/2014cs",
+                "sub_name": "Proceedings of the First Workshop on Cryptography and Security in Computing Systems, CS2@HiPEAC 2014, Vienna, Austria, January 20, 2014.",
+                "count": 9,
+                "papers": [
+                    "Detecting positive voltage attacks on CMOS circuits.",
+                    "High-order timing attacks.",
+                    "On using genetic algorithms for intrinsic side-channel resistance: the case of AES S-box.",
+                    "Countering type confusion and buffer overflow attacks on Java smart cards by data type sensitive obfuscation.",
+                    "Towards attacks on restricted memory areas through co-processors in embedded multi-OS environments via malicious firmware injection.",
+                    "Group-signature schemes on constrained devices: the gap between theory and practice.",
+                    "Memory-efficient on-card byte code verification for Java cards.",
+                    "Adaptive entity-identifier generation for IMD emergency access.",
+                    "Remote cache-timing attacks against AES."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/hipeac/2014parma",
+                "sub_name": "Proceedings of the 5th Workshop on Parallel Programming and Run-Time Management Techniques for Many-core Architectures and the 3rd Workshop on Design Tools and Architectures for Multicore Embedded Computing Platforms, PARMA-DITAM 2014, Vienna, Austria, January 20, 2014.",
+                "count": 7,
+                "papers": [
+                    "An Interactive Tool based on Polly for Detection and Parallelization of Loops.",
+                    "On Expressing Strategies for Directive-Driven Multicore Programing Models.",
+                    "Effective Platform-Level Exploration for Heterogeneous Multicores Exploiting Simulation-Induced Slacks.",
+                    "A cycle-accurate synthesizable MIPS simulator in Simulink.",
+                    "Extending a Run-time Resource Management framework to support OpenCL and Heterogeneous Systems.",
+                    "Exploiting Performance Counters for Energy Efficient Co-Scheduling of Mixed Workloads on Multi-Core Platforms.",
+                    "Fine-Grained Link Locking Within Power and Latency Transaction Level Modelling in Wormhole Switching Non-Preemptive Networks On Chip."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/hipeac/2014ina-ocmc",
+                "sub_name": "Proceedings of the 8th International Workshop on Interconnection Network Architecture - On-Chip, Multi-Chip, INA-OCMC 2014, Vienna, Austria, January 22, 2014.",
+                "count": 5,
+                "papers": [
+                    "CAERUS: an effective arbitration and ejection policy for routing in an unidirectional torus.",
+                    "A feature-rich NoC switch with cross-feature optimizations for the next generation of reliable and reconfigurable embedded systems.",
+                    "Deadlock-free routing mechanism for 3D twin torus networks.",
+                    "All routes to efficient datacenter fabrics.",
+                    "Performance implications of remote-only load balancing under adversarial traffic in Dragonflies."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "HiPEAC 2013",
+        "info": "Berlin, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hipeac/2013ina-ocmc",
+                "sub_name": "Proceedings of the 2013 Interconnection Network Architecture: On-Chip, Multi-Chip, IMA-OCMC@HiPEAC 2013, Berlin, Germany, January 23, 2013.",
+                "count": 7,
+                "papers": [
+                    "A fast algorithm for runtime reconfiguration to maximize the lifetime of nanoscale NoCs.",
+                    "Arbitration of many thousand flows at 100G and beyond.",
+                    "Randomizing task placement does not randomize traffic (enough).",
+                    "Global misrouting policies in two-level hierarchical networks.",
+                    "How elastic is your virtualized datacenter fabric?",
+                    "Characterization and cost-efficient selection of NoC topologies for general purpose CMPs.",
+                    "NBTI-aware design of NoC buffers."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "HiPEAC 2012",
+        "info": "Paris, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hipeac/2012ina-ocmc",
+                "sub_name": "Proceedings of the 2012 Interconnection Network Architecture - On-Chip, Multi-Chip Workshop, INA-OCMC@HiPEAC 2012, Paris, France, January 25, 2012.",
+                "count": 13,
+                "papers": [
+                    "Heterogeneous network design for effective support of invalidation-based coherency protocols.",
+                    "Contention-aware node allocation policy for high-performance capacity systems.",
+                    "Buffered deflection routing for networks-on-chip.",
+                    "Online allocation for contention-free-routing NoCs.",
+                    "A novel graceful degradable routing algorithm for 3D on-chip networks.",
+                    "Optimizing built-in pseudo-random self-testing for network-on-chip switches.",
+                    "Low-cost fault-tolerant switch allocator for network-on-chip routers.",
+                    "A highly robust distributed fault-tolerant routing algorithm for NoCs with localized rerouting.",
+                    "Wavelength division multiplexed photonic layer on CMOS.",
+                    "FlexTiles: self adaptive heterogeneous manycore based on flexible tiles (FP7 project).",
+                    "Parallel paradigms and run-time management techniques for many-core architectures: the 2PARMA approach.",
+                    "Quest for the ultimate network-on-chip: the NaNoC project.",
+                    "PRO3D: programming for future 3D manycore architectures."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "HiPEAC 2011",
+        "info": "Heraklion, Crete, Greece",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hipeac/2011",
+                "sub_name": "High Performance Embedded Architectures and Compilers, 6th International Conference, HiPEAC 2011, Heraklion, Crete, Greece, January 24-26, 2011. Proceedings.",
+                "count": 22,
+                "papers": [
+                    "Moore's law implications on energy reduction.",
+                    "PetaBricks: a language and compiler based on autotuning.",
+                    "A stream-computing extension to OpenMP.",
+                    "GLOpenCL: OpenCL support on hardware- and software-managed cache multicores.",
+                    "DDM-VMc: the data-driven multithreading virtual machine for the cell processor.",
+                    "Speculatively vectorized bytecode.",
+                    "Parallel points-to analysis for multi-core machines.",
+                    "TypeCastor: demystify dynamic typing of JavaScript applications.",
+                    "Extended histories: improving regularity and performance in correlation prefetchers.",
+                    "Decoupled zero-compressed memory.",
+                    "High throughput data redundancy removal algorithm with scalable performance.",
+                    "RVC: a mechanism for time-analyzable real-time processors with faulty caches.",
+                    "Automated empirical tuning of scientific codes for performance and power consumption.",
+                    "A workload-aware mapping approach for data-parallel programs.",
+                    "Runtime parallelization of legacy code on a transactional memory system.",
+                    "Cost-aware function migration in heterogeneous systems.",
+                    "Fast modeling of shared caches in multicore systems.",
+                    "SWEEP: evaluating computer system energy efficiency using synthetic workloads.",
+                    "Directly characterizing cross core interference through contention synthesis.",
+                    "Cache equalizer: a placement mechanism for chip multiprocessor distributed shared caches.",
+                    "Replacement policies for shared caches on symmetric multicores: a programmer-centric point of view.",
+                    "NoC-aware cache design for multithreaded execution on tiled chip multiprocessors."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/hipeac/2011ina-ocmc",
+                "sub_name": "Proceedings of the Fifth International Workshop on Interconnection Network Architecture - On-Chip, Multi-Chip, INA-OCMC '11, Heraklion, Greece, January 23, 2011.",
+                "count": 9,
+                "papers": [
+                    "Emerging silicon photonics technologies for multi-core platform architectures.",
+                    "EEEP: an extreme end to end flow control protocol for SDRAM access through networks on chip.",
+                    "An improved algorithm for slot selection in the \u00c6thereal network-on-chip.",
+                    "iFDOR: dynamic rerouting on-chip.",
+                    "Process scheduling for future multicore processors.",
+                    "Switch allocator for bufferless network-on-chip routers.",
+                    "A power-efficient network on-chip topology.",
+                    "Mesochronous NoC technology for power-efficient GALS MPSoCs.",
+                    "Abstract modelling of switching elements for optical networks-on-chip with technology platform awareness."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "HiPEAC 2010",
+        "info": "Pisa, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hipeac/2010",
+                "sub_name": "High Performance Embedded Architectures and Compilers, 5th International Conference, HiPEAC 2010, Pisa, Italy, January 25-27, 2010. Proceedings.",
+                "count": 26,
+                "papers": [
+                    "Embedded Systems as Datacenters.",
+                    "Larrabee: A Many-Core Intel Architecture for Visual Computing.",
+                    "Remote Store Programming.",
+                    "Low-Overhead, High-Speed Multi-core Barrier Synchronization.",
+                    "Improving Performance by Reducing Aborts in Hardware Transactional Memory.",
+                    "Energy and Throughput Efficient Transactional Memory for Embedded Multicore Systems.",
+                    "Split Register Allocation: Linear Complexity Without the Performance Penalty.",
+                    "Trace-Based Data Layout Optimizations for Multi-core Processors.",
+                    "Buffer Sizing for Self-timed Stream Programs on Heterogeneous Distributed Memory Multiprocessors.",
+                    "Automatically Tuning Sparse Matrix-Vector Multiplication for GPU Architectures.",
+                    "Virtual Ways: Efficient Coherence for Architecturally Visible Storage in Automatic Instruction Set Extensions.",
+                    "Accelerating XML Query Matching through Custom Stack Generation on FPGAs.",
+                    "An Application-Aware Load Balancing Strategy for Network Processors.",
+                    "Memory-Aware Application Mapping on Coarse-Grained Reconfigurable Arrays.",
+                    "Maestro: Orchestrating Lifetime Reliability in Chip Multiprocessors.",
+                    "Combining Locality Analysis with Online Proactive Job Co-scheduling in Chip Multiprocessors.",
+                    "RELOCATE: Register File Local Access Pattern Redistribution Mechanism for Power and Thermal Management in Out-of-Order Embedded Processor.",
+                    "Performance and Power Aware CMP Thread Allocation Modeling.",
+                    "Multi-level Hardware Prefetching Using Low Complexity Delta Correlating Prediction Tables with Partial Matching.",
+                    "Scalable Shared-Cache Management by Containing Thrashing Workloads.",
+                    "SRP: Symbiotic Resource Partitioning of the Memory Hierarchy in CMPs.",
+                    "DIEF: An Accurate Interference Feedback Mechanism for Chip Multiprocessor Memory Systems.",
+                    "Tagged Procedure Calls (TPC): Efficient Runtime Support for Task-Based Parallelism on the Cell Processor.",
+                    "Analysis of Task Offloading for Accelerators.",
+                    "Offload - Automating Code Migration to Heterogeneous Multicore Systems.",
+                    "Computer Generation of Efficient Software Viterbi Decoders."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "HiPEAC 2009",
+        "info": "Paphos, Cyprus",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hipeac/2009",
+                "sub_name": "High Performance Embedded Architectures and Compilers, Fourth International Conference, HiPEAC 2009, Paphos, Cyprus, January 25-28, 2009. Proceedings.",
+                "count": 29,
+                "papers": [
+                    "Keynote: Challenges on the Road to Exascale Computing.",
+                    "Keynote: Compilers in the Manycore Era.",
+                    "Steal-on-Abort: Improving Transactional Memory Performance through Dynamic Transaction Reordering.",
+                    "Predictive Runtime Code Scheduling for Heterogeneous Architectures.",
+                    "Collective Optimization.",
+                    "High Speed CPU Simulation Using LTU Dynamic Binary Translation.",
+                    "Integrated Modulo Scheduling for Clustered VLIW Architectures.",
+                    "Software Pipelining in Nested Loops with Prolog-Epilog Merging.",
+                    "A Flexible Code Compression Scheme Using Partitioned Look-Up Tables.",
+                    "MLP-Aware Runahead Threads in a Simultaneous Multithreading Processor.",
+                    "IPC Control for Multiple Real-Time Threads on an In-Order SMT Processor.",
+                    "A Hardware Task Scheduler for Embedded Video Processing.",
+                    "Finding Stress Patterns in Microprocessor Workloads.",
+                    "Deriving Efficient Data Movement from Decoupled Access/Execute Specifications.",
+                    "MPSoC Design Using Application-Specific Architecturally Visible Communication.",
+                    "Communication Based Proactive Link Power Management.",
+                    "Mapping and Synchronizing Streaming Applications on Cell Processors.",
+                    "Adapting Application Mapping to Systematic Within-Die Process Variations on Chip Multiprocessors.",
+                    "Accomodating Diversity in CMPs with Heterogeneous Frequencies.",
+                    "A Framework for Task Scheduling and Memory Partitioning for Multi-Processor System-on-Chip.",
+                    "Hybrid Super/Subthreshold Design of a Low Power Scalable-Throughput FFT Architecture.",
+                    "Predictive Thermal Management for Chip Multiprocessors Using Co-designed Virtual Machines.",
+                    "HeDGE: Hybrid Dataflow Graph Execution in the Issue Logic.",
+                    "Compiler Controlled Speculation for Power Aware ILP Extraction in Dataflow Architectures.",
+                    "Revisiting Cache Block Superloading.",
+                    "ACM: An Efficient Approach for Managing Shared Caches in Chip Multiprocessors.",
+                    "In-Network Caching for Chip Multiprocessors.",
+                    "Parallel LDPC Decoding on the Cell/B.E. Processor.",
+                    "Parallel H.264 Decoding on an Embedded Multicore Processor."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "HiPEAC 2008",
+        "info": "G\u00f6teborg, Sweden",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hipeac/2008",
+                "sub_name": "High Performance Embedded Architectures and Compilers, Third International Conference, HiPEAC 2008, G\u00f6teborg, Sweden, January 27-29, 2008, Proceedings.",
+                "count": 26,
+                "papers": [
+                    "Supercomputing for the Future, Supercomputing from the Past (Keynote).",
+                    "MIPS MT: A Multithreaded RISC Architecture for Embedded Real-Time Processing.",
+                    "rMPI: Message Passing on Multicore Processors with On-Chip Interconnect.",
+                    "Modeling Multigrain Parallelism on Heterogeneous Multi-core Processors: A Case Study of the Cell BE.",
+                    "BRAM-LUT Tradeoff on a Polymorphic DES Design.",
+                    "Architecture Enhancements for the ADRES Coarse-Grained Reconfigurable Array.",
+                    "Implementation of an UWB Impulse-Radio Acquisition and Despreading Algorithm on a Low Power ASIP.",
+                    "Fast Bounds Checking Using Debug Register.",
+                    "Studying Compiler Optimizations on Superscalar Processors Through Interval Analysis.",
+                    "An Experimental Environment Validating the Suitability of CLI as an Effective Deployment Format for Embedded Systems.",
+                    "Compilation Strategies for Reducing Code Size on a VLIW Processor with Variable Length Instructions.",
+                    "Experiences with Parallelizing a Bio-informatics Program on the Cell BE.",
+                    "Drug Design Issues on the Cell BE.",
+                    "Coffee: COmpiler Framework for Energy-Aware Exploration.",
+                    "Integrated CPU Cache Power Management in Multiple Clock Domain Processors.",
+                    "Variation-Aware Software Techniques for Cache Leakage Reduction Using Value-Dependence of SRAM Leakage Due to Within-Die Process Variation.",
+                    "The Significance of Affectors and Affectees Correlations for Branch Prediction.",
+                    "Turbo-ROB: A Low Cost Checkpoint/Restore Accelerator.",
+                    "LPA: A First Approach to the Loop Processor Architecture.",
+                    "Complementing Missing and Inaccurate Profiling Using a Minimum Cost Circulation Algorithm.",
+                    "Using Dynamic Binary Instrumentation to Generate Multi-platform SimPoints: Methodology and Accuracy.",
+                    "Phase Complexity Surfaces: Characterizing Time-Varying Program Behavior.",
+                    "MLP-Aware Dynamic Cache Partitioning.",
+                    "Compiler Techniques for Reducing Data Cache Miss Rate on a Multithreaded Architecture.",
+                    "Code Arrangement of Embedded Java Virtual Machine for NAND Flash Memory.",
+                    "Aggressive Function Inlining: Preventing Loop Blockings in the Instruction Cache."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "HiPEAC 2007",
+        "info": "Ghent, Belgium",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hipeac/2007",
+                "sub_name": "High Performance Embedded Architectures and Compilers, Second International Conference, HiPEAC 2007, Ghent, Belgium, January 28-30, 2007, Proceedings.",
+                "count": 20,
+                "papers": [
+                    "Keynote: Insight, Not (Random) Numbers: An Embedded Perspective.",
+                    "Compiler-Assisted Memory Encryption for Embedded Processors.",
+                    "Leveraging High Performance Data Cache Techniques to Save Power in Embedded Systems.",
+                    "Applying Decay to Reduce Dynamic Power in Set-Associative Caches.",
+                    "Virtual Registers: Reducing Register Pressure Without Enlarging the Register File.",
+                    "Bounds Checking with Taint-Based Analysis.",
+                    "Reducing Exit Stub Memory Consumption in Code Caches.",
+                    "Reducing Branch Misprediction Penalties Via Adaptive Pipeline Scaling.",
+                    "Fetch Gating Control Through Speculative Instruction Window Weighting.",
+                    "Dynamic Capacity-Speed Tradeoffs in SMT Processor Caches.",
+                    "Branch History Matching: Branch Predictor Warmup for Sampled Simulation.",
+                    "Sunflower :  Full-System, Embedded Microarchitecture Evaluation.",
+                    "Efficient Program Power Behavior Characterization.",
+                    "Performance/Energy Optimization of DSP Transforms on the XScale Processor.",
+                    "Arx: A Toolset for the Efficient Simulation and Direct Synthesis of High-Performance Signal Processing Algorithms.",
+                    "A Throughput-Driven Task Creation and Mapping for Network Processors.",
+                    "MiDataSets: Creating the Conditions for a More Realistic Evaluation of Iterative Optimization.",
+                    "Evaluation of Offset Assignment Heuristics.",
+                    "Customizing the Datapath and ISA of Soft VLIW Processors.",
+                    "Instruction Set Extension Generation with Considering Physical Constraints."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "HiPEAC 2005",
+        "info": "Barcelona, Spain",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hipeac/2005",
+                "sub_name": "High Performance Embedded Architectures and Compilers, First International Conference, HiPEAC 2005, Barcelona, Spain, November 17-18, 2005, Proceedings.",
+                "count": 20,
+                "papers": [
+                    "Using EEMBC Benchmarks to Understand Processor Behavior in Embedded Applications.",
+                    "The Chip-Multiprocessing Paradigm Shift: Opportunities and Challenges.",
+                    "Software Defined Radio - A High Performance Embedded Challenge.",
+                    "A Practical Method for Quickly Evaluating Program Optimizations.",
+                    "Efficient Sampling Startup for Sampled Processor Simulation.",
+                    "Enhancing Network Processor Simulation Speed with Statistical Input Sampling.",
+                    "Power Aware External Bus Arbitration for System-on-a-Chip Embedded Systems.",
+                    "Beyond Basic Region Caching: Specializing Cache Structures for High Performance and Energy Conservation.",
+                    "Streaming Sparse Matrix Compression/Decompression.",
+                    "XAMM: A High-Performance Automatic Memory Management System with Memory-Constrained Designs.",
+                    "Memory-Centric Security Architecture.",
+                    "A Novel Batch Rekeying Processor Architecture for Secure Multicast Key Management.",
+                    "Arc3D: A 3D Obfuscation Architecture.",
+                    "Dynamic Code Region (DCR) Based Program Phase Tracking and Prediction for Dynamic Optimizations.",
+                    "Induction Variable Analysis with Delayed Abstractions.",
+                    "Garbage Collection Hints.",
+                    "Exploiting a Computation Reuse Cache to Reduce Energy in Network Processors.",
+                    "Dynamic Evolution of Congestion Trees: Analysis and Impact on Switch Architecture.",
+                    "A Single (Unified) Shader GPU Microarchitecture for Embedded Systems.",
+                    "A Low-Power DSP-Enhanced 32-Bit EISC Processor."
+                ]
+            }
+        ]
+    }
+]

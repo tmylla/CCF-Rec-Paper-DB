@@ -46,8 +46,12 @@ class Search_Paper_DB():
         key_papers = list()
         for key_word in key_words.split(';'):
             for paper in papers:
-                if key_word.strip() in paper.lower():
-                    key_papers.append(paper)
+                if key_word.isupper():  # 关键词大写时如KG要准确匹配
+                    if key_word.strip() in paper:
+                        key_papers.append(paper)
+                else:
+                    if key_word.strip() in paper.lower():
+                        key_papers.append(paper)
 
         return list(set(key_papers))
 
@@ -63,7 +67,7 @@ if __name__ == '__main__':
 
     search_tool = Search_Paper_DB(no, rank, year)
     papers = search_tool.search_papers()
-    print('类别{}近{}年的{}期刊/会议发表论文共{}篇：\n{}'.format(no, year, rank, len(papers), papers))
+    # print('类别{}近{}年的{}期刊/会议发表论文共{}篇：\n{}'.format(no, year, rank, len(papers), papers))
 
     if key_words:
         key_papers = search_tool.key_words_search(key_words, papers)

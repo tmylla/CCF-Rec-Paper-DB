@@ -1,0 +1,590 @@
+[
+    {
+        "year": "2018",
+        "name": "21st WebDB 2018",
+        "info": "Houston, TX, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/webdb/2018",
+                "sub_name": "Proceedings of the 21st International Workshop on the Web and Databases, Houston, TX, USA, June 10, 2018.",
+                "count": 5,
+                "papers": [
+                    "Cleaning Data with Constraints and Experts.",
+                    "Processing Class-Constraint K-NN Queries with MISP.",
+                    "DataVizard: Recommending Visual Presentations for Structured Data.",
+                    "Searching for Truth in a Database of Statistics.",
+                    "Leveraging Wikipedia Table Schemas for Knowledge Graph Augmentation."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "20th WebDB 2017",
+        "info": "Chicago, IL, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/webdb/2017",
+                "sub_name": "Proceedings of the 20th International Workshop on the Web and Databases, WebDB 2017, Chicago, IL, USA, May 14-19, 2017.",
+                "count": 8,
+                "papers": [
+                    "\"Tell me more\" using Ladders in Wikipedia.",
+                    "Crowdsourcing with Diverse Groups of Users.",
+                    "Invariant Control in Eventually Consistent Databases.",
+                    "Enabling Completeness-aware Querying in SPARQL.",
+                    "LSH-Based Probabilistic Pruning of Inverted Indices for Sets and Ranked Lists.",
+                    "Role-aware Conformity Influence Analysis in Recommender Systems.",
+                    "Cost-Effective Conceptual Design Over Taxonomies.",
+                    "A Path Querying Language for Federation of RDF and Relational Database."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "19. WebDB 2016",
+        "info": "San Francisco, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/webdb/2016",
+                "sub_name": "Proceedings of the 19th International Workshop on Web and Databases, San Francisco, CA, USA, June 26, 2016.",
+                "count": 9,
+                "papers": [
+                    "Fast and accurate identification of implicit enterprise users in social media.",
+                    "On the statistical analysis of practical SPARQL queries.",
+                    "Fusing time-dependent web table data.",
+                    "Web table column categorisation and profiling.",
+                    "An index scheme for fast data stream to distributed append-only store.",
+                    "Incorporating information extraction in the relational database model.",
+                    "The ranking game.",
+                    "Workload-driven learning of mallows mixtures with pairwise preference data.",
+                    "Accurate fact harvesting from natural language text in wikipedia with Lector."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "18. WebDB 2015",
+        "info": "Melbourne, Victoria, Australia",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/webdb/2015",
+                "sub_name": "Proceedings of the 18th International Workshop on Web and Databases, Melbourne, VIC, Australia, May 31, 2015.",
+                "count": 10,
+                "papers": [
+                    "The elephant in the room: getting value from Big Data.",
+                    "Addressing Instance Ambiguity in Web Harvesting.",
+                    "IBEX: Harvesting Entities from the Web Using Unique Identifiers.",
+                    "Person-Name Parsing for Linking User Web Profiles.",
+                    "Truth Finding with Attribute Partitioning.",
+                    "Long-term Optimization of Update Frequencies for Decaying Information.",
+                    "Analyzing Crowd Rankings.",
+                    "TriAL-QL: Distributed Processing of Navigational Queries.",
+                    "FOREST: Focused Object Retrieval by Exploiting Significant Tag Paths.",
+                    "Discovering Subsumption Relationships for Web-Based Ontologies."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "17. WebDB 2014",
+        "info": "Snowbird, Utah, USA",
+        "venues": []
+    },
+    {
+        "year": "2013",
+        "name": "16. WebDB 2013",
+        "info": "New York, NY, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/webdb/2013",
+                "sub_name": "Proceedings of the 16th International Workshop on the Web and Databases 2013, WebDB 2013, New York, NY, USA, June 23, 2013.",
+                "count": 10,
+                "papers": [
+                    "Badger: Toward Crowdsourcing the Building of Structured Knowledge Bases.",
+                    "Enabling JSON Document Stores in Relational Systems.",
+                    "Containment for Tree Patterns with Attribute Value Comparisons.",
+                    "Simple Schemas for Unordered XML.",
+                    "Mining Enterprise Websites for Association Thesaurus Construction.",
+                    "Human-Powered Top-k Lists.",
+                    "Enabling Author-Centric Ranking of Web Content.",
+                    "Monadic Logs for Collaborative Web Applications.",
+                    "Fair Recommendations for Online Barter Exchange Networks.",
+                    "Ringtail: Feature Selection For Easier Nowcasting."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "15. WebDB 2012",
+        "info": "Scottsdale, AZ, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/webdb/2012",
+                "sub_name": "Proceedings of the 15th International Workshop on the Web and Databases 2012, WebDB 2012, Scottsdale, AZ, USA, May 20, 2012.",
+                "count": 11,
+                "papers": [
+                    "LogRank: Summarizing Social Activity Logs.",
+                    "Analysis of Instant Search Query Logs.",
+                    "Classifying User Messages For Managing Web Forum Data.",
+                    "Pricing Aggregate Queries in a Data Marketplace.",
+                    "SERIMI: Class-based Disambiguation for Effective Instance Matching over Heterogeneous Web Data.",
+                    "Deduction in the Presence of Distribution and Contradictions.",
+                    "Enhancing Locality Sensitive Hashing with Peek Probing and Nearest Neighbor Links.",
+                    "Higher\u00adOrder Functions and Structured Datatypes.",
+                    "Predicting the Evolution of Taxonomy Restructuring in Collective Web Catalogues.",
+                    "A General Approach for Securely Updating XML Data.",
+                    "Affinity\u00adbased XML Fragmentation."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "14. WebDB 2011",
+        "info": "Athens, Greece",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/webdb/2011",
+                "sub_name": "Proceedings of the 14th International Workshop on the Web and Databases 2011, WebDB 2011, Athens, Greece, June 12, 2011.",
+                "count": 12,
+                "papers": [
+                    "Scalable Link-based Personalization for Ranking in Entity-Relationship Graphs.",
+                    "A Lattice-based Graph Index for Subgraph Search.",
+                    "Linking Semistructured Data on the Web.",
+                    "Efficient Multidimensional Blocking for Link Discovery without losing Recall.",
+                    "The Token Distribution Filter for Approximate String Membership.",
+                    "Path Query Processing on Very Large RDF Graphs.",
+                    "XML Query Optimization in Map-Reduce.",
+                    "Grammar Inference for Web Documents.",
+                    "On the optimality of top-k algorithms for Interactive Web Applications.",
+                    "Web information management with access control.",
+                    "FactCrawl: A Fact Retrieval Framework for Full-Text Indices.",
+                    "Rank-Aware Crawling of Hidden Web sites."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "13. WebDB 2010",
+        "info": "Indianapolis, Indiana, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/webdb/2010",
+                "sub_name": "Proceedings of the 13th International Workshop on the Web and Databases 2010, WebDB 2010, Indianapolis, Indiana, USA, June 6, 2010.",
+                "count": 15,
+                "papers": [
+                    "Web of Linked Data - A global public data space on the Web.",
+                    "An Agglomerative Query Model for Discovery in Linked Data: Semantics and Approach.",
+                    "XML-Based RDF Data Management for Efficient Query Processing.",
+                    "Querying Wikipedia Documents and Relationships.",
+                    "WikiAnalytics: Disambiguation of Keyword Search Results on Highly Heterogeneous Structured Data.",
+                    "Find your Advisor: Robust Knowledge Gathering from the Web.",
+                    "Redundancy-Driven Web Data Extraction and Integration.",
+                    "Using Latent-Structure to Detect Objects on the Web.",
+                    "Popularity-Guided Top-k Extraction of Entity Attributes.",
+                    "Manimal: Relational Optimization for Data-Intensive Programs.",
+                    "Learning Topical Transition Probabilities in Click Through Data with Regression Models.",
+                    "Improved Recommendations via (More) Collaboration.",
+                    "Concurrent One-Way Protocols in Around-the-Clock Social Networks.",
+                    "Reconciling two models of multihierarchical markup.",
+                    "Tree patterns with Full Text Search."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "12. WebDB 2009",
+        "info": "Providence, Rhode Island, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/webdb/2009",
+                "sub_name": "12th International Workshop on the Web and Databases, WebDB 2009, Providence, Rhode Island, USA, June 28, 2009.",
+                "count": 14,
+                "papers": [
+                    "Extracting Route Directions from Web Pages.",
+                    "Querying DAG-shaped Execution Traces Through Views.",
+                    "Efficient and Scalable Sequence-Based XML Filtering.",
+                    "Functional Dependency Generation and Applications in Pay-As-You-Go Data Integration Systems.",
+                    "Bridging the Terminology Gap in Web Archive Search.",
+                    "Event Identification in Social Media.",
+                    "A Machine Learning Approach to Foreign Key Discovery.",
+                    "Towards Well-Behaved Schema Evolution.",
+                    "PrivatePond: Outsourced Management of Web Corpuses.",
+                    "Experimental Evaluation of Query Processing Techniques over Multiversion XML Documents.",
+                    "Beyond the Stars: Improving Rating Predictions using Review Text Content.",
+                    "FORWARD: Design Specification Techniques for Do-It-Yourself Application Platforms.",
+                    "Entity Search with NECESSITY.",
+                    "A Referential Integrity Browser for Distributed Databases."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "11. WebDB 2008",
+        "info": "Vancouver, BC, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/webdb/2008",
+                "sub_name": "11th International Workshop on the Web and Databases, WebDB 2008, Vancouver, BC, Canada, June 13, 2008.",
+                "count": 14,
+                "papers": [
+                    "Web services composition is decidable.",
+                    "LSH At Large - Distributed KNN Search in High Dimensions.",
+                    "Bidirectional Mappings for Data and Update Exchange.",
+                    "Stay Elsewhere? Improving Local Search for Hotels Using Econometric Modeling and Image Classification.",
+                    "Optimal Ad-Ranking for Profit Maximization.",
+                    "OLAP Cubes for Social Searches: Standing on the Shoulders of Giants?",
+                    "Good Guys vs. Bad Guys: Countering Cheating in Peer-to-Peer Authority Computations over Social Networks.",
+                    "Evaluating Instance-based Matching of Web Directories.",
+                    "Uncovering the Relational Web.",
+                    "Efficient Web-Based Linkage of Short to Long Forms.",
+                    "TOB: Timely Ontologies for Business Relations.",
+                    "XPath Rewriting Using Multiple Views: Achieving Completeness and Efficiency.",
+                    "Trie Indexes for Efficient XML Query Evaluation.",
+                    "Lightweight Database Wrapper for Unstructured Data."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "10. WebDB 2007",
+        "info": "Beijing, China",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/webdb/2007",
+                "sub_name": "Tenth International Workshop on the Web and Databases, WebDB 2007, Beijing, China, June 15, 2007.",
+                "count": 12,
+                "papers": [
+                    "Navigating Extracted Data with Schema Discovery.",
+                    "Term Ranking for Clustering Web Search Results.",
+                    "Corroborating Answers from Multiple Web Sources.",
+                    "Towards a Content-Provider-Friendly Web Page Crawler.",
+                    "Supporting Range Queries on Web Data Using k-Nearest Neighbor Search.",
+                    "XML Information Retrieval Considering Physical Page Layout of Logical Elements.",
+                    "A clustering-based sampling approach for refreshing search engine's database.",
+                    "Search for the Best but Expect the Worst - Distributed Top-k Queries over Decreasing Aggregated Scores.",
+                    "EntityAuthority: Semantically Enriched Graph-Based Authority Propagation.",
+                    "Searching the Blogosphere.",
+                    "Value-Aware RoXSum: Effective Message Aggregation for XML-Aware Information Dissemination.",
+                    "Communication-Efficient Query Answering with Quality Guarantees in Client-Server Applications."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "9. WebDB 2006",
+        "info": "Chicago, Illinois, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/webdb/2006",
+                "sub_name": "Ninth International Workshop on the Web and Databases, WebDB 2006, Chicago, Illinois, USA, June 30, 2006.",
+                "count": 11,
+                "papers": [
+                    "Structural text search and comparison using automatically extracted schema.",
+                    "Exploiting Community Behavior for Enhanced Link Analysis and Web Search.",
+                    "Vision-based Web Data Records Extraction.",
+                    "Answering Structured Queries on Unstructured Data.",
+                    "Twig Patterns: From XML Trees to Graphs.",
+                    "The Meaning of Erasing in RDF under the Katsuno-Mendelzon Approach.",
+                    "Amoeba Join: Overcoming Structural Fluctuations in XML Data.",
+                    "Replication-Aware Query Processing in Large-Scale Distributed Information Systems.",
+                    "Automatic Tuning of File Descriptors in P2P File-Sharing Systems.",
+                    "KISS: A Simple Prefix Search Scheme in P2P Networks.",
+                    "Global Document Frequency Estimation in Peer-to-Peer Web Search."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "8. WebDB 2005",
+        "info": "Baltimore, Maryland, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/webdb/2005",
+                "sub_name": "Proceedings of the Eight International Workshop on the Web & Databases (WebDB 2005), Baltimore, Maryland, USA, Collocated mith ACM SIGMOD/PODS 2005, June 16-17, 2005.",
+                "count": 27,
+                "papers": [
+                    "Searching for Hidden-Web Databases.",
+                    "iFuice - Information Fusion utilizing Instance Correspondences and Peer Mappings.",
+                    "Managing Integrity for Data Exchanged on the Web.",
+                    "Design and Implementation of a Geographic Search Engine.",
+                    "Using Bloom Filters to Refine Web Search Results.",
+                    "JXP: Global Authority Scores in a P2P Network.",
+                    "On the role of composition in XQuery.",
+                    "An Empirical Evaluation of Simple DTD-Conscious Compression Techniques.",
+                    "Towards a Query Language for Multihierarchical XML: Revisiting XPath.",
+                    "Indexing Schemes for Efficient Aggregate Computation over Structural Joins.",
+                    "An Evaluation and Comparison of Current Peer-to-Peer Full-Text Keyword Search Techniques.",
+                    "Efficient Engines for Keyword Proximity Search.",
+                    "Freshness-Aware Scheduling of Continuous Queries in the Dynamic Web.",
+                    "Vague Content and Structure (VCAS) Retrieval for Document-centric XML Collections.",
+                    "On the Expressive Power of Node Construction in XQuery.",
+                    "Indexing for XML Siblings.",
+                    "XFrag: A Query Processing Framework for Fragmented XML Data.",
+                    "Analysis of User Web Traffic with A Focus on Search Activities.",
+                    "Processing Top-N Queries in P2P-based Web Integration Systems with Probabilistic Guarantees.",
+                    "Context-Sensitive Keyword Search and Ranking for XML.",
+                    "Constructing Maintainable Semantic Mappings in XQuery.",
+                    "The Framework of an XML Semantic Caching System.",
+                    "A Data Model and Query Language to Explore Enhanced Links and Paths in Life Science Sources.",
+                    "Malleable Schemas: A Preliminary Report.",
+                    "Mining the inner structure of the Web graph.",
+                    "Managing Multiversion Documents & Historical Databases: a Unified Solution Based on XML.",
+                    "T-SIX: An Indexing System for XML Siblings."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "7. WebDB 2004",
+        "info": "Maison de la Chimie, Paris, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/webdb/2004",
+                "sub_name": "Proceedings of the Seventh International Workshop on the Web and Databases, WebDB 2004, June 17-18, 2004, Maison de la Chimie, Paris, France, Colocated with ACM SIGMOD/PODS 2004.",
+                "count": 17,
+                "papers": [
+                    "Text Centric Structure Extraction and Exploitation (abstract only).",
+                    "Spam, Damn Spam, and Statistics: Using Statistical Analysis to Locate Spam Web Pages.",
+                    "Querying Bi-level Information.",
+                    "Visualizing and Discovering Web Navigational Patterns.",
+                    "One Torus to Rule Them All: Multidimensional Queries in P2P Systems.",
+                    "Querying Peer-to-Peer Networks Using P-Trees.",
+                    "Scalable Dissemination: What's Hot and What's Not.",
+                    "Semantic Multicast for Content-based Stream Dissemination.",
+                    "Twig Query Processing over Graph-Structured XML Data.",
+                    "Unraveling the Duplicate-Elimination Problem in XML-to-SQL Query Translation.",
+                    "Best-Match Querying from Document-Centric XML.",
+                    "Challenges in Selecting Paths for Navigational Queries: Trade-Off of Benefit of Path versus Cost of Plan.",
+                    "Content and Structure in Indexing and Ranking XML.",
+                    "Mining Approximate Functional Dependencies and Concept Similarities to Answer Imprecise Queries.",
+                    "DTDs versus XML Schema: A Practical Study.",
+                    "On Validation of XML Streams Using Finite State Machines.",
+                    "Checking Potential Validity of XML Documents."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "name": "6. WebDB 2003",
+        "info": "San Diego, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/webdb/2003",
+                "sub_name": "International Workshop on Web and Databases, San Diego, California, USA, June 12-13, 2003.",
+                "count": 17,
+                "papers": [
+                    "Exploiting Structure, Annotation, and Ontological Knowledge for Automatic Classification of XML Data.",
+                    "Automatic annotation of data extracted from large Web sites.",
+                    "Semantic Email: Adding Lightweight Data Manipulation Capabilities to the Email Habitat.",
+                    "XML Interoperability.",
+                    "Building Data Integration Systems: A Mass Collaboration Approach.",
+                    "On the updatability of XML views over relational databases.",
+                    "Tree Automata to Verify XML Key Constraints.",
+                    "A Framework for Estimating XML Query Cardinality.",
+                    "Path-expression Queries over Multiversion XML Documents.",
+                    "TypEx: A Type Based Approach to XML Stream Querying.",
+                    "A Comparison of Peer-to-Peer Search Methods.",
+                    "ODISSEA: A Peer-to-Peer Architecture for Scalable Web Search and Information Retrieval.",
+                    "On Distributing XML Repositories.",
+                    "Index Structures for Querying the Deep Web.",
+                    "Modeling Query-Based Access to Text Databases.",
+                    "Efficient Dissemination of Aggregate Data over the Wireless Web.",
+                    "The Query Set Specification Language (QSSL)."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2002",
+        "name": "5. WebDB 2002",
+        "info": "Madison, Wisconsin, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/webdb/2002",
+                "sub_name": "Proceedings of the Fifth International Workshop on the Web and Databases, WebDB 2002, Madison, Wisconsin, USA, June 6-7, 2002, in conjunction with ACM PODS/SIGMOD 2002. Informal proceedings.",
+                "count": 17,
+                "papers": [
+                    "XQuery/IR: Integrating XML Document and Data Retrieval.",
+                    "Constraints preserving schema mapping from XML to relations.",
+                    "The Query Language TQL.",
+                    "Types for Correctness of Queries over Semistructured Data.",
+                    "Semantic Caching of XML Databases.",
+                    "XCache: XQuery-based Caching System.",
+                    "On space management in a dynamic edge data cache.",
+                    "What are real DTDs like?",
+                    "ToXgene: An extensible template-based data generator for XML.",
+                    "Detecting Structural Similarities between XML Documents.",
+                    "Evaluating Structural Similarity in XML Documents.",
+                    "Obtaining More Answers from Information Integration Systems.",
+                    "Learning Efficient Value Predictors for Speculative Plan Execution.",
+                    "View Selection for Stream Processing.",
+                    "Data Management for Peer-to-Peer Computing : A Vision.",
+                    "Distributed queries without distributed state.",
+                    "Cryptographically Enforced Conditional Access for XML."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2001",
+        "name": "4. WebDB 2001",
+        "info": "Santa Barbara, California",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/webdb/2001",
+                "sub_name": "Proceedings of the Fourth International Workshop on the Web and Databases, WebDB 2001, Santa Barbara, California, USA, May 24-25, 2001, in conjunction with ACM PODS/SIGMOD 2001. Informal proceedings.",
+                "count": 18,
+                "papers": [
+                    "Expressive and Efficient Ranked Querying of XML data.",
+                    "Weighted Path Queries on Web Data.",
+                    "Minimising Simple XPath Expressions.",
+                    "Similarity Search in XML Data using Cost-Based Query Transformations.",
+                    "Multicasting a Web Repository.",
+                    "What Can Database Do for Peer-to-Peer?",
+                    "ubQL, a Language for Programming Distributed Query Systems.",
+                    "On Storing Voluminous RDF Descriptions: The Case of Web Portal Catalogs.",
+                    "Indexing XML Data with ToXin.",
+                    "The Table and the Tree: On-Line Access to Relational Data through Virtual XML Documents.",
+                    "Nesting-Based Relational-to-XML Schema Translation.",
+                    "Specifying Transformations for Structured Documents.",
+                    "Using Database Technology to Improve Performance of Web Proxy Servers.",
+                    "Generating Synthetic Complex-Structured XML Data.",
+                    "Adaptive WebView Materialization.",
+                    "On Semi-Automated Web Taxonomy Construction.",
+                    "Mapping XML Fragments to Community Web Ontologies.",
+                    "Quixote: Building XML Repositories from Topic Specific Web Documents."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2000",
+        "name": "3. WebDB 2000",
+        "info": "Dallas, Texas, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/webdb/2000",
+                "sub_name": "The World Wide Web and Databases, Third International Workshop WebDB 2000, Dallas, Texas, USA, Maaay 18-19, 2000, Selected Papers.",
+                "count": 17,
+                "papers": [
+                    "Quilt: An XML Query Language for Heterogeneous Data Sources.",
+                    "Theme-based Retrieval of Web News.",
+                    "Using Metadata to Enhance a Web Information Gathering System.",
+                    "Architecting a Network Query Engine for Producing Partial Results.",
+                    "Argos: Efficient Refresh in an XQL-Based Web Caching System.",
+                    "Active Query Caching for Database Web Servers.",
+                    "Adding Relevance to XML.",
+                    "Evaluating Queries on Structure with eXtended Access Support Relations.",
+                    "Efficient Relational Storage and Retrieval of XML Documents.",
+                    "XML and Object-Relational Database Systems - Enhancing Structural Mappings Based on Statistics.",
+                    "Everything You Ever Wanted to Know About DTDs, But Were Afraid to Ask (Extended Abstract).",
+                    "Version Management of XML Documents.",
+                    "Modeling Data Entry and Operations in WebML.",
+                    "An Optimization Technique for Answering Regular Path Queries.",
+                    "XDuce: A Typed XML Processing Language (Preliminary Report).",
+                    "Automatic Classification of Text Databases Through Query Probing.",
+                    "Record Location and Reconfiguration in Unstructured Multiple-Record Web Documents."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/webdb/2000i",
+                "sub_name": "Proceedings of the Third International Workshop on the Web and Databases, WebDB 2000, Adam's Mark Hotel, Dallas, Texas, USA, May 18-19, 2000, in conjunction with ACM PODS/SIGMOD 2000. Informal proceedings.",
+                "count": 21,
+                "papers": [
+                    "Theme-based Retrieval of Web News.",
+                    "Using Metadata to Enhance a Web Information Gathering System.",
+                    "Architecting a Network Query Engine for Producing Partial Results.",
+                    "Argos: Efficient Refresh in an XQL-Based Web Caching System.",
+                    "Active Query Caching for Database Web Servers.",
+                    "Adding Relevance to XML.",
+                    "Evaluating Queries on Structure with eXtended Access Support Relations.",
+                    "Efficient Relational Storage and Retrieval of XML Documents.",
+                    "Quilt: An XML Query Language for Heterogeneous Data Sources.",
+                    "XML and Object-Relational Database Systems - Enhancing Structural Mappings Based on Statistics.",
+                    "Everything You Ever Wanted to Know About DTDs, But Were Afraid to Ask.",
+                    "Version Management of XML Documents.",
+                    "Learning Source Description for Data Integration.",
+                    "Modeling Data Entry and Operations in WebML.",
+                    "Using Quality of Data Metadata for Source Selection and Ranking.",
+                    "An Optimization Technique for Answering Regular Path Queries.",
+                    "XPERANTO: Publishing Object-Relational Data as XML.",
+                    "XDuce: A Typed XML Processing Language (Preliminary Report).",
+                    "Automatic Classification of Text Databases Through Query Probing.",
+                    "Record Location and Reconfiguration in Unstructured Multiple-Record Web Documents.",
+                    "Scalable Techniques for Clustering the Web."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1999",
+        "name": "2. WebDB 1999",
+        "info": "Philadelphia, Pennsylvania, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/webdb/1999",
+                "sub_name": "ACM SIGMOD Workshop on The Web and Databases, WebDB 1999, Philadelphia, Pennsylvania, USA, June 3-4, 1999. Informal Proceedings.",
+                "count": 17,
+                "papers": [
+                    "Superimposed Information for the Internet.",
+                    "One-to-One Personalization of Data-Intensive Web Sites.",
+                    "Run-Time Management of Data Intensive Web Sites.",
+                    "The (Short) Araneus Guide to Web-Site Development.",
+                    "Declarative Web Site Management with Tiramisu.",
+                    "From Semistructured Data to XML: Migrating the Lore Data Model and Query Language.",
+                    "Web Ecology: Recycling HTML Pages as XML Documents Using W4F.",
+                    "SAL: An Algebra for Semistructured Data and XML.",
+                    "EquiX Easy Querying in XML Databases.",
+                    "Adapter Generation for Extracting and Querying Data from Web.",
+                    "Some Practical Observations on Integration of Web Information.",
+                    "Horizontal Query Optimization on Ordered Semistructured Data.",
+                    "Ready for Prime Time - Pre-Generation of Web Pages in TIScover.",
+                    "Query Answering Using Views for Data Integration over the Web.",
+                    "On the Materialization of WebViews.",
+                    "A Framework for Navigation-Driven Lazy Mediators.",
+                    "Exploiting Geographical Location Information of Web Pages."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1998",
+        "name": "1. WebDB 1998",
+        "info": "Valencia, Spain",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/webdb/1998",
+                "sub_name": "The World Wide Web and Databases, International Workshop WebDB'98, Valencia, Spain, March 27-28, 1998, Selected Papers.",
+                "count": 13,
+                "papers": [
+                    "A Unified Algorithm for Cache Replacement and Consistency in Web Proxy Servers.",
+                    "Transactional Services for the Web.",
+                    "On the Unification of Persistent Programming and the World Wide Web.",
+                    "Interactive Query and Search in Semistructured Databases.",
+                    "Bringing Database Functionality to the WWW.",
+                    "Fixpoint Calculus for Querying Semistructured Data.",
+                    "Incremental Maintenance of Hypertext Views.",
+                    "Using YAT to Build a Web Server.",
+                    "Language and Tools to Specify Hypertext Views on Databases.",
+                    "WebSuite: A Tool Suite for Harnessing Web Data.",
+                    "Extracting Patterns and Relations from the World Wide Web.",
+                    "WUM - A Tool for WWW Ulitization Analysis.",
+                    "Finding Near-Replicas of Documents and Servers on the Web."
+                ]
+            }
+        ]
+    }
+]

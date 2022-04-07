@@ -1,0 +1,1076 @@
+[
+    {
+        "year": "2021",
+        "name": "31st LOPSTR 2021",
+        "info": "Tallinn, Estonia",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/2021",
+                "sub_name": "Logic-Based Program Synthesis and Transformation - 31st International Symposium, LOPSTR 2021, Tallinn, Estonia, September 7-8, 2021, Proceedings.",
+                "count": 9,
+                "papers": [
+                    "String Abstract Domains and Their Combination.",
+                    "Data Type Inference for Logic Programming.",
+                    "Automating the Functional Correspondence Between Higher-Order Evaluators and Abstract Machines.",
+                    "S-Semantics-an Example.",
+                    "Disjunctive Delimited Control.",
+                    "Towards Substructural Property-Based Testing.",
+                    "The Next 700 Program Transformers.",
+                    "Representation and Processing of Instantaneous and Durative Temporal Phenomena.",
+                    "Prefix-Based Tracing in Message-Passing Concurrency."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "name": "30th LOPSTR 2020",
+        "info": "Bologna, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/2020",
+                "sub_name": "Logic-Based Program Synthesis and Transformation - 30th International Symposium, LOPSTR 2020, Bologna, Italy, September 7-9, 2020, Proceedings.",
+                "count": 17,
+                "papers": [
+                    "Symbolic Computation in Maude: Some Tapas.",
+                    "Runtime Complexity Analysis of Logically Constrained Rewriting.",
+                    "Confluence and Commutation for Nominal Rewriting Systems with Atom-Variables.",
+                    "Pattern Eliminating Transformations.",
+                    "Nominal Unification with Letrec and Environment-Variables.",
+                    "Terminating Non-disjoint Combined Unification.",
+                    "slepice: Towards a Verified Implementation of Type Theory in Type Theory.",
+                    "Resourceful Program Synthesis from Graded Linear Types.",
+                    "Reasoning in the Theory of Heap: Satisfiability and Interpolation.",
+                    "Algorithm Selection for Dynamic Symbolic Execution: A Preliminary Study.",
+                    "Translation of Interactive Datalog Programs for Microcontrollers to Finite State Machines.",
+                    "Generating Functions for Probabilistic Programs.",
+                    "Verification of Multiplayer Stochastic Games via Abstract Dependency Graphs.",
+                    "Testing Your (Static Analysis) Truths.",
+                    "Slicing Unconditional Jumps with Unnecessary Control Dependencies.",
+                    "A Formal Model for a Linear Time Correctness Condition of Proof Nets of Multiplicative Linear Logic.",
+                    "Synthesis of Modality Definitions and a Theorem Prover for Epistemic Intuitionistic Logic."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "29th LOPSTR 2019",
+        "info": "Porto, Portugal",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/2019",
+                "sub_name": "Logic-Based Program Synthesis and Transformation - 29th International Symposium, LOPSTR 2019, Porto, Portugal, October 8-10, 2019, Revised Selected Papers.",
+                "count": 15,
+                "papers": [
+                    "On Fixpoint/Iteration/Variant Induction Principles for Proving Total Correctness of Programs with Denotational Semantics.",
+                    "A General Framework for Static Cost Analysis of Parallel Logic Programs.",
+                    "Incremental Analysis of Logic Programs with Assertions and Open Predicates.",
+                    "Computing Abstract Distances in Logic Programs.",
+                    "Synthesizing Imperative Code from Answer Set Programming Specifications.",
+                    "Verified Construction of Fair Voting Rules.",
+                    "Solving Proximity Constraints.",
+                    "A Certified Functional Nominal C-Unification Algorithm.",
+                    "Modeling and Reasoning in Event Calculus Using Goal-Directed Constraint Answer Set Programming.",
+                    "An Integrated Approach to Assertion-Based Random Testing in Prolog.",
+                    "Trace Analysis Using an Event-Driven Interval Temporal Logic.",
+                    "The Prolog Debugger and Declarative Programming.",
+                    "A Port Graph Rewriting Approach to Relational Database Modelling.",
+                    "Generalization-Driven Semantic Clone Detection in CLP.",
+                    "Semi-inversion of Conditional Constructor Term Rewriting Systems."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "28th LOPSTR 2018",
+        "info": "Frankfurt/Main, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/2018",
+                "sub_name": "Logic-Based Program Synthesis and Transformation - 28th International Symposium, LOPSTR 2018, Frankfurt/Main, Germany, September 4-6, 2018, Revised Selected Papers.",
+                "count": 11,
+                "papers": [
+                    "Proving Program Properties as First-Order Satisfiability.",
+                    "Guided Unfoldings for Finding Loops in Standard Term Rewriting.",
+                    "Homeomorphic Embedding Modulo Combinations of Associativity and Commutativity Axioms.",
+                    "Multiparty Classical Choreographies.",
+                    "A Pragmatic, Scalable Approach to Correct-by-Construction Process Composition Using Classical Linear Logic Inference.",
+                    "Confluence of CHR Revisited: Invariants and Modulo Equivalence.",
+                    "Compiling Control as Offline Partial Deduction.",
+                    "Predicate Specialization for Definitional Higher-Order Logic Programs.",
+                    "An Assertion Language for Slicing Constraint Logic Languages.",
+                    "Eliminating Unstable Tests in Floating-Point Programs.",
+                    "Multivariant Assertion-Based Guidance in Abstract Interpretation."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "27th LOPSTR 2017",
+        "info": "Namur, Belgium",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/2017",
+                "sub_name": "Logic-Based Program Synthesis and Transformation - 27th International Symposium, LOPSTR 2017, Namur, Belgium, October 10-12, 2017, Revised Selected Papers.",
+                "count": 19,
+                "papers": [
+                    "Generation of Initial Contexts for Effective Deadlock Detection.",
+                    "A Rule-Based Approach to Analyzing Database Schema Objects with Datalog.",
+                    "Deadlock Detection of Java Bytecode.",
+                    "Inferring Energy Bounds via Static Program Analysis and Evolutionary Modeling of Basic Blocks.",
+                    "CARET Analysis of Multithreaded Programs.",
+                    "Context Generation from Formal Specifications for C Analysis Tools.",
+                    "Liveness-Driven Random Program Generation.",
+                    "Erlang Code Evolution Control.",
+                    "Justifications in Constraint Handling Rules for Logical Retraction in Dynamic Algorithms.",
+                    "Confluence and Convergence in Probabilistically Terminating Reduction Systems.",
+                    "Analysis of Rewriting-Based Systems as First-Order Theories.",
+                    "A Constructor-Based Reachability Logic for Rewrite Theories.",
+                    "Fuzzy Unification and Generalization of First-Order Terms over Similar Signatures.",
+                    "Nominal C-Unification.",
+                    "On Uniquely Closable and Uniquely Typable Skeletons of Lambda Terms.",
+                    "A Certified Reference Validation Mechanism for the Permission Model of Android.",
+                    "Predicate Pairing with Abstraction for Relational Verification.",
+                    "Variant-Based Decidable Satisfiability in Initial Algebras with Predicates.",
+                    "Combining Static and Dynamic Contract Checking for Curry."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "26th LOPSTR 2016",
+        "info": "Edinburgh, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/2016",
+                "sub_name": "Logic-Based Program Synthesis and Transformation - 26th International Symposium, LOPSTR 2016, Edinburgh, UK, September 6-8, 2016, Revised Selected Papers.",
+                "count": 20,
+                "papers": [
+                    "Partial Evaluation of Order-Sorted Equational Programs Modulo Axioms.",
+                    "A Formal, Resource Consumption-Preserving Translation of Actors to Haskell.",
+                    "Verification of Time-Aware Business Processes Using Constrained Horn Clauses.",
+                    "MiniZinc with Strings.",
+                    "Slicing Concurrent Constraint Programs.",
+                    "A New Functional-Logic Compiler for Curry: Sprite.",
+                    "lpopt: A Rule Optimization Tool for Answer Set Programming.",
+                    "Symbolic Execution and Thresholding for Efficiently Tuning Fuzzy Logic Programs.",
+                    "Hierarchical Shape Abstraction for Analysis of Free List Memory Allocators.",
+                    "A Productivity Checker for Logic Programming.",
+                    "Symbolic Abstract Contract Synthesis in a Rewriting Framework.",
+                    "On the Completeness of Selective Unification in Concolic Testing of Logic Programs.",
+                    "CurryCheck: Checking Properties of Curry Programs.",
+                    "A Hiking Trip Through the Orders of Magnitude: Deriving Efficient Generators for Closed Simply-Typed Lambda Terms and Normal Forms.",
+                    "A Reversible Semantics for Erlang.",
+                    "Scaling Bounded Model Checking by Transforming Programs with Arrays.",
+                    "Intuitionistic Logic Programming for SQL.",
+                    "Coinductive Soundness of Corecursive Type Class Resolution.",
+                    "Nominal Unification of Higher Order Expressions with Recursive Let.",
+                    "Automata Theory Approach to Predicate Intuitionistic Logic."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "25th LOPSTR 2015",
+        "info": "Siena, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/2015",
+                "sub_name": "Logic-Based Program Synthesis and Transformation - 25th International Symposium, LOPSTR 2015, Siena, Italy, July 13-15, 2015. Revised Selected Papers.",
+                "count": 22,
+                "papers": [
+                    "Proof Checking and Logic Programming.",
+                    "On Dual Programs in Co-Logic Programming.",
+                    "Equational Formulas and Pattern Operations in Initial Order-Sorted Algebras.",
+                    "Compiling Collapsing Rules in Certain Constructor Systems.",
+                    "From Boolean Equalities to Constraints.",
+                    "A Type-Theoretic Approach to Resolution.",
+                    "A Typed Language for Events.",
+                    "Applying Sorting Networks to Synthesize Optimized Sorting Libraries.",
+                    "Impact of Accuracy Optimization on the Convergence of Numerical Iterative Methods.",
+                    "Abstract Analysis of Universal Properties for tccp.",
+                    "A Global Occurrence Counting Analysis for Brane Calculi.",
+                    "Using Dynamic Pushdown Networks to Automate a Modular Information-Flow Analysis.",
+                    "Checking Java Assertions Using Automated Test-Case Generation.",
+                    "A Generic Intermediate Representation for Verification Condition Generation.",
+                    "Combining Top-Down and Bottom-Up Techniques in Program Derivation.",
+                    "A Generalized Model for Algorithmic Debugging.",
+                    "Concolic Execution in Functional Programming by Program Instrumentation.",
+                    "Memory Policy Analysis for Semantics Specifications in Maude.",
+                    "SHIP - A Logic-Based Language and Tool to Program Smart Environments.",
+                    "Correctness of Context-Moving Transformations for Term Rewriting Systems.",
+                    "Why CP Portfolio Solvers Are (under)Utilized? Issues and Challenges.",
+                    "CHR in Action."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "24th LOPSTR 2014",
+        "info": "Canterbury, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/2014",
+                "sub_name": "Logic-Based Program Synthesis and Transformation - 24th International Symposium, LOPSTR 2014, Canterbury, UK, September 9-11, 2014. Revised Selected Papers.",
+                "count": 18,
+                "papers": [
+                    "Analyzing Array Manipulating Programs by Program Transformation.",
+                    "Analysing and Compiling Coroutines with Abstract Conjunctive Partial Deduction.",
+                    "Confluence Modulo Equivalence in Constraint Handling Rules.",
+                    "Exhaustive Execution of CHR Through Source-to-Source Transformation.",
+                    "A Formal Semantics for the Cognitive Architecture ACT-R.",
+                    "CHRAnimation: An Animation Tool for Constraint Handling Rules.",
+                    "Extending the 2D Dependency Pair Framework for Conditional Term Rewriting Systems.",
+                    "Partial Evaluation for Java Malware Detection.",
+                    "Access Control and Obligations in the Category-Based Metamodel: A Rewrite-Based Semantics.",
+                    "Concolic Execution and Test Case Generation in Prolog.",
+                    "Liveness Properties in CafeOBJ - A Case Study for Meta-Level Specifications.",
+                    "A Hybrid Method for the Verification and Synthesis of Parameterized Self-Stabilizing Protocols.",
+                    "Drill and Join: A Method for Exact Inductive Program Synthesis.",
+                    "Functional Kleene Closures.",
+                    "On Completeness of Logic Programs.",
+                    "Polynomial Approximation to Well-Founded Semantics for Logic Programs with Generalized Atoms: Case Studies.",
+                    "Declarative Compilation for Constraint Logic Programming.",
+                    "Pre-indexed Terms for Prolog."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "23rd LOPSTR 2013",
+        "info": "Madrid, Spain",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/2013",
+                "sub_name": "Logic-Based Program Synthesis and Transformation, 23rd International Symposium, LOPSTR 2013, Madrid, Spain, September 18-19, 2013, Revised Selected Papers.",
+                "count": 13,
+                "papers": [
+                    "Formalization and Execution of Linear Algebra: From Theorems to Algorithms.",
+                    "Information Flow in Object-Oriented Software.",
+                    "A Transformational Approach to Resource Analysis with Typed-Norms.",
+                    "A Finite Representation of the Narrowing Space.",
+                    "Energy Consumption Analysis of Programs Based on XMOS ISA-Level Models.",
+                    "From Outermost Reduction Semantics to Abstract Machine.",
+                    "Towards Erlang Verification by Term Rewriting.",
+                    "Extending Co-logic Programs for Branching-Time Model Checking.",
+                    "Towards the Implementation of a Source-to-Source Transformation Tool for CHR Operational Semantics.",
+                    "A Logical Encoding of Timed $$\\pi $$ -Calculus.",
+                    "A New Hybrid Debugging Architecture for Eclipse.",
+                    "Compiling a Functional Logic Language: The Fair Scheme.",
+                    "Generating Specialized Interpreters for Modular Structural Operational Semantics."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "22nd LOPSTR 2012",
+        "info": "Leuven, Belgium",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/2012",
+                "sub_name": "Logic-Based Program Synthesis and Transformation, 22nd International Symposium, LOPSTR 2012, Leuven, Belgium, September 18-20, 2012, Revised Selected Papers.",
+                "count": 15,
+                "papers": [
+                    "Symbolic Evaluation Graphs and Term Rewriting - A General Methodology for Analyzing Logic Programs.",
+                    "An Introduction to Search Combinators.",
+                    "A Declarative Pipeline Language for Complex Data Analysis.",
+                    "Semantic Code Clones in Logic Programs.",
+                    "Specialization with Constrained Generalization for Software Model Checking.",
+                    "Enhancing Declarative Debugging with Loop Expansion and Tree Compression.",
+                    "XACML 3.0 in Answer Set Programming.",
+                    "Types vs. PDGs in Information Flow Analysis.",
+                    "Galliwasp: A Goal-Directed Answer Set Solver.",
+                    "Computing More Specific Versions of Conditional Rewriting Systems.",
+                    "Improving Determinization of Grammar Programs for Program Inversion.",
+                    "A Framework for Guided Test Case Generation in Constraint Logic Programming.",
+                    "Simplifying the Verification of Quantified Array Assertions via Code Transformation.",
+                    "Proving Properties of Co-logic Programs with Negation by Program Transformations.",
+                    "Program Analysis and Manipulation to Reproduce Learners' Erroneous Reasoning."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "21st LOPSTR 2011",
+        "info": "Odense, Denmark",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/2011",
+                "sub_name": "Logic-Based Program Synthesis and Transformation - 21st International Symposium, LOPSTR 2011, Odense, Denmark, July 18-20, 2011. Revised Selected Papers.",
+                "count": 16,
+                "papers": [
+                    "Analysis of Logic Programs Using Regular Tree Languages - (Extended Abstract).",
+                    "Dynamic Symbolic Computation for Domain-Specific Language Implementation.",
+                    "Resource-Driven CLP-Based Test Case Generation.",
+                    "A Declarative Embedding of XQuery in a Functional-Logic Language.",
+                    "Automata-Based Computation of Temporal Equilibrium Models.",
+                    "Simplifying Questions in Maude Declarative Debugger by Transforming Proof Trees.",
+                    "Clones in Logic Programs and How to Detect Them.",
+                    "Using Real Relaxations during Program Specialization.",
+                    "Marker-Directed Optimization of UnCAL Graph Transformations.",
+                    "Modular Extensions for Modular (Logic) Languages.",
+                    "Meta-predicate Semantics.",
+                    "A Strategy Language for Graph Rewriting.",
+                    "Improved Termination Analysis of CHR Using Self-sustainability Analysis.",
+                    "Proving Properties of Co-Logic Programs by Unfold/Fold Transformations.",
+                    "Probabilistic Termination of CHRiSM Programs.",
+                    "A Linear Operational Semantics for Termination and Complexity Analysis of ISO Prolog."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "20th LOPSTR 2010",
+        "info": "Hagenberg, Austria",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/2010",
+                "sub_name": "Logic-Based Program Synthesis and Transformation - 20th International Symposium, LOPSTR 2010, Hagenberg, Austria, July 23-25, 2010, Revised Selected Papers.",
+                "count": 15,
+                "papers": [
+                    "Three Syntactic Theories for Combinatory Graph Reduction.",
+                    "Analysis of Air Traffic Track Data with the AutoBayes Synthesis System.",
+                    "Proving with ACL2 the Correctness of Simplicial Sets in the Kenzo System.",
+                    "Graph Generation to Statically Represent CSP Processes.",
+                    "Verification of the Schorr-Waite Algorithm - From Trees to Graphs.",
+                    "MikiBeta : A General GUI Library for Visualizing Proof Trees - System Description and Demonstration.",
+                    "Compositional CLP-Based Test Data Generation for Imperative Languages.",
+                    "On Inductive Proofs by Extended Unfold/Fold Transformation Rules.",
+                    "Non-termination Analysis of Logic Programs Using Types.",
+                    "Scaling Up Algorithmic Debugging with Virtual Execution Trees.",
+                    "Program Specialization for Verifying Infinite State Systems: An Experimental Evaluation.",
+                    "Dependency Triples for Improving Termination Analysis of Logic Programs with Cut.",
+                    "A Hybrid Approach to Conjunctive Partial Evaluation of Logic Programs.",
+                    "Abstract Diagnosis of First Order Functional Logic Programs.",
+                    "The First-Order Nominal Link."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "19th LOPSTR 2009",
+        "info": "Coimbra, Portugal",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/2009",
+                "sub_name": "Logic-Based Program Synthesis and Transformation, 19th International Symposium, LOPSTR 2009, Coimbra, Portugal, September 2009, Revised Selected Papers.",
+                "count": 14,
+                "papers": [
+                    "Towards Scalable Partial Evaluation of Declarative Programs.",
+                    "Deciding Full Branching Time Logic by Program Transformation.",
+                    "A Transformational Approach for Proving Properties of the CHR Constraint Store.",
+                    "The Dependency Triple Framework for Termination of Logic Programs.",
+                    "Goal-Directed and Relative Dependency Pairs for Proving the Termination of Narrowing.",
+                    "LP with Flexible Grouping and Aggregates Using Modes.",
+                    "On Inductive and Coinductive Proofs via Unfold/Fold Transformations.",
+                    "Coinductive Logic Programming with Negation.",
+                    "Refining Exceptions in Four-Valued Logic.",
+                    "Towards a Framework for Constraint-Based Test Case Generation.",
+                    "Using Rewrite Strategies for Testing BUpL Agents.",
+                    "Towards Just-In-Time Partial Evaluation of Prolog.",
+                    "Program Parallelization Using Synchronized Pipelining.",
+                    "Defining Datalog in Rewriting Logic."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "18th LOPSTR 2008",
+        "info": "Valencia, Spain",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/2008",
+                "sub_name": "Logic-Based Program Synthesis and Transformation, 18th International Symposium, LOPSTR 2008, Valencia, Spain, July 17-18, 2008, Revised Selected Papers.",
+                "count": 12,
+                "papers": [
+                    "Space Invading Systems Code.",
+                    "Test Data Generation of Bytecode by CLP Partial Evaluation.",
+                    "A Modular Equational Generalization Algorithm.",
+                    "A Transformational Approach to Polyvariant BTA of Higher-Order Functional Programs.",
+                    "Analysis of Linear Hybrid Systems in CLP.",
+                    "Automatic Generation of Test Inputs for Mercury.",
+                    "Analytical Inductive Functional Programming.",
+                    "The MEB and CEB Static Analysis for CSP Specifications.",
+                    "Fast Offline Partial Evaluation of Large Logic Programs.",
+                    "An Inference Algorithm for Guaranteeing Safe Destruction.",
+                    "From Monomorphic to Polymorphic Well-Typings and Beyond.",
+                    "On Negative Unfolding in the Answer Set Semantics."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "17th LOPSTR 2007",
+        "info": "Kongens Lyngby, Denmark",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/2007",
+                "sub_name": "Logic-Based Program Synthesis and Transformation, 17th International Symposium, LOPSTR 2007, Kongens Lyngby, Denmark, August 23-24, 2007, Revised Selected Papers.",
+                "count": 14,
+                "papers": [
+                    "Proving Termination with (Boolean) Satisfaction.",
+                    "Termination Analysis of Logic Programs Based on Dependency Graphs.",
+                    "Type-Based Homeomorphic Embedding and Its Applications to Online Partial Evaluation.",
+                    "Towards a Normal Form for Mercury Programs.",
+                    "Aggregates for CHR through Program Transformation.",
+                    "Preserving Sharing in the Partial Evaluation of Lazy Functional Programs.",
+                    "Denotation by Transformation.",
+                    "Generation of Rule-Based Constraint Solvers: Combined Approach.",
+                    "A Scalable Inclusion Constraint Solver Using Unification.",
+                    "Annotation Algorithms for Unrestricted Independent And-Parallelism in Logic Programs.",
+                    "A Flexible, (C)LP-Based Approach to the Analysis of Object-Oriented Programs.",
+                    "Snapshot Generation in a Constructive Object-Oriented Modeling Language.",
+                    "Synthesis of Data Views for Communicating Processes.",
+                    "Action Refinement in Process Algebra and Security Issues."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "16th LOPSTR 2006",
+        "info": "Venice, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/2006",
+                "sub_name": "Logic-Based Program Synthesis and Transformation, 16th International Symposium, LOPSTR 2006, Venice, Italy, July 12-14, 2006, Revised Selected Papers.",
+                "count": 16,
+                "papers": [
+                    "How to Talk to a Human: The Semantic Web and the Clash of the Titans.",
+                    "CHESS: Systematic Stress Testing of Concurrent Software.",
+                    "ARM: Automatic Rule Miner.",
+                    "Constructing Consensus Logic Programs.",
+                    "Supervising Offline Partial Evaluation of Logic Programs Using Online Techniques.",
+                    "Improving Offline Narrowing-Driven Partial Evaluation Using Size-Change Graphs.",
+                    "Towards Description and Optimization of Abstract Machines in an Extension of Prolog.",
+                    "Combining Different Proof Techniques for Verifying Information Flow Security.",
+                    "On the Automated Synthesis of Proof-Carrying Temporal Reference Monitors.",
+                    "Synthesis of Asynchronous Systems.",
+                    "A Comparative Study of Algorithmic Debugging Strategies.",
+                    "A Program Transformation for Tracing Functional Logic Computations.",
+                    "Automated Termination Analysis for Logic Programs by Term Rewriting.",
+                    "Detecting Non-termination of Term Rewriting Systems Using an Unfolding Operator.",
+                    "Polytool: Proving Termination Automatically Based on Polynomial Interpretations.",
+                    "Grids: A Domain for Analyzing the Distribution of Numerical Values."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "15th LOPSTR 2005",
+        "info": "London, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/2005",
+                "sub_name": "Logic Based Program Synthesis and Transformation, 15th International Symposium, LOPSTR 2005, London, UK, September 7-9, 2005, Revised Selected Papers.",
+                "count": 11,
+                "papers": [
+                    "Temporal Logic Constraints in the Biochemical Abstract Machine BIOCHAM.",
+                    "Declarative Programming with Function Patterns.",
+                    "Transformational Verification of Parameterized Protocols Using Array Formulas.",
+                    "Design and Implementation of AT: A Real-Time Action Description Language.",
+                    "An Algorithm for Local Variable Elimination in Normal Logic Programs.",
+                    "Removing Superfluous Versions in Polyvariant Specialization of Prolog Programs.",
+                    "Extension of Type-Based Approach to Generation of Stream-Processing Programs by Automatic Insertion of Buffering Primitives.",
+                    "Non-leftmost Unfolding in Partial Evaluation of Logic Programs with Impure Predicates.",
+                    "A Transformational Semantics of Static Embedded Implications of Normal Logic Programs.",
+                    "Converting One Type-Based Abstract Domain to Another.",
+                    "Experiments in Context-Sensitive Analysis of Modular Programs."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "14th LOPSTR 2004",
+        "info": "Verona, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/2004",
+                "sub_name": "Logic Based Program Synthesis and Transformation, 14th International Symposium, LOPSTR 2004, Verona, Italy, August 26-28, 2004, Revised Selected Papers.",
+                "count": 17,
+                "papers": [
+                    "Searching Semantically Equivalent Code Fragments in Logic Programs.",
+                    "Determinacy Analysis for Logic Programs Using Mode and Type Information.",
+                    "Mechanical Verification of Automatic Synthesis of Fault-Tolerant Programs.",
+                    "Fully Automatic Binding-Time Analysis for Prolog.",
+                    "Logical Mobility and Locality Types.",
+                    "Unwinding Conditions for Security in Imperative Languages.",
+                    "Natural Rewriting for General Term Rewriting Systems.",
+                    "Negation Elimination for Finite PCFGs.",
+                    "Specialization of Concurrent Guarded Multi-set Transformation Rules.",
+                    "Efficient Local Unfolding with Ancestor Stacks for Full Prolog.",
+                    "Schema-Guided Synthesis of Imperative Programs by Constraint Solving.",
+                    "Run-Time Profiling of Functional Logic Programs.",
+                    "Constructive Specifications for Compositional Units.",
+                    "Input-Termination of Logic Programs.",
+                    "On Termination of Binary CLP Programs.",
+                    "From Natural Semantics to Abstract Machines.",
+                    "Graph-Based Proof Counting and Enumeration with Applications for Program Fragment Synthesis."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "name": "13th LOPSTR 2003",
+        "info": "Uppsala, Sweden",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/2003",
+                "sub_name": "Logic Based Program Synthesis and Transformation, 13th International Symposium LOPSTR 2003, Uppsala, Sweden, August 25-27, 2003, Revised Selected Papers.",
+                "count": 18,
+                "papers": [
+                    "Inductive Theorem Proving by Program Specialisation: Generating Proofs for Isabelle Using Ecce.",
+                    "Predicate Synthesis from Inductive Proof Attempt of Faulty Conjectures.",
+                    "Correct OO Systems in Computational Logic.",
+                    "Specification and Synthesis of Hybrid Automata for Physics-Based Animation.",
+                    "Adding Concrete Syntax to a Prolog-Based Program Synthesis System (Extended Abstract).",
+                    "Formal Development and Verification of Approximation Algorithms Using Auxiliary Variables.",
+                    "Formal Reasoning about Efficient Data Structures: A Case Study in ACL2.",
+                    "A Program Transformation for Backwards Analysis of Logic Programs.",
+                    "An Efficient Staging Algorithm for Binding-Time Analysis.",
+                    "Proving Termination with Adornments.",
+                    "Constructively Characterizing Fold and Unfold.",
+                    "Deterministic Higher-Order Patterns for Program Transformation.",
+                    "From Interpreter to Logic Engine by Defunctionalization.",
+                    "Linearization by Program Transformation.",
+                    "Continuation Semantics as Horn Clauses.",
+                    "Simplification of Database Integrity Constraints Revisited: A Transformational Approach.",
+                    "Integration and Optimization of Rule-Based Constraint Solvers.",
+                    "Introducing esra, a Relational Language for Modelling Combinatorial Problems."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2002",
+        "name": "12th LOPSTR 2002",
+        "info": "Madrid, Spain",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/2002",
+                "sub_name": "Logic Based Program Synthesis and Tranformation, 12th International Workshop, LOPSTR 2002, Madrid, Spain, September 17-20,2002, Revised Selected Papers.",
+                "count": 22,
+                "papers": [
+                    "Abstract Diagnosis of Functional Programs.",
+                    "A Cut-Free Sequent Calculus for Pure Type Systems Verifying the Structural Rules of Gentzen/Kleene.",
+                    "Constraint Solver Synthesis Using Tabled Resolution for Constraint Logic Programming.",
+                    "Translating Datalog-Like Optimization Queries into ILOG Programs.",
+                    "Tabling Structures for Bottom-Up Logic Programming.",
+                    "A General Framework for Variable Aliasing: Towards Optimal Operators for Sharing Properties.",
+                    "Two Variables per Linear Inequality as an Abstract Domain.",
+                    "Convex Hull Abstractions in Specialization of CLP Programs.",
+                    "Collecting Potential Optimisations.",
+                    "An Operational Approach to Program Extraction in the Calculus of Constructions.",
+                    "Refinement of Higher-Order Logic Programs.",
+                    "A Generic Program for Minimal Subsets with Applications.",
+                    "Justification Based on Program Transformation.",
+                    "Combining Logic Programs and Monadic Second Order Logics by Program Transformation.",
+                    "Verification in ACL2 of a Generic Framework to Synthesize SAT-Provers.",
+                    "A Proof System for Information Flow Security.",
+                    "Forward Slicing of Multi-paradigm Declarative Programs Based on Partial Evaluation.",
+                    "A Fixed Point Semantics for Logic Programs Extended with Cuts.",
+                    "Abstract Partial Deduction Challenged.",
+                    "Towards Correct Object-Oriented Design Frameworks in Computational Logic.",
+                    "Mapping Modular SOS to Rewriting Logic.",
+                    "Program Synthesis Based on the Equivalent Transformation Computation Model."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2001",
+        "name": "11th LOPSTR 2001",
+        "info": "Paphos, Cyprus",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/2001",
+                "sub_name": "Logic Based Program Synthesis and Transformation, 11th International Workshop, LOPSTR 2001, Paphos, Cyprus, November 28-30, 2001, Selected Papers.",
+                "count": 14,
+                "papers": [
+                    "Static Analysis for Safe Destructive Updates in a Functional Language.",
+                    "A Transformation Technique for Datalog Programs Based on Non-deterministic Constructs.",
+                    "On Deforesting Parameters of Accumulating Maps.",
+                    "Equivalence in Answer Set Programming.",
+                    "Proof Theory, Transformations, and Logic Programming for Debugging Security Protocols.",
+                    "Abstract Conjunctive Partial Deduction Using Regular Types and Its Application to Model Checking.",
+                    "Verification of Sets of Infinite State Processes Using Program Transformation.",
+                    "When Size Does Matter.",
+                    "Symbolic Profiling for Multi-paradigm Declarative Languages.",
+                    "Correct Object-Oriented Systems in Computational Logic.",
+                    "A Framework for Developing Embeddable Customized Logics.",
+                    "Computing Environment-Aware Agent Behaviours with Logic Program Updates.",
+                    "Extracting General Recursive Program Schemes in Nuprl's Type Theory.",
+                    "Extracting Exact Time Bounds from Logical Proofs."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2000",
+        "name": "10th LOPSTR@CL 2000",
+        "info": "London, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/cl/2000",
+                "sub_name": "Computational Logic - CL 2000, First International Conference, London, UK, 24-28 July, 2000, Proceedings.",
+                "count": 91,
+                "papers": [
+                    "Computational Logic: Memories of the Past and Challenges for the Future.",
+                    "ILP: Just Do It.",
+                    "Databases and Higher Types.",
+                    "A Denotational Semantics for First-Order Logic.",
+                    "Logic, Knowledge Representation, and Bayesian Decision Theory.",
+                    "Logic Program Synthesis in a Higher-Order Setting.",
+                    "Coverability of Reset Petri Nets and Other Well-Structured Transition Systems by Partial Deduction.",
+                    "Binary Speed Up for Logic Programs.",
+                    "A New Module System for Prolog.",
+                    "Partial Models of Extended Generalized Logic Programs.",
+                    "Alternating Fixpoint Theory for Logic Programs with Priority.",
+                    "Proving Failure in Functional Logic Programs.",
+                    "Semantics of Input-Consuming Logic Programs.",
+                    "A Denotational Semantics of Defeasible Logic.",
+                    "Isoinitial Semantics for Logic Programs.",
+                    "Abstract Syntax for Variable Binders: An Overview.",
+                    "Goal-Directed Proof Search in Multiple-Conclusions Intuitionistic Logic.",
+                    "Efficient EM Learning with Tabulation for Parameterized Logic Programs.",
+                    "Moder Generation Theorem Proving with Finite Interval Constraints.",
+                    "Combining Mobile Processes and Declarative Programming.",
+                    "Representing Trees with Constraints.",
+                    "Dominance Constraints with Set Operators.",
+                    "Better Communication for Tighter Cooperation.",
+                    "Arc Consistency Algorithms via Iterations of Subsumed Functions.",
+                    "AVAL: An Enumerative Method for SAT.",
+                    "Constraint Logic Programming for Local and Symbolic Model-Checking.",
+                    "A CLP Framework for Computing Structural Test Data.",
+                    "Modelling Digital Circuits Problems with Set Constraints.",
+                    "Promoting Constraints to First-Class Status.",
+                    "Developing Finite Domain Constraints - A Data Model Approach.",
+                    "Concurrent Constraint Programming with Process Mobility.",
+                    "A System for Tabled Constraint Logic Programming.",
+                    "Finding Tractable Formulas in NNF.",
+                    "The Taming of the (X)OR.",
+                    "On an omega-Decidable Deductive Procedure for Non-Horn Sequents of a Restricted FTL.",
+                    "Representing Object Code.",
+                    "Towards an Efficient Tableau Method for Boolean Circuit Satisfiability Checking.",
+                    "Certification of Compiler Optimizations Using Kleene Algebra with Tests.",
+                    "An Application of Model Building in a Resolution Decision Procedure for Guarded Formulas.",
+                    "Model Checking for Timed Logic Processes.",
+                    "Perfect Model Checking via Unfold/Fold Transformations.",
+                    "Automatic Derivation and Application of Induction Schemes for Mutually Recursive Functions.",
+                    "Proof Planning with Multiple Strategies.",
+                    "The Theory of Total Unary RPO Is Decidable.",
+                    "On the Problem of Computing the Well-Founded Semantics.",
+                    "Computing Equilibrium Models Using Signed Formulas.",
+                    "Extending Classical Logic with Inductive Definitions.",
+                    "A Simple Characterization of Extended Abduction.",
+                    "A New Equational Foundation for the Fluent Calculus.",
+                    "Solving the Entailment Problem in the Fluent Calculus Using Binary Decision Diagrams.",
+                    "Decidability Results for the Propositional Fluent Calculus.",
+                    "A Meta-logical Semantics for Features and Fluents Based on Compositional Operators over Normal Logic Programs.",
+                    "Default Reasoning with Specificity.",
+                    "Planning under Incomplete Knowledge.",
+                    "Wire Routing and Satisfiability Planning.",
+                    "Including Diagnostic Information in Configuration Models.",
+                    "Comparing the Expressive Powers of Some Syntactically Restricted Classes of Logic Programs.",
+                    "On Complexity of Updates through Integrity Constraints.",
+                    "Computational Complexity of Planning Based on Partial Information about the System's Present and Past States.",
+                    "Smallest Equivalent Sets for Finite Propositional Formula Circumscription.",
+                    "A Semantics for Persistency in Propositional Dynamic Logic.",
+                    "Applications of Annotated Predicate Calculus to Querying Inconsistent Databases.",
+                    "Querying Inconsistent Databases: Algorithms and Implementation.",
+                    "On Verification in Logic Database Languages.",
+                    "Mining Minimal Non-redundant Association Rules Using Frequent Closed Itemsets.",
+                    "Linearly Bounded Reformulations of Conjunctive Databases.",
+                    "MuTACLP: A Language for Declarative GIS Analysis.",
+                    "Reasoning about Duplicate Elimination with Description Logic.",
+                    "A File System Based on Concept Analysis.",
+                    "A Semantic Approach for Schema Evolution and Versioning in Object-Oriented Databases.",
+                    "SLDMagic - The Real Magic (With Applications to Web Queries).",
+                    "FLORA: Implementing an Efficient DOOD System Using a Tabling Logic Engine.",
+                    "Design and Implementation of the Physical Layer in WebBases: The XRover Experience.",
+                    "A Dynamic Approach to Termination Analysis for Active Database Rules.",
+                    "Constraint-Based Termination Analysis for Cyclic Active Database Rules.",
+                    "A Formal Model for an Expressive Fragment of XSLT.",
+                    "On the Equivalence of XML Patterns.",
+                    "Querying XML Specified WWW Sites: Links and Recursion in XML-GL.",
+                    "A Heuristic Approach for Converting HTML Documents to XML Documents.",
+                    "Specification of an Active Database System Application Using Dynamic Relation Nets.",
+                    "Invariance, Maintenance, and Other Declarative Objectives of Triggers - A Formal Characterization of Active Databases.",
+                    "Fluents: A Refactoring of Prolog for Uniform Reflection an Interoperation with External Objects.",
+                    "So Many WAM Variations, So Little Time.",
+                    "A Module Based Analysis for Memory Reuse in Mercury.",
+                    "Model Checking in HAL.",
+                    "The Impact of Cache Coherence Protocols on Parallel Logic Programming Systems.",
+                    "Data Protection by Logic Programming.",
+                    "A Deterministic Shift-Reduce Parser Generator for a Logic Programming Language.",
+                    "A Logic Programming Application for the Analysis of Spanish Verse.",
+                    "A Documentation Generator for (C)LP Systems.",
+                    "Psychiatric Diagnosis from the Viewpoint of Computational Logic."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/lopstr/2000ext",
+                "sub_name": "Extended Abstracts of the 10th International Workshop on Logic-based Program Synthesis and Transformation, LOPSTR 2000, London, UK, July 24-28, 2000.",
+                "count": 14,
+                "papers": [
+                    "Measuring the Effectiveness of Partial Evaluation.",
+                    "A formal framework for synthesis and verification of logic programs.",
+                    "A model for inter-module analysis and optimizing compilation.",
+                    "Modular Logic Program Refinement.",
+                    "Prolog and abduction 4 writing garbage collectors.",
+                    "On the precision of abstract interpretations.",
+                    "The lazy functional side of logic programming.",
+                    "Automated strategies for specializing constraint logic programs.",
+                    "Specifying Prolog trace models with a continuation semantics.",
+                    "Protocols between programs and proofs.",
+                    "Non-tranformational termination analysis of logic programs, based on general term-orderings.",
+                    "Higher-order transformation of logic programs.",
+                    "Towards a modular binding-time analysis for higher-order Mercury.",
+                    "A minimal specification language."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/lopstr/2000",
+                "sub_name": "Logic Based Program Synthesis and Transformation, 10th International Workshop, LOPSTR 2000 London, UK, July 24-28, 2000, Selected Papers.",
+                "count": 10,
+                "papers": [
+                    "A Formal Framework for Synthesis and Verification of Logic Programs.",
+                    "Protocols between Programs and Proofs.",
+                    "A Technique for Modular Logic Program Refinement.",
+                    "Higher-Order Transformation of Logic Programs.",
+                    "Non-transformational Termination Analysis of Logic Programs, Based on General Term-Orderings.",
+                    "A Model for Inter-module Analysis and Optimizing Compilation.",
+                    "Measuring the Effectiveness of Partial Evaluation in Functional Logic Languages.",
+                    "Automated Strategies for Specializing Constraint Logic Programs.",
+                    "Measuring the Precision of Abstract Interpretations.",
+                    "Specifying Prolog Trace Models with a Continuation Semantics."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1999",
+        "name": "9th LOPSTR 1999",
+        "info": "Venezia, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/1999",
+                "sub_name": "Logic Programming Synthesis and Transformation, 9th International Workshop, LOPSTR'99, Venezia, Italy, September 22-24, 1999, Selected Papers.",
+                "count": 17,
+                "papers": [
+                    "Algebraic Specification and Program Development by Stepwise Refinement.",
+                    "Proof Obligations of the B Formal Method: Local Proofs Ensure Global Consistency.",
+                    "Constraint Logic Programming Applied to Model Checking.",
+                    "On Dynamic Aspects of OOD Frameworks in Component-Based Software Development in Computational Logic.",
+                    "Infinite State Model Checking by Abstract Interpretation and Program Specialisation.",
+                    "Mode Analysis Domains for Typed Logic Programs.",
+                    "Imperative Program Specialisation: An Approach Using CLP.",
+                    "Specialising Fininte Domain Programs Using Polyhedra.",
+                    "Roles of Program Extension.",
+                    "Transformation of Left Terminating Programs.",
+                    "Transformation Rules for Logic Programs with Goals as Arguments.",
+                    "Making Mercury Programs Tail Recursive.",
+                    "The Replacement Operation for CCP Programs.",
+                    "Annotations for Prolog - A Concept and Runtime Handling.",
+                    "Verification by Testing for Recursive Program Schemes.",
+                    "Combined Static and Dynamic Assertion-Based Debugging of Constraint Logic Programs.",
+                    "Context-Moving Transformations for Function Verification."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1998",
+        "name": "8th LOPSTR 1998",
+        "info": "Manchester, U.K.",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/1998",
+                "sub_name": "Logic Programming Synthesis and Transformation, 8th International Workshop, LOPSTR'98, Manchester, UK, June 15-19, 1998, Proceedings.",
+                "count": 24,
+                "papers": [
+                    "Attempto Controlled English - Not Just Another Logic Specification Language.",
+                    "A Step Towards a Methodology for Mercury Program Construction: A Declarative Semantics for Mercury.",
+                    "Pragmatics in the Synthesis of Logic Programs.",
+                    "Using Decision Procedures to Accelerate Domain-Specific Deductive Synthesis Systems.",
+                    "Synthesis of Programs in Abstract Data Types.",
+                    "OOD Frameworks in Component-Based Software - Development in Computational Logic.",
+                    "The Use of Renaming in Composing General Programs.",
+                    "Inductive Synthesis of Logic Programs by Composition of Combinatory Program Schemes.",
+                    "Specialising Logic Programs with Respect to Call?Post Specifications.",
+                    "Generalization in Hierarchies of Online Program Specialization Systems.",
+                    "Improving Homeomorphic Embedding for Online Termination.",
+                    "Success in Logic Programs.",
+                    "Inferring and Compiling Termination for Constraint Logic Programs.",
+                    "Strictness Analysis as Finite-Domain Constraint Solving.",
+                    "Invariant Discovery via Failed Proof Attempts.",
+                    "Preventing Instantiation Errors and Loops for Logic Programs with Multiple Modes Using block Declarations.",
+                    "Algorithms for Synthesizing Reactive Systems: A Perspective (Abstract).",
+                    "Schema-Guided Synthesis of CLP Programs.",
+                    "Abstract: Proof Planning with Program Schemas.",
+                    "Logical Synthesis of Imperative O. O. Programs.",
+                    "Mathematical Foundations for Program Transformations.",
+                    "An Exhaustive-Search Method Using Layered Streams Obtained Through a Meta-Interpreter for Chain Programs.",
+                    "Bottom-Up Specialisation of Logic Programs.",
+                    "Myrtle: A Set-Oriented Meta-Interpreter Driven by a \"Relational\" Trace for Deductive Databases Debugging."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1997",
+        "name": "7th LOPSTR 1997",
+        "info": "Leuven, Belgium",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/1997",
+                "sub_name": "Logic Programming Synthesis and Transformation, 7th International Workshop, LOPSTR'97, Leuven, Belgium, July 10-12, 1997, Proceedings.",
+                "count": 17,
+                "papers": [
+                    "A Multi-level Approach to Program Synthesis.",
+                    "Programs Without Failures.",
+                    "Generalised Logic Program Transformation Schemas.",
+                    "Logic Program Schemas, Constraints, and Semi-unification.",
+                    "Implicit Program Synthesis by a Reversible Metainterpreter.",
+                    "Termination Analysis for Tabled Logic Programming.",
+                    "On Correct Program Schemas.",
+                    "Analysis of Logic Programs with Delay.",
+                    "Constraint-Based Partial Evaluation of Rewriting-Based Functional Logic Programs.",
+                    "Preserving Termination of Tabled Logic Programs While Unfolding.",
+                    "Unfolding the Mystery of Mergesort.",
+                    "Towards a Logic for Reasoning About Logic Programs Transformation.",
+                    "A Higher Order Reconstruction of Stepwise Enhancement.",
+                    "Development of Correct Transformation Schemata for Prolog Programs.",
+                    "Constrained Regular Approximation of Logic Programs.",
+                    "A Logic Framework for the Incremental Inductive Synthesis of Datalog Theories.",
+                    "To Parse or Not To Parse."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1996",
+        "name": "6th LOPSTR 1996",
+        "info": "Stockholm, Sweden",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/1996",
+                "sub_name": "Logic Programming Synthesis and Transformation, 6th International Workshop, LOPSTR'96, Stockholm, Sweden, August 28-30, 1996, Proceedings.",
+                "count": 18,
+                "papers": [
+                    "Refining Specifications to Logic Programs.",
+                    "Symbolic Verification with Gap-Order Constraints.",
+                    "Specification-Based Automatic Verification of Prolog Programs.",
+                    "Logic Program Specialisation: How to Be More Specific (Abstract).",
+                    "Conjunctive Partial Deduction in Practice.",
+                    "Redundant Argument Filtering of Logic Programs.",
+                    "Replacement Can Preserve Termination.",
+                    "A Transformation Tool for Pure Prolog Programs.",
+                    "Enhancing Partial Deduction via Unfold/Fold Rules.",
+                    "Abstract Specialization and Its Application to Program Parallelization.",
+                    "Reductions of Petri Nets and Unfolding of Propositional Logic Programs.",
+                    "Inferring Argument Size Relationships with CLP(R).",
+                    "Typed Norms for Typed Logic Programs.",
+                    "Partial Deduction in the Framework of Structural Synthesis of Programs.",
+                    "Extensible Logic Program Schemata.",
+                    "Specialising Meta-level Compositions of Logic Programs.",
+                    "Forms of Logic Specifications: A Preliminary Study.",
+                    "Synthesis of Proof Procedures for Default Reasoning."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1995",
+        "name": "5th LOPSTR 1995",
+        "info": "Utrecht, The Netherlands",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/1995",
+                "sub_name": "Logic Programming Synthesis and Transformation, 5th International Workshop, LOPSTR'95, Utrecht, The Netherlands, September 20-22, 1995, Proceedings.",
+                "count": 19,
+                "papers": [
+                    "Ecological Partial Deduction: Preserving Characteristic Trees Without Constraints.",
+                    "Memoing Evaluation by Source-to-Source Transformation.",
+                    "Transformation of Left Terminating Programs: the Reordering Problem.",
+                    "Derivation of Concurrent Algorithms in Tempo.",
+                    "An Argumentation-Theoretic Approach to Logic Program Transformation.",
+                    "Complexity of Horn Programs.",
+                    "Studying the Cost of Logic Languages in an Abstract Interpretation Framework for Granularity Analysis.",
+                    "Towards Automatic Control for CLP(x) Programs.",
+                    "Ideal Refinement of Datalog Programs.",
+                    "Guiding Program Development Systems by a Connection Based Proof Strategy.",
+                    "Towards an Object-Oriented Methodology for Deductive Synthesis of Logic Programs.",
+                    "Logic Program Synthesis by Induction over Horn Clauses.",
+                    "Logic Program Transformation through Generalization Schemata.",
+                    "An Opportunistic Approach for Logic Program Analysis and Optimisation Using Enhanced Schema-Based Transformations.",
+                    "Solving Deductive Planning Problems Using Program Analysis and Transformation.",
+                    "Towards a Complete Proof Procedure to Prove Properties of Normal Logic Programs under the Completion.",
+                    "Termination of Logic Programs Using Semantic Unification.",
+                    "On the Mechanics of Metasystem Hierarchies in Program Transformation.",
+                    "Efficient Translation of Lazy Functional Logic Programs into Prolog."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1994",
+        "name": "4th LOPSTR/META 1994",
+        "info": "Pisa, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/1994",
+                "sub_name": "Logic Programming Synthesis and Transformation - Meta-Programming in Logic. 4th Internation Workshops, LOPSTR'94 and META'94, Pisa, Italy, June 20-21, 1994, Proceedings.",
+                "count": 27,
+                "papers": [
+                    "Logic Frameworks for Logic Programs.",
+                    "An Extended Transformation System for CLP Programs.",
+                    "Using Call/Exit Analysis for Logic Program Transformation.",
+                    "A Transformation System for Definite Programs Based on Termination Analysis.",
+                    "On the Use of Inductive Reasoning in Program Synthesis: Prejudice and Prospects.",
+                    "Transforming Specifications of Observable Behaviour into Programs.",
+                    "On Specification Frameworks and Deductive Synthesis of Logic Programs.",
+                    "Partial Evaluation of the \"Real Thing\".",
+                    "Schema-Based Top-Down Design of Logic Programs Using Abstract Data Types.",
+                    "Generalizing Extended Execution for Normal Programs.",
+                    "Partial Deduction of Disjunctive Logic Programs: A Declarative Approach.",
+                    "Avoiding Non-Termination when Learning Logical Programs: A Case Study with FOIL and FOCL.",
+                    "Propagation of Inter-argument Dependencies in \"Tuple-distributive\" Type Inference Systems.",
+                    "Logic Programming and Logic Grammars with First-Order Continuations.",
+                    "Improving the Whelk System: A Type-Theoretic Reconstruction.",
+                    "A Model of Costs and Benefits of Meta-Level Computation.",
+                    "A Basis for a Multi-Level Meta-Logic Programming Language.",
+                    "Logic Programs with Tests.",
+                    "An Architecture with Multiple Meta-Levels for the Development of Correct Programs.",
+                    "More on Unfold/Fold Transformations of Normal Programs: Preservation of Fitting's Semantics.",
+                    "Formal Semantics of Temporal Epistemic Reflection.",
+                    "Temporal Semantics of Meta-Level Architectures for Dynamic Control of Reasoning.",
+                    "G\u00f6del as a Meta-Language for Composing Logic Programs.",
+                    "A Module System for Meta-Programming.",
+                    "Building Proofs in Context.",
+                    "Introspective Metatheoretic Reasoning.",
+                    "Abstract Debugging of Logic Program."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1993",
+        "name": "3rd LOPSTR 1993",
+        "info": "Louvain-la-Neuve, Belgium",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/1993",
+                "sub_name": "Logic Program Synthesis and Transformation, Proceedings of LOPSTR 93, International Workshop on Logic Program Synthesis and Transformation, Louvain-la-Neuve, Belgium, 7-9 July 1993.",
+                "count": 19,
+                "papers": [
+                    "Towards the Synthesis of Constraint Propagation Algorithms.",
+                    "A Formal View of Specification, Deductive Synthesis and Transformation of Logic Programs.",
+                    "Reachability Analysis for the Extension Procedure - A Topological Result.",
+                    "Inductive Synthesis of Logic Programs and Inductive Logic Programming.",
+                    "Induction of Prolog Programs with Markus.",
+                    "A General Technique for Automatically Generating Efficient Programs Through the Use of Proof Planning (Abstract).",
+                    "Guiding Synthesis Proofs.",
+                    "Combining Prolog Programs in a Techniques Editing System (Abstract).",
+                    "Designing Prolog Programming Techniques.",
+                    "Interactive Program Derivation Using Program Schemata and Incrementally Generated Strategies.",
+                    "The Power of Partial Evaluation.",
+                    "Specialising the Ground Representation in the Logic Programming Language G\u00f6del.",
+                    "Synthesis of Programs from Unfold/Fold Proofs.",
+                    "Some Further Issues in Finite Unfolding (Abstract).",
+                    "A Transformation Based in the Equality Between Terms.",
+                    "Automatic Exploitation of Non-Determinate Independent And-Parallelism in the Basic Andorra Model.",
+                    "Memoing with Abstract Answers and Delphi Lemmas.",
+                    "Using Abstract Interpretation for Goal Replacement.",
+                    "Mechanical Transformation of Logic Definitions Augmented with Type Information into Prolog Procedures: Some Experiments."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1992",
+        "name": "2nd LOPSTR 1992",
+        "info": "Manchester, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/1992",
+                "sub_name": "Logic Program Synthesis and Transformation, Proceedings of LOPSTR 92, International Workshop on Logic Program Synthesis and Transformation, University of Manchester, UK, 2-3 July 1992.",
+                "count": 18,
+                "papers": [
+                    "Logic Program Synthesis via Proof Planning.",
+                    "Deductive Synthesis of Programs for Query Answering.",
+                    "Synthesis of Narrowing Programs.",
+                    "A Unifying View of Structural Induction and Computation Induction for Logic Programs.",
+                    "Proof Nets.",
+                    "The LOPS Approach: A Transformational Point of View (Extended Abstract).",
+                    "Best-first Strategies for Incremental Transformations of Logic Programs.",
+                    "Deriving Transformations for Logic Programs Using Abstract Interpretation.",
+                    "A Rationalisation of the ATMS in Terms of Partial Evaluation.",
+                    "Intensional Query Answering: An Application of Partial Evaluation.",
+                    "Deletion of Redundant Unary Type Predicates from Logic Programs.",
+                    "Automatic Termination Analysis.",
+                    "Applications of Unfolding in Prolog Programming.",
+                    "An Unfold Rule for Full Prolog.",
+                    "Logimix: A Self-Applicable Partial Evaluator for Prolog.",
+                    "Towards Optimization of Full Prolog Programs Guided by Abstract Interpretation.",
+                    "On the Transformation of a Prolog Program to a More Efficient Binary Program.",
+                    "Efficient Compilation of Lazy Narrowing into Prolog."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1991",
+        "name": "1st LOPSTR 1991",
+        "info": "Manchester, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lopstr/1991",
+                "sub_name": "Logic Program Synthesis and Transformation, Proceedings of LOPSTR 91, International Workshop on Logic Program Synthesis and Transformation, University of Manchester, UK, 4-5 July 1991.",
+                "count": 24,
+                "papers": [
+                    "Program Equivalence, Program Development and Integrity Checking.",
+                    "Program Specification and Synthesis in Constructive Formal Systems.",
+                    "Synthesis and Transfomation of Logic Programs from Constructive, Inductive Proof.",
+                    "Towards Stepwise, Schema-guided Synthesis of Logic Programms.",
+                    "Inductive Synthesis of Rewrite Rules as Program Synthesis (Extended Abstract).",
+                    "Formal Program Development in Modular Prolog: A Case Study.",
+                    "Towards Synthesis of Nearly Pure Prolog Programs (Extende Abstract).",
+                    "Formal Validation of Transformation Schemata.",
+                    "Schema-Based Transfomations of Logic Programs.",
+                    "An Automatic Transfomation Strategy for Avoiding Unnecessary Variables in Logic Programs (Extended Abstract).",
+                    "On Using Mode Input-output for Transforming Logic Programs.",
+                    "Abstract Interpretation and Recursive Behaviour of Logic Programs.",
+                    "Speed-up Transformations of Logic Programs by Abstraction and Learning.",
+                    "Pruning Operators for Partial Evaluation.",
+                    "Specialisation of a Unification Algorithm.",
+                    "Semantics-based Partial Evaluation of Prolog Programs.",
+                    "Prolog Program Transformations and Meta-Interpreters.",
+                    "Global Search Algorithms and the Constraint Logic Programming Framework (Extended Abstract).",
+                    "Automated Translation of Occam to a Concurrent Logic Language.",
+                    "A Method for the Determinisation of Propositional Temporal Formulae.",
+                    "Program Transformations Directed by the Evaluation of non Functional Properties (Extended Abstract).",
+                    "Using a Prolog Prototype for Designing an Object Oriented Scheme.",
+                    "Non-Determinism and Lazy Evaluation in Logic Programming.",
+                    "Query Optimization in an Object-Oriented Database using Prolog (Extende Abstract)."
+                ]
+            }
+        ]
+    }
+]

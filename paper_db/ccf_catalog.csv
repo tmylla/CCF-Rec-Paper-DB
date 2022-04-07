@@ -200,7 +200,7 @@
 199,ASE,Automated Software Engineering,Springer,http://dblp.uni-trier.de/db/journals/ase/,B,Journal,4
 200,ESE,Empirical Software Engineering,Springer,http://dblp.uni-trier.de/db/journals/ese/,B,Journal,4
 201,TSC,IEEE Transactions on Service Computing,IEEE,http://dblp.uni-trier.de/db/journals/tsc/,B,Journal,4
-202,IETS,IET Software,IET,http://dblp.uni-trier.de/db/journals/iee/index.html,B,Journal,4
+202,IETS,IET Software,IET,http://dblp.uni-trier.de/db/journals/iee/index.html、https://dblp.uni-trier.de/db/journals/iet-sen/index.html,B,Journal,4
 203,IST,Information and Software Technology,Elsevier,http://dblp.uni-trier.de/db/journals/infsof/index.html,B,Journal,4
 204,JFP,Journal of Functional Programming,Cambridge University Press,http://dblp.uni-trier.de/db/journals/jfp/,B,Journal,4
 205,,Journal of Software: Evolution and Process,Wiley,http://dblp.uni-trier.de/db/journals/smr/,B,Journal,4
@@ -220,7 +220,7 @@
 219,TPLP,Theory and Practice of Logic Programming,Cambridge University Press,http://dblp.uni-trier.de/db/journals/tplp/,C,Journal,4
 220,PLDI,ACM SIGPLAN Symposium on Programming Language Design & Implementation,ACM,http://dblp.uni-trier.de/db/conf/pldi/,A,Conference,4
 221,POPL,ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages,ACM,http://dblp.uni-trier.de/db/conf/popl/,A,Conference,4
-222,FSE/ESEC,ACM SIGSOFT Symposium on the Foundation of Software Engineering/ European Software Engineering Conference,ACM,http://dblp.uni-trier.de/db/conf/sigsoft/,A,Conference,4
+222,FSE-ESEC,ACM SIGSOFT Symposium on the Foundation of Software Engineering/ European Software Engineering Conference,ACM,http://dblp.uni-trier.de/db/conf/sigsoft/,A,Conference,4
 223,SOSP,ACM Symposium on Operating Systems Principles,ACM,http://dblp.uni-trier.de/db/conf/sosp/,A,Conference,4
 224,OOPSLA,"Conference on Object-Oriented Programming Systems, Languages,and Applications",ACM,http://dblp.uni-trier.de/db/conf/oopsla/,A,Conference,4
 225,ASE,International Conference on Automated Software Engineering,IEEE/ACM,http://dblp.uni-trier.de/db/conf/kbse/,A,Conference,4
@@ -245,7 +245,7 @@
 244,SAS,International Static Analysis Symposium,Springer,http://dblp.uni-trier.de/db/conf/sas/,B,Conference,4
 245,ESEM,International Symposium on Empirical Software Engineering and Measurement,ACM/IEEE,http://dblp.uni-trier.de/db/conf/esem/,B,Conference,4
 246,FM,International Symposium on Formal Methods,FME,http://dblp.uni-trier.de/db/conf/fm/,B,Conference,4
-247,ISSTA,International Symposium on Software Testing and Analysis,ACM,http://dblp.uni-trier.de/db/conf/issta/,B,Conference,4
+247,ISSRE,International Symposium on Software Reliability Engineering,IEEE,http://dblp.uni-trier.de/db/conf/issre/,B,Conference,4
 248,HotOS,USENIX Workshop on Hot Topics in Operating Systems,USENIX,http://dblp.uni-trier.de/db/conf/hotos/,B,Conference,4
 249,PEPM,ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation,ACM,http://dblp.uni-trier.de/db/conf/pepm/,C,Conference,4
 250,PASTE,ACMSIGPLAN-SIGSOFT Workshop on Program Analysis for Software Tools and Engineering,ACM,http://dblp.uni-trier.de/db/conf/paste/,C,Conference,4
@@ -258,7 +258,7 @@
 257,SCAM,IEEE International Working Conference on Source Code Analysis and Manipulation,IEEE,http://dblp.uni-trier.de/db/conf/scam/,C,Conference,4
 258,COMPSAC,International Computer Software and Applications Conference,IEEE,http://dblp.uni-trier.de/db/conf/compsac/,C,Conference,4
 259,ICFEM,International Conference on Formal Engineering Methods,Springer,http://dblp.uni-trier.de/db/conf/icfem/,C,Conference,4
-260,TOOLS,"International Conference on Objects, Models, Components, Patterns",Springer,http://dblp.uni-trier.de/db/conf/tools/index.html,C,Conference,4
+260,TOOLS,"International Conference on Objects, Models, Components, Patterns",Springer,http://dblp.uni-trier.de/db/conf/tools/index.html、https://dblp.uni-trier.de/db/conf/staf/index.html,C,Conference,4
 261,SCC,International Conference on Service Computing,IEEE,http://dblp.uni-trier.de/db/conf/IEEEscc/,C,Conference,4
 262,ICSSP,International Conference on Software and System Process,ISPA,http://dblp.uni-trier.de/db/conf/ispw/,C,Conference,4
 263,SEKE,International Conference on Software Engineering and Knowledge Engineering,KSI,http://dblp.uni-trier.de/db/conf/seke/,C,Conference,4
@@ -271,7 +271,7 @@
 270,TASE,International Symposium on Theoretical Aspects of Software Engineering,IEEE,http://dblp.uni-trier.de/db/conf/tase/,C,Conference,4
 271,MSR,Mining Software Repositories,IEEE/ACM,http://dblp.uni-trier.de/db/conf/msr/,C,Conference,4
 272,REFSQ,Requirements Engineering: Foundation for Software Quality,Springer,http://dblp.uni-trier.de/db/conf/refsq/,C,Conference,4
-273,WICSA,Working IEEE/IFIP Conference on Software Architecture,IEEE,http://dblp.uni-trier.de/db/conf/wicsa/,C,Conference,4
+273,WICSA,Working IEEE/IFIP Conference on Software Architecture,IEEE,http://dblp.uni-trier.de/db/conf/wicsa/、https://dblp.uni-trier.de/db/conf/icsa/index.html,C,Conference,4
 274,TODS,ACM Transactions on Database Systems,ACM,http://dblp.uni-trier.de/db/journals/tods/,A ,Journal,4
 275,TOIS,ACM Transactions on Information Systems,ACM,http://dblp.uni-trier.de/db/journals/tois/,A ,Journal,4
 276,TKDE,IEEE Transactions on Knowledge and Data Engineering,IEEE,http://dblp.uni-trier.de/db/journals/tkde/,A ,Journal,4
@@ -368,7 +368,7 @@
 367,ESA,European Symposium on Algorithms,Springer,http://dblp.uni-trier.de/db/conf/esa/,B,Conference,6
 368,CCC,IEEE Conference on Computational Complexity,IEEE,http://dblp.uni-trier.de/db/conf/coco/,B,Conference,6
 369,ICALP,"International Colloquium on Automata, Languages and Programming",Springer,http://dblp.uni-trier.de/db/conf/icalp/,B,Conference,6
-370,CADE/IJCAR,International Conference on Automated Deduction/International Joint Conference on Automated Reasoning,Springer,http://dblp.uni-trier.de/db/conf/cade/,B,Conference,6
+370,CADE-IJCAR,International Conference on Automated Deduction/International Joint Conference on Automated Reasoning,Springer,http://dblp.uni-trier.de/db/conf/cade/,B,Conference,6
 371,CONCUR,International Conference on Concurrency Theory,Springer,http://dblp.uni-trier.de/db/conf/concur/,B,Conference,6
 372,HSCC,International Conference on Hybrid Systems: Computation and Control,Springer and ACM,http://dblp.uni-trier.de/db/conf/hybrid/,B,Conference,6
 373,SAT,Theory and Applications of Satisfiability Testing,Springer,http://dblp.uni-trier.de/db/conf/sat/,B,Conference,6
@@ -431,7 +431,7 @@
 430,GMP,Geometric Modeling and Processing,Elsevier,http://dblp.uni-trier.de/db/conf/gmp/,C,Conference,7
 431,PacificVis,IEEE Pacific Visualization Symposium,IEEE,http://dblp.uni-trier.de/db/conf/apvis/,C,Conference,7
 432,3DV,International Conference on 3D Vision,IEEE,https://dblp.uni-trier.de/db/conf/3dim/,C,Conference,7
-433,CAD/Graphics,International Conference on Computer-Aided Design and Computer Graphics,IEEE,https://dblp.uni-trier.de/db/conf/cadgraphics/,C,Conference,7
+433,CAD-Graphics,International Conference on Computer-Aided Design and Computer Graphics,IEEE,https://dblp.uni-trier.de/db/conf/cadgraphics/,C,Conference,7
 434,ICIP,International Conference on Image Processing,IEEE,http://dblp.uni-trier.de/db/conf/icip/,C,Conference,7
 435,MMM,International Conference on Multimedia Modeling,Springer,http://dblp.uni-trier.de/db/conf/mmm/index.html,C,Conference,7
 436,PCM,Pacific-Rim Conference on Multimedia,Springer,http://dblp.uni-trier.de/db/conf/pcm/,C,Conference,7

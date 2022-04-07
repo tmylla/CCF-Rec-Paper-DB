@@ -1,0 +1,293 @@
+[
+    {
+        "year": "2013",
+        "name": "PASTE 2013",
+        "info": "Seattle, WA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/paste/2013",
+                "sub_name": "ACM SIGPLAN-SIGSOFT Workshop on Program Analysis for Software Tools and Engineering, PASTE '13, Seattle, WA, USA, June 20, 2013.",
+                "count": 7,
+                "papers": [
+                    "Automated inference of atomic sets for safe concurrent execution.",
+                    "A comprehensive toolchain for workload characterization across JVM languages.",
+                    "ShadowData: shadowing heap objects in Java.",
+                    "Automatically mining program build information via signature matching.",
+                    "Exploring program phases for statistical bug localization.",
+                    "A proper performance evaluation system that summarizes code placement effects.",
+                    "Increasing human-tool interaction via the web."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "PASTE 2011",
+        "info": "Szeged, Hungary",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/paste/2011",
+                "sub_name": "Proceedings of the 10th ACM SIGPLAN-SIGSOFT workshop on Program analysis for software tools, PASTE'11, Szeged, Hungary, September 5-9, 2011.",
+                "count": 6,
+                "papers": [
+                    "Labeling library functions in stripped binaries.",
+                    "Anywhere, any-time binary instrumentation.",
+                    "Towards systematic, comprehensive trace generation for behavioral pattern detection through symbolic execution.",
+                    "An evaluation of change-based coverage criteria.",
+                    "Locating failure-inducing environment changes.",
+                    "Assessing modularity via usage changes."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "PASTE 2010",
+        "info": "Toronto, Ontario, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/paste/2010",
+                "sub_name": "Proceedings of the 9th ACM SIGPLAN-SIGSOFT Workshop on Program Analysis for Software Tools and Engineering, PASTE'10, Toronto, Ontario, Canada, June 5-6, 2010.",
+                "count": 12,
+                "papers": [
+                    "The RoadRunner dynamic analysis framework for concurrent programs.",
+                    "Visualizing threads, transactions and tasks.",
+                    "Opportunities for concurrent dynamic analysis with explicit inter-core communication.",
+                    "Extracting compiler provenance from program binaries.",
+                    "Packrat parsers can handle practical grammars in mostly constant space.",
+                    "Interprocedural induction variable analysis based on interprocedural SSA form IR.",
+                    "Property-aware program sampling.",
+                    "Coherent dependence clusters.",
+                    "Towards a unified fault-detection benchmark.",
+                    "Null dereference analysis in practice.",
+                    "Expect the unexpected: error code mismatches between documentation and the real world.",
+                    "Learning universal probabilistic models for fault localization."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "PASTE 2008",
+        "info": "Atlanta, Georgia, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/paste/2008",
+                "sub_name": "Proceedings of the 8th ACM SIGPLAN-SIGSOFT Workshop on Program Analysis for Software Tools and Engineering, PASTE'08, Atlanta, Georgia, November 9-10, 2008.",
+                "count": 13,
+                "papers": [
+                    "Program analysis for compiler validation.",
+                    "Java memory model aware software validation.",
+                    "Elyze: enabling safe parallelism in event-driven servers.",
+                    "A field study in static extraction of runtime architectures.",
+                    "Specification mining of symbolic scenario-based models.",
+                    "A non-null annotation inferencer for Java bytecode.",
+                    "Sharing analysis of arrays, collections, and recursive structures.",
+                    "Static analysis for inference of explicit information flow.",
+                    "Path projection for user-centered static analysis tools.",
+                    "Addressing common crosscutting problems with Arcum.",
+                    "XFindBugs: eXtended FindBugs for AspectJ.",
+                    "Effective identification of failure-inducing changes: a hybrid approach.",
+                    "Towards a more efficient static software change impact analysis method."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "PASTE 2007",
+        "info": "San Diego, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/paste/2007",
+                "sub_name": "Proceedings of the 7th ACM SIGPLAN-SIGSOFT Workshop on Program Analysis for Software Tools and Engineering, PASTE'07, San Diego, California, USA, June 13-14, 2007.",
+                "count": 15,
+                "papers": [
+                    "Evaluating static analysis defect warnings on production software.",
+                    "Finding more null pointer bugs, but not too many.",
+                    "Introducing natural language program analysis.",
+                    "Interstatement must aliases for data dependence analysis of heap locations.",
+                    "Light context-sensitive points-to analysis for java.",
+                    "Heap analysis in the presence of collection libraries.",
+                    "Comparing call graphs.",
+                    "An overview of the saturn project.",
+                    "Case study: supplementing program analysis with natural language analysis to improve a reverse engineering task.",
+                    "Discovering accurate interclass test dependences.",
+                    "Refining buffer overflow detection via demand-driven path-sensitive analysis.",
+                    "AWE: improving software analysis through modular integration of static and dynamic analyses.",
+                    "Dynamic purity analysis for java programs.",
+                    "Improving software quality with static analysis.",
+                    "Enforcing and validating user-defined programming disciplines."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "PASTE 2005",
+        "info": " Lisbon, Portugal",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/paste/2005",
+                "sub_name": "Proceedings of the 2005 ACM SIGPLAN-SIGSOFT Workshop on Program Analysis For Software Tools and Engineering, PASTE'05, Lisbon, Portugal, September 5-6, 2005.",
+                "count": 19,
+                "papers": [
+                    "PASTE at Microsoft.",
+                    "An empirical framework for comparing effectiveness of testing and property-based formal analysis.",
+                    "Evaluating the impact of context-sensitivity on Andersen's algorithm for Java programs.",
+                    "Evaluating and tuning a static analysis to find null pointer bugs.",
+                    "Link-time static analysis for efficient separate compilation of object-oriented languages.",
+                    "Low overhead program monitoring and profiling.",
+                    "A concept analysis inspired greedy algorithm for test suite minimization.",
+                    "MonDe: safe updating through monitored deployment of new component versions.",
+                    "Making distributed systems secure with program analysis and transformation.",
+                    "Invariants and state in testing and formal methods.",
+                    "Symbolic path simulation in path-sensitive dataflow analysis.",
+                    "SableSpMT: a software framework for analysing speculative multithreading in Java.",
+                    "Representation-independent program analysis.",
+                    "LANCET: a nifty code editing tool.",
+                    "Weakest-precondition of unstructured programs.",
+                    "String analysis for x86 binaries.",
+                    "Static control-flow analysis for reverse engineering of UML sequence diagrams.",
+                    "Generalizing symbolic execution to library classes.",
+                    "Automatically generating refactorings to support API evolution."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "PASTE 2004",
+        "info": "Washington, DC, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/paste/2004",
+                "sub_name": "Proceedings of the 2004 ACM SIGPLAN-SIGSOFT Workshop on Program Analysis For Software Tools and Engineering, PASTE'04, Washington, DC, USA, June 7-8, 2004.",
+                "count": 13,
+                "papers": [
+                    "Invited Talk: JML framed!",
+                    "Resolving and applying constraint queries on context-sensitive analyses.",
+                    "Validation of assembler programs for DSPs: a static analyzer.",
+                    "Evaluating the imprecision of static analysis.",
+                    "An improved slicer for Java.",
+                    "Dynamically inferring temporal properties.",
+                    "The design and implementation of FIT: a flexible instrumentation toolkit.",
+                    "Invited Talk Static and dynamic analysis: synergy and duality.",
+                    "Invited Talk: \"Model checking\" software with VeriSoft.",
+                    "Efficient field-sensitive pointer analysis for C.",
+                    "Importance of heap specialization in pointer analysis.",
+                    "Mock object creation for test factoring.",
+                    "Elided conditionals."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2002",
+        "name": "PASTE 2002",
+        "info": "Charleston, South Carolina, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/paste/2002",
+                "sub_name": "Proceedings of the 2002 ACM SIGPLAN-SIGSOFT Workshop on Program Analysis For Software Tools and Engineering, PASTE'02, Charleston, South Carolina, USA, November 18-19, 2002.",
+                "count": 12,
+                "papers": [
+                    "Longitudinal program analysis.",
+                    "Monitoring deployed software using software tomography.",
+                    "Recompilation for debugging support in a JIT-compiler.",
+                    "Instruction-level reverse execution for debugging.",
+                    "Analysis issues for cyclone.",
+                    "STEP: a framework for the efficient encoding of general trace data.",
+                    "Selective path profiling.",
+                    "Combining static and dynamic data in code visualization.",
+                    "How to write system-specific, static checkers in metal.",
+                    "Using the observer design pattern for implementation of data flow analyses.",
+                    "Flow equations as a generic programming tool for manipulation of attributed graphs.",
+                    "The code of many colors: relating threads to code and shared state."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2001",
+        "name": "PASTE 2001",
+        "info": "Snowbird, Utah, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/paste/2001",
+                "sub_name": "Proceedings of the 2001 ACM SIGPLAN-SIGSOFT Workshop on Program Analysis For Software Tools and Engineering, PASTE'01, Snowbird, Utah, USA, June 18-19, 2001.",
+                "count": 17,
+                "papers": [
+                    "Making slicing practical: the final mile (Abstract).",
+                    "An overview of BLOOM.",
+                    "Evaluating explicitly context-sensitive program slicing.",
+                    "Contextual def-use associations for object aggregation.",
+                    "Type-based analysis and applications.",
+                    "vEC: virtual energy counters.",
+                    "Array resizing for scientific code debugging, maintenance and reuse.",
+                    "Static validation of dynamically generated HTML.",
+                    "Change impact analysis for object-oriented programs.",
+                    "Pointer analysis: haven't we solved this problem yet?",
+                    "Program analysis for safety guarantees in a Java virtual machine written in Java.",
+                    "Dynamic points-to sets: a comparison with static analyses and potential applications in program understanding and optimization.",
+                    "Extending and evaluating flow-insenstitive and context-insensitive points-to analyses for Java.",
+                    "Economics of software verification.",
+                    "What is a class invariant?",
+                    "Detecting race conditions in large programs.",
+                    "Bebop: a path-sensitive interprocedural dataflow engine."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1999",
+        "name": "PASTE 1999",
+        "info": "Toulouse, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/paste/1999",
+                "sub_name": "Proceedings of the SIGPLAN/SIGSOFT Workshop on Program Analysis For Software Tools and Engineering, PASTE '99, Toulouse, France, September 6, 1999.",
+                "count": 12,
+                "papers": [
+                    "Identifying Procedural Structure in Cobol Programs.",
+                    "Efficient Coverage Testing Using Global Dominator Graphs.",
+                    "Efficient and Precise Modeling of Exceptions for the Analysis of Java Programs.",
+                    "Safety Analysis of Hawk in Flight Monitor.",
+                    "Equivalence Analysis: A General Technique to Improve the Efficiency of Data-flow Analyses in the Presence of Pointers.",
+                    "Inter-Class Def-Use Analysis with Partial Class Representations.",
+                    "Using Partial Order Techniques to Improve Performance of Data Flow Analysis Based Verification.",
+                    "Physical Type Checking for C.",
+                    "New Type Signatures for Legacy Fortran Subroutines.",
+                    "Query by Outlines: A New Paradigm to Help Manage Programs.",
+                    "GIDTS: A Graphical Programming Environment for Prolog.",
+                    "Benefits of a Data Flow-Aware Programming Environment."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1998",
+        "name": "PASTE 1998",
+        "info": "Montreal, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/paste/1998",
+                "sub_name": "Proceedings of the SIGPLAN/SIGSOFT Workshop on Program Analysis For Software Tools and Engineering, PASTE '98, Montreal, Canada, June 16, 1998.",
+                "count": 11,
+                "papers": [
+                    "Concept Analysis - A New Framework for Program Understanding.",
+                    "Experiments with Combined Analysis for Pointer Aliasing.",
+                    "OPTVIEW: A New Approach for Examining Optimized Code.",
+                    "Detecting Memory Errors via Static Pointer Analysis (Preliminary Experience).",
+                    "Static Slicing of Threaded Programs.",
+                    "Recovering Software Architecture from Multiple Source Code Analyses.",
+                    "Efficient Composite Data Flow Analysis Applied to Concurrent Programs.",
+                    "Software Visualization in the Desert Environment.",
+                    "A Lightweight Architecture for Program Execution Monitoring.",
+                    "Visualizing the Performance of Higher-Order Programs.",
+                    "An Empirical Investigation of Program Spectra."
+                ]
+            }
+        ]
+    }
+]

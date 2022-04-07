@@ -24,7 +24,7 @@ class Parse_HTML(object):
         每一会议/期刊存储为一个json文件；
         '''
         if self.type =='Conference':
-            if self.venue in ['CCS', 'AsiaCCS']:
+            if self.venue in ['CCS', 'AsiaCCS', 'INTERSPEECH']:
                 paper_db = self.dblp_ccs_type()
             else:
                 paper_db = self.dblp_conf_frame()
@@ -126,7 +126,11 @@ class Parse_HTML(object):
                     if db_year['year'] == conf_year:
                         idx = i
 
-                paper_db[idx]['venues'].append(db_sub_venue)
+                try:
+                    paper_db[idx]['venues'].append(db_sub_venue)
+                except:
+                    paper_db[0]['venues'].append(db_sub_venue)
+                    logging.info("sub_venue首次与db_year['venues']对齐时，未能赋值idx，默认将idx置为0，后需人工调整")
 
         # 有的会议论文列表两种形式混杂，见‘https://dblp.uni-trier.de/db/conf/ches/index.html’
         # 处理完只有一种形式后，对另一种形式单独处理,判断依据'Proccedings published in' in text
@@ -147,7 +151,8 @@ class Parse_HTML(object):
         # 已进行统计，在所有CCF推荐会议中，只有CCS这样Orz...
         paper_db = self.dblp_conf_frame()
 
-        workshops_html = self.soup.find('p', text='Workshops:').next_sibling
+        workshops_html = self.soup.find(text='\n\n\nWorkshops:\n').next_sibling if self.venue == 'INTERSPEECH' \
+            else self.soup.find('p', text='Workshops:').next_sibling
         workshops = workshops_html.find_all('li', recursive=False)
         for ws in workshops:
             ws_info = ws.text.split(':')[0]

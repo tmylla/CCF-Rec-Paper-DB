@@ -1,0 +1,714 @@
+[
+    {
+        "year": "2020",
+        "name": "18th ECSCW 2020",
+        "info": "Siegen, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ecscw/2020",
+                "sub_name": "Proceedings of 18th European Conference on Computer-Supported Cooperative Work, Siegen, Germany, June 14-17, 2020.",
+                "count": 21,
+                "papers": [
+                    "Who do you trust: Peers or Technology? A conjoint analysis about computational reputation mechanisms.",
+                    "Envisioning a Shared Checklist Display to Support Teamwork During Emergency Medical Care.",
+                    "Networks of Practices: Exploring Design Opportunities for Interconnected Practices.",
+                    "Model-Based Systems Engineering (MBSE) as computer-supported approach for cooperative systems development.",
+                    "Conversational Crowdsourcing for Older Adults: a Wikipedia Chatbot Concept.",
+                    "How the local domestication of a teleconsultation solution is influenced by the adoption of a national policy?",
+                    "A system design to support outside activities of older adults using smart urban objects.",
+                    "Time Matters: Flexi-time and women's retention in the 24/7 workplace.",
+                    "Social Icebreakers Everywhere: A Day In The Life.",
+                    "Making Home Work Places.",
+                    "Psychosocial ICT: The Potential, Challenges and Benefits of Self-help Tools for Refugees with Negative Mental Stress.",
+                    "Understanding data and cooperation in a public sector arena.",
+                    "AI Ethics and Customer Care: Some Considerations from the Case of \"Intelligent Sales\".",
+                    "Remote Collaboration using Mixed Reality: Exploring a shared model approach through different interaction methods.",
+                    "Pre-beginnings in Human-Robot Encounters: Dealing with time delay.",
+                    "Work of the 'Unemployed': A Design Fiction.",
+                    "Cardiopulmonary Resuscitation (CRP): Collaboration in Medical Team Work.",
+                    "'Triage' in Mass Casualty as Situated Interaction. Algorithm and Participation.",
+                    "reSHAPe: A Framework for Interactive Explanations in XAI Based on SHAP.",
+                    "FlexIA - A toolkit for the participatory information analysis in small and medium-sized companies.",
+                    "Novel Collocated Social Interactions To Inspire Video Conferencing Design."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "17th ECSCW 2019",
+        "info": "Salzburg, Austria",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ecscw/2019ep",
+                "sub_name": "17th European Conference on Computer-Supported Cooperative Work, ECSCW 2019 - Exploratory Papers, Demos and Posters, Salzburg, Austria, June 8-12, 2019.",
+                "count": 32,
+                "papers": [
+                    "Does it matter why we hack? - Exploring the impact of goal alignment in hackathons.",
+                    "Designing Collaborative Data Collection Interfaces for Low-literate Users.",
+                    "Exploring Flash Fiction for the Collaborative Interpretation of Qualitative Data.",
+                    "Pok\u00e9mon GO: Collaboration and Information on the GO.",
+                    "AuDi: an Auto-Feedback Display for Crowdsourcing.",
+                    "A capability analysis of groupware, cloud and desktop file systems for file synchronization.",
+                    "Towards Methodological Guidance for Longitudinal Ambient Display In Situ Research.",
+                    "Exploring Trust in Human-Agent Collaboration.",
+                    "Collaboration as Commodity: What does CSCW have to offer?",
+                    "Longitudinal analysis of a #boycott movement on Indian online platforms: Case of collective action and online boycott.",
+                    "Revisiting and Rethinking the Structural Elements of Communities of Practice.",
+                    "Assessing the Intent and Effectiveness of Carbon Footprint Calculators.",
+                    "Designing collaborative scenarios on tangible tabletop interfaces - insights from the implementation of paper prototypes in the context of a multidisciplinary design workshop.",
+                    "\"We passed the trust on\": Strategies for security in #MeToo activism in Sweden.",
+                    "On Middle-Ground Solutions for Domain-Specific Problems: The Case of a Data Transfer System for Sign Language Teachers.",
+                    "Let the Bot Take Care of It: Exploring #CapIt, a Whiteboard Table Capture System.",
+                    "Evaluating Ask Izzy: A Mobile Web App for People Experiencing Homelessness.",
+                    "Creating Business Model Canvases with a Collaborative Mobile Application.",
+                    "VAST: A High-Fidelity Prototype for Future Air Traffic Control Scenarios.",
+                    "Beyond Cooperation: Three-Way Body Transfer Illusions For Physical Play.",
+                    "Development of an Everyday Persuasive App for Movement Motivation for Older Adults.",
+                    "Supporting Appropriation of Self- Monitoring Tools in Clinical Settings: The Case of Pain in Cancer Rehabilitation.",
+                    "\"ZEIT.RAUM\" - Collaboration Around a Tangible City Model.",
+                    "A Lightweight Tool for Measuring the Impact of IT Security Controls in Critical Infrastructures.",
+                    "Automatic for the People: Implementing Robotic Process Automation in Social Work.",
+                    "A Tactical Urbanist Approach to Facilitate Exploratory HRI Research in Public Spaces.",
+                    "Design Thinking: From Individual Thinking Towards a Technohuman Reconfiguration.",
+                    "Creative and Cognitive Activities in Social Assistive Robots and Older Adults: Results from an Exploratory Field Study with Pepper.",
+                    "New Logics of Ethics in the Age of Digital Platforms: Design Fictions of Autonomous Cars.",
+                    "Designing for Sustainable Caring Communities - the CareComLabs Framework.",
+                    "Deriving Personas Based on Attitudes to Interruption and Information Overload.",
+                    "Towards Expertise-based Intuition Sharing."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "16th ECSCW 2018",
+        "info": "Nancy, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ecscw/2018ep",
+                "sub_name": "16th European Conference on Computer Supported Cooperative Work, ECSCW 2018 - Exploratory Papers, Nancy, France, June 4-8, 2018.",
+                "count": 11,
+                "papers": [
+                    "The Novelty Effect in Large Display Deployments - Experiences and Lessons-Learned for Evaluating Prototypes.",
+                    "The Digital Work Environment-a Challenge and an Opportunity for CSCW.",
+                    "Infrastructuring for remote night monitoring: frictions in the strive for transparency when digitalising care service.",
+                    "Exploring Forced Migrants (Re)settlement & the Role of Digital Services.",
+                    "Exploring the Impact of Video on Inferred Difficulty Awareness.",
+                    "Coordination, Communication, and Competition in eSports: A Comparative Analysis of Teams in Two Action Games.",
+                    "Reconsidering online reputation systems.",
+                    "Blockchain and CSCW - Shall we care?",
+                    "Towards a Better Understanding of Availability and Interruptibility with Mobile Availability Probes.",
+                    "Revive Old Discussions! Socio-technical Challenges for Small and Medium Enterprises within Industry 4.0.",
+                    "Supporting Collaboration in Small Volunteer Groups with Socio-Technical Heuristics."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/ecscw/2018pdp",
+                "sub_name": "16th European Conference on Computer Supported Cooperative Work, ECSCW 2018 - Panels, Demos and Posters, Nancy, France, June 4-8, 2018.",
+                "count": 7,
+                "papers": [
+                    "The Influence of the Leaders' Selection Method on Team Performance.",
+                    "The Role of Culturally Intelligent Team Leaders on Task Performance.",
+                    "Extending the Gmail User-Interface to Leverage Prediction of Response Times and Hierarchical Recipients.",
+                    "Lacomo: A Layer to Develop Collaborative Mobile Applications.",
+                    "Fostering the appropriation of socially collaborative technologies as a strategy to tackle third-level digital divide.",
+                    "LABORe: Collaborative Assessment of Work-Disruptive Technologies.",
+                    "Blockchain 4 Education."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "15th ECSCW 2017",
+        "info": "Sheffield, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ecscw/2017ep",
+                "sub_name": "15th European Conference on Computer Supported Cooperative Work, ECSCW 2017 - Exploratory Papers, Sheffield, UK, August 28 - September 1, 2017.",
+                "count": 17,
+                "papers": [
+                    "Exploratory Papers: A New Venue for ECSCW 2017.",
+                    "The Roots of Bias on Uber.",
+                    "Parental controls: reimagining technologies for parent-child interaction.",
+                    "Bots Mind the Social-technical Gap.",
+                    "A Stick with a Handle at Each End: Socially Implicated Work Objects for Design of Collaborative Systems.",
+                    "Enterprise Assistant Service: Supporting Employees in the Digital Enterprise.",
+                    "Batching, Error Checking and Data Collecting: Understanding Data Entry in a Financial Office.",
+                    "The Ludic Takes Work.",
+                    "From alienation to relation: Examining the modes of production in crowdsourcing.",
+                    "From Travel Plans to Magic Wands: A Cross-Domain Study of Practices and Privacy Requirements for Sharing Emerging Types of Online Content.",
+                    "Medication, integration and practice.",
+                    "Computer-supported patient involvement in heart rehabilitation.",
+                    "Building Information Modeling: The Dream of Perfect Information.",
+                    "The Hackerspace Manifested as a DIY-IoT Entity: Shaping and Protecting the Identity of the Community.",
+                    "From the Internet of Things to an Internet of Practices.",
+                    "A New Generation of CSCW: Reinvigorating CSCW Field-based Research Through A Theory-Inspired Reboot.",
+                    "Cities of Otherness: the smart city as a heterotopia."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/ecscw/2017pdp",
+                "sub_name": "15th European Conference on Computer Supported Cooperative Work, ECSCW 2017 - Panels, Demos and Posters, Sheffield, UK, August 28 - September 1, 2017.",
+                "count": 6,
+                "papers": [
+                    "Discerning Designers' Intentions.",
+                    "A Constructive-Critical Approach to the Changing Workplace and its Technologies.",
+                    "Designing IT support for co-located synchronous innovation workshops.",
+                    "Cooperative Live Coding of Electronic Music with Troop.",
+                    "MUTE: A Peer-to-Peer Web-based Real-time Collaborative Editor.",
+                    "Crowdsourcing community heuristic evaluations."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/ecscw/2017dc",
+                "sub_name": "15th European Conference on Computer Supported Cooperative Work, ECSCW 2017 - Doctoral Colloquium, Sheffield, UK, August 28 - September 1, 2017.",
+                "count": 10,
+                "papers": [
+                    "Supporting Information Needs of Transitional Phases in Diabetes Management Through Online Health Communities.",
+                    "Reminiscence, Digital Storytelling and Maps: How Technology Affects Loneliness of Older Adults.",
+                    "Infrastructuring computer-supported collaboration to foster the connection between high and low-skilled people.",
+                    "Usability analysis of collaborative tools: a team usability testing approach.",
+                    "Learningful interactions in formal and informal learning environments.",
+                    "Digital Work Environment.",
+                    "How can Communities of Practice and UMI technologies support and enhance STEM learning.",
+                    "Self-Flipped Teaching & Learning for STEM in Higher Education.",
+                    "Studying Task Transfer in Workplace: Distribution of Interaction among Human, Artifact, and Context.",
+                    "An Investigation of Design Parameters for Constructive Online Discussion Environment."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "14th ECSCW 2015",
+        "info": "Oslo, Norway",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ecscw/2015",
+                "sub_name": "ECSCW 2015: Proceedings of the 14th European Conference on Computer Supported Cooperative Work, 19-23 September 2015, Oslo, Norway.",
+                "count": 17,
+                "papers": [
+                    "Human Data Interaction: Historical Lessons from Social Studies and CSCW.",
+                    "Mining Programming Activity to Promote Help.",
+                    "\"It's About Business not Politics\": Software Development Between Palestinians and Israelis.",
+                    "Social Media-Based Expertise Evidence.",
+                    "3D Printing with Marginalized Children - An Exploration in a Palestinian Refugee Camp.",
+                    "Intertext: On Connecting Text in the Building Process.",
+                    "Analyzing Collaborative Reflection Support: A Content Analysis Approach.",
+                    "Keeping Distributed Care Together: Medical Summaries Reconsidered.",
+                    "Constructing Awareness Through Speech, Gesture, Gaze and Movement During a Time-Critical Medical Task.",
+                    "Online Social Networks and Police in India - Understanding the Perceptions, Behavior, Challenges.",
+                    "The Work of Infrastructuring: A Study of a National eHealth Project.",
+                    "How Do User Groups Cope with Delay in Real-Time Collaborative Note Taking.",
+                    "Configuring Attention in the Multiscreen Living Room.",
+                    "Measures and Tools for Supporting ICT Appropriation by Elderly and Non Tech-Savvy Persons in a Long-Term Perspective.",
+                    "CSCW and the Internet of Things.",
+                    "Ageing Well with CSCW.",
+                    "Collaborative Visualization for Supporting the Analysis of Mobile Device Data."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "13th ECSCW 2013",
+        "info": "Paphos, Cyprus",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ecscw/2013",
+                "sub_name": "ECSCW 2013: Proceedings of the 13th European Conference on Computer Supported Cooperative Work, 21-25 September 2013, Paphos, Cyprus.",
+                "count": 15,
+                "papers": [
+                    "\"How Many Bloody Examples Do You Want?\" Fieldwork and Generalisation.",
+                    "Understanding Mobile Notification Management in Collocated Groups.",
+                    "Temporality in Planning: The Case of the Allocation of Parking Areas for Aircrafts.",
+                    "Calendars: Time Coordination and Overview in Families and Beyond.",
+                    "The Collaborative Work of Heritage: Open Challenges for CSCW.",
+                    "\"Drops Hollowing the Stone\": Workarounds as Resources for Better Task-Artifact Fit.",
+                    "Physicians' Progress Notes.",
+                    "Moving Healthcare to the Home: The Work to Make Homecare Work.",
+                    "Dwelling in Software: Aspects of the Felt-Life of Engineers in Large Software Projects.",
+                    "What You See is What I Need: Mobile Reporting Practices in Emergencies.",
+                    "The Social Life of Tunes: Representing the Aesthetics of Reception.",
+                    "Achieving Continuity of Care: A Study of the Challenges in a Danish and a US Hospital Department.",
+                    "Fostering Collaborative Redesign of Work Practice: Challenges for Tools Supporting Reflection at Work.",
+                    "The Challenges of Microfinance Innovation: Understanding 'Private Services'.",
+                    "Motivation-Targeted Personalized UI Design: A Novel Approach to Enhancing Citizen Science Participation."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/ectel/2013meeting",
+                "sub_name": "Proceedings of ECTEL meets ECSCW 2013, the Workshop on Collaborative Technologies for Working and Learning, Paphos, Cyprus, September, 21, 2013.",
+                "count": 12,
+                "papers": [
+                    "Towards a Design Research Framework for Designing Support Informal Work-Based Learning.",
+                    "Collaborative Visual Annotations For Knowledge Exchange in Practical Medical Training.",
+                    "The Good, the Bad and the Neutral: An Analysis of Team-Gaming Activity.",
+                    "Seeking and Scaling Model for Designing Technology that Supports Personal and Professional Learning Networks.",
+                    "Games for Learning Cooperation at Work: the Case of Crisis Preparedness.",
+                    "Investigating Crowdsourcing as an Evaluation Method for TEL Recommenders.",
+                    "Computer-Supported Collaborative Learning at Work: CSCL@Work goes TEL@Work.",
+                    "Reflecting on Emotion: Design Challenges for Cooperation Technology.",
+                    "Guiding Articulation for Learning at Work: A Case of Reflection.",
+                    "Mobile Support for Ad-hoc Learning Communities.",
+                    "Designing Learning Environments Based on Collaborative Content Creation.",
+                    "A Sensemaking Interface for Supporting Doctor's Learning at the Workplace - A Paper Prototype Study."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/ecscw/2013moroco",
+                "sub_name": "Proceedings of the Workshop on Models and their Role in Collaboration, Paphos, Cyprus, September 22, 2013.",
+                "count": 9,
+                "papers": [
+                    "MoRoCo 2013: Models and their Role in Collaboration.",
+                    "Cooperation on Models and Models for Cooperation.",
+                    "Facilitating and Prompting of Collaborative Reflection of Process Models.",
+                    "Collaborative Creativity: From Hand Drawn Sketches to Formal Domain Specific Models and Back Again.",
+                    "Towards Role-distributed Collaborative Business Process Elicitation.",
+                    "Operationalizing Dialogue Games for Collaborative Modeling.",
+                    "Beyond Collaborative Model Usage and Development - A Model Lifecycle Approach for Lay User Modeling.",
+                    "The Added Value of Collaborative Modeling for Legal Business Rule Management.",
+                    "Using Natural User Interfaces for Collaborative Process Modelling in Virtual Environments."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "12th ECSCW 2011",
+        "info": "Aarhus, Denmark",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ecscw/2011",
+                "sub_name": "Proceedings of the Twelfth European Conference on Computer Supported Cooperative Work, ECSCW 2011, 24-28 September 2011, Aarhus University, Denmark.",
+                "count": 22,
+                "papers": [
+                    "Dynamic Self-moderation in a Corporate Wiki to Improve Participation and Contribution Quality.",
+                    "Digital Traces of Interest: Deriving Interest Relationships from Social Media Interactions.",
+                    "Studying the Adoption of Mail2Tag: an Enterprise2.0 Tool for Sharing.",
+                    "Challenges and Opportunities for Collaborative Technologies for Home Care Work.",
+                    "The Use of Narratives in Medical Work: A Field Study of Physician-Patient Consultations.",
+                    "The Pendulum of Standardization.",
+                    "MyReDiary: Co-Designing for Collaborative Articulation in Physical Rehabilitation.",
+                    "Relation Work: Creating Socio-technical Connections in Global Engineering.",
+                    "Discriminating Divergent/Convergent Phases of Meeting Using Non-Verbal Speech Patterns.",
+                    "\"You Probably Shouldn't Give them Too Much Information\" - Supporting Citizen-Government Collaboration.",
+                    "Theories of Cognition in CSCW.",
+                    "Lest We Forget - The European Field Study Tradition and the Issue of Conditions of Work in CSCW Research.",
+                    "Flypad: Designing Trajectories in a Large-Scale Permanent Augmented Reality Installation.",
+                    "Characterizing Deixis over Surfaces to Improve Remote Embodiments.",
+                    "VideoPal: Exploring Asynchronous Video-Messaging to Enable Cross-Cultural Friendships.",
+                    "Mixed-Initiative Friend-List Creation.",
+                    "What Are You Working On? Status Message Q&A in an Enterprise SNS.",
+                    "The Hugging Team: The Role of Technology in Business Networking Practices.",
+                    "Group Crumb: Sharing Web Navigation by Visualizing Group Traces on the Web.",
+                    "SCHO: An Ontology Based Model for Computing Divergence Awareness in Distributed Collaborative Systems.",
+                    "Common Ground and Small Group Interaction in Large Virtual World Gatherings.",
+                    "Collaboration in Augmented Reality: How to Establish Coordination and Joint Attention?"
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "11th ECSCW 2009",
+        "info": "Vienna, Austria",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ecscw/2009",
+                "sub_name": "Proceedings of the Eleventh European Conference on Computer Supported Cooperative Work, ECSCW 2009, 7-11 September 2009, Vienna, Austria.",
+                "count": 23,
+                "papers": [
+                    "The Boundaries of Participatory Citizenship.",
+                    "Research Project as Boundary Object: Negotiating the Conceptual Design of a Tool for International Development.",
+                    "Supporting Nurses' Information Flow by Integrating Paper and Digital Charting.",
+                    "The eDiary: Bridging Home and Hospital through Healthcare Technology.",
+                    "PRODOC: an Electronic Patient Record to Foster Process-Oriented Practices.",
+                    "Finding the Other 5%: Understanding the Role of Social Networking Technologies in Building Personal Networks for Young Adults with Cancer.",
+                    "Trust and Social Capital: Revisiting an Offshoring Failure Story of a Small German Software Company.",
+                    "Return On Contribution (ROC): A Metric for Enterprise Social Software.",
+                    "Collaborative Practices that Support Creativity in Design.",
+                    "'Talking about (my) Generation': Creativity, Practice, Technology & Talk.",
+                    "Using Annotations in a Collective and Face-to-Face Design Situation.",
+                    "We can work it out: Collaborative Conflict Resolution in Model Versioning.",
+                    "On the Effects of Refactoring in the Coordination of Software Development Activities.",
+                    "Divided by a Common Acronym: On the Fragmentation of CSCW.",
+                    "Collaboration in Metagenomics: Sequence Databases and the Organization of Scientific Work.",
+                    "Towards 'LivingAgendas' Shaping the Next Generation of Business Meetings.",
+                    "Analyzing Multimodal Communication around a Shared Tabletop Display.",
+                    "Status on Display: a Field Trial of Nomatic*Viz.",
+                    "The 'Out-of-Avatar Experience': Object Focused Collaboration in Second Life.",
+                    "Character Sharing in World of Warcraft.",
+                    "High-Octane Work: The Oil and Gas Workplace.",
+                    "Asking for the Moon or Model-based Coordination in Distributed Design.",
+                    "Information Curators in an Enterprise File-Sharing Service."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "10th ECSCW 2007",
+        "info": "Limerick, Ireland",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ecscw/2007",
+                "sub_name": "Proceedings of the Tenth European Conference on Computer Supported Cooperative Work, 24-28 September 2007, Limerick, Ireland.",
+                "count": 23,
+                "papers": [
+                    "What Did I Miss? Visualizing the Past through Video Traces.",
+                    "Social bookmarking and exploratory search.",
+                    "Instrumental action: the timely exchange of implements during surgical operations.",
+                    "Prior-to-request and request behaviors within elderly day care: Implications for developing service robots for use in multiparty settings.",
+                    "Designing Family Photo Displays.",
+                    "The Awareness Network: To Whom Should I Display My Actions? And, Whose Actions Should I Monitor?.",
+                    "\"...and do it the usual way\": fostering awareness of work conventions in document-mediated collaboration.",
+                    "A safe space to vent: Conciliation and conflict in distributed teams.",
+                    "Semi-Synchronous Conflict Detection and Resolution in Asynchronous Software Development.",
+                    "Tag-Based Metonymic Search in an Activity-Centric Aggregation Service.",
+                    "The Distributed Work of Local Action: Interaction amongst virtually collocated research teams.",
+                    "Bringing Round-Robin Signature to Computer-Mediated Communication.",
+                    "Asymmetrical collaboration in print shop-customer relationships.",
+                    "Dressing up for School Work? Supporting a Collaborative Environment with Heterogeneous Technologies.",
+                    "Exploring cooperation through a binder: A context for IT tools in elderly care at home.",
+                    "Common Information Spaces along the illness trajectories of chronic patients.",
+                    "Gifts from friends and strangers: A study of mobile music sharing.",
+                    "Making the Home Network at Home: Digital Housekeeping.",
+                    "Behaviours and Preferences when Coordinating Mediated Interruptions: Social and System influence.",
+                    "Health Care Categories have Politics too: Unpacking the Managerial Agendas of Electronic Triage Systems.",
+                    "How-To Pages: Informal Systems of Expertise Sharing.",
+                    "Seeing Ethnographically: Teaching ethnography as part of CSCW.",
+                    "Cues to Common Knowledge."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "9th ECSCW 2005",
+        "info": "Paris, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ecscw/2005",
+                "sub_name": "Proceedings of the Ninth European Conference on Computer Supported Cooperative Work, 18-22 September 2005, Paris, France.",
+                "count": 24,
+                "papers": [
+                    "Ways of the Hands.",
+                    "A Design Theme for Tangible Interaction: Embodied Facilitation.",
+                    "Supporting High Coupling and User-interface Flexibility.",
+                    "A Groupware Design Framework for Loosely Coupled Workgroups.",
+                    "Formally Analyzing Two-user Centralized and Replicated Architectures.",
+                    "Working Together Inside an Emailbox.",
+                    "Emergent Temporal Behaviour and Collaborative Work.",
+                    "Managing Currents of Work: Multi-tasking among Multiple Collaborations.",
+                    "The Duality of Articulation Work in Large Heterogeneous Settings - a Study in Health Care.",
+                    "Maintaining Constraints in Collaborative Graphic Systems: the CoGSE Approach.",
+                    "Empirical Investigation into the Effect of Orientation on Text Readability in Tabletop Displays.",
+                    "An Evaluation of Techniques for Reducing Spatial Interference in Single Display Groupware.",
+                    "Cellular Phone as a Collaboration Tool that Empowers and Changes the Way of Mobile Work: Focus on Three Fields of Work.",
+                    "Representations Can Be Good Enough.",
+                    "Using Empirical Data to Reason About Internet Research Ethics.",
+                    "Community-based Learning: Design Patterns and Frameworks.",
+                    "Expertise Sharing in a Heterogeneous Organizational Environment.",
+                    "Local Expertise at an Emergency Call Centre.",
+                    "Context Grabbing: Assigning Metadata in Large Document Collections.",
+                    "Between Chaos and Routine: Boundary Negotiating Artifacts in Collaboration.",
+                    "Coordination and Collaboration Environments for Production Lines: a User Acceptance Issue.",
+                    "Sharing the Square: Collaborative Leisure in the City Streets.",
+                    "Informing Public Deliberation: Value Sensitive Design of Indicators for a Large-scale Urban Simulation.",
+                    "The Work to Make a Home Network Work."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "name": "8th ECSCW 2003",
+        "info": "Helsinki, Finland",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ecscw/2003",
+                "sub_name": "Proceedings of the Eighth European Conference on Computer Supported Cooperative Work, 14-18 September 2003, Helsinki, Finland.",
+                "count": 20,
+                "papers": [
+                    "Pruning the Answer Garden: Knowledge Sharing in Maintenance Engineering.",
+                    "Discovery of Implicit and Explicit Connections Between People Using Email Utterance.",
+                    "Applying Cyber-Archaeology.",
+                    "Dependable Red Hot Action.",
+                    "Reconsidering Common Ground: Examining Clark's Contribution Theory in the OR.",
+                    "Group-to-Group Distance Collaboration: Examining the \"Space Between\".",
+                    "Informing the Development of Calendar Systems for Domestic Use.",
+                    "Supporting Collaboration Ubiquitously: An Augmented Learning Environment for Architecture Students.",
+                    "System Guidelines for Co-located, Collaborative Work on a Tabletop Display.",
+                    "Assembling History: Achieving Coherent Experiences with Diverse Technologies.",
+                    "Learning and Living in the 'New office'.",
+                    "Seeing What You Are Hearing: Coordinating Responses to Trouble Reports in Network Troubleshooting.",
+                    "When Can I Expect an Email Response? A Study of Rhythms in Email Usage.",
+                    "Multi-team Facilitation of Very Largescale Distributed Meetings.",
+                    "Proving Correctness of Transformation Functions in Real-Time Groupware.",
+                    "Awareness in Context: A Light-Weight Approach.",
+                    "Customizable Collaborative Editor Relying on treeOPT Algorithm.",
+                    "Tourism and Mobile Technology.",
+                    "Moving to get aHead: Local Mobility and Collaborative Work.",
+                    "'Repairing' the Machine: A Case Study of the Evaluation of Computer-Aided Detection Tools in Breast Screening."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2001",
+        "name": "7th ECSCW 2001",
+        "info": "Bonn, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ecscw/2001",
+                "sub_name": "Proceedings of the Seventh European Conference on Computer Supported Cooperative Work, 16-20 September 2001, Bonn, Germany.",
+                "count": 21,
+                "papers": [
+                    "Cooperation in massively distributed information space.",
+                    "Adaptability of classification schemes in cooperation: What does it mean?",
+                    "Finding patterns in the fieldwork.",
+                    "Team automata for spatial access control.",
+                    "Supporting distributed software development by modes of collaboration.",
+                    "Flexible support for application-sharing architecture.",
+                    "Creating coherent environments for collaboration.",
+                    "Spaces of practice.",
+                    "Collaboratively improvising magic: An approach to managing participation in an on-line drama.",
+                    "Music sharing as a computer supported collaborative application.",
+                    "PolyLens: A recommender system for groups of user.",
+                    "y do tngrs luv 2 txt msg?",
+                    "Coordinating heterogeneous work: Information and representation in medical care.",
+                    "Cognitive properties of a whiteboard: A case study in a trauma centre.",
+                    "On finding things out: Situating organisational knowledge in CSCW.",
+                    "The effects of network delays on group work in real-time groupware.",
+                    "Community support and identity management.",
+                    "Reducing interference in single display groupware through transparency.",
+                    "Harnessing complexity in CSCW.",
+                    "Decentralizing the control room: Mobile work and institutional order.",
+                    "When worlds collide: Molecular biology as interdisciplinary collaboration."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1999",
+        "name": "6th ECSCW 1999",
+        "info": "Copenhagen, Denmark",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ecscw/1999",
+                "sub_name": "Proceedings of the 6th European Conference on Computer Supported Cooperative Work, Copenhagen, Denmark, September 12-16, 1999.",
+                "count": 23,
+                "papers": [
+                    "Taking the work out of workflow: Mechanisms for document-centered collaboration.",
+                    "The Manufaktur: Supporting work practice in (landscape) architecture.",
+                    "Six roles of documents in professionals' work.",
+                    "AREA: A cross-application notification service for groupware.",
+                    "Moving out of the meeting room: Exploring support for mobile meetings.",
+                    "Activity Awareness: Framework for sharing knowledge of people, projects, and places.",
+                    "The properties of mixed reality boundaries.",
+                    "The adoption and use of BABBLE: A field study of chat in the workplace.",
+                    "Meeting at the desktop: An empirical study of virtually collocated teams.",
+                    "Broadcasting on-line social interaction as inhabited television.",
+                    "A groupware's life.",
+                    "The network communities of SeniorNet.",
+                    "GestureLaser and GestureLaser Car: Development of an embodied space to support remote instruction.",
+                    "Exploring support for knowledge management in mobile work.",
+                    "Dynamics in wastewater treatment: A framework for understanding formal constructs in complex technical settings.",
+                    "WebDAV: A network protocol for remote collaborative authoring on the Web.",
+                    "Informing collaborative information visualisation through an ethnography of ambulance control.",
+                    "Moving document collections online: The evolution of a shared repository.",
+                    "PSI: A Platform for Shared Interaction.",
+                    "An experiment in interoperating heterogeneous collaborative systems.",
+                    "NESSIE: An awareness environment for cooperative settings.",
+                    "Meaning-making across remote sites: How delays in transmission affect interaction.",
+                    "Augmenting the workaday world with Elvin."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1997",
+        "name": "5th ECSCW 1997",
+        "info": "Lancaster, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ecscw/1997",
+                "sub_name": "Fifth European Conference on Computer Supported Cooperative Work, ECSCW'97, Lancaster, UK, September 7-11, 1997, Proceedings.",
+                "count": 24,
+                "papers": [
+                    "The Production of Order and the Order of Production.",
+                    "Plans as Situated Action: An Activity Theory Approach to Workflow Systems.",
+                    "Rethinking CSCW systems: The architecture of Milano.",
+                    "Effects of the amount of shared information on communication efficiency in side by side and remote help dialogues.",
+                    "MetaWeb: Bringing synchronous groupware to the World Wide Web.",
+                    "Constructing Common Information Spaces.",
+                    "Task Conflict and Language Differences: Opportunities for Videoconferencing.",
+                    "The Social Construction and Visualisation of a Norwegian Offshore Installation.",
+                    "Staging a Public Poetry Performance in a Collaborative Virtual Environment.",
+                    "On Distribution, Drift and the Electronic Medical Record: Some Tools for a Sociology of the Formal.",
+                    "Tailoring Cooperation Support through Mediators.",
+                    "Doing Software Development: Occasions for Automation and Formalisation.",
+                    "Introducing Third Party Objects into the Spatial Model of Interaction.",
+                    "Cooperative Work and Lived Cognition: A Taxonomy of Embodied Actions.",
+                    "Aether: An Awareness Engine for CSCW.",
+                    "Providing Flexible Services for Managing Shared State in Collaborative Systems.",
+                    "Supporting Groupware Conventions through Contextual Awareness.",
+                    "Supporting the Flow of Information Through Constellations of Interaction.",
+                    "Supporting cooperative working using shared notebooks.",
+                    "Does \"roomware\" matter? Investigating the role of personal and public information devices and their combination in meeting room collaboration.",
+                    "Analysing movement and world transitions in virtual reality tele-conferencing.",
+                    "Designing for Cooperation at a Radio Station.",
+                    "A Group-based Authorization Model for Cooperative Systems.",
+                    "Gatherers of Information: Some Remarks on the Mission Process at the International Monetary Fund."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1995",
+        "name": "4th ECSCW 1995",
+        "info": "Stockholm, Sweden",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ecscw/1995",
+                "sub_name": "Fourth European Conference on Computer Supported Cooperative Work, ECSCW'95, Stockholm, Sweden, September 11-15, 1995, Proceedings.",
+                "count": 21,
+                "papers": [
+                    "Work, Locales and Distributed Social Worlds.",
+                    "POLITeam: Bridging the Gap between Bonn and Berlin for and with the Users.",
+                    "Fragmented Exchange: Disarticulation and the Need for Regionalized Communication Spaces.",
+                    "Workflow From Within and Without: Technology and Cooperative Work on the Print Industry Shopfloor.",
+                    "Cooperation and Power.",
+                    "Reconsidering the Virtual Workplace: Flexible Support for Collaborative Activity.",
+                    "Contact: Support for Distributed Cooperative Writing.",
+                    "CSCW for Strategic Management in Swiss Enterprises: an Empirical Study.",
+                    "Medium versus mechanism: Supporting collaboration through customisation.",
+                    "The Session Capture and Replay Paradigm for Asynchronous Collaboration.",
+                    "Virtual Reality Tele-conferencing: Implementation and Experience.",
+                    "Can the GestureCam be a Surrogate?",
+                    "The Use of Hypermedia in Group Problem Solving: An Evaluation of the DOLPHIN Electronic Meeting Room Environment.",
+                    "The Parting of the Ways: Divergence, Data Management and Collaborative Work.",
+                    "A General Multi-User Undo/Redo Model.",
+                    "Supporting Cooperative Awareness with Local Event Mechanisms: The GroupDesk System.",
+                    "Why Groupware Succeeds: Discretion or Mandate?",
+                    "MAJIC Videoconferencing System: Experiments, Evaluation and Improvement.",
+                    "Multimedia Support of Collaboration in a Teleservice Team.",
+                    "What Are Workplace Studies For?",
+                    "Chalk and Cheese: BPR and ethnomethodogically informed ethnography in CSCW."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1993",
+        "name": "3rd ECSCW 1993",
+        "info": "Milano, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ecscw/1993",
+                "sub_name": "Third European Conference on Computer Supported Cooperative Work, ECSCW'93, Milano, Italy, September 13-17, 1993, Proceedings.",
+                "count": 23,
+                "papers": [
+                    "Do Categories Have Politics? The Language/Action Perspective Reconsidered.",
+                    "COLA: a Lightweight Platform for CSCW.",
+                    "Sharing To-Do Lists with a Distributed Task Manager.",
+                    "Supporting The Design Process Within An Organisational Context.",
+                    "Improving Software Quality through Computer Supported Collaborative Review.",
+                    "Design for Privacy in Ubiquitous Computing Environments.",
+                    "The Designers' Notepad: Supporting and Understanding Cooperative Design.",
+                    "A Spatial Model of Interaction in Large Virtual Environments.",
+                    "Culture and Control in a Media Space.",
+                    "TOSCA Providing organisational information to CSCW applications.",
+                    "Unpacking Collaboration: The Interactional Organisation of Trading in a City Dealing Room.",
+                    "Analyzing Cooperative Work in a Urban Traffic Control Room for the Design of a Coordination Support System.",
+                    "Design for Unanticipated Use...",
+                    "Low Overhead, Loosely Coupled Communication Channels in Collaboration.",
+                    "A Model for Semi-(a)Synchronous Collaborative Editing.",
+                    "Informed Opportunism as Strategy: Supporting Coordination in Distributed Collaborative Writing.",
+                    "Support for Collaborative Authoring via Electronic Mail: The MESSIE Environment.",
+                    "Participation Equality and Influence: Cues and Status in Computer-Supported Cooperative Work Groups.",
+                    "The Use of Breakdown Analysis in Synchronous CSCW System Design.",
+                    "An Ethnography of Graphic Design.",
+                    "Building Shared Graphical Editors Using the Abstraction-Link-View Paradigm.",
+                    "Beyond Videophones: TeamWorkStation-2 for Narrowband ISDN.",
+                    "Bringing Media Spaces into the Real World."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1991",
+        "name": "2nd ECSCW 1991",
+        "info": "Amsterdam, The Netherlands",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ecscw/1991",
+                "sub_name": "Proceedings of the Second European Conference on Computer Supported Cooperative Work, 24-27 September 1991, Amsterdam, The Netherlands.",
+                "count": 24,
+                "papers": [
+                    "Riding a Tiger, or Computer Supported Cooperative Work.",
+                    "Personalisable Groupware: Accommodating Individual Roles and Group Differences.",
+                    "Office Systems Development and Gender: Implications for Computer-Supported Co-operative Work.",
+                    "CSCW and Distributed Systems: The Problem of Control.",
+                    "Collaborative Activity and Technological Design: Task Coordination in London Underground Control Rooms.",
+                    "The Group Facilitator: A CSCW Perspective.",
+                    "Idea Management in a Shared Drawing Tool.",
+                    "Panel: Rethinking the Role of Formalization in CSCW.",
+                    "Experiences with the DOMINO Office Procedure System.",
+                    "Distributed Computing and Organisational Change Enable Concurrent Engineering.",
+                    "An Analysis of Design and Collaboration in a Distributed Environment.",
+                    "ClearFace: Translucent Multiuser Interface for TeamWorkStation.",
+                    "PEPYS: Generating Autobiographies by Automatic Tracking.",
+                    "Panel: Organisational Memory.",
+                    "Boosting Connectivity in a Student Generated Collaborative Database.",
+                    "A Model for Real-Time Co-operation.",
+                    "Questioning Representations.",
+                    "Speech Acts or Communicative Action?",
+                    "The Concept of Activity as a Basic Unit of Analysis for CSCW Research.",
+                    "Being Selectively Aware with the Khronika System.",
+                    "Participation Frameworks for Computer Mediated Communication.",
+                    "Electronic Capture and Transmission of Cultural Expertise in Craft Communities.",
+                    "Sound Support for Collaboration.",
+                    "CSCW: Discipline or Paradigm? A Sociological Perspective."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1989",
+        "name": "1st ECSCW 1989",
+        "info": "Gatwick, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ecscw/1989",
+                "sub_name": "Proceedings of the First European Conference on Computer Supported Cooperative Work, ECSCW 1989, Gatwick, London, UK, September 13-15, 1989.",
+                "count": 20,
+                "papers": [
+                    "Aspects of cooperation in a Distributed Problem Solving environment.",
+                    "Inter-Organizational Information Systems as a Tool for Computer-Supported Co-Operative Work.",
+                    "Requirements of Activity Management.",
+                    "Relevance of the X.500 Directory to CSCW Applications.",
+                    "Conference Toolkit: A Framework for Real-Time Conferencing.",
+                    "Knowledge-Based Office Automation and CSCW.",
+                    "Information Domains in CSCW.",
+                    "Cooperative Prototyping Experiments - Users and Designers Envision a Dental Case Record System.",
+                    "CSCW: Four Characters in Search of a Context.",
+                    "The Psychology of Cooperation - Consequences of Descriptions. The power of creative dialogues.",
+                    "The Elementary-Pragmatic Model: A Possible Approach for Setting Up User Model.",
+                    "CoNeX: Coordination and Negotiation Support for Expert Teams in Project Management.",
+                    "Modelling Group Communication Structures: Analysing four European projects.",
+                    "Considerations for a Framework for CATeam Research.",
+                    "Computer Aided Modelling of Costs in the Road Haulage Transport.",
+                    "Approaching Group Communication by means of an Office Building Metaphor.",
+                    "A Theory of Document Processing Machines - Praxiological and Cybernatical Appraoch to Information Systems.",
+                    "Multimedia Conference Across Wide-Area Networks.",
+                    "The 'Labratory for Cooperation Technologies' and Italian Initiatives on Computer-Supported Cooperative Work.",
+                    "Identifying Decision Makers For Large-Scale Group Decisions."
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,2139 @@
+[
+    {
+        "year": "2021",
+        "name": "22nd Middleware 2021",
+        "info": "Qu\u00e9bec City, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/middleware/2021",
+                "sub_name": "Middleware '21: 22nd International Middleware Conference, Qu\u00e9bec City, Canada, December 6 - 10, 2021.",
+                "count": 29,
+                "papers": [
+                    "Precursor: a fast, client-centric and trusted key-value store using RDMA and Intel SGX.",
+                    "PProx: efficient privacy for recommendation-as-a-service.",
+                    "FW-KV: improving read guarantees in PSI.",
+                    "Towards optimal placement and scheduling of DNN operations with Pesto.",
+                    "Prosecutor: an efficient BFT consensus algorithm with behavior-aware penalization against Byzantine attacks.",
+                    "SeBS: a serverless benchmark suite for function-as-a-service computing.",
+                    "Magic-Pipe: self-optimizing video analytics pipelines.",
+                    "sgx-dl: dynamic loading and hot-patching for secure applications: experience paper.",
+                    "Xar-trek: run-time execution migration among FPGAs and heterogeneous-ISA CPUs.",
+                    "SHARC: improving adaptive replacement cache with shadow recency cache management.",
+                    "Experience Paper: Danaus: isolation and efficiency of container I/O at the client side of network storage.",
+                    "SwitchFlow: preemptive multitasking for deep learning.",
+                    "FaaSTCC: efficient transactional causal consistency for serverless computing.",
+                    "RamCast: RDMA-based atomic multicast.",
+                    "Memory at your service: fast memory allocation for latency-critical services.",
+                    "Gossip consensus.",
+                    "Experience Paper: Towards enhancing cost efficiency in serverless machine learning training.",
+                    "CAT: content-aware tracing and analysis for distributed systems.",
+                    "Snarl: entangled merkle trees for improved file availability and storage utilization.",
+                    "Sizeless: predicting the optimal size of serverless functions.",
+                    "Let's wait awhile: how temporal workload shifting can reduce carbon emissions in the cloud.",
+                    "Lognroll: discovering accurate log templates by iterative filtering.",
+                    "Privacy preserving event based transaction system in a decentralized environment.",
+                    "YASMIN: a real-time middleware for COTS heterogeneous platforms.",
+                    "Implicit model specialization through dag-based decentralized federated learning.",
+                    "A fresh look at the architecture and performance of contemporary isolation platforms.",
+                    "Highly-available and consistent group collaboration at the edge with colony.",
+                    "Montsalvat: Intel SGX shielding for GraalVM native images.",
+                    "Lachesis: a middleware for customizing OS scheduling of stream processing queries."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2021i",
+                "sub_name": "Middleware '21: Proceedings of the 22nd International Middleware Conference: Industrial Track, Virtual Event / Qu\u00e9bec City, Canada, December 6 - 10, 2021.",
+                "count": 4,
+                "papers": [
+                    "Authenticated key-value stores with hardware enclaves.",
+                    "The serverless shell.",
+                    "Polygon: a QUIC-based CDN server selection system supporting multiple resource demands.",
+                    "Procedure-driven deployment support for the microservice era."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2021p",
+                "sub_name": "Middleware '21: Proceedings of the 22nd International Middleware Conference: Demos and Posters, Virtual Event / Qu\u00e9bec City, Canada, December 6 - 10, 2021.",
+                "count": 8,
+                "papers": [
+                    "Scanflow: an end-to-end agent-based autonomic ML workflow manager for clusters.",
+                    "A zero-knowledge proof system for OpenLibra.",
+                    "Benchmarking Apache Kafka under network faults.",
+                    "DyMonD: dynamic application monitoring and service detection framework.",
+                    "A milestone for FaaS pipelines; object storage-vs VM-driven data exchange.",
+                    "Benchmarking-as-a-service for cloud-hosted DBMS.",
+                    "Bricks: a configurable coordination service with multiple consistency models.",
+                    "GNOSIS- query-driven multimodal event processing for unstructured data streams."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2021ds",
+                "sub_name": "Middleware 2021: Proceedings of the 22nd International Middleware Conference: Doctoral Symposium, Qu\u00e9bec City, Canada, December 6-10, 2021.",
+                "count": 11,
+                "papers": [
+                    "Config 2.0: towards reinforcement learning based configuration of stream processing systems.",
+                    "AutoML: towards automation of machine learning systems maintainability.",
+                    "Multi-objective evolutionary based feature selection supported by distributed multi-label classification and deep learning on image/video data.",
+                    "Efficient parallel execution of block transactions in blockchain.",
+                    "OneOS: a distributed operating system for the internet of things.",
+                    "Non-relational multi-level caching for mitigation of staleness & stragglers in distributed deep learning.",
+                    "Using blockchain to provide trusted interoperability to system-of-systems in smart cities context.",
+                    "Autonomous resource management in distributed stream processing systems.",
+                    "Token-based incentive schemes in decentralized P2P storage networks.",
+                    "Using blockchain technology for software identity maintenance.",
+                    "FlexOS: easy specialization of OS safety properties."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2021ea",
+                "sub_name": "Middleware '21: Proceedings of the 22nd International Middleware Conference: Extended Abstracts, Virtual Event / Qu\u00e9bec City, Canada, December 6 - 10, 2021.",
+                "count": 3,
+                "papers": [
+                    "Towards transparent and trustworthy cloud carbon accounting.",
+                    "Connected and autonomous vehicles as a grand challenge for middleware in cyber-physical systems.",
+                    "The cloud to things continuum: infrastructure and management."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2021m4iot",
+                "sub_name": "M4IoT@Middleware 2021: Proceedings of the 8th International Workshop on Middleware and Applications for the Internet of Things, Virtual Event, Canada, December 6 - 10, 2021.",
+                "count": 3,
+                "papers": [
+                    "Towards low-effort development of advanced IoT applications.",
+                    "RedCASTLE: practically applicable ks-anonymity for IoT streaming data at the edge in node-RED.",
+                    "Towards grassroots peering at the edge."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2021woc",
+                "sub_name": "WOC '21: Proceedings of the Seventh International Workshop on Container Technologies and Container Clouds, Virtual Event, Canada, 6 December 2021.",
+                "count": 5,
+                "papers": [
+                    "Pods-as-Volumes: Effortlessly Integrating Storage Systems and Middleware into Kubernetes.",
+                    "Designing a Kubernetes Operator for Machine Learning Applications.",
+                    "tapiser\u00ed: Blueprint to modernize DevSecOps for real world.",
+                    "Tritium: A Cross-layer Analytics System for Enhancing Microservice Rollouts in the Cloud.",
+                    "On The Design of SLA-Aware and Cost-Efficient Event Driven Microservices."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "name": "21st Middleware 2020",
+        "info": "Virtual Event / Delft, The Netherlands",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/middleware/2020",
+                "sub_name": "Middleware '20: 21st International Middleware Conference, Delft, The Netherlands, December 7-11, 2020.",
+                "count": 30,
+                "papers": [
+                    "Prebaking Functions to Warm the Serverless Cold Start.",
+                    "Resilient Cloud-based Replication with Low Latency.",
+                    "Practical Active Revocation.",
+                    "secureTF: A Secure TensorFlow Framework.",
+                    "On Delivery Guarantees in Distributed Content-Based Publish/Subscribe Systems.",
+                    "MATCH: A Decentralized Middleware for Fair Matchmaking In Peer-to-Peer Markets.",
+                    "PipeTune: Pipeline Parallelism of Hyper and System Parameters Tuning for Deep Learning Clusters.",
+                    "Fast Training of Deep Learning Models over Multiple GPUs.",
+                    "BoLT: Barrier-optimized LSM-Tree.",
+                    "JellyFish: A Fast Skip List with MVCC.",
+                    "Consistent and Secure Network Updates Made Practical.",
+                    "FLeet: Online Federated Learning via Staleness Awareness and Performance Prediction.",
+                    "TEEMon: A continuous performance monitoring framework for TEEs.",
+                    "FeGAN: Scaling Distributed GANs.",
+                    "Poseidon: Safe, Fast and Scalable Persistent Memory Allocator.",
+                    "WASP: Wide-area Adaptive Stream Processing.",
+                    "SplitServe: Efficiently Splitting Apache Spark Jobs Across FaaS and IaaS.",
+                    "SR3: Customizable Recovery for Stateful Stream Processing Systems.",
+                    "Sledge: a Serverless-first, Light-weight Wasm Runtime for the Edge.",
+                    "Fifer: Tackling Resource Underutilization in the Serverless Era.",
+                    "PASTRAMI: Privacy-preserving, Auditable, Scalable & Trustworthy Auctions for Multiple Items.",
+                    "A practical approach for updating an integrity-enforced operating system.",
+                    "Regaining Lost Seconds: Efficient Page Preloading for SGX Enclaves.",
+                    "Improving the Restore Performance via Physical-Locality Middleware for Backup Systems.",
+                    "Xanadu: Mitigating cascading cold starts in serverless function chain deployments.",
+                    "Cost-Effective Data Feeds to Blockchains via Workload-Adaptive Data Replication.",
+                    "Mitigating Stragglers in the Decentralized Training on Heterogeneous Clusters.",
+                    "Coral-Pie: A Geo-Distributed Edge-compute Solution for Space-Time Vehicle Tracking.",
+                    "An OpenMP Runtime for Transparent Work Sharing Across Cache-Incoherent Heterogeneous Nodes.",
+                    "DoubleFaceAD: A New Datastore Driver Architecture to Optimize Fanout Query Performance."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2020i",
+                "sub_name": "Middleware '20: Proceedings of the 21st International Middleware Conference Industrial Track, Delft, The Netherlands, December 7-11, 2020.",
+                "count": 6,
+                "papers": [
+                    "mmFilter: Language-Guided Video Analytics at the Edge.",
+                    "blockNDP: Block-storage Near Data Processing.",
+                    "DiagSys: network and third-party web-service monitoring from the browser's perspective (industry track).",
+                    "HopsFS-S3: Extending Object Stores with POSIX-like Semantics and more (industry track).",
+                    "Primula: a Practical Shuffle/Sort Operator for Serverless Computing.",
+                    "Secure Volume Hot-plugging for Containers (industry track)."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2020p",
+                "sub_name": "Middleware '20 Demos and Posters: Proceedings of the 21st International Middleware Conference Demos and Posters, Virtual Event / Delft, The Netherlands, December 7-11, 2020.",
+                "count": 5,
+                "papers": [
+                    "Hierarchical Topic Aggregation for Geospatial Applications through Processing Extensions in Message Brokers.",
+                    "Given 2n Eyeballs, All Quality Flaws Are Shallow.",
+                    "Version Detection for Software Discovery in the Cloud.",
+                    "DynPubSub: A Peer To Peer Overlay For Topic-Based Pub/Sub Systems Deployed at the Edge.",
+                    "Practical Trade-Offs in Integrity Protection for Binaries via Ethereum."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2020ds",
+                "sub_name": "Proceedings of the 21st International Middleware Conference Doctoral Symposium, Middleware 2020, Virtual Event / Delft, The Netherlands, December 07-11, 2020.",
+                "count": 12,
+                "papers": [
+                    "Towards Environmental-Adaptive and Performance-Resilient Consensus in Distributed Ledger Technology.",
+                    "Model-based auto-scaling of distributed data stream processing applications.",
+                    "Rubberband: Enabling Elastic Federated Learning with the Temporary State Management.",
+                    "Fog Transport Mode Detection.",
+                    "Griffin: A Storage Service for Granular Edge Applications.",
+                    "Selecting a JVM Garbage Collector for Big Data and Cloud Services.",
+                    "Towards Autonomous Security Monitoring in Internet-of-Things Infrastructures.",
+                    "Minimizing Cost and Maximizing Performance for Cloud Platforms.",
+                    "Self-managed services using MirageOS unikernels.",
+                    "Execution Migration of Managed Languages Programs Among Heterogeneous-ISA Processing Units.",
+                    "Building Private-by-Design IoT Systems.",
+                    "Apodini: An Internal Domain Specific Language to Design Web Services."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2020woc",
+                "sub_name": "Proceedings of the 6th International Workshop on Container Technologies and Container Clouds, WOC@Middleware 2020, Delft, The Netherlands, December 07-11, 2020.",
+                "count": 7,
+                "papers": [
+                    "Filenail: Working with Incomplete Filesystem State.",
+                    "Heterogeneous MacroTasking (HeMT) for Parallel Processing in the Cloud.",
+                    "Flexible Migration in Blue-Green Deployments within a Fixed Cost.",
+                    "Cheetah: A fast unsupervised learning technique to provision next generation network services.",
+                    "Deepstitch: Deep Learning for Cross-Layer Stitching in Microservices.",
+                    "Container Hardening Through Automated Seccomp Profiling.",
+                    "Understanding the performance of container execution environments."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2020serial",
+                "sub_name": "Proceedings of the 4th Workshop on Scalable and Resilient Infrastructures for Distributed Ledgers, SERIAL@Middleware 2020, Delft, The Netherlands, December 07-11, 2020.",
+                "count": 2,
+                "papers": [
+                    "Scalable Log Auditing on Private Blockchains via Lightweight Log-Fork Prevention.",
+                    "Healthor: Protecting the Weak in Heterogeneous DLTs with Health-aware Flow Control."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "20th Middleware 2019",
+        "info": "Davis, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/middleware/2019",
+                "sub_name": "Proceedings of the 20th International Middleware Conference, Middleware 2019, Davis, CA, USA, December 9-13, 2019.",
+                "count": 25,
+                "papers": [
+                    "SlimGuard: A Secure and Memory-Efficient Heap Allocator.",
+                    "EnclaveCache: A Secure and Scalable Key-value Cache in Multi-tenant Clouds using Intel SGX.",
+                    "OS-Augmented Oversubscription of Opportunistic Memory with a User-Assisted OOM Killer.",
+                    "On the FaaS Track: Building Stateful Distributed Applications with Serverless Architectures.",
+                    "Generalized Consensus for Practical Fault Tolerance.",
+                    "Scalable Data-structures with Hierarchical, Distributed Delegation.",
+                    "FfDL: A Flexible Multi-tenant Deep Learning Platform.",
+                    "Pando: Personal Volunteer Computing in Browsers.",
+                    "FabricCRDT: A Conflict-Free Replicated Datatypes Approach to Permissioned Blockchains.",
+                    "AccTEE: A WebAssembly-based Two-way Sandbox for Trusted Resource Accounting.",
+                    "MooD: MObility Data Privacy as Orphan Disease: Experimentation and Deployment Paper.",
+                    "Monitorless: Predicting Performance Degradation in Cloud Applications with Machine Learning.",
+                    "Automating Multi-level Performance Elastic Components for IBM Streams.",
+                    "Self-adaptive Executors for Big Data Processing.",
+                    "PrivaTube: Privacy-Preserving Edge-Assisted Video Streaming.",
+                    "Differential Approximation and Sprinting for Multi-Priority Big Data Engines.",
+                    "eSPICE: Probabilistic Load Shedding from Input Event Streams in Complex Event Processing.",
+                    "Boosting concurrency in Parallel State Machine Replication.",
+                    "Lazarus: Automatic Management of Diversity in BFT Systems.",
+                    "Combining it all: Cost minimal and low-latency stream processing across distributed heterogeneous infrastructures.",
+                    "ProvMark: A Provenance Expressiveness Benchmarking System.",
+                    "ReLAQS: Reducing Latency for Multi-Tenant Approximate Queries via Scheduling.",
+                    "AquaEIS: Middleware Support for Event Identification in Community Water Infrastructures.",
+                    "Switchboard: A Middleware for Wide-Area Service Chaining.",
+                    "Medley: A Novel Distributed Failure Detector for IoT Networks."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2019i",
+                "sub_name": "Proceedings of the 20th International Middleware Conference Industrial Track, Davis, CA, USA, December 9-13, 2019.",
+                "count": 8,
+                "papers": [
+                    "Profiling Dynamic Data Access Patterns with Controlled Overhead and Quality.",
+                    "Building Own Blockchain.",
+                    "Multi-Device Framework with Spatial Clustering.",
+                    "Designing for Privacy and Confidentiality on Distributed Ledgers for Enterprise (Industry Track).",
+                    "Enabling Enterprise Blockchain Interoperability with Trusted Data Transfer (Industry Track).",
+                    "It's not a Sprint, it's a Marathon: Stretching Multi-resource Burstable Performance in Public Clouds.",
+                    "VideoPipe: Building Video Stream Processing Pipelines at the Edge.",
+                    "DataBlinder: A distributed data protection middleware supporting search and computation on encrypted data."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2019p",
+                "sub_name": "Proceedings of the 20th International Middleware Conference Demos and Posters, Middleware 2019, Davis, CA, USA, December 9-13, 2019.",
+                "count": 16,
+                "papers": [
+                    "A Fast and Secure Key-Value Service Using Hardware Enclaves.",
+                    "HyperProv: Decentralized Resilient Data Provenance at the Edge with Blockchains.",
+                    "A Glimpse of the Matrix: Scalability issues of a new message-oriented data synchronization middleware.",
+                    "AquaSCALE - Exploring Resilience of Community Water Infrastructures.",
+                    "Serverless-Enabled Permissioned Blockchain for Elastic Transaction Processing.",
+                    "Highly Flexible Server Agnostic Complex Event Processing Operators.",
+                    "Chaining of hardware accelerated Virtual Network Functions in PCIe Environments.",
+                    "Data-Driven Windows to Accelerate Video Stream Content Extraction in Complex Event Processing.",
+                    "A Blockchain-based Payment and Validity Check System for Vehicle Services.",
+                    "Haren: A Middleware for Ad-Hoc Thread Scheduling Policies in Data Streaming.",
+                    "ByzGame, a Visualized and Understandable BFT Consensus.",
+                    "Praxi: Cloud Software Discovery That Learns From Practice.",
+                    "A Monocular Vision-based Obstacle Avoidance Android/Linux Middleware for the Visually Impaired.",
+                    "ACTiManager: An end-to-end interference-aware cloud resource manager.",
+                    "UrbanPulse: Adaptable Middleware to offer City and User Centric Smart City Solution.",
+                    "VR Application Framework for Collecting Sensor Data in Risky Situations."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2019t",
+                "sub_name": "Proceedings of the 20th International Middleware Conference Tutorials, Middleware 2019, Davis, CA, USA, December 9-13, 2019.",
+                "count": 2,
+                "papers": [
+                    "Leveraging Queueing Theory and OS Profiling to Reduce Application Latency.",
+                    "An In-Depth Look of BFT Consensus in Blockchain: Challenges and Opportunities."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2019ds",
+                "sub_name": "Proceedings of the 20th International Middleware Conference Doctoral Symposium, Middleware 2019, Davis, CA, USA, December 09-13, 2019.",
+                "count": 15,
+                "papers": [
+                    "Analysing system behaviour by automatic benchmarking of system-level provenance.",
+                    "BlockML: a useful proof of work system based on machine learning tasks.",
+                    "Troubleshooting distributed data analytics systems.",
+                    "Self-organizing middleware for cyber-physical networks.",
+                    "A blockchain-based adaptive middleware for large scale internet of things data storage selection.",
+                    "A trustable platform for exchange of resources across organizations and their customers.",
+                    "Publish-subscribe systems over large dynamic graphs.",
+                    "A queue-oriented transaction processing paradigm.",
+                    "Smart proxying for microservices.",
+                    "Improving the scalability of blockchain through DAG.",
+                    "Monitoring as a service for SDN Based cloud data centers.",
+                    "Dynamic resource management algorithms for edge computing using hardware accelerators.",
+                    "Efficient storage support for unikernels as containers.",
+                    "High-performance complex event processing framework to detect event patterns over video streams.",
+                    "Dredging a data lake: decentralized metadata extraction."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2019dfsd",
+                "sub_name": "Proceedings of the 2nd International Workshop on Distributed Fog Services Design, DFSD@Middleware 2019, Davis, CA, USA, December 09-13, 2019.",
+                "count": 2,
+                "papers": [
+                    "A Survey on Fog Programming: Concepts, State-of-the-Art, and Research Challenges.",
+                    "ProgCEP: A Programming Model for Complex Event Processing over Fog Infrastructure."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2019m4iot",
+                "sub_name": "Proceedings of the 6th International Workshop on Middleware and Applications for the Internet of Things, M4IoT@Middleware 2019, Davis, CA, USA, December 09-13, 2019.",
+                "count": 5,
+                "papers": [
+                    "Untangling the Physical-Digital Knot When Designing Advanced IoT Ecosystems.",
+                    "Automatic Translation of Spatio-Temporal Logics to Streaming-Based Monitoring Applications for IoT-Equipped Autonomous Agents.",
+                    "SORRIR: A Resilient Self-organizing Middleware for IoT Applications [Position Paper].",
+                    "Enhancing Transparency of MQTT Brokers For IoT Applications Through Provenance Streams.",
+                    "A Development Environment for FIWARE-based Internet of Things Applications."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2019serial",
+                "sub_name": "Proceedings of the 3rd Workshop on Scalable and Resilient Infrastructures for Distributed Ledgers, SERIAL@Middleware 2019, Davis, CA, USA, December 09-13, 2019.",
+                "count": 4,
+                "papers": [
+                    "Design of Extensible Non-Fungible Token Model in Hyperledger Fabric.",
+                    "You Don't Need a Ledger: Lightweight Decentralized Consensus Between Mobile Web Clients.",
+                    "Themis: An Efficient and Memory-Safe BFT Framework in Rust: Research Statement.",
+                    "Codit: Collaborative Auditing for BaaS."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2019woc",
+                "sub_name": "Proceedings of the 5th International Workshop on Container Technologies and Container Clouds, WOC@Middleware 2019, Davis, CA, USA, December 09-13, 2019.",
+                "count": 8,
+                "papers": [
+                    "Overbooking Lambda Functions in the Cloud.",
+                    "A framework for black-box SLO tuning of multi-tenant applications in Kubernetes.",
+                    "PRISM: An Experiment Framework for Straggler Analytics in Containerized Clusters.",
+                    "Container Orchestration for Dispersed Computing.",
+                    "A Case for Performance-Aware Deployment of Containers.",
+                    "Can Container Fusion Be Securely Achieved?",
+                    "Leveraging Kubernetes for adaptive and cost-efficient resource management.",
+                    "Rule based lightweight approach for resources monitoring on IoT Edge devices."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "19th Middleware 2018",
+        "info": "Rennes, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/middleware/2018",
+                "sub_name": "Proceedings of the 19th International Middleware Conference, Middleware 2018, Rennes, France, December 10-14, 2018.",
+                "count": 22,
+                "papers": [
+                    "All-Spark: Using Simulation Tests Directly in Production Environments to Detect System Bottlenecks in Large-Scale Systems.",
+                    "QueCC: A Queue-oriented, Control-free Concurrency Architecture.",
+                    "Size Matters: Improving the Performance of Small Files in Hadoop.",
+                    "CRIMES: Using Evidence to Secure the Cloud.",
+                    "Olympian: Scheduling GPU Usage in a Deep Neural Network Model Serving System.",
+                    "SpinStreams: a Static Optimization Tool for Data Stream Processing Applications.",
+                    "SPADE: Tuning scale-out OLTP on modern RDMA clusters.",
+                    "Adaptive Software Cache Management.",
+                    "RockFS: Cloud-backed File System Resilience to Client-Side Attacks.",
+                    "Distributed transactional reads: the strong, the quick, the fresh & the impossible.",
+                    "Gemini: A Distributed Crash Recovery Protocol for Persistent Caches.",
+                    "Pythia: Improving Datacenter Utilization via Precise Contention Prediction for Multiple Co-located Workloads.",
+                    "Omni: An Application Framework for Seamless Device-to-Device Interaction in the Wild.",
+                    "PreDict: Predictive Dictionary Maintenance for Message Compression in Publish/Subscribe.",
+                    "EActors: Fast and flexible trusted computing using SGX.",
+                    "sgx-perf: A Performance Analysis Tool for Intel SGX Enclaves.",
+                    "Speculative Read Write Locks.",
+                    "GeneaLog: Fine-Grained Data Streaming Provenance at the Edge.",
+                    "Adaptive Execution of Continuous and Data-intensive Workflows with Machine Learning.",
+                    "Aggressive Synchronization with Partial Processing for Iterative ML Jobs on Clusters.",
+                    "SpecRPC: A General Framework for Performing Speculative Remote Procedure Calls.",
+                    "FireDeX: a Prioritized IoT Data Exchange Middleware for Emergency Response."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2018i",
+                "sub_name": "Proceedings of the 19th International Middleware Conference, Middleware Industrial Track 2018, Rennes, France, December 10-14, 2018.",
+                "count": 8,
+                "papers": [
+                    "Serverless Data Analytics in the IBM Cloud.",
+                    "The Design and Implementation of a Real Time Visual Search System on JD E-commerce Platform.",
+                    "D\u00e9j\u00e0Vu: Bringing Black-box Security Analytics to Cloud.",
+                    "Exploratory Study of Privacy Preserving Fraud Detection.",
+                    "NBWGuard: Realizing Network QoS for Kubernetes.",
+                    "A High Performance, Scalable DNS Service for Very Large Scale Container Cloud Platforms.",
+                    "Resource Fairness and Prioritization of Transactions in Permissioned Blockchain Systems (Industry Track).",
+                    "BcWAN: A Federated Low-Power WAN for the Internet of Things (Industry track)."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2018p",
+                "sub_name": "Proceedings of the 19th International Middleware Conference (Posters), Middleware 2018, Rennes, France, December 10-14, 2018.",
+                "count": 12,
+                "papers": [
+                    "FogExplorer.",
+                    "A Distributed Analysis and Benchmarking Framework for Apache OpenWhisk Serverless Platform.",
+                    "Attack and Vulnerability Simulation Framework for Bitcoin-like Blockchain Technologies.",
+                    "CIDDS: A Configurable and Distributed DAG-based Distributed Ledger Simulation Framework.",
+                    "A Serverless Approach to Publish/Subscribe Systems.",
+                    "eVIBES: Configurable and Interactive Ethereum Blockchain Simulation Framework.",
+                    "Applying Web-Technologies for Device State Processing in IoT Middleware.",
+                    "mKPAC: Kernel Packet Processing for Manycore Systems.",
+                    "A DSL for composing IoT systems.",
+                    "Understanding the Behavior of Operator Placement Mechanisms on Large-Scale Networks.",
+                    "An Implementation Experience with SDN-enabled IoT Data Exchange Middleware.",
+                    "Understanding Scheduler Workload on Non-Hyperscale Cloud Platform."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2018t",
+                "sub_name": "Proceedings of the 19th International Middleware Conference Tutorials, Middleware 2018, Rennes, France, December 10-14, 2018.",
+                "count": 2,
+                "papers": [
+                    "Tutorial: Adaptive Replication and Partitioning in Data Systems.",
+                    "Blockchain Landscape and AI Renaissance: The Bright Path Forward."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2018m4iot",
+                "sub_name": "Proceedings of the 5th Workshop on Middleware and Applications for the Internet of Things, M4IoT@Middleware 2018, Rennes, France, December 10-11, 2018.",
+                "count": 9,
+                "papers": [
+                    "Supporting the Evaluation of Fog-based IoT Applications During the Design Phase.",
+                    "Expect the unexpected: Towards a middleware for policy adaptation in IoT platforms.",
+                    "Public Video Surveillance: Using the Fog to Increase Privacy.",
+                    "Towards automated privacy risk assessments in IoT systems.",
+                    "Real-time Distributed In-Situ Benchmarking of Energy Harvesting IoT Devices.",
+                    "Towards an Intelligent User-Oriented Middleware for Opportunistic Composition of Services in Ambient Spaces.",
+                    "Cross-layer QoS-Aware Resource Allocation for IoT-Enabled Service Choreographies.",
+                    "Position paper: Towards End-to-end Privacy for Publish/Subscribe Architectures in the Internet of Things.",
+                    "A Middleware Environment for Developing Internet of Things Applications."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2018serial",
+                "sub_name": "Proceedings of the 2nd Workshop on Scalable and Resilient Infrastructures for Distributed Ledgers, SERIAL@Middleware 2018, Rennes, France, December 10, 2018.",
+                "count": 5,
+                "papers": [
+                    "StreamChain: Do Blockchains Need Blocks?",
+                    "Off-chaining Models and Approaches to Off-chain Computations.",
+                    "Scaling Byzantine Consensus: A Broad Analysis.",
+                    "Sol2js: Translating Solidity Contracts into Javascript for Hyperledger Fabric.",
+                    "Towards Solving the Data Availability Problem for Sharded Ethereum."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2018mecc",
+                "sub_name": "Proceedings of the 3rd Workshop on Middleware for Edge Clouds & Cloudlets, MECC@Middleware 2018, Rennes, France, December 11, 2018.",
+                "count": 2,
+                "papers": [
+                    "METRIC: A Middleware for Entry Transactional Database Clustering at the Edge.",
+                    "ShareLatex on the Edge: Evaluation of the Hybrid Core/Edge Deployment of a Microservices-based Application."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "18th Middleware 2017",
+        "info": "Las Vegas, NV, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/middleware/2017",
+                "sub_name": "Proceedings of the 18th ACM/IFIP/USENIX Middleware Conference, Las Vegas, NV, USA, December 11 - 15, 2017.",
+                "count": 20,
+                "papers": [
+                    "HyperDrive: exploring hyperparameters with POP scheduling.",
+                    "Sieve: actionable insights from monitored metrics in distributed systems.",
+                    "Rafiki: a middleware for parameter tuning of NoSQL datastores for dynamic metagenomics workloads.",
+                    "Rivulet: a fault-tolerant platform for smart-home applications.",
+                    "Binary compatible graphics support in Android for running iOS apps.",
+                    "Sense-aid: a framework for enabling network as a service for participatory sensing.",
+                    "ORCA: an ORChestration automata for configuring VNFs.",
+                    "Improving spark application throughput via memory aware task co-location: a mixture of experts approach.",
+                    "Swayam: distributed autoscaling to meet SLAs of machine learning inference services with resource efficiency.",
+                    "Data-driven serverless functions for object storage.",
+                    "A programming model for application-defined multipath TCP scheduling.",
+                    "POLM2: automatic profiling for object lifetime-aware memory management for hotspot big data applications.",
+                    "SPECTRE: supporting consumption policies in window-based parallel complex event processing.",
+                    "Efficient covering for top-k filtering in content-based publish/subscribe systems.",
+                    "StreamApprox: approximate computing for stream analytics.",
+                    "X-search: revisiting private web search using intel SGX.",
+                    "Rectify: black-box intrusion recovery in PaaS clouds.",
+                    "Scheduler activations for interference-resilient SMP virtual machine scheduling.",
+                    "DoubleDecker: a cooperative disk caching framework for derivative clouds.",
+                    "Ginja: one-dollar cloud-based disaster recovery for databases."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2017i",
+                "sub_name": "Proceedings of the 18th ACM/IFIP/USENIX Middleware Conference: Industrial Track, Las Vegas, NV, USA, December 11 - 15, 2017.",
+                "count": 7,
+                "papers": [
+                    "Reliable messaging to millions of users with migratorydata.",
+                    "Accessing google scholar under extreme internet censorship: a legal avenue.",
+                    "Predicting DRAM reliability in the field with machine learning.",
+                    "Darnet: a deep learning solution for distracted driving detection.",
+                    "Usable declarative configuration specification and validation for applications, systems, and cloud.",
+                    "S\u03bcV - the security microvisor: a virtualisation-based security middleware for the internet of things.",
+                    "Opvis: extensible, cross-platform operational visibility and analytics for cloud."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2017ds",
+                "sub_name": "Proceedings of the 18th Doctoral Symposium of the 18th International Middleware Conference, Las Vegas, NV, USA, December 11 - 15, 2017.",
+                "count": 7,
+                "papers": [
+                    "Sharing a connectivity through informed proxy selection process.",
+                    "Message-oriented middleware for edge computing applications.",
+                    "Continuous experimentation for software developers.",
+                    "End-to-end regression testing for distributed systems.",
+                    "Towards a framework for orchestrated distributed database evaluation in the cloud.",
+                    "Toward software updates in IoT environments: why existing P2P systems are not enough.",
+                    "Towards accelerating synchrophasor based linear state estimation of power grid systems."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2017pd",
+                "sub_name": "Proceedings of the 18th ACM/IFIP/USENIX Middleware Conference: Posters and Demos, Las Vegas, NV, USA, December 11 - 15, 2017.",
+                "count": 12,
+                "papers": [
+                    "A software-defined hybrid cache with reduced energy: poster.",
+                    "Realizing an elastic memcached via cached data migration: poster.",
+                    "A shared multi-stakeholder platform for IoT: poster.",
+                    "Drowsy-DC, datacenter power management inspired by smartphones: poster.",
+                    "Abstractions for supercomputing platforms to facilitate consolidation of services: poster.",
+                    "Improving server utilization via resource-adaptive batch VMs: poster.",
+                    "Programming application-defined multipath TCP schedulers: demo.",
+                    "Hyperpubsub: a decentralized, permissioned, publish/subscribe service using blockchains: demo.",
+                    "Combat state-aware interest management for online games: demo.",
+                    "VIBES: fast blockchain simulations for large-scale peer-to-peer networks: demo.",
+                    "MoCA+: incorporating user modeling into mobile contextual advertising: demo.",
+                    "A serverless topic-based and content-based pub/sub broker: demo."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2017m4iot",
+                "sub_name": "Proceedings of the 4th Workshop on Middleware and Applications for the Internet of Things, M4IoT@Middleware 2017, Las Vegas, NV, USA, December 11, 2017.",
+                "count": 4,
+                "papers": [
+                    "A dynamic decision fusion middleware for trustworthy context-aware IoT applications.",
+                    "IoTVar to transparently handle interactions between applications and IoT platforms.",
+                    "ThingsJS: towards a flexible and self-adaptable middleware for dynamic and heterogeneous IoT environments.",
+                    "PlaTIBART: a platform for transactive IoT blockchain applications with repeatable testing."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2017serial",
+                "sub_name": "Proceedings of the 1st Workshop on Scalable and Resilient Infrastructures for Distributed Ledgers, SERIAL@Middleware 2017, Las Vegas, NV, USA, December 11-15, 2017.",
+                "count": 7,
+                "papers": [
+                    "EPBC: Efficient Public Blockchain Client for lightweight users.",
+                    "Towards an economic analysis of routing in payment channel networks.",
+                    "On the design of communication and transaction anonymity in blockchain-based transactive microgrids.",
+                    "Blackchain: scalability for resource-constrained accountable vehicle-to-x communication.",
+                    "How blockchains can help legal metrology.",
+                    "A byzantine fault-tolerant ordering service for the hyperledger fabric blockchain platform.",
+                    "A general framework for blockchain analytics."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2017active",
+                "sub_name": "Proceedings of the Second International Workshop on Active Middleware on Modern Hardware, ACTIVE@Middleware 2017, Las Vegas, NV, USA, December 11-15, 2017.",
+                "count": 6,
+                "papers": [
+                    "Netstore: leveraging network optimizations to improve distributed transaction processing performance.",
+                    "Online reconfigurable line-rate matching of filter rules.",
+                    "SABER: hybrid data processing with heterogeneous servers.",
+                    "Active network middleware with opennetVM.",
+                    "Harnessing the power of software-defined networking for a high performance communication middleware.",
+                    "Hardware accelerated application integration: challenges and opportunities."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2017mecc",
+                "sub_name": "Proceedings of the 2nd Workshop on Middleware for Edge Clouds & Cloudlets, MECC@Middleware 2017, Las Vegas, NV, USA, December 11 - 15, 2017.",
+                "count": 4,
+                "papers": [
+                    "Towards a middleware for mobile edge-cloud applications.",
+                    "Towards a persistent publish/subscribe system for networks of mobile devices.",
+                    "A bandwidth allocation scheme based on residual bandwidth information in mobile edge computing.",
+                    "Towards decentralised resilient community clouds."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2017wosc",
+                "sub_name": "Proceedings of the 2nd International Workshop on Serverless Computing, WOSC@Middleware 2017, Las Vegas, NV, USA, December 12, 2017.",
+                "count": 7,
+                "papers": [
+                    "The SPEC cloud group's research vision on FaaS and serverless architectures.",
+                    "Speeding up children reunification in disaster scenarios via serverless computing.",
+                    "Serverless: beyond the cloud.",
+                    "Using a serverless framework for implementing a cognitive tutor: experiences and issues.",
+                    "Kappa: serverless IoT deployment.",
+                    "The less server architecture for cloud functions.",
+                    "Self-contained web components through serverless computing."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "17th Middleware 2016",
+        "info": "Trento, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/middleware/2016",
+                "sub_name": "Proceedings of the 17th International Middleware Conference, Trento, Italy, December 12 - 16, 2016.",
+                "count": 21,
+                "papers": [
+                    "Containers and Virtual Machines at Scale: A Comparative Study.",
+                    "SDNFV: Flexible and Dynamic Software Defined Control of an Application- and Flow-Aware Data Plane.",
+                    "Unifying HDFS and GPFS: Enabling Analytics on Software-Defined Storage.",
+                    "Locality-Aware Routing in Stateful Streaming Applications.",
+                    "ALMA: GC-assisted JVM Live Migration for Java Server Applications.",
+                    "Mitigating performance unpredictability in the IaaS using the Kyoto principle.",
+                    "AdaptCache: Adaptive Data Partitioning and Migration for Distributed Object Caches.",
+                    "NetAlytics: Cloud-Scale Application Performance Monitoring with SDN and NFV.",
+                    "BrowserFlow: Imprecise Data Flow Tracking to Prevent Accidental Data Disclosure.",
+                    "Secure Content-Based Routing Using Intel Software Guard Extensions.",
+                    "Online Scheduling for Shuffle Grouping in Distributed Stream Processing Systems.",
+                    "Bifrost: Supporting Continuous Deployment with Automated Enactment of Multi-Phase Live Testing Strategies.",
+                    "Big ideas paper: Policy-driven middleware for a legally-compliant Internet of Things.",
+                    "SecureKeeper: Confidential ZooKeeper using Intel SGX.",
+                    "Geo-Distribution of Flexible Business Processes over Publish/Subscribe Paradigm.",
+                    "Programming Scalable Cloud Services with AEON.",
+                    "Dos and Don'ts in Mobile Phone Sensing Middleware: Learning from a Large-Scale Experiment.",
+                    "Orion: A Framework for GPU Occupancy Tuning.",
+                    "Atum: Scalable Group Communication Using Volatile Groups.",
+                    "Locking Made Easy.",
+                    "Dynamic Load Balancing for Ordered Data-Parallel Regions in Distributed Streaming Systems."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2016i",
+                "sub_name": "Proceedings of the Industrial Track of the 17th International Middleware Conference, Trento, Italy, December 12-16, 2016.",
+                "count": 3,
+                "papers": [
+                    "MP-trie: Fast Spatial Queries on Moving Objects.",
+                    "A Supervised Learning Model for Identifying Inactive VMs in Private Cloud Data Centers.",
+                    "Towards Scalable Service Composition."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2016pd",
+                "sub_name": "Proceedings of the Posters and Demos Session of the 17th International Middleware Conference, Middleware Posters and Demos 2016, Trento, Italy, December 12-16, 2016.",
+                "count": 17,
+                "papers": [
+                    "Understanding the Behavior of Spark Workloads from Linux Kernel Parameters Perspective.",
+                    "Kanzi: A Distributed, In-memory Key-Value Store.",
+                    "Leveraging Query Sensitivity for Practical Private Web Search.",
+                    "Decentralized Scheduling for Tasklets.",
+                    "Hairspring: Online graph processing middleware for temporal networks.",
+                    "Toward an Easy Configuration of Location Privacy Protection Mechanisms.",
+                    "Self-stabilizing Reconfiguration.",
+                    "Chronograph: A Distributed Platform for Event-Sourced Graph Computing.",
+                    "Evidential Reasoning Based Fault Diagnosis.",
+                    "ALMA: GC-assisted JVM Live Migration for Java Server Applications.",
+                    "A Semantic-based Approach for Resource Discovery and Allocation in Distributed Middleware.",
+                    "RConnected: a middleware for Mobile Services in IoT Environments.",
+                    "Writing a Distributed Computing Application in 7 Minutes with Tasklets.",
+                    "Demo Abstract: MOS: A Bandwidth-Efficient Cross-Platform Middleware for Publish/Subscribe.",
+                    "SpatioTemporal Traveler.",
+                    "SEMComm: Sharing Electronic Medical Records using Device to Device Communication.",
+                    "Privacy-enhancing Federated Middleware for the Internet of Things."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2016ds",
+                "sub_name": "Proceedings of the Doctoral Symposium of the 17th International Middleware Conference, Middleware Doctoral Symposium 2016, Trento, Italy, December 13, 2016.",
+                "count": 10,
+                "papers": [
+                    "Algebraic Transformation of Descriptive Vector Byte-code Sequences.",
+                    "Self-stabilizing Middleware Services.",
+                    "AdaptCache: Adaptive Data Partitioning and Replication for Distributed Object Caches.",
+                    "Privacy-enhancing Federated Middleware for the Internet of Things.",
+                    "The Prospects for Multi-Cloud Deployment of SaaS Applications with Container Orchestration Platforms.",
+                    "Service Platform for Continuous Delivery of Assisted Living Systems.",
+                    "Distributed and cooperative intrusion detection in cloud networks.",
+                    "Pyramid Codes to the rescue: A preliminary evaluation for cloud storage systems.",
+                    "High Throughput Tertiary Storage in HPC Environments.",
+                    "Position paper: Toward an holistic approach of Systems of Systems."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2016mecc",
+                "sub_name": "Proceedings of the 1st Workshop on Middleware for Edge Clouds & Cloudlets, MECC@Middleware 2016, Trento, Italy, December 12-16, 2016.",
+                "count": 4,
+                "papers": [
+                    "Resource Constrained Offloading in Fog Computing.",
+                    "Partial Replication Policies for Dynamic Distributed Transactional Memory in Edge Clouds.",
+                    "Towards the Opportunistic Combination of Mobile Ad-hoc Networks with Infrastructure Access.",
+                    "Life Beyond Distributed Transactions on the Edge."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2016iwsc",
+                "sub_name": "Proceedings of the 2nd International Workshop on Smart Cities - People, Technology and Data, IWSC@Middleware 2016, Trento, Italy, December 12-16, 2016.",
+                "count": 9,
+                "papers": [
+                    "Toward On-Demand Urban Air Quality Monitoring using Public Vehicles.",
+                    "SOXFire: A Universal Sensor Network System for Sharing Social Big Sensor Data in Smart Cities.",
+                    "Increasing Bicycle Usage in Smart Cities.",
+                    "SoS-centric Middleware Services for Interoperability in Smart Cities Systems.",
+                    "Graph regularized Non-negative Tensor Completion for spatio-temporal data analysis.",
+                    "An Empirical Study on Coverage-Ensured Automotive Sensing using Door-to-door Garbage Collecting Trucks.",
+                    "On Building Smart City IoT Applications: a Coordination-based Perspective.",
+                    "Efficient Processing of Mobile Crowdsourcing Queries with Multiple Sub-tasks for Facilitating Smart Cities.",
+                    "Thinking Smart Cities as Systems-of-Systems: A Perspective Study."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2016m4iot",
+                "sub_name": "Proceedings of the 3rd Workshop on Middleware for Context-Aware Applications in the IoT, M4IoT@Middleware 2016, Trento, Italy, December 12-13, 2016.",
+                "count": 4,
+                "papers": [
+                    "The Role of Context and Resilient Middleware in Next Generation Smart Grids.",
+                    "Contextual Relationship-based Activity Segmentation on an Event Stream in the IoT Environment with Multi-user Activities.",
+                    "Operator Migration for Distributed Complex Event Processing in Device-to-Device Based Networks.",
+                    "Lightweight Privacy-Preserving Averaging for the Internet of Things."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2016mota",
+                "sub_name": "Proceedings of the 1st International Workshop on Mashups of Things and APIs, MOTA@Middleware 2016, Trento, Italy, December 12-13, 2016.",
+                "count": 6,
+                "papers": [
+                    "Dynamic Sets: A Programming Abstraction for Ubiquitous Computing and the Internet of Things.",
+                    "FRED: A Hosted Data Flow Platform for the IoT.",
+                    "A Microservice Architecture for the Intranet of Things and Energy in Smart Buildings: Research Paper.",
+                    "Orchestrating the Internet of Things Dynamically: research paper.",
+                    "Building a Chatbot with Serverless Computing.",
+                    "Situational Data-Analytics for the Web-of-Things."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2016systex",
+                "sub_name": "Proceedings of the 1st Workshop on System Software for Trusted Execution, SysTEX@Middleware 2016, Trento, Italy, December 12, 2016.",
+                "count": 9,
+                "papers": [
+                    "Mitigating Password Database Breaches with Intel SGX.",
+                    "Proof of Luck: an Efficient Blockchain Consensus Protocol.",
+                    "Developing Secure SGX Enclaves: New Challenges on the Horizon.",
+                    "A Case for Protecting Computer Games With SGX.",
+                    "Exploring the use of Intel SGX for Secure Many-Party Applications.",
+                    "Avoiding Leakage and Synchronization Attacks through Enclave-Side Preemption Control.",
+                    "Analysis of Trusted Execution Environment usage in Samsung KNOX.",
+                    "Isolating Operating System Components with Intel SGX.",
+                    "Protecting Password Databases using Trusted Hardware."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "16th Middleware 2015",
+        "info": "Vancouver, BC, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/middleware/2015",
+                "sub_name": "Proceedings of the 16th Annual Middleware Conference, Vancouver, BC, Canada, December 07 - 11, 2015.",
+                "count": 23,
+                "papers": [
+                    "GraPS: A Graph Publish/Subscribe Middleware.",
+                    "MERC: Match at Edge and Route intra-Cluster for Content-based Publish/Subscribe Systems.",
+                    "Efficient Key Updates through Subscription Re-encryption for Privacy-Preserving Publish/Subscribe.",
+                    "Quartz: A Lightweight Performance Emulator for Persistent Memory Software.",
+                    "Pannier: A Container-based Flash Cache for Compound Objects.",
+                    "Enabling Cost-Effective Flash based Caching with an Array of Commodity SSDs.",
+                    "Write Fast, Read in the Past: Causal Consistency for Client-Side Applications.",
+                    "Q-OPT: Self-tuning Quorum System for Strongly Consistent Software Defined Storage.",
+                    "EpTO: An Epidemic Total Order Algorithm for Large-Scale Distributed Systems.",
+                    "Asynchronous Complete Garbage Collection for Graph Data Stores.",
+                    "vRead: Efficient Data Access for Hadoop in Virtualized Clouds.",
+                    "UniDrive: Synergize Multiple Consumer Cloud Storage Services.",
+                    "R-Storm: Resource-Aware Scheduling in Storm.",
+                    "Parallel Programming in Actor-Based Applications via OpenCL.",
+                    "Consensus-Oriented Parallelization: How to Earn Your First Million.",
+                    "Turtle Consensus: Moving Target Defense for Consensus.",
+                    "Speculative Memory Checkpointing.",
+                    "VeCycle: Recycling VM Checkpoints for Faster Migrations.",
+                    "Improving Preemptive Scheduling with Application-Transparent Checkpointing in Shared Clusters.",
+                    "Configuring Distributed Computations Using Response Surfaces.",
+                    "Scaling Out Link Prediction with SNAPLE: 1 Billion Edges and Beyond.",
+                    "Managing the Energy-Delay Tradeoff in Mobile Applications with Tempus.",
+                    "Zero-Cost, Fine-Grained Power Monitoring of Datacenters Using Non-Intrusive Power Disaggregation."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2015i",
+                "sub_name": "Proceedings of the Industrial Track of the 16th International Middleware Conference, Middleware Industry 2015, Vancouver, BC, Canada, December 7-11, 2015.",
+                "count": 4,
+                "papers": [
+                    "Apex Lake: A Framework for Enabling Smart Orchestration.",
+                    "Design of Routing Protocols and Overlay Topologies for Topic-based Publish/Subscribe on Small-World Networks.",
+                    "DynaCorrect: Dynamically Correcting Cache for Non-cooperative Systems.",
+                    "Local and Remote GPUs Perform Similar with EDR 100G InfiniBand."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2015pd",
+                "sub_name": "Proceedings of the Posters and Demos Session of the 16th International Middleware Conference, Middleware Posters and Demos 2015, Vancouver, BC, Canada, December 7-11, 2015.",
+                "count": 8,
+                "papers": [
+                    "A System for the Specification and Execution of Conditional WoT Applications over Voice.",
+                    "Demo: Enabling Plug-and-Play for the Internet of Things.",
+                    "A Live Demo on Remote GPU Accelerated Deep Learning Using the rCUDA Middleware.",
+                    "What Constrains Flash File System Performances?",
+                    "Dynamic reconfiguration of IO adapters for real-time outage prevention.",
+                    "Wide Area Network-scale Discovery and Data Dissemination in Data-centric Publish/Subscribe Systems.",
+                    "Cgroup++: Enhancing I/O Resource Management of Linux Cgroup on NUMA Systems with NVMe SSDs.",
+                    "Improving the Performance of Asynchronous Replication with Mixed-Mode Copying."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2015ds",
+                "sub_name": "Proceedings of the Doctoral Symposium of the 16th International Middleware Conference, Middleware Doct Symposium 2015, Vancouver, BC, Canada, December 7-11, 2015.",
+                "count": 9,
+                "papers": [
+                    "Enhancing the Internet of Things with Reconfigurable Hardware and Software.",
+                    "Towards Semantic Integration of Heterogeneous Sensor Data with Indigenous Knowledge for Drought Forecasting.",
+                    "Advanced monitoring and smart auto-scaling of NoSQL systems.",
+                    "Distributed Data Flow: a Programming Model for the Crowdsourced Internet of Things.",
+                    "Towards a Scalable, Distributed Metadata Service for Causal Consistency under Partial Geo-replication.",
+                    "Optimal Resource Provisioning Approach based on Cost Modeling for Spark Applications in Public Clouds.",
+                    "Graph-Based Publish/Subscribe Research with Dynamic Subscriptions.",
+                    "Drums: a Middleware-Aware Distributed Robot Monitoring System.",
+                    "Intrusion Detection System for Embedded Systems."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2015m4iot",
+                "sub_name": "Proceedings of the 2nd Workshop on Middleware for Context-Aware Applications in the IoT, M4IoT@Middleware 2015, Vancouver, BC, Canada, December 7-11, 2015.",
+                "count": 5,
+                "papers": [
+                    "Cassowary: Middleware Platform for Context-Aware Smart Buildings with Software-Defined Sensor Networks.",
+                    "Safe Composition in Middleware for the Internet of Things.",
+                    "Tomography: lowering management overhead for distributed component-based applications.",
+                    "DIANNE: Distributed Artificial Neural Networks for the Internet of Things.",
+                    "A Federated Discovery Service for the Internet of Things."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2015vt",
+                "sub_name": "Proceedings of the International workshop on Virtualization Technologies, VT 2015, Vancouver, BC, Canada, December 7-11, 2015.",
+                "count": 3,
+                "papers": [
+                    "Kyoto: Applying the polluters pay principle to cache contention in an IaaS.",
+                    "An Adaptive Resource Provisioning Scheme for Effective QoS Maintenance in the IaaS Cloud.",
+                    "How to bid and report in the Market of Virtualized Resources of Cloud Computing."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "15th Middleware 2014",
+        "info": "Bordeaux, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/middleware/2014",
+                "sub_name": "Proceedings of the 15th International Middleware Conference, Bordeaux, France, December 8-12, 2014.",
+                "count": 27,
+                "papers": [
+                    "Tiera: towards flexible multi-tiered cloud storage instances.",
+                    "G-DUR: a middleware for assembling, analyzing, and improving transactional protocols.",
+                    "LVD: lean virtual disks.",
+                    "Trustworthy geographically fenced hybrid clouds.",
+                    "StackSync: bringing elasticity to dropbox-like file synchronization.",
+                    "Slider: incremental sliding window analytics.",
+                    "Fast, expressive top-k matching.",
+                    "HyRec: leveraging browsers for scalable recommenders.",
+                    "Improving MapReduce performance in heterogeneous environments with adaptive task tuning.",
+                    "Thematic event processing.",
+                    "Affinity-aware checkpoint restart.",
+                    "Mutable checkpoint-restart: automating live update for generic server programs.",
+                    "Consensus inside.",
+                    "A framework for the dynamic evolution of highly-available dataflow programs.",
+                    "Building global and scalable systems with atomic multicast.",
+                    "Strong consistency in cache augmented SQL systems.",
+                    "SOUP: an online social network by the people, for the people.",
+                    "SenSocial: a middleware for integrating online social networks and mobile sensing data streams.",
+                    "PLEROMA: a SDN-based high performance publish/subscribe middleware.",
+                    "CrowdWiFi: efficient crowdsensing of roadside WiFi networks.",
+                    "Publish/subscribe network designs for multiplayer games.",
+                    "Stage-aware anomaly detection through tracking log points.",
+                    "Archie: a speculative replicated transactional system.",
+                    "Mitigating interference in cloud services by middleware reconfiguration.",
+                    "CAMP: a cost adaptive multi-queue eviction policy for key-value stores.",
+                    "Stay-Away, protecting sensitive applications from performance interference.",
+                    "Virtual machine consolidation in the wild."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2014pd",
+                "sub_name": "Proceedings of the Middleware '14 Posters & Demos Session, Bordeaux, France, December 8-12, 2014.",
+                "count": 22,
+                "papers": [
+                    "RT-Seed: real-time middleware for semi-fixed-priority scheduling in real-time trading systems.",
+                    "Why so aggressive?: on the support for background transfers in WebRTC.",
+                    "Distributed complex event processing for mobile large-scale video applications.",
+                    "Augmented inverted indexes to track causality in eventually consistent data stores.",
+                    "Scaling KNN computation over large graphs on a PC.",
+                    "Building global and scalable systems with atomic multicast.",
+                    "WebGC: browser-based gossiping.",
+                    "PSoCCN: publish/subscribe support in content-centric networking.",
+                    "PSBench: a benchmark for content- and topic-based publish/subscribe systems.",
+                    "A publish/subscribe network engine testbed for multiplayer games.",
+                    "From views to tags distribution in Youtube.",
+                    "A demonstration of KOSAR: an elastic, scalable, highly available SQL middleware.",
+                    "ABC: dynamic configuration management for MicroBrick-based cloud computing systems.",
+                    "Benchmark based performance characterization and scalable design of sensing-as-a-service platform.",
+                    "R-Memcached: a consistent cache replication scheme with Memcached.",
+                    "Scality's experience with a geo-distributed file system.",
+                    "CitR: a scalable system for quick spatial retrieval of resident involvement information for smarter cities.",
+                    "A compiler providing incremental scalability for web applications.",
+                    "Home-Boxes: context-aware distributed middleware assisting content delivery solutions.",
+                    "RadioMap: fine-grained cellular coverage mapping in indoor environments.",
+                    "BitWatts: a process-level power monitoring middleware.",
+                    "Towards a practical deployment of privacy-preserving crowd-sensing tasks."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2014i",
+                "sub_name": "Proceedings of the Middleware Industry Track, Bordeaux, France, December 8-12, 2014.",
+                "count": 5,
+                "papers": [
+                    "The X-flex cross-platform scheduler: who's the fairest of them all?",
+                    "Virtual GPS: a middleware for power efficient localization of smartphones using cross layer approach.",
+                    "PMWare: a middleware for discovering and managing places of human interest.",
+                    "Scheduling online repartitioning in OLTP systems.",
+                    "Improving readiness for enterprise migration to the cloud."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2014ds",
+                "sub_name": "Proceedings of the 11th Middleware Doctoral Symposium 2014, Bordeaux, France, December 8-9, 2014.",
+                "count": 2,
+                "papers": [
+                    "Improving the energy efficiency of software systems for multi-core architectures.",
+                    "A middleware-based approach for QoS-aware deployment of service choreography in the cloud."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2014ccb",
+                "sub_name": "Proceedings of the 2nd International Workshop on CrossCloud Systems, CCB@Middleware 2014, Bordeaux, France, December 8, 2014.",
+                "count": 7,
+                "papers": [
+                    "Configuration management as a multi-cloud enabler.",
+                    "SCADAMAR: scalable and data-efficient internet MapReduce.",
+                    "FederatedCloudSim: a SLA-aware federated cloud simulation framework.",
+                    "Adaptive decision making in multi-cloud management.",
+                    "Preference-based cloud service recommendation as a brokerage service.",
+                    "Using power measurements as a basis for workload placement in heterogeneous multi-cloud environments.",
+                    "Advanced service brokerage capabilities as the catalyst for future cloud service ecosystems."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2014m4iot",
+                "sub_name": "Proceedings of the 1st ACM Workshop on Middleware for Context-Aware Applications in the IoT, M4IoT@Middleware 2014, Bordeaux, France, December 9, 2014.",
+                "count": 5,
+                "papers": [
+                    "Taming the interoperability challenges of complex IoT systems.",
+                    "Enabling resource sharing in heterogeneous wireless sensor networks.",
+                    "QoC-aware context data distribution in the internet of things.",
+                    "Mood-fatigue analyzer: towards context-aware mobile sensing applications for safe driving.",
+                    "Kali2Much: a context middleware for autonomic adaptation-driven platform."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2014mw4ng",
+                "sub_name": "Proceedings of the 9th Workshop on Middleware for Next Generation Internet Computing, MW4NG@Middleware 2014, Bordeaux, France, December 8-12, 2014.",
+                "count": 7,
+                "papers": [
+                    "Towards efficient and accurate privacy preserving web search.",
+                    "Moana: a case for redefining the internet service abstraction.",
+                    "Distributed event-based system with multiscoping for multiscalability.",
+                    "Multi-site Gargamel: optimistic synchronization for reliable geo-replicated databases.",
+                    "Speculative client execution in deferred update replication.",
+                    "Towards a model@runtime middleware for cyber physical systems.",
+                    "An architecture for a smart spaces virtual machine."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "14th Middleware 2013",
+        "info": "Beijing, China",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/middleware/2013",
+                "sub_name": "Middleware 2013 - ACM/IFIP/USENIX 14th International Middleware Conference, Beijing, China, December 9-13, 2013, Proceedings.",
+                "count": 25,
+                "papers": [
+                    "FastCast: A Throughput- and Latency-Efficient Total Order Broadcast Protocol.",
+                    "VICINITY: A Pinch of Randomness Brings out the Structure.",
+                    "Experiences with Fault-Injection in a Byzantine Fault-Tolerant Protocol.",
+                    "SplayNet: Distributed User-Space Topology Emulation.",
+                    "Assured Cloud-Based Data Analysis with ClusterBFT.",
+                    "FlowFlex: Malleable Scheduling for Flows of MapReduce Jobs.",
+                    "DVFS Aware CPU Credit Enforcement in a Virtualized System.",
+                    "Elastic Remote Methods.",
+                    "Atmosphere: A Universal Cross-Cloud Communication Infrastructure.",
+                    "VMAR: Optimizing I/O Performance and Resource Utilization in the Cloud.",
+                    "12MAP: Cloud Disaster Recovery Based on Image-Instance Mapping.",
+                    "Cross-Tier Application and Data Partitioning of Web Applications for Hybrid Cloud Deployment.",
+                    "Sprinkler - Reliable Broadcast for Geographically Dispersed Datacenters.",
+                    "Transactional Failure Recovery for a Distributed Key-Value Store.",
+                    "Views and Transactional Storage for Large Graphs.",
+                    "Efficient Batched Synchronization in Dropbox-Like Cloud Storage Services.",
+                    "Back to the Future: Using Magnetic Tapes in Cloud Based Storage Infrastructures.",
+                    "Efficient Node Bootstrapping for Decentralised Shared-Nothing Key-Value Stores.",
+                    "Testing Idempotence for Infrastructure as Code.",
+                    "Self-scalable Benchmarking as a Service with Automatic Saturation Detection.",
+                    "Ditto - Deterministic Execution Replayability-as-a-Service for Java VM on Multiprocessors.",
+                    "DynaSoRe: Efficient In-Memory Store for Social Applications.",
+                    "O 2 SM: Enabling Efficient Offline Access to Online Social Media and Social Networks.",
+                    "AnonyLikes: Anonymous Quantitative Feedback on Social Networks.",
+                    "Peer-to-Peer Keyword Search: A Retrospective."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2013i",
+                "sub_name": "Proceedings of the Industrial Track of the 14th ACM/IFIP/USENIX International Middleware Conference, Beijing, China, December 9-13, 2013.",
+                "count": 6,
+                "papers": [
+                    "GeoMix: scalable geoscientific array data management.",
+                    "Forecasting household electricity demand with complex event processing: insights from a prototypical solution.",
+                    "Practical out-of-band authentication for mobile applications.",
+                    "State based Paxos.",
+                    "Adaptive middleware for real-time prescriptive analytics in large scale power systems.",
+                    "HybNET: network manager for a hybrid network infrastructure."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2013dpt",
+                "sub_name": "Proceedings Demo & Poster Track of ACM/IFIP/USENIX International Middleware Conference, MiddlewareDPT 2013, Beijing, China, December 9-13, 2013.",
+                "count": 16,
+                "papers": [
+                    "CareDedup: cache-aware deduplication for reading performance optimization in primary storage.",
+                    "FTCloudSim: a simulation tool for cloud service reliability enhancement mechanisms.",
+                    "SM@RT offloader: supporting adaptive computation offloading for Android applications.",
+                    "Automated testing of chef automation scripts.",
+                    "DGFIndex: a hive multidimensional range index for smart meter big data.",
+                    "MobiTran: tool support for refactoring PC websites to smart phones.",
+                    "Enabling offline access to Facebook streams on mobile devices.",
+                    "T-CloudDisk: a tunable cloud storage service for flexible batched synchronization.",
+                    "Galaxie: a P2P based EDSOA platform for cloud services.",
+                    "On high performance distributed transactional data structures.",
+                    "Automated data partitioning for independent distributed transactions.",
+                    "Smart phone application for connected vehicles and smart transportation.",
+                    "Dynamic datacenter resource provisioning for high-performance distributed stream processing with adaptive fault-tolerance.",
+                    "Predicting unknown QoS value with QoS-Prophet.",
+                    "SMASH: speculative state machine replication in transactional systems.",
+                    "A load balancing algorithm in multi-tenancy environment."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2013mds",
+                "sub_name": "Proceedings of the 2013 Middleware Doctoral Symposium, MDS 2013, Beijing, China, December 9-13, 2013.",
+                "count": 6,
+                "papers": [
+                    "IDEA: improving dependability for self-adaptive applications.",
+                    "DPAC: an infrastructure for dynamic program analysis of concurrency Java programs.",
+                    "Minimal cut sequence generation for state/event fault trees.",
+                    "Towards privacy-preserving computing on distributed electronic health record data.",
+                    "VeriDroid: automating Android application verification.",
+                    "Model-based high availability configuration framework for cloud."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2013mcs",
+                "sub_name": "Proceedings of the First International Workshop on Middleware for Cloud-enabled Sensing, MCS 2013, Beijing, China, December 9-13, 2013.",
+                "count": 4,
+                "papers": [
+                    "A generic framework for cyber-physical web.",
+                    "Towards secure outsourcing of collaborative sensing and analytic applications to the cloud - the pCloud approach.",
+                    "A mobile crowdsensing system enhanced by cloud-based social networking services.",
+                    "Offloading work to mobile devices: an availability-aware data partitioning approach."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2013mw4nextgen",
+                "sub_name": "Proceedings of the 8th Workshop on Middleware for Next Generation Internet Computing, MW4NextGen 2013, Beijing, China, December 9-13, 2013.",
+                "count": 5,
+                "papers": [
+                    "P/S sockets: supporting publish/subscribe communication through the standard socket API.",
+                    "TMS: a trusted mail repository service using public storage clouds.",
+                    "Introducing concurrency in policy-based access control.",
+                    "Modeling uncertainty for middleware-based streaming power grid applications.",
+                    "Detecting cloud provisioning errors using an annotated process model."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "13th Middleware 2012",
+        "info": "Montreal, QC, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/middleware/2012",
+                "sub_name": "Middleware 2012 - ACM/IFIP/USENIX 13th International Middleware Conference, Montreal, QC, Canada, December 3-7, 2012. Proceedings.",
+                "count": 24,
+                "papers": [
+                    "CrowdMAC: A Crowdsourcing System for Mobile Access.",
+                    "Pogo, a Middleware for Mobile Phone Sensing.",
+                    "m.Site: Efficient Content Adaptation for Mobile Devices.",
+                    "MORENA: A Middleware for Programming NFC-Enabled Android Applications as Distributed Object-Oriented Programs.",
+                    "Fmeter: Extracting Indexable Low-Level System Signatures by Counting Kernel Function Calls.",
+                    "SPADE: Support for Provenance Auditing in Distributed Environments.",
+                    "VScope: Middleware for Troubleshooting Time-Sensitive Data Center Applications.",
+                    "SOFTScale: Stealing Opportunistically for Transient Scaling.",
+                    "Taking Garbage Collection Overheads Off the Critical Path in SSDs.",
+                    "Unifying Thread-Level Speculation and Transactional Memory.",
+                    "Message-Passing Concurrency for Scalable, Stateful, Reconfigurable Middleware.",
+                    "OverStar: An Open Approach to End-to-End Middleware Services in Systems of Systems.",
+                    "Opportunistic Multipath Forwarding in Content-Based Publish/Subscribe Overlays.",
+                    "PolderCast: Fast, Robust, and Scalable Architecture for P2P Topic-Based Pub/Sub.",
+                    "Unification of Publish/Subscribe Systems and Stream Databases - The Impact on Complex Event Processing.",
+                    "High-Performance Location-Aware Publish-Subscribe on GPUs.",
+                    "Enabling Efficient Placement of Virtual Infrastructures in the Cloud.",
+                    "A Scalable Inline Cluster Deduplication Framework for Big Data Protection.",
+                    "CloudPack - Exploiting Workload Flexibility through Rational Pricing.",
+                    "Dynamic Software Deployment from Clouds to Mobile Devices.",
+                    "Enhancing the OS against Security Threats in System Administration.",
+                    "On the Practicality of Practical Byzantine Fault Tolerance.",
+                    "SCORe: A Scalable One-Copy Serializable Partial Replication Protocol.",
+                    "P3S: A Privacy Preserving Publish-Subscribe Middleware."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2012ds",
+                "sub_name": "Proceedings of the 9th Middleware Doctoral Symposium of the 13th ACM/IFIP/USENIX International Middleware Conference, MIDDLEWARE '12, Montreal, Quebec, Canada, December 3, 2012.",
+                "count": 8,
+                "papers": [
+                    "Language expressiveness and quality of service for publish/subscribe systems.",
+                    "Rich content sharing in mobile systems using multiple wireless networks.",
+                    "A communication-optimizing middleware for efficient wireless communication in rural environments.",
+                    "Resource management and fault tolerance principles for supporting distributed real-time and embedded systems in the cloud.",
+                    "Towards privacy enhanced limited image processing in the clouds.",
+                    "Towards dependable clients: improving the reliability and availability of the browsers.",
+                    "Integrating heterogeneous web services from an end user perspective.",
+                    "Engineering a state monitoring service for real-time patient flow management."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2012mw4ng",
+                "sub_name": "Proceedings of the 7th Workshop on Middleware for Next Generation Internet Computing, MW4NG@Middleware 2012, Montreal, Quebec, Canada, December 3-7, 2012.",
+                "count": 7,
+                "papers": [
+                    "The geomorphic view of networking: a network model and its uses.",
+                    "CLiSuite: simplifying the development of cross-layer adaptive applications.",
+                    "The power of software-defined networking: line-rate content-based routing using OpenFlow.",
+                    "Toward efficient and confidentiality-aware federation of access control policies.",
+                    "Managing service performance in NoSQL distributed storage systems.",
+                    "Towards performance isolation in multi-tenant SaaS applications.",
+                    "PAPaS: peer assisted publish and subscribe."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "12th Middleware 2011",
+        "info": "Lisbon, Portugal",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/middleware/2011",
+                "sub_name": "Middleware 2011 - ACM/IFIP/USENIX 12th International Middleware Conference, Lisbon, Portugal, December 12-16, 2011. Proceedings.",
+                "count": 25,
+                "papers": [
+                    "Democratizing Transactional Programming.",
+                    "Scaling Microblogging Services with Divergent Traffic Demands.",
+                    "Contrail: Enabling Decentralized Social Networks on Smartphones.",
+                    "Confidant: Protecting OSN Data without Locking It Up.",
+                    "Live Deduplication Storage of Virtual Machine Images in an Open-Source Cloud.",
+                    "Scalable Load Balancing in Cluster Storage Systems.",
+                    "Predico: A System for What-if Analysis in Complex Data Center Applications.",
+                    "GreenWare: Greening Cloud-Scale Data Centers to Maximize the Use of Renewable Energy.",
+                    "Resource Provisioning Framework for MapReduce Jobs with Performance Goals.",
+                    "Resource-Aware Adaptive Scheduling for MapReduce Clusters.",
+                    "A Content-Based Publish/Subscribe Matching Algorithm for 2D Spatial Objects.",
+                    "FAIDECS: Fair Decentralized Event Correlation.",
+                    "AmbiStream: A Middleware for Multimedia Streaming on Heterogeneous Mobile Devices.",
+                    "Virtualizing Stream Processing.",
+                    "Leader Election for Replicated Services Using Application Scores.",
+                    "PolyCert: Polymorphic Self-optimizing Replication for In-Memory Transactional Grids.",
+                    "A Trigger-Based Middleware Cache for ORMs.",
+                    "Deploy, Adjust and Readjust: Supporting Dynamic Reconfiguration of Policy Enforcement.",
+                    "A Middleware Layer for Flexible and Cost-Efficient Multi-tenant Applications.",
+                    "Bridging the Interoperability Gap: Overcoming Combined Application and Middleware Heterogeneity.",
+                    "The Role of Ontologies in Emergent Middleware: Supporting Interoperability in Complex Distributed Systems.",
+                    "Co-managing Software and Hardware Modules through the Juggle Middleware.",
+                    "A Generic Solution for Agile Run-Time Inspection Middleware.",
+                    "A Comparison of Secure Multi-Tenancy Architectures for Filesystem Storage Clouds.",
+                    "SafeWeb: A Middleware for Securing Ruby-Based Web Applications."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2011ds",
+                "sub_name": "Proceedings of the 8th Middleware Doctoral Symposium of the 12th ACM/IFIP/USENIX International Middleware Conference, Lisbon, Portugal, 12 December 2011.",
+                "count": 7,
+                "papers": [
+                    "Inspection of distributed and composed systems.",
+                    "Adaptable service composition for very-large-scale internet of things systems.",
+                    "Ontologies for the internet of things.",
+                    "Elastic complex event processing.",
+                    "Towards application development for the internet of things.",
+                    "Privacy challenges in the online social networking era.",
+                    "Guarantees for decentralized event correlation."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2011mw4soc",
+                "sub_name": "Proceedings of the 6th Workshop on Middleware for Service Oriented Computing, MW4SOC 2011, Lisbon, Portugal, December 12-16, 2011.",
+                "count": 4,
+                "papers": [
+                    "Eventual consistency: How soon is eventual? An evaluation of Amazon S3's consistency behavior.",
+                    "Business activity management for service networks in cloud environments.",
+                    "Experimental evaluation of distributed middleware with a virtualized Java environment.",
+                    "Addressing QoS issues in service based systems through an adaptive ESB infrastructure."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "11th Middleware 2010",
+        "info": "Bangalore, India",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/middleware/2010",
+                "sub_name": "Middleware 2010 - ACM/IFIP/USENIX 11th International Middleware Conference, Bangalore, India, November 29 - December 3, 2010. Proceedings.",
+                "count": 19,
+                "papers": [
+                    "FLEX: A Slot Allocation Scheduling Optimizer for MapReduce Workloads.",
+                    "Adapting Distributed Real-Time and Embedded Pub/Sub Middleware for Cloud Computing Environments.",
+                    "BrownMap: Enforcing Power Budget in Shared Data Centers.",
+                    "A Dynamic Data Middleware Cache for Rapidly-Growing Scientific Repositories.",
+                    "Anonygator: Privacy and Integrity Preserving Data Aggregation.",
+                    "Middleware for a Re-configurable Distributed Archival Store Based on Secret Sharing.",
+                    "Parametric Subscriptions for Content-Based Publish/Subscribe Networks.",
+                    "Kevlar: A Flexible Infrastructure for Wide-Area Collaborative Applications.",
+                    "FaReCast: Fast, Reliable Application Layer Multicast for Flash Dissemination.",
+                    "The Gossple Anonymous Social Network.",
+                    "Prometheus: User-Controlled P2P Social Data Management for Socially-Aware Applications.",
+                    "PerPos: A Translucent Positioning Middleware Supporting Adaptation of Internal Positioning Processes.",
+                    "dFault: Fault Localization in Large-Scale Peer-to-Peer Systems.",
+                    "Bridging the Gap between Legacy Services and Web Services.",
+                    "Enforcing End-to-End Application Security in the Cloud - (Big Ideas Paper).",
+                    "LiFTinG: Lightweight Freerider-Tracking in Gossip.",
+                    "Distributed Middleware Enforcement of Event Flow Security Policy.",
+                    "Automatically Generating Symbolic Prefetches for Distributed Transactional Memories.",
+                    "Asynchronous Lease-Based Replication of Software Transactional Memory."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2010ds",
+                "sub_name": "Proceedings of the 7th Middleware Doctoral Symposium, Bangalore, India, 30 November 2010.",
+                "count": 5,
+                "papers": [
+                    "Middleware solutions for integrated simulation environments.",
+                    "Adaptive service migration and transaction processing in wireless sensor networks.",
+                    "Generic replication of software transactional memory.",
+                    "A flexible and collaborative middleware for an unmanned aerial vehicle platform: when one-fit-all solution is required.",
+                    "Enriching events to support hospital care."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2010i",
+                "sub_name": "Proceedings of the 11th International Middleware Conference Industrial Track, Bangalore, India, November 29 - December 3, 2010.",
+                "count": 7,
+                "papers": [
+                    "On the feasibility of dynamic rescheduling on the Intel Distributed Computing Platform.",
+                    "The cost of reconfiguration in a cloud.",
+                    "Tide: achieving self-scaling in virtualized datacenter management middleware.",
+                    "Middleware for runtime assessment of information assurance.",
+                    "Control plane integration for cloud services.",
+                    "Comparing XML processing performance in middleware and database: a case study.",
+                    "Efficacy of techniques for responsiveness in a wide-area publish/subscribe system."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2010mw4soc",
+                "sub_name": "Proceedings of the 5th International Workshop on Middleware for Service Oriented Computing, MW4SOC, Bangalore, India, November 29 - December 03, 2010.",
+                "count": 6,
+                "papers": [
+                    "Design and implementation of user-managed access framework for web 2.0 applications.",
+                    "Carbon: towards a server building framework for SOA platform.",
+                    "EVEREST+: run-time SLA violations prediction.",
+                    "A middleware for adaptive service orientation in pervasive computing environments.",
+                    "A programming model for self-adaptive open enterprise systems.",
+                    "Middleware enabled data sharing on cloud storage services."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "10th Middleware 2009",
+        "info": "Urbana, IL, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/middleware/2009",
+                "sub_name": "Middleware 2009, ACM/IFIP/USENIX, 10th International Middleware Conference, Urbana, IL, USA, November 30 - December 4, 2009. Proceedings.",
+                "count": 21,
+                "papers": [
+                    "MANETKit: Supporting the Dynamic Deployment and Reconfiguration of Ad-Hoc Routing Protocols.",
+                    "Automatic Generation of Network Protocol Gateways.",
+                    "Heterogeneous Gossip.",
+                    "CCD: Efficient Customized Content Dissemination in Distributed Publish/Subscribe.",
+                    "Calling the Cloud: Enabling Mobile Phones as Interfaces to Cloud Applications.",
+                    "Efficient Locally Trackable Deduplication in Replicated Systems.",
+                    "QoS-Aware Service Composition in Dynamic Service Oriented Environments.",
+                    "Self-adapting Service Level in Java Enterprise Edition.",
+                    "A Cost-Sensitive Adaptation Engine for Server Consolidation of Multitier Applications.",
+                    "Rhizoma: A Runtime for Self-deploying, Self-managing Overlays.",
+                    "How to Keep Your Head above Water While Detecting Errors.",
+                    "PAQ: Persistent Adaptive Query Middleware for Dynamic Environments.",
+                    "Middleware for Pervasive Spaces: Balancing Privacy and Utility.",
+                    "Achieving Coordination through Dynamic Construction of Open Workflows.",
+                    "Power Aware Management Middleware for Multiple Radio Interfaces.",
+                    "COLA: Optimizing Stream Processing Applications via Graph Partitioning.",
+                    "Persistent Temporal Streams.",
+                    "Why Do Upgrades Fail and What Can We Do about It?",
+                    "DR-OSGi: Hardening Distributed Components with Network Volatility Resiliency.",
+                    "Automatic Stress Testing of Multi-tier Systems by Dynamic Bottleneck Switch Generation.",
+                    "DSF: A Common Platform for Distributed Systems Research and Development."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2009ds",
+                "sub_name": "Proceedings of the 6th Middleware Doctoral Symposium, Urbana Champaign, Illinois, USA, 30 November 2009.",
+                "count": 6,
+                "papers": [
+                    "Context information provisioning in tuple spaces.",
+                    "A semantic approach for building pervasive spaces.",
+                    "Using the graphics processor unit to realize data streaming operations.",
+                    "EbAT: online methods for detecting utility cloud anomalies.",
+                    "Modeling and optimizing content-based publish/subscribe systems.",
+                    "Enhancing event based architectures with contextualised events in order to support cooperation in the perioperative environment: position paper."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2009comp",
+                "sub_name": "Middleware 2009, ACM/IFIP/USENIX 10th International Middleware Conference, Urbana, IL, USA, November 30 - December 4, 2009, Companion Proceedings.",
+                "count": 14,
+                "papers": [
+                    "Opening the clouds: qualitative overview of the state-of-the-art open source VM-based cloud management platforms.",
+                    "An empirical study of high availability in stream processing systems.",
+                    "MobiVine: a middleware layer to handle fragmentation of platform interfaces for mobile applications.",
+                    "Drivolution: rethinking the database driver lifecycle.",
+                    "MARIO: middleware for assembly and deployment of multi-platform flow-based applications.",
+                    "QoS-aware service-oriented middleware for pervasive environments.",
+                    "EDFS: a semi-centralized efficient distributed file system.",
+                    "Toward upgrades-as-a-service in distributed systems.",
+                    "Emergent middleware: rethinking interoperability for complex pervasive systems.",
+                    "Providing quality of service in wide-area publish/subscribe systems: poster.",
+                    "Event-processing middleware with information flow control.",
+                    "Systematic hardening of distributed component applications to improve their QoS.",
+                    "Understanding cross-tier delay of multi-tier application using selective invocation context extraction.",
+                    "Stateful error detection in high throughput applications."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "9th Middleware 2008",
+        "info": "Leuven, Belgium",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/middleware/2008",
+                "sub_name": "Middleware 2008, ACM/IFIP/USENIX 9th International Middleware Conference, Leuven, Belgium, December 1-5, 2008, Proceedings.",
+                "count": 21,
+                "papers": [
+                    "Adaptive Content-Based Routing in General Overlay Topologies.",
+                    "AlfredO: An Architecture for Flexible Interaction with Electronic Devices.",
+                    "Exo-Leasing: Escrow Synchronization for Mobile Clients of Commodity Storage Servers.",
+                    "Subscription Subsumption Evaluation for Content-Based Publish/Subscribe Systems.",
+                    "Diagnosing Distributed Systems with Self-propelled Instrumentation.",
+                    "Multithreading Strategies for Replicated Objects.",
+                    "A Component Framework for Java-Based Real-Time Embedded Systems.",
+                    "DeXteR- An Extensible Framework for Declarative Parameter Passing in Distributed Object Systems.",
+                    "Performance Comparison of PHP and JSP as Server-Side Scripting Languages.",
+                    "Debugging and Testing Middleware with Aspect-Based Control-Flow and Causal Patterns.",
+                    "Enabling Resource Sharing between Transactional and Batch Workloads Using Dynamic Application Placement.",
+                    "Biologically-Inspired Distributed Middleware Management for Stream Processing Systems.",
+                    "pMapper: Power and Migration Cost Aware Application Placement in Virtualized Systems.",
+                    "Burstiness in Multi-tier Applications: Symptoms, Causes, and New Models.",
+                    "Towards End-to-End Quality of Service: Controlling I/O Interference in Shared Storage Servers.",
+                    "SODA: An Optimizing Scheduler for Large-Scale Stream-Based Distributed Computer Systems.",
+                    "Toward Massive Query Optimization in Large-Scale Distributed Stream Systems.",
+                    "QoS Allocation Algorithms for Publish-Subscribe Information Space Middleware.",
+                    "Profiling and Modeling Resource Usage of Virtualized Applications.",
+                    "Prism: Providing Flexible and Fast Filesystem Cloning Service for Virtual Servers.",
+                    "Moara: Flexible and Scalable Group-Based Querying System."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2008comp",
+                "sub_name": "Middleware 2008, ACM/IFIP/USENIX 9th International Middleware Conference, Leuven, Belgium, December 1-5, 2008, Companion Proceedings.",
+                "count": 33,
+                "papers": [
+                    "Service control layer (SCL): enabling rule-based control and enrichment in next-generation telecom service delivery.",
+                    "A peer-to-peer approach to providing QoS monitoring for web service activities.",
+                    "Demystifying data deduplication.",
+                    "Darjeeling, a Java compatible virtual machine for microcontrollers.",
+                    "A hybrid publish subscribe protocol.",
+                    "Using live distributed objects for office automation.",
+                    "iDataGuard: an interoperable security middleware for untrusted internet data storage.",
+                    "On concurrency improvements in enterprise SOA middleware.",
+                    "Credential management in event-driven healthcare systems.",
+                    "Exploiting extreme heterogeneity in a flood warning scenario using the Gridkit middleware.",
+                    "Using the service coroner tool for diagnosing stale references in the OSGi platform.",
+                    "A demonstration of pervasive device integration with SEAP-based middleware.",
+                    "Supply chain management and NFC picking demonstrations using the AspireRfid middleware platform.",
+                    "Using live distributed objects for office automation: demo proposal.",
+                    "Exploiting the FAMOUSO middleware in multi-robot application development with Matlab/Simulink.",
+                    "A domain-specific middleware layer using AOSD: next-generation digital news publishing.",
+                    "Realizing an agent-oriented middleware for heterogeneous sensor networks.",
+                    "Event-based data control in healthcare.",
+                    "MoSCA: service composition in mobile environments.",
+                    "Instant-X: a component-based middleware architecture for a generic multimedia API.",
+                    "Social networking on mobile environment.",
+                    "Dynamic weaving of components in a distributed environment.",
+                    "Implementing remote monitoring to the PeerHood middleware.",
+                    "FOREVER: Fault/intrusiOn REmoVal through Evolution & Recovery.",
+                    "Geographical distribution of subscriptions for content-based publish/subscribe in MANETs.",
+                    "Dependable distributed OSGi environment.",
+                    "Virtual Nodes: a re-configurable replication framework for highly-available grid services.",
+                    "Monitoring distributed properties in networks of tiny wireless devices.",
+                    "Selective code dissemination in mobile wireless sensor networks.",
+                    "WS-Gossip: middleware for scalable service coordination.",
+                    "A flexible architecture for mobile collaboration services.",
+                    "AO middleware supporting variability and dynamic customization of security extensions in the ORB layer.",
+                    "Presence virtualization middleware for next-generation converged applications."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2008ds",
+                "sub_name": "Middleware 2008, ACM/IFIP/USENIX 9th International Middleware Conference, Leuven, Belgium, December 1, 2008, Doctoral Symposium Proceedings.",
+                "count": 6,
+                "papers": [
+                    "Reliable framework for RFID devices.",
+                    "Optimistic parallelization support for event stream processing systems.",
+                    "TimeAdapt: timely execution of dynamic software reconfigurations.",
+                    "Designing middleware for context awareness in agriculture.",
+                    "To happen or not to happen: towards an open distributed complex event processing system.",
+                    "A dynamic OSGi-based data stream system."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2008mw4soc",
+                "sub_name": "Proceedings of the 3rd Workshop on Middleware for Service Oriented Computing, MW4SOC 2008, Leuven, Belgium, December 1-5, 2008.",
+                "count": 11,
+                "papers": [
+                    "Dependable distributed OSGi environment.",
+                    "Using fail-stop proxies for enhancing services isolation in the OSGi service platform.",
+                    "SoapME: a lightweight Java ME web service container.",
+                    "Workload decomposition for QoS in hosted storage services.",
+                    "Technical challenges in market-driven automated service provisioning.",
+                    "SLA-driven distributed application development.",
+                    "Cross-layer self-adaptation of service-oriented architectures.",
+                    "Service oriented adaptive Java applications.",
+                    "Dynamic reconfiguration using template based web service composition.",
+                    "Gossip-based service coordination for scalability and resilience.",
+                    "Achieving causal and total ordering in publish/subscribe middleware with DSM."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2008midsec",
+                "sub_name": "Proceedings of the Workshop on Middleware Security, Leuven, Belgium, December 2, 2008.",
+                "count": 8,
+                "papers": [
+                    "Enforcing \"sticky\" security policies throughout a distributed application.",
+                    "Protection of complex distributed systems.",
+                    "Using JASON to secure SOA.",
+                    "A comparison of two approaches for achieving flexible and adaptive security middleware.",
+                    "Enforcing security in the AgentScape middleware.",
+                    "Security for middleware extensions: event meta-data for enforcing security policy.",
+                    "Controlling historical information dissemination in publish/subscribe.",
+                    "Anomaly detection in the case of message oriented middleware."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2008mobmid",
+                "sub_name": "Proceedings of the First Workshop on Mobile Middleware: embracing the personal communication device, Leuven, Belgium, December 1-5, 2008.",
+                "count": 6,
+                "papers": [
+                    "Design issues and an empirical study in mobility oriented service development.",
+                    "Execution plans for cyber foraging.",
+                    "Addressing mobility issues in mobile environment.",
+                    "SMILE-JS, a SIP-based middleware for J2ME devices.",
+                    "MoTaskit: a personal task-centric tool for service accesses from mobile phones.",
+                    "MUSIC: an autonomous platform supporting self-adaptive mobile applications."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "8th Middleware 2007",
+        "info": "Newport Beach, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/middleware/2007",
+                "sub_name": "Middleware 2007, ACM/IFIP/USENIX 8th International Middleware Conference, Newport Beach, CA, USA, November 26-30, 2007, Proceedings.",
+                "count": 22,
+                "papers": [
+                    "R-OSGi: Distributed Applications Through Software Modularization.",
+                    "Argos, an Extensible Personal Application Server.",
+                    "Compadres: A Lightweight Component Middleware Framework for Composing Distributed Real-Time Embedded Systems with Real-Time Java.",
+                    "SIPHoc: Efficient SIP Middleware for Ad Hoc Networks.",
+                    "Vector-Field Consistency for Ad-Hoc Gaming.",
+                    "Correlation-Based Content Adaptation for Mobile Web Browsing.",
+                    "New Worker-Centric Scheduling Strategies for Data-Intensive Grid Applications.",
+                    "Interactive Resource-Intensive Applications Made Easy.",
+                    "Garbage Collecting the Grid: A Complete DGC for Activities.",
+                    "XenSocket: A High-Throughput Interdomain Transport for Virtual Machines.",
+                    "Creating Private Network Overlays for High Performance Scientific Computing.",
+                    "A Cost-Effective Distributed File Service with QoS Guarantees.",
+                    "R-Capriccio: A Capacity Planning and Anomaly Detection Tool for Enterprise Services with Live Workloads.",
+                    "AVMEM - Availability-Aware Overlays for Management Operations in Non-cooperative Distributed Systems.",
+                    "iManage: Policy-Driven Self-management for Enterprise-Scale Systems.",
+                    "Middleware Support for Adaptive Dependability.",
+                    "Consistent and Scalable Cache Replication for Multi-tier J2EE Applications.",
+                    "CLASP: Collaborating, Autonomous Stream Processing Systems.",
+                    "A Policy Management Framework for Content-Based Publish/Subscribe Middleware.",
+                    "Hybrid Dissemination: Adding Determinism to Probabilistic Multicasting in Large-Scale P2P Systems.",
+                    "A Utility-Aware Middleware Architecture for Decentralized Group Communication Applications.",
+                    "Programming Wireless Sensor Networks with the TeenyLimeMiddleware."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2007dp",
+                "sub_name": "Middleware 2007, ACM/IFIP/USENIX 8th International Middleware Conference, Newport Beach, CA, USA, November 26-30, 2007, Demos and Posters Proceedings.",
+                "count": 19,
+                "papers": [
+                    "netEmbed: a service for embedding distributed applications.",
+                    "Placement of replicated message mediation components.",
+                    "Ethnographic studies as a requirement gathering process for the design of context aware middleware.",
+                    "Suitable EAI architectures are necessary to fit interoperability challenges of SME's in less developed countries.",
+                    "Using sound for monitoring wireless sensor network behavior.",
+                    "A service-oriented middleware for providing context awareness and notification.",
+                    "Discovering social services in pervasive environments with privacy.",
+                    "Muliple routing configurations demonstrator: IP fast reroute in practice.",
+                    "Mobile medical diagnosis: an m-health initiative through service continuity in B3G.",
+                    "General purpose fault injector for CORBA applications.",
+                    "Dynamic multi-process information flow tracking for web application security.",
+                    "Got predictability?: experiences with fault-tolerant middleware.",
+                    "INFORM: integrated flow orchestration and meta-scheduling for managed grid systems.",
+                    "Combining ontology queries with key word search in the GloServ service discovery system.",
+                    "SOVoIP: middleware for universal VoIP connectivity.",
+                    "A middleware architecture for unmanned aircraft avionics.",
+                    "BAD: bandwidth adaptive dissemination or (the case for BAD trees).",
+                    "Resource discovery in federated systems with voluntary sharing.",
+                    "EVEY: enhancing privacy of service discovery in pervasive computing."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2007ds",
+                "sub_name": "Middleware 2007, ACM/IFIP/USENIX 8th International Middleware Conference, Newport Beach, CA, USA, November 26-30, 2007, Doctoral Symposium Proceedings.",
+                "count": 8,
+                "papers": [
+                    "SAMProc: middleware for self-adaptive mobile processes in heterogeneous ubiquitous environments.",
+                    "Publish/subscribe notification middleware for vehicular networks.",
+                    "Securing peer-to-peer media streaming systems from selfish and malicious behavior.",
+                    "Performance prediction of component- and pattern-based middleware for distributed systems.",
+                    "Intelligent software agent framework for customized mobile services.",
+                    "Domain-based context management for dynamic and evolutionary environments.",
+                    "FLARe: a Fault-tolerant Lightweight Adaptive Real-time middleware for distributed real-time and embedded systems.",
+                    "Middleware support for protecting personal data from web based data services."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2007mncna",
+                "sub_name": "Proceedings of the Workshop on Middleware for Next-Generation Converged Networks and Applications, MNCNA 2007, Newport Beach, California, USA, November 26, 2007.",
+                "count": 12,
+                "papers": [
+                    "Towards heterogeneous network convergence: policies and middleware architecture for efficient flow assignment, rate allocation and rate control for multimedia applications.",
+                    "An NGN middleware based on an enhanced IMS.",
+                    "Making a case for situation-dependent user profiles in context-aware environments.",
+                    "Middleware: just another level for orchestration.",
+                    "Context sessions: a novel approach for scalable context management in NGN networks.",
+                    "An architecture for the provision of content networks based on IMS, metadata, presence and P2P technologies.",
+                    "On the changing face of service composition in telecom.",
+                    "Wireless ad hoc VoIP.",
+                    "Security issues with the IP multimedia subsystem (IMS).",
+                    "A telecommunications web services platform for third party network access and SOA-based service delivery.",
+                    "Providing middleware support for the control and co-ordination of telecom mashups.",
+                    "Service creation & delivery for SME based on SOA / IMS."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2007mw4soc",
+                "sub_name": "Proceedings of the 2nd Workshop on Middleware for Service Oriented Computing, MW4SOC 2007, Newport Beach, CA, USA, November 26-30, 2007.",
+                "count": 5,
+                "papers": [
+                    "Mobile web services mediation framework.",
+                    "CAESAR: middleware for complex service-oriented peer-to-peer applications.",
+                    "Ontology based algorithm modeling: obtaining adaptation for SOA environment.",
+                    "A platform to support decentralized and dynamically distributed P2P composite OWL-S service execution.",
+                    "Flexible matching and ranking of web service advertisements."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "7th Middleware 2006",
+        "info": "Melbourne, Australia",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/middleware/2006",
+                "sub_name": "Middleware 2006, ACM/IFIP/USENIX 7th International Middleware Conference, Melbourne, Australia, November 27-December 1, 2006, Proceedings.",
+                "count": 21,
+                "papers": [
+                    "Caching Dynamic Web Content: Designing and Analysing an Aspect-Oriented Solution.",
+                    "Non-intrusive Performance Management for Computer Services.",
+                    "True and Transparent Distributed Composition of Aspect-Components.",
+                    "Policy-Driven Middleware for Self-adaptation of Web Services Compositions.",
+                    "Living with Nondeterminism in Replicated Middleware Applications.",
+                    "Trading Off Resources Between Overlapping Overlays.",
+                    "Efficient Probabilistic Subsumption Checking for Content-Based Publish/Subscribe Systems.",
+                    "Dynamic Load Balancing in Distributed Content-Based Publish/Subscribe.",
+                    "Decentralized Message Ordering for Publish/Subscribe Systems.",
+                    "DBFarm: A Scalable Cluster for Multiple Databases.",
+                    "Queryll: Java Database Queries Through Bytecode Rewriting.",
+                    "Contory: A Middleware for the Provisioning of Context Information on Smart Phones.",
+                    "Efficient Semantic Service Discovery in Pervasive Computing Environments.",
+                    "A Middleware System for Protecting Against Application Level Denial of Service Attacks.",
+                    "Generalized Access Control of Synchronous Communication.",
+                    "FMware: Middleware for Efficient Filtering and Matching of XML Messages with Local Data.",
+                    "Synergy: Sharing-Aware Component Composition for Distributed Stream Processing Systems.",
+                    "Enforcing Performance Isolation Across Virtual Machines in Xen.",
+                    "Low-Overhead Message Tracking for Distributed Messaging.",
+                    "Utility-Driven Proactive Management of Availability in Enterprise-Scale Information Flows.",
+                    "Model Driven Provisioning: Bridging the Gap Between Declarative Object Models and Procedural Provisioning Tools."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2006ds",
+                "sub_name": "Proceedings of the 3rd international Middleware doctoral symposium, MDS '06, Melbourne, Australia, November 27 - December 1, 2006.",
+                "count": 6,
+                "papers": [
+                    "Caching context information in pervasive systems.",
+                    "Supporting arbitrary Boolean subscriptions in distributed publish/subscribe systems.",
+                    "Distributed data storage for opportunistic grids.",
+                    "Middleware support for transparency and user control in context-aware systems.",
+                    "Reconfigurable middleware for sensor based applications.",
+                    "Using logical neighborhoods to enable scoping in wireless sensor networks."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2006mw4soc",
+                "sub_name": "Proceedings of the 1st Workshop on Middleware for Service Oriented Computing, MW4SOC 2006, Melbourne, Australia, November 27 - December 01, 2006.",
+                "count": 8,
+                "papers": [
+                    "Adaptive application-specific middleware.",
+                    "Software adaptation for service-oriented systems.",
+                    "What service replication middleware can learn from object replication middleware.",
+                    "Middleware support for auditing service process flows.",
+                    "Heuristics-based scheduling of composite web service workloads.",
+                    "Towards ad hoc contextual services for pervasive computing.",
+                    "Modeling QoS characteristics in WSMO.",
+                    "SH-BPEL: a self-healing plug-in for Ws-BPEL engines."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2006moddm",
+                "sub_name": "Proceedings of the 1st workshop on MOdel Driven Development for Middleware, MODDM 2006, Melbourne, Australia, November 27 - December 1, 2006.",
+                "count": 4,
+                "papers": [
+                    "DSLBench: applying DSL in benchmark generation.",
+                    "UML profile for the design of a platform-independent context-aware applications.",
+                    "Models, reflective mechanisms and family-based systems to support dynamic configuration.",
+                    "Auto-tune design and evaluation on staged event-driven architecture."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "6th Middleware 2005",
+        "info": "Grenoble, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/middleware/2005",
+                "sub_name": "Middleware 2005, ACM/IFIP/USENIX, 6th International Middleware Conference, Grenoble, France, November 28 - December 2, 2005, Proceedings.",
+                "count": 24,
+                "papers": [
+                    "Securing Publish/Subscribe for Multi-domain Systems.",
+                    "ABACUS: A Distributed Middleware for Privacy Preserving Data Sharing Across Private Data Warehouses.",
+                    "Causeway: Support for Controlling and Analyzing the Execution of Multi-tier Applications.",
+                    "MINERVAinfinity: A Scalable Efficient Peer-to-Peer Search Engine.",
+                    "An Optimal Overlay Topology for Routing Peer-to-Peer Searches.",
+                    "Combining Flexibility and Scalability in a Peer-to-Peer Publish/Subscribe System.",
+                    "WreC: A Scalable Middleware Architecture to Enable XML Caching for Web-Services.",
+                    "Inflatable XML Processing.",
+                    "INDISS: Interoperable Discovery System for Networked Services.",
+                    "Dual-Quorum Replication for Edge Services.",
+                    "Frugal Event Dissemination in a Mobile Environment.",
+                    "RTZen: Highly Predictable, Real-Time Java Middleware for Distributed and Embedded Systems, .",
+                    "Composite Subscriptions in Content-Based Publish/Subscribe Systems.",
+                    "Scrivener: Providing Incentives in Cooperative Content Distribution Systems.",
+                    "MEDYM: Match-Early with Dynamic Multicast for Content-Based Publish-Subscribe Networks.",
+                    "Generic Middleware Substrate Through Modelware.",
+                    "Deep Middleware for the Divergent Grid.",
+                    "Opportunistic Overlays: Efficient Content Delivery in Mobile Ad Hoc Networks.",
+                    "I-RMI: Performance Isolation in Information Flow Applications.",
+                    "Matrix: Adaptive Middleware for Distributed Multiplayer Games.",
+                    "Overlay Networks - Implementation by Specification.",
+                    "Adaptive Load Diffusion for Stream Joins.",
+                    "Network Processing of Documents, for Documents, by Documents.",
+                    "Fault-Tolerant Middleware and the Magical 1%."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2005ds",
+                "sub_name": "Proceedings of the 2nd international doctoral symposium on Middleware 2005, Grenoble, France, November 28 - December 2, 2005.",
+                "count": 8,
+                "papers": [
+                    "Quality aware service planning in computational grids.",
+                    "Coordination middleware for decentralized applications in dynamic networks.",
+                    "Self-organizing publish/subscribe.",
+                    "A software architecture for translucent replication.",
+                    "Middleware design for integration of sensor network and mobile devices.",
+                    "EDAS: providing an environment for decentralized adaptive services.",
+                    "Dynamic data replication and consistency in mobile environments.",
+                    "A framework for detecting performance design and deployment antipatterns in component based enterprise systems."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "5th Middleware 2004",
+        "info": "Toronto, Ontario, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/middleware/2004",
+                "sub_name": "Middleware 2004, ACM/IFIP/USENIX International Middleware Conference, Toronto, Canada, October 18-20, 2004, Proceedings.",
+                "count": 26,
+                "papers": [
+                    "Middleware and Web Services for the Collaborative Information Portal of NASA's Mars Exploration Rovers Mission.",
+                    "A Content Model for Evaluating Peer-to-Peer Searching Techniques.",
+                    "Foreseer: A Novel, Locality-Aware Peer-to-Peer System Architecture for Keyword Searches.",
+                    "Guiding Queries to Information Sources with InfoBeacons.",
+                    "The Peer Sampling Service: Experimental Evaluation of Unstructured Gossip-Based Implementations.",
+                    "Directed Flood-Routing Framework for Wireless Sensor Networks.",
+                    "On Exploring Performance Optimizations in Web Service Composition.",
+                    "iOverlay: A Lightweight Middleware Infrastructure for Overlay Application Implementations.",
+                    "Ganymed: Scalable Replication for Transactional Web Applications.",
+                    "Adaptive Middleware for Data Replication.",
+                    "Alternative Edge-Server Architectures for Enterprise JavaBeans Applications.",
+                    "Transparent Information Dissemination.",
+                    "An Ontology-Based Publish/Subscribe System.",
+                    "Meghdoot: Content-Based Publish/Subscribe over P2P Networks.",
+                    "Subscription Propagation in Highly-Available Publish/Subscribe Middleware.",
+                    "Composition of Coordinated Web Services.",
+                    "Adaptive Resource Sharing in a Web Services Environment.",
+                    "Interoperability Among Independently Evolving Web Services.",
+                    "SyD: A Middleware Testbed for Collaborative Applications over Small Heterogeneous Devices and Data Stores.",
+                    "Dynamically Programmable and Reconfigurable Middleware Services.",
+                    "MiddleWhere: A Middleware for Location Awareness in Ubiquitous Computing Applications.",
+                    "A Game Theoretic Approach for Power Aware Middleware.",
+                    "Extending a J2EETM Server with Dynamic and Flexible Resource Management.",
+                    "Developing and Managing Software Components in an Ontology-Based Application Server.",
+                    "Portable and Efficient Distributed Threads for Java.",
+                    "Platform Independent Model Transformation Based on Triple."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2004w3",
+                "sub_name": "Proceedings of the 1st International Doctoral Symposium on Middleware, Toronto, Ontario, Canada, October 19, 2004.",
+                "count": 9,
+                "papers": [
+                    "Introduction to the 1st International Middleware Doctoral Symposium.",
+                    "CUROCO: a distributed architecture for the dynamic generation, composition and use of context in highly dynamic and heterogeneous environments [extended version].",
+                    "Adaptive replication for web applications.",
+                    "SHAD: a human centered security architecture for partitionable, dynamic and heterogeneous distributed systems.",
+                    "Semantic management of middleware.",
+                    "Designing a context-aware middleware for asynchronous communication in mobile ad hoc environments.",
+                    "MDA refinements along middleware-specific concern-dimensions.",
+                    "Application partitioning and hierarchical management in grid environments.",
+                    "Dynamic reconfiguration through OSA+, a real-time middleware."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2004w4",
+                "sub_name": "Proceedings of the 2nd Workshop on Middleware for Pervasive and Ad-hoc Computing, Toronto, Ontario, Canada, October 18-22, 2004.",
+                "count": 13,
+                "papers": [
+                    "A context-aware middleware for applications in mobile Ad Hoc environments.",
+                    "Adaptive middleware for context-aware applications in smart-homes.",
+                    "Mobile adaptive tasks guided by resource contracts.",
+                    "Adapting asynchronous messaging middleware to ad hoc networking.",
+                    "A message-oriented middleware for sensor networks.",
+                    "Toward a standard ubiquitous computing framework.",
+                    "Kernel-middleware interaction to support adaptation in pervasive computing environments.",
+                    "Collaborative backup for dependable mobile applications.",
+                    "Environment mobility: moving the desktop around.",
+                    "Adaptive resource discovery for ubiquitous computing.",
+                    "Scooby: middleware for service composition in pervasive computing.",
+                    "Scoping in wireless sensor networks: a position paper.",
+                    "Security requirements in service oriented architectures for ubiquitous computing."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "name": "4th Middleware 2003",
+        "info": "Rio de Janeiro, Brazil",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/middleware/2003",
+                "sub_name": "Middleware 2003, ACM/IFIP/USENIX International Middleware Conference, Rio de Janeiro, Brazil, June 16-20, 2003, Proceedings.",
+                "count": 25,
+                "papers": [
+                    "Approximate Object Location and Spam Filtering on Peer-to-Peer Systems.",
+                    "Efficient Peer-to-Peer Keyword Searching.",
+                    "NaradaBrokering: A Distributed Middleware Framework and Architecture for Enabling Durable Peer-to-Peer Grids.",
+                    "A Framework for Event Composition in Distributed Systems.",
+                    "Content Distribution for Publish/Subscribe Services.",
+                    "Supporting Mobility in Content-Based Publish/Subscribe Middleware.",
+                    "Fine-Grained Dynamic Adaptation of Distributed Components.",
+                    "A Middleware for Context-Aware Agents in Ubiquitous Computing Environments.",
+                    "Adaptable Architectural Middleware for Programming-in-the-Small-and-Many.",
+                    "Opportunistic Channels: Mobility-Aware Event Delivery.",
+                    "Congestion Control in a Reliable Scalable Message-Oriented Middleware.",
+                    "On Shouting \"Fire!\": Regulating Decoupled Communication in Distributed Systems.",
+                    "Performance Comparison of Middleware Architectures for Generating Dynamic Web Content.",
+                    "Prefetching Based on Web Usage Mining.",
+                    "Distributed Versioning: Consistent Replication for Scaling Back-End Databases of Dynamic Content Web Sites.",
+                    "Abstraction of Transaction Demarcation in Component-Oriented Platforms.",
+                    "Optimising Java RMI Programs by Communication Restructuring.",
+                    "The JBoss Extensible Server.",
+                    "Flexible and Adaptive QoS Control for Distributed Real-Time and Embedded Middleware.",
+                    "Large-Scale Service Overlay Networking with Distance-Based Clustering.",
+                    "A Step Towards a New Generation of Group Communication Systems.",
+                    "A Middleware-Based Application Framework for Active Space Applications.",
+                    "A Proactive Middleware Platform for Mobile Computing.",
+                    "A Flexible Middleware System for Wireless Sensor Networks.",
+                    "A Middleware Service for Mobile Ad Hoc Data Sharing, Enhancing Data Availability."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/middleware/2003w",
+                "sub_name": "International Middleware Conference, Workshop Proceedings, June 16-20, 2003, Rio de Janeiro, Brazil.",
+                "count": 51,
+                "papers": [
+                    "Design and run-time bandwidth contracts for pervasive computing middleware.",
+                    "Network-Based Distributed Systems Middleware.",
+                    "Active Architecture for Pervasive Contextual Services.",
+                    "New Architectures, Protocols and Middleware for Ad Hoc Collaborative Computing.",
+                    "Tiamat: Generative Communication in a Changing World.",
+                    "Towards a Middleware for Generalised Context Management.",
+                    "Group Integrity Management Support for Mobile Ad-Hoc Communities.",
+                    "Dealing with Uncertainty in Mobile Publish/Subscribe Middleware.",
+                    "Context Tailor: Towards a Programming Model for Context-Aware Computing.",
+                    "Enabling Secure Ubiquitous Interactions.",
+                    "Open context-aware storage as a Web Service.",
+                    "Deploying Non-Functional Aspects by Contract.",
+                    "A Reflective Approach to Providing Flexibility in Application Distribution.",
+                    "Reflective Middleware and Security: OOPP meets Obol.",
+                    "Reflective Channel Hierarchies.",
+                    "A Framework for Building Adaptive Distributed Applications.",
+                    "Reflective Middleware-based Programmable Networking.",
+                    "Improving performances for non-functional properties.",
+                    "Enabling Reflection and Reconfiguration in CORBA.",
+                    "Dynamic Deployment of Services on Mobile Agents Systems.",
+                    "Transaction Service Management - An approach towards a reflective transaction service.",
+                    "Constraining Architectural Reflection for Safely Managing Adaptation.",
+                    "Adaptive Fault-Tolerant CORBA Components.",
+                    "Variable Aspects And Models For Reusable Component-Based Avionics Systems.",
+                    "Quality of Service Semantics for Component-Based Systems.",
+                    "A QoS Management Framework based on COP oriented Communication Resource Coordination.",
+                    "A Resource Adaptation Framework For Reflective Middleware.",
+                    "Fine-Grain Authorization Policies in the GRID: Design and Implementation.",
+                    "GridSphere: A Portal Framework For Building Collaborations.",
+                    "Grids of Agents for Computer and Telecommunication Network Management.",
+                    "Functionalities in Grid Computing with Active Services.",
+                    "QoS Adaptation in Service-Oriented Grids.",
+                    "Market-based Resource Allocation for Grid Computing: A Model and Simulation.",
+                    "Distributed Visualization in Grid Environment.",
+                    "A Reflective Middleware Approach to the Provision of Grid Middleware.",
+                    "InteGrade: Object-Oriented Grid Middleware Leveraging Idle Computing Power of Desktop Machines.",
+                    "An Asynchronous Middleware for Grid Resource Monitoring.",
+                    "A Resource Management Framework For Interactive Grids.",
+                    "Global Multimedia Collaboration System.",
+                    "An Architecture For Computational Grids Based On Proxy Servers.",
+                    "EasyGrid: Towards a Framework for the Automatic Grid Enabling of MPI Applications.",
+                    "Programming and Coordinating Grid Environments and Applications.",
+                    "A Model for Parallel Job Scheduling on Dynamic Computer Grids.",
+                    "Towards Middleware Product-Lines.",
+                    "A Policy-based Model-Driven Security Framework.",
+                    "Modelware for Middleware.",
+                    "Levels of Independence in Aspect-Oriented Modeling.",
+                    "The role of the service concept in model-driven applications development.",
+                    "MDA Intra-Level Model Conversions and Transformation Models.",
+                    "CoSMIC: An MDA Generative Tool for Distributed Real-time and Embedded Applications.",
+                    "Generic Concern-Oriented Model Transformations Meet AOP."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2001",
+        "name": "3rd Middleware 2001",
+        "info": "Heidelberg, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/middleware/2001",
+                "sub_name": "Middleware 2001, IFIP/ACM International Conference on Distributed Systems Platforms Heidelberg, Germany, November 12-16, 2001, Proceedings.",
+                "count": 20,
+                "papers": [
+                    "Automated Analysis of Java Message Service Providers.",
+                    "Efficient Object Caching for Distributed Java RMI Applications.",
+                    "Entity Bean A, B, C's: Enterprise Java Beans Commit Options and Caching.",
+                    "A WAP-Based Session Layer Supporting Distributed Applications in Nomadic Environments.",
+                    "Middleware for Reactive Components: An Integrated Use of Context, Roles, and Event Based Coordination.",
+                    "Experiments in Composing Proxy Audio Services for Mobile Users.",
+                    "Thread Transparency in Information Flow Middleware.",
+                    "Abstracting Services in a Heterogeneous Environment.",
+                    "An Efficient Component Model for the Construction of Adaptive Middleware.",
+                    "Rule-Based Transactional Object Migration over a Reflective Middleware.",
+                    "The CORBA Activity Service Framework for Supporting Extended Transactions.",
+                    "Failure Mode Analysis of CORBA Service Implementations.",
+                    "ROOM-BRIDGE: Vertically Configurable Network Architecture and Real-Time Middleware for Interoperability between Ubiquitous Consumer Devices in the Home.",
+                    "Reducing the Energy Usage of Office Applications.",
+                    "System Software for Audio and Visual Networked Home Appliances on Commodity Operating Systems.",
+                    "Access Control and Trust in the Use of Widely Distributed Services.",
+                    "Preserving Causality in a Scalable Message-Oriented Middleware.",
+                    "Pastry: Scalable, Decentralized Object Location, and Routing for Large-Scale Peer-to-Peer Systems.",
+                    "Providing QoS Customization in Distributed Object Systems.",
+                    "2K: An Integrated Approach of QoS Compilation and Reconfigurable, Component-Based Run-Time Middleware for the Unified QoS Management Framework."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2000",
+        "name": "2nd Middleware 2000",
+        "info": "New York, NY, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/middleware/2000",
+                "sub_name": "Middleware 2000, IFIP/ACM International Conference on Distributed Systems Platforms, New York, NY, USA, April 4-7, 2000, Proceedings.",
+                "count": 21,
+                "papers": [
+                    "Implementing a Caching Service for Distributed CORBA Objects.",
+                    "A Middleware System Which Intelligently Caches Query Results.",
+                    "Distributed Object Implementations for Interactive Applications.",
+                    "MIMO - An Infrastructure for Monitoring and Managing Distributed Middleware Environments.",
+                    "Gateways for Accessing Fault Tolerance Domains.",
+                    "An Architecture for Distributed OASIS Services.",
+                    "Monitoring, Security, and Dynamic Configuration with the dynamicTAO Reflective ORB.",
+                    "Customization of Object Request Brokers by Application Specific Policies.",
+                    "The Role of Software Architecture in Constraining Adaptation in Component-Based Middleware Platforms.",
+                    "Exploiting IP Multicast in Content-Based Publish-Subscribe Systems.",
+                    "The Design and Performance of a Scalable ORB Architecture for CORBA Asynchronous Messaging.",
+                    "A Publish/Subscribe CORBA Persistent State Service Prototype.",
+                    "QualProbes: Middleware QoS Profiling Services for Configuring Adaptive Applications.",
+                    "Structuring QoS-Supporting Services with Smart Proxies.",
+                    "Trading and Negotiating Stream Bindings.",
+                    "Strategies for Integrating Messaging and Distributed Object Transactions.",
+                    "A Distributed Object Oriented Framework to Offer Transactional Support for Long Running Business Processes.",
+                    "Active Middleware Services in a Decision Support System for Managing Highly Available Distributed Resources.",
+                    "The Design and Performance of a Pluggable Protocols Framework for Real-Time Distributed Object Computing Middleware.",
+                    "Customizing IDL Mappings and ORB Protocols.",
+                    "Hiararchical Architecture for Real-Time Adaptive Resource Management."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1998",
+        "name": "1st Middleware 1998",
+        "info": "The Lake District, England",
+        "venues": []
+    },
+    {
+        "year": "1997",
+        "name": "4th ICODP/ICDP 1997",
+        "info": "Toronto, Canada",
+        "venues": []
+    },
+    {
+        "year": "1995",
+        "name": "3rd ICODP 1995",
+        "info": "Brisbane, Australia",
+        "venues": []
+    },
+    {
+        "year": "1993",
+        "name": "2nd ICODP 1993",
+        "info": "Berlin, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/odp/1993",
+                "sub_name": "Open Distributed Processing, II: Proceedings of the IFIP TC6/WG6.1 International Conference on Open Distributed Processing, Berlin, Germany, 13-16 September 1993.",
+                "count": 28,
+                "papers": [
+                    "Reference Model of Open Distributed Processing: a Tutorial.",
+                    "An ODP-Oriented Framework for European Services in Telemedicine.",
+                    "ODP-Trader.",
+                    "Does Midware Provide an Adequate Distributed Application Environment?",
+                    "Medical Applications of ODP.",
+                    "Data Oriented Apporach to Business Information Modelling.",
+                    "Service Engineering in RACE and its Relation to ODP.",
+                    "The Challenges of CSCW for Open Distributed Processing.",
+                    "Object Trading in Open Systems.",
+                    "Broadening the User Environment with Implicit Trading.",
+                    "A Type Management System for an ODP Trader.",
+                    "Contexts, Views and Rules: An Integrated Apporach to Trader Contexts.",
+                    "HARNESS - AN Evolving Standard for Distributed Processing.",
+                    "A Distributed Object-Oriented Platform Based on DCE and C++.",
+                    "Is DCE a Support Environment for ODP?",
+                    "Distributed Application Performance, Metrics and Management.",
+                    "A Language for the Specification of Interactive and Distributed Multimedia Applications.",
+                    "Distributed Mulitmedia Systems Quality of Service in ODP Framework of Abstraction: A First Study.",
+                    "Home Automation Systems: ODP in the Kitchen?",
+                    "Federating Expert Systems in an ODP Environment.",
+                    "ODP - a Frameowrk for Defining Service Management Reference Configurations.",
+                    "New Economic-driven Aspects of the ODP Enterprise Specification and Related Quality of Service Issues.",
+                    "Cooperation Support for an Open Service Market.",
+                    "An Object-Oriented Approach to the Formal Specification of ODP Trader.",
+                    "An Improved Model for Transactional Operations in RM-ODP.",
+                    "Report on the Architectural Semantics Workshop.",
+                    "Report on the Workshop \"The Role of ODP in Medical Applications\".",
+                    "Object Management Architecture."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1991",
+        "name": "1st ICODP 1991",
+        "info": "Berlin, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/odp/1991",
+                "sub_name": "Open Distributed Processing: Proceedings of the IFIP TC6/WG6.4 International Workshop on Open Distributed Processing, Berlin, Germany, 8-11 October 1991.",
+                "count": 39,
+                "papers": [
+                    "Introduction to the Open Distributed Processing Basic Reference Model.",
+                    "The Challenge of ODP.",
+                    "Enterprise Modelling, A Necessary Basis for Modern Information Systems.",
+                    "Rationale for Intelligent Networks.",
+                    "The Telecommunications Information Networking Architecture Initiative.",
+                    "Object-Oriented Specification and Stepwise Refinement.",
+                    "Federating Traders: An ODP Adventure.",
+                    "The Impact of CSCW on Open Distributed Processing.",
+                    "Towards a Convergence between Telecommunication Services Architectures and Open Distributed Processing.",
+                    "Object Oriented Modelling in Z for Open Distributed Systems.",
+                    "Towards Cooperative Use of Shared Data in Open Distributed Systems.",
+                    "The Distributed Application Environment - An Architecture Based on Enterprise Requirements.",
+                    "Using the OSI Management Information Model for ODP.",
+                    "Communication Support for Distributed Application.",
+                    "The Design of a Temporal Logic for Open Distributed Systems.",
+                    "The PADKOM System Model - An Open Platform for Medical Applications in a Distributed Multimedia Environment.",
+                    "Application Programming Platforms: From Message Passing to Open Distributed Processing.",
+                    "Modelling Information Objects in Z.",
+                    "Application Management in Open Distributed Processing Environments.",
+                    "The ROSA Object Model.",
+                    "An Engineering Approach to ODP Systems Design.",
+                    "Transparent Services Management in an Add-On Distributed Operating System Layer.",
+                    "Object-Induction Development of Open Distributed Processing Systems.",
+                    "An Integrated Approach for the Construction of Distributed Applications.",
+                    "Technical Discussion Group: \"ODP Architectures\".",
+                    "The 5 ODP Viewpoints on the Schindler Group.",
+                    "ODP and C3I Systems.",
+                    "An Environment for Open Distributed Group Cooperation.",
+                    "Distributed Programming Environment: Challenges.",
+                    "Towards Distributed Applications.",
+                    "Transactions Costs in Agents Systems - An Economic Perspective on the Coordination Problem in Distributed Systems.",
+                    "Enterprise Modelling in Office Area: A Point of View.",
+                    "ENT*REM Rapid Relational - ENTerprise* REModelling with the CASE Tool TOPIN. Turning the Weakness \"Software Maintenance Crisis\" into the Strength \"Continuous Data Remodelling\" for Open Distributed Systems.",
+                    "Application of Cooperative Agents (Co-gents) for the Simulation of Flexible Manufacturing Systems.",
+                    "Realizing a Security Architecture.",
+                    "Designing Distributed Application Processes for Enterprise Integration.",
+                    "Design Techniques and Methodologies.",
+                    "Object-Oriented Design for ODP.",
+                    "From Policy to Specification."
+                ]
+            }
+        ]
+    }
+]
