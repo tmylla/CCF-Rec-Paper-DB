@@ -1,0 +1,478 @@
+[
+    {
+        "year": "2021",
+        "name": "SYSTOR 2021",
+        "info": "Haifa, Israel",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/systor/2021",
+                "sub_name": "SYSTOR '21: The 14th ACM International Systems and Storage Conference, Haifa, Israel, June 14-16, 2021.",
+                "count": 29,
+                "papers": [
+                    "To move or not to move?: page migration for irregular applications in over-subscribed GPU memory systems with DynaMap.",
+                    "Lossless instruction-to-object memory tracing in the Linux kernel.",
+                    "KVRAID: high performance, write efficient, update friendly erasure coding scheme for KV-SSDs.",
+                    "Fine-grained control of concurrency within KV-SSDs.",
+                    "KVCG: a heterogeneous key-value store for skewed workloads.",
+                    "A study of persistent memory bugs in the Linux kernel.",
+                    "UniHeap: managing persistent objects across managed runtimes for non-volatile memory.",
+                    "BDUS: implementing block devices in user space.",
+                    "IMG-DNA: approximate DNA storage for images.",
+                    "The case for adding privacy-related offloading to smart storage.",
+                    "Reducing write amplification in flash by death-time prediction of logical block addresses.",
+                    "Dissecting self-describing data formats to enable advanced querying of file metadata.",
+                    "Dealing with (some of) the fallout from meltdown.",
+                    "S2Dedup: SGX-enabled secure deduplication.",
+                    "Length preserving compression: marrying encryption with compression.",
+                    "HeuristicDB: a hybrid storage database system using a non-volatile memory block device.",
+                    "SIMD-MIMD cocktail in a hybrid memory glass: shaken, not stirred.",
+                    "Jumpgate: automating integration of network connected accelerators.",
+                    "LIRS2: an improved LIRS replacement algorithm.",
+                    "CELL: counter estimation for per-flow traffic over sliding windows.",
+                    "DeCorus-NSA: detection and correlation of unusual signals for network syslog analytics.",
+                    "Indexing cloud data lakes within the lakes.",
+                    "HPC application optimisation in SODALITE.",
+                    "Intelligent re-deployment feedback loop for hybrid applications.",
+                    "An investigation of performance problems with msync() system calls on filesystem DAX.",
+                    "Enabling manycore scalability in F2FS metadata for unlink() operation.",
+                    "Self managed data protection for containers.",
+                    "Sentinel: ransomware detection in file storage.",
+                    "Secure store for FHIR resources with Parquet encryption."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "name": "SYSTOR 2020",
+        "info": "Haifa, Israel",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/systor/2020",
+                "sub_name": "SYSTOR 2020: The 13th ACM International Systems and Storage Conference, Haifa, Israel, October 13-15, 2020.",
+                "count": 9,
+                "papers": [
+                    "Memory Elasticity Benchmark.",
+                    "Scaling Shared Memory Multiprocessing Applications in Non-cache-coherent Domains.",
+                    "Automatic Core Specialization for AVX-512 Applications.",
+                    "BioSEAL: In-Memory Biological Sequence Alignment Accelerator for Large-Scale Genomic Data.",
+                    "MARDU: Efficient and Scalable Code Re-randomization.",
+                    "Re-Animator: Versatile High-Fidelity Storage-System Tracing and Replaying.",
+                    "Supporting Transactions for Bulk NFSv4 Compounds.",
+                    "NVMFS-IOzone: Performance Evaluation for the New NVMM-based File Systems.",
+                    "Polymorphic Compressed Replication of Columnar Data in Scale-Up Hybrid Memory Systems."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "SYSTOR 2019",
+        "info": "Haifa, Israel",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/systor/2019",
+                "sub_name": "Proceedings of the 12th ACM International Conference on Systems and Storage, SYSTOR 2019, Haifa, Israel, June 3-5, 2019.",
+                "count": 34,
+                "papers": [
+                    "CLOCK-pro+: improving CLOCK-pro cache replacement with utility-driven adaptation.",
+                    "Getting more performance with polymorphism from emerging memory technologies.",
+                    "Write optimization of log-structured flash file system for parallel I/O on manycore servers.",
+                    "Trust more, serverless.",
+                    "Clemmys: towards secure remote execution in FaaS.",
+                    "Cross-ISA execution of SIMD regions for improved performance.",
+                    "x86-64 instruction usage among C/C++ applications.",
+                    "Time-multiplexed parsing in marking-based network telemetry.",
+                    "SS-CDC: a two-stage parallel content-defined chunking for deduplicating backup storage.",
+                    "Storm: a fast transactional dataplane for remote data structures.",
+                    "Kurma: secure geo-distributed multi-cloud storage gateways.",
+                    "MEGA: overcoming traditional problems with OS huge page management.",
+                    "A critical RCU safety property is... ease of use!",
+                    "Towards building a high-performance, scale-in key-value storage system.",
+                    "WARCIP: write amplification reduction by clustering I/O pages.",
+                    "FADaC: a self-adapting data classifier for flash memory.",
+                    "Increasing concurrency in hyperledger fabric.",
+                    "AI & eBPF based performance anomaly detection system.",
+                    "Virtual USB honeypot.",
+                    "End-to-end secure insurance telematics.",
+                    "Keydomet: faster prefix-based key comparison.",
+                    "A smart outdoor navigation system for visually impaired people.",
+                    "Backup mainframe data to object storage systems.",
+                    "Detecting traffic anomalies with adaptive sampling.",
+                    "AdaptiveClimb: adaptive policy for cache replacement.",
+                    "Estimating client QoE from measured network QoS.",
+                    "Noisy neighbor detection using skydive.",
+                    "Deadversarial multiverse network: a defense architecture against adversarial attacks.",
+                    "Runbox: serverless interactive computing platform.",
+                    "Key-value FTL over open channel SSD.",
+                    "Big data skipping in the cloud.",
+                    "Address space isolation in the linux kernel.",
+                    "Unleashing the power of unikernels with unikraft.",
+                    "Exploring and troubleshooting istio issues."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "SYSTOR 2018",
+        "info": "Haifa, Israel",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/systor/2018",
+                "sub_name": "Proceedings of the 11th ACM International Systems and Storage Conference, SYSTOR 2018, HAIFA, Israel, June 04-07, 2018.",
+                "count": 31,
+                "papers": [
+                    "Dependable Non-Volatile Memory.",
+                    "REGISTOR: A Platform for Unstructured Data Processing Inside SSD Storage.",
+                    "Protecting Single Shingled Write Drives Against Latent Sector Failures.",
+                    "Lerna: Parallelizing Dependent Loops Using Speculation.",
+                    "Chaperone - Runtime System for Instrumenting Applications via Partial Binary Translation.",
+                    "DLIRS: Improving Low Inter-Reference Recency Set Cache Replacement Policy with Dynamics.",
+                    "The Quick Migration of File Servers.",
+                    "How to Best Share a Big Secret.",
+                    "Inkpack: A Secure, Data-Exposure Resistant Storage System.",
+                    "Seamless Fail-over for PCIe Switched Networks.",
+                    "Memomania: From Huge to Huge-Huge Pages.",
+                    "Collusion in Cloud Computing Auctions.",
+                    "Shared Cloud Object Store, governed by permissioned blockchain.",
+                    "Space Efficient Elephant Flow Detection.",
+                    "Hyplets - Multi Exception Level Kernel towards Linux RTOS.",
+                    "Towards Serverless NFV for 5G Media Applications.",
+                    "An Intelligent Recycle Bin for Smart Cities.",
+                    "RestAssured: Securing Cloud Analytics.",
+                    "Efficient Analytics on Encrypted Data.",
+                    "Accelerating Unmodified Databases using Persistent Memory and Flash Storage Tiers.",
+                    "PM aware storage engine for MongoDB.",
+                    "Privacy Enforcement at a Large Scale for GDPR Compliance.",
+                    "Teechain: Reducing Storage Costs on the Blockchain With Offline Payment Channels.",
+                    "Applying Deep Learning to Object Store Caching.",
+                    "Distributed Fault-Tolerant Backup-Placement in Overloaded Wireless Sensor Networks.",
+                    "Keeping deep learning GPUs well fed using object storage.",
+                    "SliceNet: Cognitive Slice Management Framework for Virtual Multi-Domain 5G Networks.",
+                    "Big Data Analytics for Smart Cities: The H2020 CLASS Project.",
+                    "Securing Log Files through Blockchain Technology.",
+                    "The Gap Game.",
+                    "Stash in a Flash."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "SYSTOR 2017",
+        "info": "Haifa, Israel",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/systor/2017",
+                "sub_name": "Proceedings of the 10th ACM International Systems and Storage Conference, SYSTOR 2017, Haifa, Israel, May 22-24, 2017.",
+                "count": 33,
+                "papers": [
+                    "Multidimensional resource allocation in practice.",
+                    "Heterogeneous- and NUMA-aware scheduling for many-core architectures.",
+                    "AutoStream: automatic stream management for multi-streamed SSDs.",
+                    "Freewrite: creating (almost) zero-cost writes to SSD in applications.",
+                    "Relieving self-healing SSDs of heal storms.",
+                    "LoGA: low-overhead GPU accounting using events.",
+                    "Dexter: faster troubleshooting of misconfiguration cases using system logs.",
+                    "Simulation-based tracing and profiling for system software development.",
+                    "SafeFS: a modular architecture for secure user-space file systems: one FUSE to rule them all.",
+                    "GPrioSwap: towards a swapping policy for GPUs.",
+                    "Crane: fast and migratable GPU passthrough for OpenCL applications.",
+                    "TripS: automated multi-tiered data placement in a geo-distributed cloud environment.",
+                    "Understanding storage traffic characteristics on enterprise virtual desktop infrastructure.",
+                    "Erasure coding for small objects in in-memory KV storage.",
+                    "FlashNet: flash/network stack co-design.",
+                    "NVMe-over-fabrics performance characterization and the path to low-overhead flash disaggregation.",
+                    "Putting the OS in control of DRAM with mapping aliases.",
+                    "\"Memory loss\" in commodity hardware?: predicting DIMM failures with machine learning.",
+                    "Zero-copy receive path in virtio.",
+                    "Remote page faults with a CAPI based FPGA.",
+                    "User space memory management for post-copy migration.",
+                    "Counting distinct elements over sliding windows.",
+                    "Scalable communication middleware for permissioned distributed ledgers.",
+                    "Persistent memory over fabric (PMoF).",
+                    "Diving into federated network.",
+                    "CogNETive: insights and visualization for operations@scale.",
+                    "Stocator: a high performance object store connector for spark.",
+                    "Deviceless edge computing: extending serverless computing to the edge of the network.",
+                    "A research playground for examining erasure codes.",
+                    "Big data analysis of cloud storage logs using spark.",
+                    "Predicting HDD failures from compound SMART attributes.",
+                    "QoS differentiation in an advanced object store.",
+                    "Models for evaluating throughput."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "SYSTOR 2016",
+        "info": "Haifa, Israel",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/systor/2016",
+                "sub_name": "Proceedings of the 9th ACM International on Systems and Storage Conference, SYSTOR 2016, Haifa, Israel, June 6-8, 2016.",
+                "count": 29,
+                "papers": [
+                    "The DragonBeam Framework: Hardware-Protected Security Modules for In-Place Intrusion Detection.",
+                    "SeMiNAS: A Secure Middleware for Wide-Area Network-Attached Storage.",
+                    "Helping Protect Software Distribution with PSWD.",
+                    "Health-Binning: Maximizing the Performance and the Endurance of Consumer-Level NAND Flash.",
+                    "Elastic Queue: A Universal SSD Lifetime Extension Plug-in for Cache Replacement Algorithms.",
+                    "Enabling Space Elasticity in Storage Systems.",
+                    "SSD Failures in Datacenters: What? When? and Why?",
+                    "S-RAC: SSD Friendly Caching for Data Center Workloads.",
+                    "Black box replication: Breaking the latency limits.",
+                    "Exploiting Parallelism of Distributed Nested Transactions.",
+                    "Versioned Programming: A Simple Technique for Implementing Efficient, Lock-Free, and Composable Data Structures.",
+                    "Supporting data-driven I/O on GPUs using GPUfs.",
+                    "Proper Timed I/O: High-Accuracy Real-Time Control for Conventional Operating Systems.",
+                    "A study on the errors and uncertainties of file system trace capture methods.",
+                    "Reducing Journaling Harm on Virtualized I/O Systems.",
+                    "File System Usage in Android Mobile Phones.",
+                    "Enterprise Resource Management in Mesos Clusters.",
+                    "Utilizing Optical Circuits in Hybrid Packet/Circuit Data-Center Networks.",
+                    "Coded Network Switches for Improved Throughput.",
+                    "A Robotic Mobile Hot Spot Relay (MHSR) for Disaster Areas.",
+                    "Using Storage Class Memory Efficiently for an In-memory Database.",
+                    "Software-Defined Emulation Infrastructure for High Speed Storage.",
+                    "IO Core Manager for Virtual Environments.",
+                    "Cross-ISA Container Migration.",
+                    "Memory-Aware Management for Multi-Level Main Memory Complex using an Optimization of the Aging Paging Algorithm.",
+                    "Flexible Download Time Analysis of Coded Storage Systems.",
+                    "Fast and Scalable Security Support for Directory-Based Distributed Shared Memory.",
+                    "Optics in Data Centers: Adapting to Diverse Modern Workloads.",
+                    "Semi-Open Trace Based Simulation for Reliable Evaluation of Job Throughput and User Productivity."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "SYSTOR 2015",
+        "info": "Haifa, Israel",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/systor/2015",
+                "sub_name": "Proceedings of the 8th ACM International Systems and Storage Conference, SYSTOR 2015, Haifa, Israel, May 26-28, 2015.",
+                "count": 18,
+                "papers": [
+                    "Puma: pooling unused memory in virtual machines for I/O intensive applications.",
+                    "Selfie: co-locating metadata and data to enable fast virtual block devices.",
+                    "Efficient replication for distributed fault tolerant memory.",
+                    "Algebraic modeling of write amplification in hotness-aware SSD.",
+                    "Read leveling for flash storage systems.",
+                    "Performance analysis of NVMe SSDs and their implication on real world databases.",
+                    "An embedded storage framework abstracting each raw flash device as an MTD.",
+                    "Optimizing file systems for fast storage devices.",
+                    "Space and write overhead are inversely proportional in flash memory.",
+                    "Merging semantics for conflict updates in geo-distributed file systems.",
+                    "CDP: a coded datagram transport protocol bridging UDP and TCP.",
+                    "Feedback-driven combinatorial test design and execution.",
+                    "Impact of GC design on power and performance for Android.",
+                    "Disruptive prefetching: impact on side-channel attacks and cache designs.",
+                    "Thunderstrike: EFI firmware bootkits for Apple MacBooks.",
+                    "Don't trust the cloud, verify: integrity and consistency for cloud object stores.",
+                    "Reducing fragmentation impact with forward knowledge in backup systems with deduplication.",
+                    "SMRDB: key-value data store for shingled magnetic recording disks."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "SYSTOR 2014",
+        "info": "Haifa, Israel",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/systor/2014",
+                "sub_name": "International Conference on Systems and Storage, SYSTOR 2014, Haifa, Israel, June 30 - July 02, 2014.",
+                "count": 15,
+                "papers": [
+                    "In-Band Control for an Ethernet-Based Software-Defined Network.",
+                    "SPTU: Improving Dynamic Binary Translation through Software Prediction with Target Updating.",
+                    "A File By Any Other Name: Managing File Names with Metadata.",
+                    "PrefEdge: SSD Prefetcher for Large-Scale Graph Traversal.",
+                    "Automated Control of Aggressive Prefetching for HTTP Streaming Video Servers.",
+                    "eWave: Leveraging Energy-Awareness for In-line Deduplication Clusters.",
+                    "Client-side Flash Caching for Cloud Systems.",
+                    "Towards a Flexible, Lightweight Virtualization Alternative.",
+                    "DreamServer: Truly On-Demand Cloud Services.",
+                    "Reconciling Transactional and Non-Transactional Operations in Distributed Key-Value Stores.",
+                    "Taming IO Spikes in Enterprise and Campus VM Deployment.",
+                    "Automated Data Partitioning for Highly Scalable and Strongly Consistent Transactions.",
+                    "Muninn: a Versioning Flash Key-Value Store Using an Object-based Storage Model.",
+                    "Software Orchestrated Flash Array.",
+                    "Lazy Means Smart: Reducing Repair Bandwidth Costs in Erasure-coded Distributed Storage."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "SYSTOR 2013",
+        "info": "Haifa, Israel",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/systor/2013",
+                "sub_name": "6th Annual International Systems and Storage Conference, SYSTOR '13, Haifa, Israel - June 30 - July 02, 2013.",
+                "count": 23,
+                "papers": [
+                    "Fighting internet-based sexual exploitation crimes against children.",
+                    "HSG-LM: hybrid-copy speculative guest OS live migration without hypervisor.",
+                    "Octopus: efficient data intensive computing on virtualized datacenters.",
+                    "Examining extended and scientific metadata for scalable index designs.",
+                    "Direct lookup and hash-based metadata placement for local file systems.",
+                    "Mercury: bringing efficiency to key-value stores.",
+                    "A self-managed self-optimized publish-subscribe system.",
+                    "Computational caches.",
+                    "Spanner: Google's globally-distributed database.",
+                    "HEC: improving endurance of high performance flash-based cache devices.",
+                    "Extending SSD lifetime in database applications with page overwrites.",
+                    "An empirical study of hot/cold data separation policies in solid state drives (SSDs).",
+                    "Fuzzy adaptive control for heterogeneous tasks in high-performance storage systems.",
+                    "Rangoli: space management in deduplication environments.",
+                    "Block locality caching for data deduplication.",
+                    "A scalable deduplication and garbage collection engine for incremental backup.",
+                    "Virtual point in time access.",
+                    "Performance introspection of graph databases.",
+                    "Leveraging predefined huffman dictionaries for high compression rate and ratio.",
+                    "Building intelligence for software defined data centers: modeling usage patterns.",
+                    "Beyond block I/O: implementing a distributed shared log in hardware.",
+                    "Linux block IO: introducing multi-queue SSD access on multi-core systems.",
+                    "Big data: little software?"
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "SYSTOR 2012",
+        "info": "Haifa, Israel",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/systor/2012",
+                "sub_name": "The 5th Annual International Systems and Storage Conference, SYSTOR '12, Haifa, Israel, June 4-6, 2012.",
+                "count": 17,
+                "papers": [
+                    "Improving application responsiveness with the BFQ disk I/O scheduler.",
+                    "Comparing high-performance multi-core web-server architectures.",
+                    "On extracting session data from activity logs.",
+                    "Towards exitless and efficient paravirtual I/O.",
+                    "MyCassandra: a cloud storage supporting both read heavy and write heavy workloads.",
+                    "GPUstore: harnessing GPU computing for storage systems in the OS kernel.",
+                    "Scheduling processing of real-time data streams on heterogeneous multi-GPU systems.",
+                    "BVSSD: build built-in versioning flash-based solid state drives.",
+                    "SAC: rethinking the cache replacement policy for SSD-based storage systems.",
+                    "Optimizing indirect branches in a system-level dynamic binary translator.",
+                    "Reducing impact of data fragmentation caused by in-line deduplication.",
+                    "On open nesting in distributed transactional memory.",
+                    "Methodologies for generating HTTP streaming video workloads to evaluate web server performance.",
+                    "Analytic modeling of SSD write performance.",
+                    "An experimental evaluation of real-time DVFS scheduling algorithms.",
+                    "Understanding data survivability in archival storage systems.",
+                    "Insights for data reduction in primary storage: a practical analysis."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "SYSTOR 2011",
+        "info": "Haifa, Israel",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/systor/2011",
+                "sub_name": "Proceedings of of SYSTOR 2011: The 4th Annual Haifa Experimental Systems Conference, Haifa, Israel, May 30 - June 1, 2011.",
+                "count": 16,
+                "papers": [
+                    "FlurryDB: a dynamically scalable relational database with virtual machine cloning.",
+                    "Distributed and fault-tolerant execution framework for transaction processing.",
+                    "Inter-cloud mobility of virtual machines.",
+                    "Case studies in hardware XPath acceleration.",
+                    "Efficiently identifying working sets in block I/O streams.",
+                    "Trading off quality for throughput using content adaptation in web servers.",
+                    "An exact algorithm for energy-efficient acceleration of task trees on CPU/GPU architectures.",
+                    "On the energy consumption and performance of systems software.",
+                    "Sustainable predictive storage management: on-line grouping for energy and latency reduction.",
+                    "SCert: Speculative certification in replicated software transactional memories.",
+                    "Coping with context switches in lock-based software transactional memory.",
+                    "Memory system performance in a NUMA multicore multiprocessor.",
+                    "Prototyping a high-performance low-cost solid-state disk.",
+                    "The pitfalls of deploying solid-state drive RAIDs.",
+                    "Towards SIRF: self-contained information retention format.",
+                    "Anchor-driven subchunk deduplication."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "SYSTOR 2010",
+        "info": "Haifa, Israel",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/systor/2010",
+                "sub_name": "Proceedings of of SYSTOR 2010: The 3rd Annual Haifa Experimental Systems Conference, Haifa, Israel, May 24-26, 2010.",
+                "count": 23,
+                "papers": [
+                    "Using machine learning techniques to enhance the performance of an automatic backup and recovery system.",
+                    "Optimizations of LFS with slack space recycling and lazy indirect block update.",
+                    "A new approach to file system cache writeback of application data.",
+                    "Design and implementation of a generic resource sharing virtual time dispatcher.",
+                    "Empirical quantification of opportunities for content adaptation in web servers.",
+                    "Scalability limitations when running a Java web server on a chip multiprocessor.",
+                    "Scalable performance of system S for extract-transform-load processing.",
+                    "A new approach to \"storage management\" restrictions using the \"data quality\" concept.",
+                    "A distributed caching algorithm for streaming uncompressed HD video.",
+                    "Usage scenarios for fast dynamic binary translators.",
+                    "Cost-aware live migration of services in the cloud.",
+                    "A design for high-performance low-cost solid-state disks.",
+                    "HparC: a mixed nested shared memory and message passing programming style intended for grid.",
+                    "STAPL: standard template adaptive parallel library.",
+                    "Parallel programming framework for large batch transaction processing on scale-out systems.",
+                    "Plugging the hypervisor abstraction leaks caused by virtual networking.",
+                    "Operating system virtualization: practice and experience.",
+                    "On the DMA mapping problem in direct device assignment.",
+                    "Application-storage discovery.",
+                    "DARC: design and evaluation of an I/O controller for data protection.",
+                    "A hybrid multicast-unicast infrastructure for efficient publish-subscribe in enterprise networks.",
+                    "Generating low-overhead dynamic binary translators.",
+                    "Code alignment for architectures with pipeline group dispatching."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "SYSTOR 2009",
+        "info": "Haifa, Israel",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/systor/2009",
+                "sub_name": "Proceedings of of SYSTOR 2009: The Israeli Experimental Systems Conference 2009, Haifa, Israel, May 4-6, 2009.",
+                "count": 17,
+                "papers": [
+                    "Optimistic concurrency for clusters via speculative locking.",
+                    "Transactifying Apache's cache module.",
+                    "Storage modeling for power estimation.",
+                    "Energy and performance evaluation of lossless file data compression on server systems.",
+                    "Designing a power efficiency framework for battery powered systems.",
+                    "The design of a similarity based deduplication system.",
+                    "The effectiveness of deduplication on virtual machine disk images.",
+                    "Multi-level comparison of data deduplication in a backup scenario.",
+                    "DHIS: discriminating hierarchical storage.",
+                    "Write amplification analysis in flash-based solid state drives.",
+                    "Architecture of the internet archive.",
+                    "Towards high-quality I/O virtualization.",
+                    "IP mobility to support live migration of virtual machines across subnets.",
+                    "The effect of unrolling and inlining for Python bytecode optimizations.",
+                    "Cache-aware partitioning of multi-dimensional iteration spaces.",
+                    "Improving communication-phase completion times in HPC clusters through congestion mitigation.",
+                    "Hardware-less testing for RAS software."
+                ]
+            }
+        ]
+    }
+]

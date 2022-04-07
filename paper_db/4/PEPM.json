@@ -1,0 +1,832 @@
+[
+    {
+        "year": "2022",
+        "name": "PEPM 2022",
+        "info": "Philadelphia, PA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pepm/2022",
+                "sub_name": "PEPM 2022: Proceedings of the 2022 ACM SIGPLAN International Workshop on Partial Evaluation and Program Manipulation, Philadelphia, PA, USA, January 17 - 18, 2022.",
+                "count": 2,
+                "papers": [
+                    "Dependent tagless final.",
+                    "Semi-automatic ladderisation: improving code security through rewriting and dependent types."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2021",
+        "name": "PEPM 2021",
+        "info": "Virtual Event, Denmark",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pepm/2021",
+                "sub_name": "Proceedings of the 2021 ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation, PEPM@POPL 2021, Virtual Event, Denmark, January 18-19, 2021.",
+                "count": 6,
+                "papers": [
+                    "A type-safe structure editor calculus.",
+                    "Coq to C translation with partial evaluation.",
+                    "A text-based syntax completion method using LR parsing.",
+                    "Counterexample generation for program verification based on ownership refinement types.",
+                    "Efficient fair conjunction for structurally-recursive relations.",
+                    "Strictly capturing non-strict closures."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "name": "PEPM 2020",
+        "info": "New Orleans, LA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pepm/2020",
+                "sub_name": "Proceedings of the 2020 ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation, PEPM@POPL 2020, New Orleans, LA, USA, January 20, 2020.",
+                "count": 5,
+                "papers": [
+                    "Module generation without regret.",
+                    "Symbolic bisimulation for open and parameterized systems.",
+                    "High-fidelity metaprogramming with separator syntax trees.",
+                    "An approach to generate text-based IDEs for syntax completion based on syntax specification.",
+                    "GOOL: a generic object-oriented language."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "PEPM 2019",
+        "info": "Cascais, Portugal",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pepm/2019",
+                "sub_name": "Proceedings of the 2019 ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation, PEPM@POPL 2019, Cascais, Portugal, January 14-15, 2019.",
+                "count": 9,
+                "papers": [
+                    "A simpler lambda calculus.",
+                    "Method name suggestion with hierarchical attention networks.",
+                    "Reduction from branching-time property verification of higher-order programs to HFL validity checking.",
+                    "Typed parsing and unparsing for untyped regular expression engines.",
+                    "Combining higher-order model checking with refinement type inference.",
+                    "Control flow obfuscation via CPS transformation.",
+                    "Extracting a call-by-name partial evaluator from a proof of termination.",
+                    "Futures and promises in Haskell and Scala.",
+                    "Generating mutually recursive definitions."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "PEPM 2018",
+        "info": "Los Angeles, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pepm/2018",
+                "sub_name": "Proceedings of the ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation, Los Angeles, CA, USA, January 8-9, 2018.",
+                "count": 8,
+                "papers": [
+                    "Developments in property-based testing (invited talk).",
+                    "A guess-and-assume approach to loop fusion for program verification.",
+                    "Gradually typed symbolic expressions.",
+                    "On the cost of type-tag soundness.",
+                    "Selective CPS transformation for shift and reset.",
+                    "Checking cryptographic API usage with composable annotations (short paper).",
+                    "Program generation for ML modules (short paper).",
+                    "Recursive programs in normal form (short paper)."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "PEPM 2017",
+        "info": "Paris, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pepm/2017",
+                "sub_name": "Proceedings of the 2017 ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation, PEPM 2017, Paris, France, January 18-20, 2017.",
+                "count": 12,
+                "papers": [
+                    "Compiling untyped lambda calculus to lower-level code by game semantics and partial evaluation (invited paper).",
+                    "Detecting code clones with gaps by function applications.",
+                    "Lightweight soundness for towers of language extensions.",
+                    "PEG parsing in less space using progressive tabling and dynamic analysis.",
+                    "Interactive data representation migration: exploiting program dependence to aid program transformation.",
+                    "Verification of code generators via higher-order model checking.",
+                    "A functional reformulation of UnCAL graph-transformations: or, graph transformation as graph reduction.",
+                    "Functional parallels of sequential imperatives (short paper).",
+                    "Cost versus precision for approximate typing for Python.",
+                    "Predicting resource consumption of higher-order workflows.",
+                    "Refining types using type guards in TypeScript.",
+                    "Language-integrated query with ordering, grouping and outer joins (poster paper)."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "PEPM 2016",
+        "info": "St. Petersburg, FL, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pepm/2016",
+                "sub_name": "Proceedings of the 2016 ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation, PEPM 2016, St. Petersburg, FL, USA, January 20 - 22, 2016.",
+                "count": 10,
+                "papers": [
+                    "Practical, general parser combinators.",
+                    "Operator precedence for data-dependent grammars.",
+                    "Everything old is new again: quoted domain-specific languages.",
+                    "Finally, safely-extensible and efficient language-integrated query.",
+                    "A constraint language for static semantic analysis based on scope graphs.",
+                    "BiGUL: a formally verified core language for putback-based bidirectional programming.",
+                    "Removing runtime overhead for optimized object queries.",
+                    "Staging generic programming.",
+                    "Toward introducing binding-time analysis to MetaOCaml.",
+                    "Staging beyond terms: prospects and challenges."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "PEPM 2015",
+        "info": "Mumbai, India",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pepm/2015",
+                "sub_name": "Proceedings of the 2015 Workshop on Partial Evaluation and Program Manipulation, PEPM, Mumbai, India, January 15-17, 2015.",
+                "count": 15,
+                "papers": [
+                    "Desugaring in Practice: Opportunities and Challenges.",
+                    "Imperative Polymorphism by Store-Based Types as Abstract Interpretations.",
+                    "Object-sensitive Type Analysis of PHP.",
+                    "Structurally Heterogeneous Source Code Examples from Unstructured Knowledge Sources.",
+                    "Generalising Tree Traversals to DAGs: Exploiting Sharing without the Pain.",
+                    "Incremental Evaluation of Higher Order Attributes.",
+                    "Linearly Ordered Attribute Grammars: with Automatic Augmenting Dependency Selection.",
+                    "Verifying Relational Properties of Functional Programs by First-Order Refinement.",
+                    "Threads as Resource for Concurrency Verification.",
+                    "Constraint Specialisation in Horn Clause Verification.",
+                    "SWIN: Towards Type-Safe Java Program Adaptation between APIs.",
+                    "Safe Concurrency Introduction through Slicing.",
+                    "Static Backward Demand-Driven Slicing.",
+                    "Type-based Exception Analysis for Non-strict Higher-order Functional Languages with Imprecise Exception Semantics.",
+                    "Polyvariant Cardinality Analysis for Non-strict Higher-order Functional Languages: Brief Announcement."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "PEPM 2014",
+        "info": "San Diego, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pepm/2014",
+                "sub_name": "Proceedings of the ACM SIGPLAN 2014 workshop on Partial evaluation and program manipulation, PEPM 2014, January 20-21, 2014, San Diego, California, USA.",
+                "count": 19,
+                "papers": [
+                    "Lessons from a web-based IDE and runtime.",
+                    "Combinators for impure yet hygienic code generation.",
+                    "Effective quotation: relating approaches to language-integrated query.",
+                    "Compile-time reflection and metaprogramming for Java.",
+                    "Monadic combinators for \"Putback\" style bidirectional programming.",
+                    "Semantic bidirectionalization revisited.",
+                    "Generating attribute grammar-based bidirectional transformations from rewrite rules.",
+                    "Optimizing SYB is easy!",
+                    "QEMU/CPC: static analysis and CPS conversion for safe, portable, and efficient coroutines.",
+                    "Partial evaluation as universal compiler tool: experiences from the SAC Eco system.",
+                    "The HERMIT in the stream: fusing stream fusion's concatMap.",
+                    "Type-changing rewriting and semantics-preserving transformation.",
+                    "An operational semantics for android activities.",
+                    "Early detection of type errors in C++ templates.",
+                    "Lazy stateless incremental evaluation machinery for attribute grammars.",
+                    "Deriving interpretations of the gradually-typed lambda calculus.",
+                    "Automating property-based testing of evolving web services.",
+                    "A modular and generic analysis server system for functional logic programs.",
+                    "HIPimm: verifying granular immutability guarantees."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "PEPM 2013",
+        "info": "Rome, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pepm/2013",
+                "sub_name": "Proceedings of the ACM SIGPLAN 2013 Workshop on Partial Evaluation and Program Manipulation, PEPM 2013, Rome, Italy, January 21-22, 2013.",
+                "count": 19,
+                "papers": [
+                    "Practical aspects of bidirectional graph transformations.",
+                    "Security type error diagnosis for higher-order, polymorphic languages.",
+                    "Deriving a complete type inference for hindley-milner and vector sizes using expansion.",
+                    "Typing as functional-logic evaluation.",
+                    "Precise explanation of success typing errors.",
+                    "Verifying programs via iterated specialization.",
+                    "Towards a scalable software model checker for higher-order programs.",
+                    "Verified integrity properties for safe approximate program transformations.",
+                    "TRSynth: a tool for automatic inference of term equivalence in left-linear term rewriting systems.",
+                    "Traceability and evidence of correctness of EDSL abstractions.",
+                    "Partially static operations.",
+                    "Just do it while compiling!: fast extensible records in haskell.",
+                    "Abstract syntax graphs for domain specific languages.",
+                    "Fixing idioms: a recursion primitive for applicative DSLs.",
+                    "A syntactic and functional correspondence between reduction semantics and reduction-free full normalisers.",
+                    "A meta-circular language for active libraries.",
+                    "Automatic inference of specifications using matching logic.",
+                    "Constraint-based locality analysis for X10 programs.",
+                    "Shonan challenge for generative programming: short position paper."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "PEPM 2012",
+        "info": "Philadelphia, Pennsylvania, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pepm/2012",
+                "sub_name": "Proceedings of the ACM SIGPLAN 2012 Workshop on Partial Evaluation and Program Manipulation, PEPM 2012, Philadelphia, Pennsylvania, USA, January 23-24, 2012.",
+                "count": 21,
+                "papers": [
+                    "Compiling math to fast code.",
+                    "Specification and verification of meta-programs.",
+                    "Polynomial-time inverse computation for accumulative functions with multiple data traversals.",
+                    "Distillation with labelled transition systems.",
+                    "Incremental resource usage analysis.",
+                    "Finding and fixing Java naming bugs with the lancelot eclipse plugin.",
+                    "Ideas for connecting inductive program synthesis and bidirectionalization.",
+                    "An analytical inductive functional programming system that avoids unintended programs.",
+                    "Composing transformations for instrumentation and optimization.",
+                    "Obfuscation by partial evaluation of distorted interpreters.",
+                    "StagedSAC: a case study in performance-oriented DSL development.",
+                    "Well-typed narrowing with extra variables in functional-logic programming.",
+                    "Towards typing for small-step direct reflection.",
+                    "The interaction of contracts and laziness.",
+                    "Hybrid contract checking via symbolic simplification.",
+                    "Scala-virtualized.",
+                    "Functional programs as compressed data.",
+                    "An approach to completing variable names for implicitly typed functional languages.",
+                    "Streams that compose using macros that oblige.",
+                    "COSTABS: a cost and termination analyzer for ABS.",
+                    "Translating flowcharts to non-deterministic languages."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "PEPM 2011",
+        "info": "Austin, TX, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pepm/2011",
+                "sub_name": "Proceedings of the 2011 ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation, PEPM 2011, Austin, TX, USA, January 24-25, 2011.",
+                "count": 18,
+                "papers": [
+                    "A walk in the semantic park.",
+                    "Ordering multiple continuations on the stack.",
+                    "Partial evaluation of the reversible language janus.",
+                    "Taming code explosion in supercompilation.",
+                    "Allocation removal by partial evaluation in a tracing JIT.",
+                    "A generative geometric kernel.",
+                    "An embedded language for programming protocol stacks in embedded systems.",
+                    "Verified resource guarantees using COSTA and KeY.",
+                    "DiaSuite: a paradigm-oriented software development approach.",
+                    "Probabilistic accuracy bounds for perforated programs: a new foundation for program analysis and transformation.",
+                    "Adaptation-based programming in java.",
+                    "Calculating with lenses: optimising bidirectional transformations.",
+                    "Calculating tree navigation with symmetric relational zipper.",
+                    "A program transformation for returning states in functional-logic programs.",
+                    "Type classes in functional logic programming.",
+                    "Strictification of circular programs.",
+                    "A semantics for lazy assertions.",
+                    "iTasks for a change: type-safe run-time change in dynamically evolving workflows."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "PEPM 2010",
+        "info": "Madrid, Spain",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pepm/2010",
+                "sub_name": "Proceedings of the 2010 ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation, PEPM 2010, Madrid, Spain, January 18-19, 2010.",
+                "count": 20,
+                "papers": [
+                    "O, partial evaluator, where art thou?",
+                    "General purpose languages should be metalanguages.",
+                    "Corrective hints for type incorrect generic Java programs.",
+                    "Mnemonics: type-safe bytecode generation at run time.",
+                    "PET: a partial evaluation-based test case generation tool for Java bytecode.",
+                    "IGOR2 - an analytical inductive functional programming system: tool demo.",
+                    "Optimizing generics is easy!",
+                    "A fold/unfold transformation framework for rewrite theories extended to CCT.",
+                    "Regular approximation and bounded domains for size-change termination.",
+                    "A3PAT, an approach for certified automated termination proofs.",
+                    "Optimizing relational algebra operations using generic equivalence discriminators and lazy products.",
+                    "Programming with singular and plural non-deterministic functions.",
+                    "I/O guided detection of list catamorphisms: towards problem specific use of program templates in IP.",
+                    "Bridging the gap between symbolic and efficient AES implementations.",
+                    "Clone detection and elimination for Haskell.",
+                    "Making \"stricterness\" more relevant.",
+                    "Context-sensitive analysis of obfuscated x86 executables.",
+                    "Conditional weighted pushdown systems and applications.",
+                    "The SourceGraph program.",
+                    "From higher-order logic to Haskell: there and back again."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "PEPM 2009",
+        "info": "Savannah, GA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pepm/2009",
+                "sub_name": "Proceedings of the 2009 ACM SIGPLAN Symposium on Partial Evaluation and Semantics-based Program Manipulation, PEPM 2009, Savannah, GA, USA, January 19-20, 2009.",
+                "count": 22,
+                "papers": [
+                    "Self-adjusting computation: (an overview).",
+                    "Program analysis for bug detection using parfait: invited talk.",
+                    "Linear logical approximations.",
+                    "Guided model checking for programs with polymorphism.",
+                    "Program interpolation.",
+                    "Translation and optimization for a core calculus with exceptions.",
+                    "Is there a fourth Futamura projection?",
+                    "Type-based specialization of xml transformations.",
+                    "Partially evaluated sensor networks: automatic specialization for heterogeneous wireless sensor & actuator networks.",
+                    "Shortcut fusion rules for the derivation of circular and higher-order monadic programs.",
+                    "A flexible framework for programming with non-deterministicfunctions.",
+                    "Program transformation for numerical precision.",
+                    "Shifting the stage: staging with delimited control.",
+                    "Static consistency checking for verilog wire interconnects: using dependent types to check the sanity of verilog descriptions.",
+                    "Improving type error messages for generic java.",
+                    "Bidirectional data-flow analyses, type-systematically.",
+                    "CCCP: complete calling context profiling in virtual execution environments.",
+                    "CProf: customizable calling context cross-profiling for embedded java processors.",
+                    "SOC: a slicer for CSP specifications.",
+                    "Clone detection and removal for Erlang/OTP within a refactoring environment.",
+                    "From spreadsheets to relational databases and back.",
+                    "Designing aspects for side-effect localization."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "PEPM 2008",
+        "info": "San Francisco, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pepm/2008",
+                "sub_name": "Proceedings of the 2008 ACM SIGPLAN Symposium on Partial Evaluation and Semantics-based Program Manipulation, PEPM 2008, San Francisco, California, USA, January 7-8, 2008.",
+                "count": 22,
+                "papers": [
+                    "Software synthesis with sketching.",
+                    "Securing web applications with static and dynamic information flow tracking.",
+                    "Proving correctness via free theorems: the case of the destroy/build-rule.",
+                    "Semi-inversion of functional parameters.",
+                    "Maximum segment sum is back: deriving algorithms for two segment problems with bounded lengths.",
+                    "Synthesizable high level hardware descriptions: using statically typed two-level languages to guarantee verilog synthesizability.",
+                    "Mechanical verification of refactorings.",
+                    "A practical type analysis for verification of modular prolog programs.",
+                    "Static elaboration of recursion for concurrent software.",
+                    "Automating branch-and-bound for dynamic programs.",
+                    "Proof optimization for partial redundancy elimination.",
+                    "Packrat parsers can support left recursion.",
+                    "Unparsed patterns: easy user-extensibility of program manipulation tools.",
+                    "Generic framework for integration of programming languages into netbeans ide.",
+                    "Data dependencies and program slicing: from syntax to abstract semantics.",
+                    "Aspects preserving properties.",
+                    "Closing the stage: from staged code to typed closures.",
+                    "Specialization for applications using shared libraries.",
+                    "Jones optimality and hardware virtualization: a report on work in progress.",
+                    "A practical and precise inference and specializer for array bound checks elimination.",
+                    "Heap recycling for lazy languages.",
+                    "Tool support for refactoring functional programs."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "PEPM 2007",
+        "info": "Nice, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pepm/2007",
+                "sub_name": "Proceedings of the 2007 ACM SIGPLAN Workshop on Partial Evaluation and Semantics-based Program Manipulation, 2007, Nice, France, January 15-16, 2007.",
+                "count": 18,
+                "papers": [
+                    "XML graphs in program analysis.",
+                    "Transformation of structure-shy programs: applied to XPath queries and strategic functions.",
+                    "Bidirectional interpretation of XQuery.",
+                    "Style normalization for canonical X-to-O mappings.",
+                    "Partial evaluation of Maple.",
+                    "Quasi-terminating logic programs for ensuring the termination of partial evaluation.",
+                    "Distillation: extracting the essence of programs.",
+                    "Lowering: a static optimization technique for transparent functional reactivity.",
+                    "Efficient implementation of tuple pattern based retrieval.",
+                    "Object-oriented queries over software systems: (abstract of invited talk).",
+                    "Behavioral similarity matching using concrete source code templates in logic queries.",
+                    "Tools and libraries to model and manipulate circular programs.",
+                    "Concoqtion: indexed types now!",
+                    "The semantics of graphical languages.",
+                    "Tasks: language support for event-driven programming.",
+                    "A reversible programming language and its invertible self-interpreter.",
+                    "Towards constructing reusable specialization components.",
+                    "Poly-controlled partial evaluation in practice."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "PEPM 2006",
+        "info": "Charleston, South Carolina, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pepm/2006",
+                "sub_name": "Proceedings of the 2006 ACM SIGPLAN Workshop on Partial Evaluation and Semantics-based Program Manipulation, 2006, Charleston, South Carolina, USA, January 9-10, 2006.",
+                "count": 19,
+                "papers": [
+                    "Source transformation, analysis and generation in TXL.",
+                    "On the application of partial evaluation to the optimisation of cardiac electrophysiological simulations.",
+                    "Using program specialization to speed SystemC fixed-point simulation.",
+                    "Bit-level partial evaluation of synchronous circuits.",
+                    "Resource usage analysis for a functional language with exceptions.",
+                    "A dead variable analysis for explicit model checking.",
+                    "Dynamic path conditions in dependence graphs.",
+                    "A disciplined approach to aspect composition.",
+                    "Type-directed weaving of aspects for higher-order functional languages.",
+                    "The Ecce and Logen partial evaluators and their web interfaces.",
+                    "Stratego/XT 0.16: components for transformation systems.",
+                    "Intermediate-representation recovery from low-level code.",
+                    "Core role-based access control: efficient implementations by transformations.",
+                    "Program transformation by solving recurrences.",
+                    "Generic programming in Fortran.",
+                    "LOCO: an interactive code (De)obfuscation tool.",
+                    "Continuous code-quality assurance with SAFE.",
+                    "Tradeoffs in metaprogramming.",
+                    "A monadic approach for avoiding code duplication when staging memoized functions."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "PEPM 2004",
+        "info": "Verona, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pepm/2004",
+                "sub_name": "Proceedings of the 2004 ACM SIGPLAN Workshop on Partial Evaluation and Semantics-based Program Manipulation, 2004, Verona, Italy, August 24-25, 2004.",
+                "count": 22,
+                "papers": [
+                    "Invited talk: towards declarative programming for web services.",
+                    "Offline partial evaluation for shift and reset.",
+                    "Representation-based just-in-time specialization and the psyco prototype for python.",
+                    "Declarative specialization for object-oriented-program specialization.",
+                    "Component specialization.",
+                    "Invited application paper: re-engineering C++ components via automatic program transformation.",
+                    "Invited application paper: a proposal for the specialization of HA/DRE systems.",
+                    "Invited application paper: program generation considered easy.",
+                    "Invited application paper: language design for implementing process scheduling hierarchies.",
+                    "Program generators and the tools to make them.",
+                    "Fusion with stacks and accumulating parameters.",
+                    "Imperative program optimization by partial evaluation.",
+                    "Dynamic slicing based on redex trails.",
+                    "A type system for resource protocol verification and its correctness proof.",
+                    "Proving termination of membership equational programs.",
+                    "A theory of totally correct logic program transformations.",
+                    "Program transformations for portable CPU accounting and control in Java.",
+                    "A programmable editor for developing structured documents based on bidirectional transformations.",
+                    "Efficient and flexible access control via logic program specialisation.",
+                    "Invited talk: injecting life with computers.",
+                    "Invited talk: what's the future for proof-carrying code?",
+                    "Invited talk: the blast query language for software verification."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "name": "PEPM 2003",
+        "info": "San Diego, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pepm/2003",
+                "sub_name": "Proceedings of the 2003 ACM SIGPLAN Workshop on Partial Evaluation and Semantics-based Program Manipulation, 2003, San Diego, California, USA, June 7, 2003.",
+                "count": 10,
+                "papers": [
+                    "Slicing and partial evaluation of CORBA component model designs for avionics system.",
+                    "Fast partial evaluation of pattern matching in strings.",
+                    "Transforming interpreters into inverse interpreters by partial evaluation.",
+                    "Implementing typeful program transformations.",
+                    "Abstract specialization and its applications.",
+                    "Slicing java programs that throw and catch exceptions.",
+                    "Storeless semantics and alias logic.",
+                    "CodeBricks: code fragments as building blocks.",
+                    "Extending sized type with collection analysis.",
+                    "Optimizing Ackermann's function by incrementalization."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2002",
+        "name": "PEPM 2002",
+        "info": "Portland, OR, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pepm/2002",
+                "sub_name": "Proceedings of the 2002 ACM SIGPLAN Workshop on Partial Evaluation and Semantics-Based Program Manipulation (PEPM '02), Portland, Oregon, USA, January 14-15, 2002.",
+                "count": 13,
+                "papers": [
+                    "Staged compilation.",
+                    "Towards bridging the gap between programming languages and partial evaluation.",
+                    "Online partial evaluation for shift and reset.",
+                    "Growing languages with metamorphic syntax macros.",
+                    "From checking to inference via driving and dag grammars.",
+                    "Cost-augmented narrowing-driven specialization.",
+                    "Path dependent analysis of logic programs.",
+                    "Automatic time-bound analysis for a higher-order language.",
+                    "Compositionality in the puzzle of semantics.",
+                    "Implementation of automatic differentiation tools.",
+                    "Program optimization using indexed and recursive data structures.",
+                    "Mixed-initiative interaction = mixed computation.",
+                    "CPS translating inductive and coinductive types."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2000",
+        "name": "PEPM 2000",
+        "info": "Boston, MA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pepm/2000",
+                "sub_name": "Proceedings of the 2000 ACM SIGPLAN Workshop on Partial Evaluation and Semantics-Based Program Manipulation (PEPM '00), Boston, Massachusetts, USA, January 22-23, 2000.",
+                "count": 14,
+                "papers": [
+                    "Static Analysis of Large Programs: Some Experiences (Abstract of Invited Talk).",
+                    "Towards Partially Evaluating Reflection in Java.",
+                    "Online-and-Offline Partial Evaluation: A Mixed Approach (Extended Abstract).",
+                    "The Second Futamura Projection for Type-Directed Partial Evaluation.",
+                    "On the Logical Foundations of Staged Computation (Abstract of Invited Talk).",
+                    "A Sound Reduction Semantics for Untyped CBN Multi-stage Computation. Or, the Theory of MetaML is Non-trivial (Extended Abstract).",
+                    "Using Regular Approximations for Generalisation During Partial Evalution.",
+                    "Non Pair-Sharing and Freeness Analysis Through Linear Refinement.",
+                    "Calculating Sized Types.",
+                    "From Recursion to Iteration: What are the Optimizations?",
+                    "Operating Systems Specialization: Experiences, Opportunities and Challenges (Abstract of Invited Talk).",
+                    "Type-Based Useless Variable Elimination.",
+                    "Program Analysis with Partial Transfer Functions.",
+                    "Symbolic Pointer Analysis for Detecting Memory Leaks."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1999",
+        "name": "PEPM 1999",
+        "info": "San Antonio, Texas, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pepm/1999",
+                "sub_name": "Proceedings of the 1999 ACM SIGPLAN Workshop on Partial Evaluation and Semantics-Based Program Manipulation, San Antonio, Texas, USA, January 22-23, 1999. Technical report BRICS-NS-99-1.",
+                "count": 14,
+                "papers": [
+                    "Quasiquotation in Lisp.",
+                    "C++ Templates as Partial Evaluation.",
+                    "G\u00f6delization in the Untyped lambda-Calculus.",
+                    "Deriving a Statically Typed Type-Directed Partial Evaluator.",
+                    "Interpreting Specialization in Type Theory.",
+                    "Combining Program and Data Specialization.",
+                    "Certifying Compilation and Run-Time Code Generation.",
+                    "An Integration of Partial Evaluation in a Generic Abstract Interpretation Framework.",
+                    "Diffusion: Calculating Efficient Parallel Programs.",
+                    "Shifting Expression Procedures into Reverse.",
+                    "Slicing Software for Model Construction.",
+                    "Effective Optimization of Multiple Traversals in Lazy Languages.",
+                    "Declarative Aspect-Oriented Programming.",
+                    "Partial Evaluation of Shaped Programs: Experience with FISh."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1997",
+        "name": "PEPM 1997",
+        "info": "Amsterdam, The Netherlands",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pepm/1997",
+                "sub_name": "Proceedings of the ACM SIGPLAN Symposium on Partial Evaluation and Semantics-Based Program Manipulation (PEPM '97), Amsterdam, The Netherlands, June 12-13, 1997.",
+                "count": 17,
+                "papers": [
+                    "Partial Evaluation and Separate Compilation.",
+                    "Partial Evaluation of Call-by-Value lambda-Calculus with Side-Effects.",
+                    "A Type-directed, On-line, Partial Evaluator for a Polymorphic Language.",
+                    "Self-Applicable Partial Evaluation for the pi-Calculus.",
+                    "Partial-Evaluation Techniques for Concurrent Programs.",
+                    "Accurate Binding-Time Analysis For Imperative Languages: Flow, Context, and Return Sensitivity.",
+                    "Interconveritibility of Set Constraints and Context-Free Language Reachability.",
+                    "Lambda-Dropping: Transforming Recursive Equations into Programs with Block Structure.",
+                    "Generating Efficient Virtual Worlds for Visualization Using Partial Evaluation and Dynamic Compilation.",
+                    "Scaling up Partial Evaluation for Optimizing the Sun Commercial RPC Protocol.",
+                    "Partial Evaluation in Aircraft Crew Planning.",
+                    "A Transformation System for CLP with Dynamic Scheduling and CCP.",
+                    "Specialization of Lazy Functional Logic Programs.",
+                    "Annotation-Directed Run-Time Specialization in C.",
+                    "Resource-Bounded Partial Evaluation.",
+                    "Prescriptive Frameworks for Multi-Level Lambda-Calculi.",
+                    "Multi-Stage Programming with Explicit Annotations."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1995",
+        "name": "PEPM 1995",
+        "info": "La Jolla, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pepm/1995",
+                "sub_name": "Proceedings of the ACM SIGPLAN Symposium on Partial Evaluation and Semantics-Based Program Manipulation, La Jolla, California, USA, June 21-23, 1995.",
+                "count": 24,
+                "papers": [
+                    "Shape Analysis as a Generalized Path Problem.",
+                    "A Symbolic Constraint Solving Framework for Analysis of Logic Programs.",
+                    "Special Address: MIX ten years after.",
+                    "Self-applicable Online Partial Evaluation of Pure Lambda Calculus.",
+                    "Effect Systems with Subtyping.",
+                    "Polyvariant Constructor Specialisation.",
+                    "Polyvariant Specialisation for Higher-Order, Block-Structured Languages.",
+                    "Implementation of Multiple Specialization in Logic Programs.",
+                    "Proving Properties of Programs Defined over Recursive Data Structures.",
+                    "Semantic Foundations of Binding Time Analysis for Imperative Programs.",
+                    "Abstract Interpretation and Low-Level Code Optimization.",
+                    "Using Abstract Interpretation to Define a Strictness Type Inference System.",
+                    "Schedulers as Abstract Interpreter of Higher Dimensional Automata.",
+                    "The Essence of LR Parsing.",
+                    "Clock Analysis of Synchronous Dataflow Programs.",
+                    "The Replacement Operation for CLP Modules.",
+                    "Higher Order Expression Procedures.",
+                    "Caching Intermediate Results for Program Improvement.",
+                    "Analyzing the Communication Topology of Concurrent Programs.",
+                    "Semantic Analysis of Shared-Memory Concurrent Languages using Abstract Model-Checking.",
+                    "Semantic models and abstract interpretation techniques for inductive data structures and pointers.",
+                    "Action Transformation by Partial Evaluation.",
+                    "Type Analysis of Logic Programs in the Presence of Type Definitions.",
+                    "Towards Creating Specialised Integrity Checks through Partial Evaluation of Meta-Interpreters."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1994",
+        "name": "PEPM 1994",
+        "info": "Orlando, Florida, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pepm/1994",
+                "sub_name": "PEPM'94 - ACM SIGPLAN Workshop on Partial Evaluation and Semantics-Based Program Manipulation, Walt Disney World Vilage, Orlando, Florida, USA, 25 June 1994, Proceedings. Technical Report 94/9.",
+                "count": 13,
+                "papers": [
+                    "Improving CPS-Based Partial Evaluation: Writing Cogen by Hand.",
+                    "The Essence of Eta-Expansion in Partial Evaluation.",
+                    "Improving Programs Which Recurse over Multiple Inductive Structures.",
+                    "Analysing Resource Use in the Lambda Calculus by Type Inference.",
+                    "Type Theory and Projections for Higher-Order Static Analysis.",
+                    "PERs from Projections for Binding-Time Analysis.",
+                    "Binding-Time Analysis for Standard ML.",
+                    "Higher-Order Redundancy Elimination.",
+                    "Identifying Profitable Specialization in Object-Oriented Languages.",
+                    "Lightweight Run-Time Code Generation.",
+                    "Dictionary-Free Overloading by Partial Evaluation.",
+                    "Partial Evaluation of Numerical Programs in Fortran.",
+                    "Partial Evaluation for Scientific Computing: The Supercomputer Toolkit Experience."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1993",
+        "name": "PEPM 1993",
+        "info": "Copenhagen, Denmark",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pepm/1993",
+                "sub_name": "Proceedings of the ACM SIGPLAN Symposium on Partial Evaluation and Semantics-Based Program Manipulation, PEPM'93, Copenhagen, Denmark, June 14-16, 1993.",
+                "count": 21,
+                "papers": [
+                    "Searching For Semantics.",
+                    "Partial Evaluation of General Parsers.",
+                    "Constructor Spezialization.",
+                    "Towards Efficient Partial Evaluation.",
+                    "Incremental Partial Evaluation: The Key to High Performance, Modularity and Portability in Operating Systems.",
+                    "Binding-Time Analysis and the Taming of C Pointers.",
+                    "Extracting Polyvariant Binding Time Analysis from Polyvariant Specializer.",
+                    "Polyvariant Binding-Time Analysis For Applicative Languages.",
+                    "Higher-order Binding-time Analysis.",
+                    "Tutorial on Specialisation of Logic Programs.",
+                    "Groundness Analysis for PROLOG: Implementation and Evaluation of the Domain Prop.",
+                    "Online Partial Deduction of Large Programs.",
+                    "Towards an Automated Tupling Strategy.",
+                    "A Safety Analysis for Functional Programs.",
+                    "A Tour of Schism: A Partial Evaluation System For Higher-Order Applicative Languages.",
+                    "Proofs by Structural Induction using Partial Evaluation.",
+                    "The Correctness of an Optimized Code Generation.",
+                    "Completeness and predicate-based abstract interpretation.",
+                    "Polymorphic Strictness Analysis using Frontiers.",
+                    "Improving Abstract Interpretations by Combining Domains.",
+                    "A Partial Evaluator for Data Flow Graphs."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1992",
+        "name": "PEPM 1992",
+        "info": "San Francisco, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pepm/1992",
+                "sub_name": "PEPM'92, ACM SIGPLAN Workshop on Partial Evaluation and Semantics-Based Program Manipulation, Fairmont Hotel, San Francisco, CA, USA, June 19-20, 1992, Proceedings (TR YALEU/DCS/RR-909).",
+                "count": 16,
+                "papers": [
+                    "Speedup Analysis in Partial Evaluation: Preliminary Results.",
+                    "Predicting Properties of Residual Programs.",
+                    "Semantical Interprocedural Analysis by Partial Symbolic Evaluation.",
+                    "A Polyvariant Binding Time Analysis.",
+                    "Towards a New Perspective on Partial Evaluation.",
+                    "Fully Lazy Higher-Order Removal.",
+                    "Call Unfolding Strategies for Equational Logic Programs.",
+                    "Self-applicable C Program Specialization.",
+                    "A Programming Environment for Binding-time Based Partial Evaluators.",
+                    "Improving the Accuracy of Higher-Order Specialization using Control Flow Analysis.",
+                    "A Suite of Optimizers Based on Abstract Interpretation.",
+                    "Towards Efficient Compilation of a Dynamic Object-Oriented Language.",
+                    "Program Transformation by Derivor Manipulations.",
+                    "A Simple Rewriting Semantics for Realistic Imperative Programs and its Application to Program Analysis.",
+                    "A Framework for Mechanizing Logic Program Transformation: The Synthesis of Eureka-Properties.",
+                    "Self-applicable Partial Evaluation for Pure Lambda Calculus."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1991",
+        "name": "PEPM 1991",
+        "info": "Yale University, New Haven, Connecticut, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/pepm/1991",
+                "sub_name": "Proceedings of the Symposium on Partial Evaluation and Semantics-Based Program Manipulation, PEPM'91, Yale University, New Haven, Connecticut, USA, June 17-19, 1991.",
+                "count": 29,
+                "papers": [
+                    "Generalized Partial Computation for a Lazy Functional Language.",
+                    "Inversion and Metacomputation.",
+                    "Determinacy Analysis for Full Prolog.",
+                    "Detecting Static Algorithms by Partial Evaluation.",
+                    "Toward the Partial Evaluation of CLP Languages.",
+                    "Abstract Interpretation of Logic Programs: An Abstract Domain for Groundness, Sharing, Freeness and Compoundness Analysis.",
+                    "Partial Evaluation of Pattern Matching in Constraint Logic Programming Languages.",
+                    "Optimization of Equational Programs Using Partial Evaluation.",
+                    "Building Incremental Programs using Partial Evaluation.",
+                    "Techniques for Partial Evaluation of Imperative Languages.",
+                    "Verifying the Correctness of Compiler Transformations on Basic Blocks using Abstract Interpretation.",
+                    "A Syntactic Approach to Program Transformations.",
+                    "Staging Transformations for Abstract Machines.",
+                    "Program Bifurcation for a Polymorphic Typed Functional Language.",
+                    "Binding Time Analysis: A New PERspective.",
+                    "Globalization and Live Variables.",
+                    "Reference Escape Analysis: Optimizing Reference Counting based on the Lifetime of References.",
+                    "The Semantics of Scheme Control-Flow Analysis.",
+                    "Dynamic Specialization in Extended Functional Language with Monotone Objects.",
+                    "Compiling Inheritance using Partial Evaluation.",
+                    "Partial Evaluation is Fuller Laziness.",
+                    "M-LISP: Its Natural Semantics and Equational Logic (Extended Abstract).",
+                    "Properties of Unfolding-based Meta-level Systems.",
+                    "Is There a Use for Linear Logic?",
+                    "Semantics Preserving Transformation Rules for Prolog.",
+                    "Compiling the Polymorphic Lambda-Calculus.",
+                    "Program Transformations for Configuring Components.",
+                    "Towards Multiple Self-Application.",
+                    "Using Types to Avoid Redundant Specialization."
+                ]
+            }
+        ]
+    }
+]

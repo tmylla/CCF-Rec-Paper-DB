@@ -1,0 +1,902 @@
+[
+    {
+        "year": "2021",
+        "name": "32nd EGSR 2021",
+        "info": "Saarbr\u00fccken, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/rt/2021dl",
+                "sub_name": "32nd Eurographics Symposium on Rendering, EGSR 2021 - Digital Library Only Track, Saarbr\u00fccken, Germany, June 29 - July 2, 2021.",
+                "count": 21,
+                "papers": [
+                    "NeRF-Tex: Neural Reflectance Field Textures.",
+                    "Zero-variance Transmittance Estimation.",
+                    "Stochastic Generation of (t, s) Sample Sequences.",
+                    "Sampling Clear Sky Models using Truncated Gaussian Mixtures.",
+                    "Importance Sampling of Glittering BSDFs based on Finite Mixture Distributions.",
+                    "Practical Product Sampling for Single Scattering in Media.",
+                    "Semantic-Aware Generative Approach for Image Inpainting.",
+                    "Material and Lighting Reconstruction for Complex Indoor Scenes with Texture-space Differentiable Rendering.",
+                    "Appearance-Driven Automatic 3D Model Simplification.",
+                    "Fast Polygonal Splatting using Directional Kernel Difference.",
+                    "Fast Analytic Soft Shadows from Area Lights.",
+                    "Firefly Removal in Monte Carlo Rendering with Adaptive Median of meaNs.",
+                    "Practical Ply-Based Appearance Modeling for Knitted Fabrics.",
+                    "MatMorpher: A Morphing Operator for SVBRDFs.",
+                    "NeLF: Neural Light-transport Field for Portrait View Synthesis and Relighting.",
+                    "Single-image Full-body Human Relighting.",
+                    "Human Hair Inverse Rendering using Multi-View Photometric data.",
+                    "A Low-Dimensional Perceptual Space for Intuitive BRDF Editing.",
+                    "Modeling Surround-aware Contrast Sensitivity.",
+                    "Moment-based Constrained Spectral Uplifting.",
+                    "A Compact Representation for Fluorescent Spectral Data."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "name": "31st EGSR 2020",
+        "info": "London, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/rt/2020dl",
+                "sub_name": "31st Eurographics Symposium on Rendering, EGSR 2020 - Digital Library Only Track, London, UK, June 29 - July 3, 2020.",
+                "count": 5,
+                "papers": [
+                    "Temporal Normal Distribution Functions.",
+                    "Real-time Monte Carlo Denoising with the Neural Bilateral Grid.",
+                    "Multi-Scale Appearance Modeling of Granular Materials with Continuously Varying Grain Properties.",
+                    "Temporal Sample Reuse for Next Event Estimation and Path Guiding for Real-Time Path Tracing.",
+                    "Joint SVBRDF Recovery and Synthesis From a Single Image using an Unsupervised Generative Adversarial Network."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/mam/2020",
+                "sub_name": "Eurographics Workshop on Material Appearance Modeling, held online in conjunction with the 31st Eurographics Symposium on Rendering, MAM@EGSR 2020, London, UK, June 29, 2020.",
+                "count": 7,
+                "papers": [
+                    "An Adaptive Metric for BRDF Appearance Matching.",
+                    "The Problem of Entangled Material Properties in SVBRDF Recovery.",
+                    "Improving Spectral Upsampling with Fluorescence.",
+                    "A Genetic Algorithm Based Heterogeneous Subsurface Scattering Representation.",
+                    "On the Nature of Perceptual Translucency.",
+                    "Bonn Appearance Benchmark.",
+                    "A Taxonomy of Bidirectional Scattering Distribution Function Lobes for Rendering Engineers."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "30th EGSR 2019",
+        "info": "Strasbourg, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/rt/2019dli",
+                "sub_name": "30th Eurographics Symposium on Rendering, EGSR 2019 - Digital Library Only / Industry Track, Strasbourg, France, July 10-12, 2019.",
+                "count": 9,
+                "papers": [
+                    "Real-Time Hybrid Hair Rendering.",
+                    "Spectral Primary Decomposition for Rendering with sRGB Reflectance.",
+                    "Adaptive Multi-view Path Tracing.",
+                    "Impulse Responses for Precomputing Light from Volumetric Media.",
+                    "Foveated Real-Time Path Tracing in Visual-Polar Space.",
+                    "Puppet Dubbing.",
+                    "Implementing One-Click Caustics in Corona Renderer.",
+                    "De-lighting a High-resolution Picture for Material Acquisition.",
+                    "The Challenges of Releasing the Moana Island Scene."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/mam/2019",
+                "sub_name": "Eurographics Workshop on Material Appearance Modeling, held in conjunction with the 30th Eurographics Symposium on Rendering, MAM@EGSR 2019, Strasbourg, France, July 9, 2019.",
+                "count": 8,
+                "papers": [
+                    "Spectral Rendering with the Bounded MESE and sRGB Data.",
+                    "Fresnel Equations Considered Harmful.",
+                    "Rendering Transparent Materials with a Complex Refractive Index: Semi-conductor and Conductor Thin Layers.",
+                    "Comparative Study of Layered Material Models.",
+                    "Estimating Homogeneous Data-driven BRDF Parameters from a Reflectance Map under Known Natural Lighting.",
+                    "What is the Reddening Effect and does it really exist?",
+                    "On Visual Attractiveness of Anisotropic Effect Coatings.",
+                    "Neural Appearance Synthesis and Transfer."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "29th EGSR 2018",
+        "info": "Karlsruhe, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/rt/2018eii",
+                "sub_name": "29th Eurographics Symposium on Rendering, Experimental Ideas & Implementations, EGSR 2018, EI&I Track, Karlsruhe, Germany, 1-4 July 2018.",
+                "count": 11,
+                "papers": [
+                    "Diffuse-Specular Separation using Binary Spherical Gradient Illumination.",
+                    "Approximate svBRDF Estimation From Mobile Phone Video.",
+                    "Matrix Bidirectional Path Tracing.",
+                    "PN-Method for Multiple Scattering in Participating Media.",
+                    "A Unified Manifold Framework for Efficient BRDF Sampling based on Parametric Mixture Models.",
+                    "Deep Hybrid Real and Synthetic Training for Intrinsic Decomposition.",
+                    "An Improved Multiple Importance Sampling Heuristic for Density Estimates in Light Transport Simulations.",
+                    "Primary Sample Space Path Guiding.",
+                    "Scalable Real-Time Shadows using Clustering and Metric Trees.",
+                    "Soft Transparency for Point Cloud Rendering.",
+                    "Screen Space Approximate Gaussian Hulls."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/rt/2018mam",
+                "sub_name": "MAM@EGSR 2018: Eurographics Workshop on Material Appearance Modeling, Karlsruhe, Germany, 1 July 2018, Held in conjunction with The 29th Eurographics Symposium on Rendering.",
+                "count": 11,
+                "papers": [
+                    "ICL Multispectral Light Stage: Building a Versatile LED Sphere with Off-the-shelf Components.",
+                    "On the Advancement of BTF Measurement on Site.",
+                    "Iso Photographic Rendering.",
+                    "A Simple Diffuse Fluorescent BBRRDF Model.",
+                    "Image-based Fitting of Procedural Yarn Models.",
+                    "Towards Practical Rendering of Fiber-Level Cloth Appearance Models.",
+                    "A Method for Fitting Measured Car Paints to a Game Engine's Rendering Model.",
+                    "Perception of Car Shape Orientation and Anisotropy Alignment.",
+                    "Towards Physically Based Material Appearance in the Thermal Infrared Spectrum: A Short Survey.",
+                    "Deep Dual Loss BRDF Parameter Estimation.",
+                    "Towards a Principled Kernel Prediction for Spatially Varying BSSRDFs."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "28th EGSR 2017",
+        "info": "Helsinki, Finland",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/rt/2017eii",
+                "sub_name": "28th Eurographics Symposium on Rendering, Rendering - Experimental Ideas & Implementations, EGSR 2017, EI&I Track, Helsinki, Finland, 19-21 June 2017.",
+                "count": 12,
+                "papers": [
+                    "Controlling and Sampling Visibility Information on the Image Plane.",
+                    "Single-Pass Stereoscopic GPU Ray Casting Using Re-Projection Layers.",
+                    "Ambient Dice.",
+                    "VAO++: Practical Volumetric Ambient Occlusion for Games.",
+                    "Frequency Based Radiance Cache for Rendering Animations.",
+                    "Temporal Coherence for Metropolis Light Transport.",
+                    "Extended Path Integral Formulation for Volumetric Transport.",
+                    "Local Quasi-Monte Carlo Exploration.",
+                    "Gradient-Domain Vertex Connection and Merging.",
+                    "Material Design in Augmented Reality with In-Situ Visual Feedback.",
+                    "sLayer: a System for Multi-Layered Material Sculpting.",
+                    "k-d Tree Construction Designed for Motion Blur."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/rt/2017mam",
+                "sub_name": "MAM@EGSR 2017: Eurographics Workshop on Material Appearance Modeling, Helsinki, Finland, 18 June 2017, Held in conjunction with The 28th Eurographics Symposium on Rendering.",
+                "count": 9,
+                "papers": [
+                    "Appearance of Interfaced Lambertian Microfacets, using STD Distribution.",
+                    "Image-based Remapping of Material Appearance.",
+                    "Intuitive Editing of Visual Appearance from Real-World Datasets.",
+                    "High-Quality Multi-Spectral Reflectance Acquisition with X-Rite TAC7.",
+                    "Towards Sparse and Multiplexed Acquisition of Material BTFs.",
+                    "Challenges in Appearance Capture and Predictive Modeling of Textile Materials.",
+                    "The Effects of Digital Cameras Optics and Electronics for Material Acquisition.",
+                    "Diffraction Prediction in HDR Measurements.",
+                    "Experimental Analysis of BSDF Models."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "27th EGSR 2016",
+        "info": "Dublin, Ireland",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/rt/2016eii",
+                "sub_name": "27th Eurographics Symposium on Rendering, Rendering - Experimental Ideas & Implementations, EGSR 2016, EI&I Track, Dublin, Ireland, June 22-24, 2016.",
+                "count": 13,
+                "papers": [
+                    "Single-shot Layered Reflectance Separation Using a Polarized Light Field Camera.",
+                    "4D-rasterization for Fast Soft Shadow Rendering.",
+                    "Local Shape Editing at the Compositing Stage.",
+                    "Shape Depiction for Transparent Objects with Bucketed k-Buffer.",
+                    "Fast Shadow Map Rendering for Many-Lights Settings.",
+                    "A Robust and Flexible Real-Time Sparkle Effect.",
+                    "Additional Progress Towards the Unification of Microfacet and Microflake Theories.",
+                    "A General Micro-flake Model for Predicting the Appearance of Car Paint.",
+                    "Deep Partitioned Shadow Volumes Using Stackless and Hybrid Traversals.",
+                    "Node Culling Multi-Hit BVH Traversal.",
+                    "Subdivision Next-Event Estimation for Path-Traced Subsurface Scattering.",
+                    "Bi-Directional Polarised Light Transport.",
+                    "Point-Based Light Transport for Participating Media with Refractive Boundaries."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/mam/2016",
+                "sub_name": "Eurographics Workshop on Material Appearance Modeling, held in conjunction with the 27th Eurographics Symposium on Rendering, MAM@EGSR 2016, Dublin, Ireland, June 22, 2016.",
+                "count": 7,
+                "papers": [
+                    "Interactive Appearance Prediction for Cloudy Beverages.",
+                    "Weathering of Urban Scenes: Challenges and Possible Solutions.",
+                    "Isotropic BRDF Measurements with Quantified Uncertainties.",
+                    "Practical Experiences with Using Autocollimator for Surface Reflectance Measurement.",
+                    "Sparse Sampling for Image-Based SVBRDF Acquisition.",
+                    "Gaze Analysis of BRDF Distortions.",
+                    "Exploring Material Recognition for Estimating Reflectance and Illumination From a Single Image."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "26th EGSR 2015",
+        "info": "Darmstadt, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/rt/2015eii",
+                "sub_name": "26th Eurographics Symposium on Rendering, Rendering - Experimental Ideas & Implementations, EGSR 2015, EI&I Track, Darmstadt, Germany, June 23-26, 2015.",
+                "count": 13,
+                "papers": [
+                    "Practical Shading of Height Fields and Meshes using Spherical Harmonic Exponentiation.",
+                    "Practical Rendering of Thin Layered Materials with Extended Microfacet Normal Distributions.",
+                    "MatCap Decomposition for Dynamic Appearance Manipulation.",
+                    "Efficient Visibility Heuristics for kd-trees Using the RTSAH.",
+                    "GPU-based Out-of-Core HLBVH Construction.",
+                    "Apex Point Map for Constant-Time Bounding Plane Approximation.",
+                    "MBVH Child Node Sorting for Fast Occlusion Test.",
+                    "Gradient-Domain Bidirectional Path Tracing.",
+                    "Color Clipping and Over-exposure Correction.",
+                    "Interactive Global Illumination Effects Using Deterministically Directed Layered Depth Maps.",
+                    "High Performance Non-linear Motion Blur.",
+                    "Filtering Environment Illumination for Interactive Physically-Based Rendering in Mixed Reality.",
+                    "Stereo from Shading."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "25th EGSR 2014",
+        "info": "Lyon, France",
+        "venues": []
+    },
+    {
+        "year": "2013",
+        "name": "24th EGSR 2013",
+        "info": "Zaragoza, Spain",
+        "venues": []
+    },
+    {
+        "year": "2012",
+        "name": "23rd EGSR 2012",
+        "info": "Paris, France",
+        "venues": []
+    },
+    {
+        "year": "2011",
+        "name": "22nd EGSR 2011",
+        "info": "Prague, Czech Republic",
+        "venues": []
+    },
+    {
+        "year": "2010",
+        "name": "21st EGSR 2010",
+        "info": "Saarbr\u00fccken, Germany",
+        "venues": []
+    },
+    {
+        "year": "2009",
+        "name": "20th EGSR 2009",
+        "info": "Girona, Spain",
+        "venues": []
+    },
+    {
+        "year": "2008",
+        "name": "19th EGSR 2008",
+        "info": "Sarajevo, Bosnia and Herzegovina",
+        "venues": []
+    },
+    {
+        "year": "2007",
+        "name": "18th Rendering Techniques 2007",
+        "info": "Grenoble, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/rt/2007",
+                "sub_name": "Proceedings of the Eurographics Symposium on Rendering Techniques, Grenoble, France, 2007.",
+                "count": 35,
+                "papers": [
+                    "The Random Camera, the Coded Aperture Camera, and Other Cameras.",
+                    "Global Illumination for the Masses.",
+                    "Precomputed Radiance Transfer for Real-time Indirect Lighting using a Spectral Mesh Basis.",
+                    "Large-Scale Data Management for PRT-Based Real-Time Rendering of Dynamically Skinned Models.",
+                    "Precomputed Radiance Transfer for Dynamic Scenes Taking into Account Light Interreflection.",
+                    "Pixel-Correct Shadow Maps with Temporal Reprojection and Shadow Test Confidence.",
+                    "Convolution Shadow Maps.",
+                    "Interactive Illumination with Coherent Shadow Maps.",
+                    "Ray Tracing Dynamic Scenes using Selective Restructuring.",
+                    "A Real-time Beam Tracer with Application to Exact Soft Shadows.",
+                    "Whitted Ray-Tracing for Dynamic Scenes using a Ray-Space Hierarchy on the GPU.",
+                    "Instant Sound Scattering.",
+                    "General Linear Cameras with Finite Aperture.",
+                    "Scene Collages and Flexible Camera Arrays.",
+                    "Dynamic Point Distribution for Stroke-based Rendering.",
+                    "Efficient Rendering of Human Skin.",
+                    "Dirty Glass: Rendering Contamination on Transparent Surfaces.",
+                    "Material Based Splashing of Water Drops.",
+                    "Rapid Acquisition of Specular and Diffuse Normal Maps from Polarized Spherical Gradient Illumination.",
+                    "Microfacet Models for Refraction through Rough Surfaces.",
+                    "Efficient Basis Decomposition for Scattered Reflectance Data.",
+                    "Procedural Editing of Bidirectional Texture Functions.",
+                    "Rendering Discrete Random Media Using Precomputed Scattering Solutions.",
+                    "Rendering Translucent Materials Using Photon Diffusion.",
+                    "Physically Based Real-Time Translucency for Leaves.",
+                    "Soft Shadows by Ray Tracing Multilayer Transparent Shadow Maps.",
+                    "Incremental Instant Radiosity for Real-Time Indirect Illumination.",
+                    "Photorealistic Image Rendering with Population Monte Carlo Energy Redistribution.",
+                    "An Interactive Perceptual Rendering Pipeline using Contrast and Spatial Masking.",
+                    "Natural Image Colorization.",
+                    "High Dynamic Range Image Hallucination.",
+                    "Using Photographs to Enhance Videos of a Static Scene.",
+                    "Compressed Random-Access Trees for Spatially Coherent Data.",
+                    "Interactive Smooth and Curved Shell Mapping.",
+                    "Feature-Guided Dynamic Texture Synthesis on Continuous Flows."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "17th Rendering Techniques 2006",
+        "info": "Nicosia, Cyprus",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/rt/2006",
+                "sub_name": "Proceedings of the Eurographics Symposium on Rendering Techniques, Nicosia, Cyprus, 2006.",
+                "count": 41,
+                "papers": [
+                    "Visual Chatter in the Real World.",
+                    "Handheld Pixels.",
+                    "Reconstruction of Volumetric Surface Textures for Real-Time Rendering.",
+                    "Statistical Acquisition of Texture Appearance.",
+                    "Sparse Lumigraph Relighting by Illumination and Reflectance Estimation from Multi-View Images.",
+                    "Tomographic Reconstruction of Transparent Objects.",
+                    "An Efficient Multi-View Rasterization Architecture.",
+                    "Antialiasing for Automultiscopic 3D Displays.",
+                    "Automatic Multiperspective Images.",
+                    "Real-time Multi-perspective Rendering on Graphics Hardware.",
+                    "Two Stage Importance Sampling for Direct Lighting.",
+                    "Sequential Sampling for Dynamic Environment Map Illumination.",
+                    "Making Radiance and Irradiance Caching Practical: Adaptive Caching and Neighbor Clamping.",
+                    "Instant Ray Tracing: The Bounding Interval Hierarchy.",
+                    "Exploiting Temporal Coherence for Incremental All-Frequency Relighting.",
+                    "Wavelet Radiance Transport for Interactive Indirect Lighting.",
+                    "Efficient Wavelet Rotation for Environment Map Rendering.",
+                    "Relighting Human Locomotion with Flowed Reflectance Fields.",
+                    "Adaptive Visibility-Driven View Cell Construction.",
+                    "Near Optimal Hierarchical Culling: Performance Driven Use of Hardware Occlusion Queries.",
+                    "Warping and Partitioning for Low Error Shadow Maps.",
+                    "Real-time Soft Shadow Mapping by Backprojection.",
+                    "Practical, Real-time Studio Matting using Dual Imagers.",
+                    "Surface Enhancement Using Real-time Photometric Stereo and Reflectance Transformation.",
+                    "Symmetric Photography: Exploiting Data-sparseness in Reflectance Fields.",
+                    "Spatio-Angular Resolution Tradeoffs in Integral Photography.",
+                    "Texture Transfer Using Geometry Correlation.",
+                    "Silhouette Texture.",
+                    "Feature-Aware Texturing.",
+                    "Texture Replacement of Garments in Monocular Video.",
+                    "A GPU-driven Algorithm for Accurate Interactive Reflections on Curved Objects.",
+                    "Interactive Screen-Space Accurate Photon Tracing on GPUs.",
+                    "A Novel Method for Fast and High-Quality Rendering of Hair.",
+                    "Ambient Occlusion for Animated Characters.",
+                    "Ardeco: Automatic Region DEtection and COnversion.",
+                    "Segmentation-Based 3D Artistic Rendering.",
+                    "Painting With Texture.",
+                    "Directing Gaze in 3D Models with Stylized Focus.",
+                    "Bidirectional Instant Radiosity.",
+                    "Image-driven Navigation of Analytical BRDF Models.",
+                    "A Spectral BSSRDF for Shading Human Skin."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "16th Rendering Techniques 2005",
+        "info": "Konstanz, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/rt/2005",
+                "sub_name": "Proceedings of the Eurographics Symposium on Rendering Techniques, Konstanz, Germany, June 29 - July 1, 2005.",
+                "count": 31,
+                "papers": [
+                    "Adaptive Numerical Cumulative Distribution Functions for Efficient Importance Sampling.",
+                    "Spherical Q2-tree for Sampling Dynamic Environment Sequences.",
+                    "Interactive System for Dynamic Scene Lighting using Captured Video Environment Maps.",
+                    "Ray Maps for Global Illumination.",
+                    "Radiance Cache Splatting: A GPU-Friendly Global Illumination Algorithm.",
+                    "Out of Core Photon-Mapping for Large Buildings.",
+                    "Estimation of 3D Faces and Illumination from Single Photographs Using A Bilinear Illumination Model.",
+                    "Online Construction of Surface Light Fields.",
+                    "A Dual Light Stage.",
+                    "Texture Tiling on Arbitrary Topological Surfaces using Wang Tiles.",
+                    "Motion Blur for Textures by Means of Anisotropic Filtering.",
+                    "Multiresolution Reflectance Filtering.",
+                    "Experimental Analysis of BRDF Models.",
+                    "Metropolis Photon Sampling with Optional User Guidance.",
+                    "Importance Resampling for Global Illumination.",
+                    "Bidirectional Importance Sampling for Direct Illumination.",
+                    "Bayesian Relighting.",
+                    "Table-top Computed Lighting for Practical Digital Photography.",
+                    "Inferring Reflectance Functions from Wavelet Noise.",
+                    "Geometric Clustering for Line Drawing Simplification.",
+                    "Stippling and Silhouettes Rendering in Geometry-Image Space.",
+                    "Colorization by Example.",
+                    "A Low Dimensional Framework for Exact Polygon-to-Polygon Occlusion Queries.",
+                    "Fast Exact From-Region Visibility in Urban Scenes.",
+                    "Perceptually Based Tone Mapping of High Dynamic Range Image Streams.",
+                    "Real Illumination from Virtual Environments.",
+                    "Reflectance Sharing: Image-based Rendering from a Sparse Set of Images.",
+                    "Adaptive Frameless Rendering.",
+                    "Real-Time Multiple Scattering in Participating Media with Illumination Networks.",
+                    "A Hybrid Monte Carlo Method for Accurate and Efficient Subsurface Scattering.",
+                    "Non-linear Volume Photon Mapping."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "15th Rendering Techniques 2004",
+        "info": "Nork\u00f6ping, Sweden",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/rt/2004",
+                "sub_name": "Proceedings of the 15th Eurographics Workshop on Rendering Techniques, Nork\u00f6ping, Sweden, June 21-23, 2004.",
+                "count": 40,
+                "papers": [
+                    "Estimating Source Spectra and Spectral Albedos from RGB Data for Rendering.",
+                    "Rendering Evolution at Industrial Light & Magic.",
+                    "Sketch Interpretation and Refinement Using Statistical Models.",
+                    "Programmable Style for NPR Line Drawing.",
+                    "PointWorks: Abstraction and Rendering of Sparsely Scanned Outdoor Environments.",
+                    "Image-Based Stereoscopic painterly Rendering.",
+                    "A Framework for Multiperspective Rendering.",
+                    "Real-time appearance preserving out-of-core rendering with shadows.",
+                    "An Interactive Out-of-Core Rendering Framework for Visualizing massive Complex Models.",
+                    "Rendering Forest Scenes in Real-Time.",
+                    "Rendering Procedural Terrain by Geometry Image Warping.",
+                    "Realtime Caustics using Distributed Photon Mapping.",
+                    "Simulating Photon Mapping for Real-time Applications.",
+                    "An Irradiance Atlas for Global Illumination in Complex Production Scenes.",
+                    "Light Space Perspective Shadow Maps.",
+                    "Anti-aliasing and Continuity with Trapezoidal Shadow Maps.",
+                    "Alias-Free Shadow Maps.",
+                    "A Self-Shadow Algorithm for Dynamic Hair using Density Clustering.",
+                    "Hemispherical Rasterization for Self-Shadowing of Dynamic Objects.",
+                    "An Efficient Hybrid Shadow Rendering Algorithm.",
+                    "CC Shadow Volumes.",
+                    "Hardware Accelerated Visibility Preprocessing using Adaptive Sampling.",
+                    "A Spectral-particle hybrid method for rendering falling snow.",
+                    "Generalized Displacement Maps.",
+                    "All-focused light field rendering.",
+                    "A Self-Reconfigurable Camera Array.",
+                    "Bixels: Picture Samples with Sharp Embedded Boundaries.",
+                    "Feature-Based Textures.",
+                    "Combining Higher-Order Wavelets and Discontinuity meshing: A Compact Representation for Radiosity.",
+                    "Smooth Reconstruction and Compact Representation of Reflectance Functions for Image-based Relighting.",
+                    "Progressively-Refined Reflectance Functions from natural Illumination.",
+                    "Animatable Facial Reflectance Fields.",
+                    "A Novel Hemispherical Basis for Accurate and Efficient Rendering.",
+                    "Spherical harmonic Gradients for Mid-Range Illumination.",
+                    "All-Frequency Precomputed Radiance Transfer for Glossy Objects.",
+                    "All-Frequency Relighting of Non-Diffuse Objects using Separable BRDF Approximation.",
+                    "Lattice-Boltzmann Lighting.",
+                    "Practical Rendering of Multiple Scattering Effects in Participating Media.",
+                    "Efficient Rendering of Atmospheric Phenomena.",
+                    "An Analytical Model for Skylight Polarization."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "name": "14th Rendering Techniques 2003",
+        "info": "Leuven, Belgium",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/rt/2003",
+                "sub_name": "Proceedings of the 14th Eurographics Workshop on Rendering Techniques, Leuven, Belgium, June 25-27, 2003.",
+                "count": 30,
+                "papers": [
+                    "Computer Generated Celtic Design.",
+                    "A Stained Glass Image Filter.",
+                    "Interactive Time-Dependent Tone Mapping Using Programmable Graphics Hardware.",
+                    "Delivering Interactivity to Complex Tone Mapping Operators.",
+                    "Efficient Illumination by High Dynamic Range Images.",
+                    "Path Integration for Light Transport in Volumes.",
+                    "Global Illumination Animation with Random Radiance Representation.",
+                    "Interactive Global Illumination in Complex and Highly Occluded Environments.",
+                    "Fast Texture Synthesis on Arbitrary Meshes.",
+                    "Interactive Texture Synthesis on Surfaces using Jump Maps.",
+                    "Hybrid Texture Synthesis.",
+                    "An Efficient Spatio-Temporal Architecture for Animation Rendering.",
+                    "Rendering Time Estimation for Real-Time Rendering.",
+                    "Interactive Rendering of Translucent Deformable Objects.",
+                    "Capturing and Rendering with Incident Light Fields.",
+                    "A New Reconstruction Filter for Undersampled Light Fields.",
+                    "Wavelet Environment matting.",
+                    "Efficient and Realistic Visualization of Cloth.",
+                    "Visualization of Woven Cloth.",
+                    "The Trilateral Filter for High Contrast Images and Meshes.",
+                    "Translucent Shadow Maps.",
+                    "Penumbra Maps: Approximate Soft Shadows in Real-Time.",
+                    "Rendering Fake Soft Shadows with Smoothies.",
+                    "Rapid Shadow Generation in Real-World Lighting Environments.",
+                    "Recovering 3-D Shape and Reflectance From a Small Number of Photographs.",
+                    "Efficient Isotropic BRDF Measurement.",
+                    "Optimizing Color Matching in a Lighting Reproduction System for Complex Subject and Illuminant Spectra.",
+                    "Refinement Criteria Based on f-Divergences.",
+                    "Detail to Attention: Exploiting Visual Tasks for Selective Rendering.",
+                    "Erosion Based Visibility Preprocessing."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2002",
+        "name": "13th Rendering Techniques 2002",
+        "info": "Pisa, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/rt/2002",
+                "sub_name": "Proceedings of the 13th Eurographics Workshop on Rendering Techniques, Pisa, Italy, June 26-28, 2002.",
+                "count": 29,
+                "papers": [
+                    "Local Illumination Environments for Direct Lighting Acceleration.",
+                    "Interactive Global Illumination using Fast Ray Tracing.",
+                    "Interactive Global Illumination using Selective Photon Tracing.",
+                    "Enhancing and Optimizing the Render Cache.",
+                    "Hardware-Accelerated Point-Based Rendering of Complex Scenes.",
+                    "Efficient High Quality Rendering of Point Sampled Geometry.",
+                    "Spatio-Temporal View Interpolation.",
+                    "A Real-Time Distributed Light Field Camera.",
+                    "Signal-Specialized Parametrization.",
+                    "Towards Real-Time Texture Synthesis with the Jump Map.",
+                    "Synthesizing Bark.",
+                    "Picture Perfect RGB Rendering Using Spectral Prefiltering and Sharp Color Primaries.",
+                    "Accelerating Path Tracing by Re-Using Paths.",
+                    "Time Dependent Photon Mapping.",
+                    "A Tone Mapping Algorithm for High Contrast Images.",
+                    "Video Flashlights: Real Time Rendering of Multiple Videosfor Immersive Model Visualization.",
+                    "Microfacet Billboarding.",
+                    "Textured Depth Meshes for Realtime Rendering of Arbitrary Scenes.",
+                    "Exact From-Region Visibility Culling.",
+                    "GigaWalk: Interactive Walkthrough of Complex Environments.",
+                    "Fast Primitive Distribution for Illustration.",
+                    "Real-Time Halftoning: A Primitive for Non-Photorealistic Shading.",
+                    "Curve Analogies.",
+                    "The Free Form Light Stage.",
+                    "Appearance Based Object Modeling using Texture Database: Acquisition Compression and Rendering.",
+                    "Acquisition and Rendering of Transparent and Refractive Objects.",
+                    "Image-based Environment Matting.",
+                    "Fast Arbitrary BRDF Shading for Low-Frequency Lighting Using Spherical Harmonics.",
+                    "Approximate Soft Shadows on Arbitrary Surfaces using Penumbra Wedges."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2001",
+        "name": "12th Rendering Techniques 2001",
+        "info": "London, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/rt/2001",
+                "sub_name": "Proceedings of the 12th Eurographics Workshop on Rendering Techniques, London, UK, June 25-27, 2001.",
+                "count": 29,
+                "papers": [
+                    "Thrifty Final Gather for Radiosity.",
+                    "Reflected and Transmitted Irradiance from Area Sources Using Vertex Tracing.",
+                    "Simulating Non-Lambertian Phenomena Involving Linearly-Varying Luminaires.",
+                    "An Illumination Model for a Skin Layer Bounded by Rough Surfaces.",
+                    "Real-time Photo-Realistic Physically Based Rendering of Fine Scale Human Skin Structure.",
+                    "Efficient Cloth Modeling and Rendering.",
+                    "Decoupling Strokes and High-Level Attributes for Interactive Traditional Drawing.",
+                    "Artistic Composition for Image Creation.",
+                    "Shader Lamps: Animating Real Objects With Image-Based Illumination.",
+                    "Image-Based Reconstruction of Spatially Varying Materials.",
+                    "Polyhedral Visual Hulls for Real-Time Rendering.",
+                    "The Wavelet Stream: Interactive Multi Resolution Light Field Rendering.",
+                    "Differential Point Rendering.",
+                    "Interactive Sampling and Rendering for Complex and Procedural Geometry.",
+                    "Point-Based Impostors for Real-Time Visualization.",
+                    "Opacity Shadow Maps.",
+                    "Interactive Rendering of Trees with Shading and Shadows.",
+                    "Combined Rendering of Polarization and Fluorescence Effects.",
+                    "Hardware-Accelerated from-Region Visibility Using a Dual Ray Space.",
+                    "Real-Time Occlusion Culling with a Lazy Occlusion Grid.",
+                    "Perceptually-Driven Simplification for Interactive Rendering.",
+                    "Measuring the Perception of Visual Realism in Images.",
+                    "A Perceptually-Based Texture Caching Algorithm for Hardware-Based Rendering.",
+                    "Path Differentials and Applications.",
+                    "Interleaved Sampling.",
+                    "Interactive Distributed Ray Tracing of Highly Complex Models.",
+                    "Realistic Reflections and Refractions on Graphics Hardware with Hybrid Rendering and Layered Environment Maps.",
+                    "Texture and Shape Synthesis on Surfaces.",
+                    "Real-Time High Dynamic Range Texture Mapping."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2000",
+        "name": "11th Rendering Techniques 2000",
+        "info": "Brno, Czech Republic",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/rt/2000",
+                "sub_name": "Proceedings of the Eurographics Workshop on Rendering Techniques 2000, Brno, Czech Republic, June 26-28, 2000.",
+                "count": 34,
+                "papers": [
+                    "Measuring Visual Shape using Computer Graphics Psychophysics.",
+                    "Metropolis Light Transport for Participating Media.",
+                    "Density Control for Photon Maps.",
+                    "Weighted Importance Sampling Techniques for Monte Carlo Radiosity.",
+                    "Fast Global Illumination Including Specular Effects.",
+                    "Virtual Occluders: An Efficient Intermediate PVS Representation.",
+                    "Visibility Preprocessing with Occluder Fusion for Urban Walkthroughs.",
+                    "Real-Time Rendering of Densely Populated Urban Environments.",
+                    "Guaranteed Occlusion and Visibility in Cluster Hierarchical Radiosity.",
+                    "Parameterized Animation Compression.",
+                    "Wavelet Warping.",
+                    "Artistic Multiprojection Rendering.",
+                    "A Closed-Form Solution for the Irradiance due to Linearly-Varying Luminaires.",
+                    "Exact Illumination in Polygonal Environments using Vertex Tracing.",
+                    "Wavelet Radiosity on Arbitrary Planar Surfaces.",
+                    "Hierarchical Instantiation for Radiosity.",
+                    "Unified Approach to Prefiltered Environment Maps.",
+                    "Antialiasing with Line Samples.",
+                    "Comparing Real & Synthetic Scenes using Human Judgements of Lightness.",
+                    "Interactive Tone Mapping.",
+                    "Modeling and Rendering for Realistic Facial Animation.",
+                    "Real-Time Hair.",
+                    "Feature-based Displacement Mapping.",
+                    "Soft Shadow Maps for Linear Lights.",
+                    "Hardware Accelerated Horizon Mapping.",
+                    "General Calculations using Graphics Hardware with Applications to Interactive Caustics.",
+                    "Dynamic Acceleration Structures for Interactive Ray Tracing.",
+                    "Direct Ray Tracing of Displacement Mapped Triangles.",
+                    "Ray Tracing Point Sampled Geometry.",
+                    "Tapestry: A Dynamic Mesh-based Display Representation for Interactive Rendering.",
+                    "Rendering Iridescent Colors of Optical Disks.",
+                    "A Physically-Based BRDF Model for Multilayer Systems with Uncorrelated Rough Boundaries.",
+                    "Interactive Rendering with Real-World Illumination.",
+                    "Walkthroughs with Corrective Texturing."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1999",
+        "name": "10th Rendering Techniques 1999",
+        "info": "Granada, Spain",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/rt/1999",
+                "sub_name": "Rendering Techniques '99, Proceedings of the Eurographics Workshop in Granada, Spain, June 21-23, 1999.",
+                "count": 30,
+                "papers": [
+                    "Disruptive Technologies in Computer Graphics: Past, Present, and Future.",
+                    "Perceptually-Informed Accelerated Rendering of High Quality Walkthrough Sequences.",
+                    "Interactive Rendering using the Render Cache.",
+                    "Interactive Ray-Traced Scene Editing using Ray Segment Trees.",
+                    "Decoupling Polygon Rendering from Geometry using Rasterization Hardware.",
+                    "Hierarchical Image-Based Rendering using Texture Mapping Hardware.",
+                    "Towards Interactive Photorealistic Rendering of Indoor Scenes: A Hybrid Approach.",
+                    "Group Accelerated Shooting Methods for Radiosity.",
+                    "Gathering for Free in Random Walk Radiosity.",
+                    "Information Theory Tools for Scene Discretization.",
+                    "Geospecific Rendering of Alpine Terrain.",
+                    "Multiple Texture Stitching and Blending on 3D Objects.",
+                    "Image-Based BRDF Measurement Including Human Skin.",
+                    "Real-Time Rendering of Real World Environments.",
+                    "Computing Visibility for Triangulated Panoramas.",
+                    "Efficient displacement Mapping by Image Warping.",
+                    "Light Field Techniques for Reflections and Refractions.",
+                    "Shadow Penumbras for Complex Objects by Depth-Dependent Filtering of Multi-Layer Depth Images.",
+                    "Approximating the Location of Integrand Discontinuities for Penumbral Illumination with Area Light Sources.",
+                    "Reducing Memory Requirements for Interactive Radiosity using Movement Prediction.",
+                    "Space-Time Hierarchical Radiosity.",
+                    "Interactive Rendering with Arbitrary BRDFs using Separable Approximations.",
+                    "An Illumination Model for a System of Isotropic Substrate - Isotropic Thin Film with Identical Rough Boundaries.",
+                    "Rendering of Wet Materials.",
+                    "Erndering Inhomogeneous Surfaces with Radiosity.",
+                    "Face Cluster Radiosity.",
+                    "Effective Compression Techniques for Precomputed Visibility.",
+                    "Lighting Design: A Goal Based Approach using Optimisation.",
+                    "Interactive Virtual Relighting and Remodeling of Real Scenes.",
+                    "Beyond Photorealism."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1998",
+        "name": "9th Rendering Techniques 1998",
+        "info": "Vienna, Austria",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/rt/1998",
+                "sub_name": "Rendering Techniques '98, Proceedings of the Eurographics Workshop in Vienna, Austria, June 29 - July 1, 1998.",
+                "count": 29,
+                "papers": [
+                    "Light Scattering Models for the Realistic Rendering of Natural Scenes.",
+                    "A New Change of Variables for Efficient BRDF Representation.",
+                    "Approximating Reflectance Functions using Neural Networks.",
+                    "A New Form Factor Analogy and its Application to Stochastic Global Illumination Algorithms.",
+                    "An Ambient Light Illumination Model.",
+                    "Computing the Approximate Visibility map, with Applications to Form Factors and Discontinuity Meshing.",
+                    "Ray Tracing of Subdivision Surfaces.",
+                    "Acquiring Input for Rendering at Appropriate Levels of Detail: Digitizing a Tiet\u00e0.",
+                    "Interactively Modeling with Photogrammetry.",
+                    "Efficient View-Dependent Image-Based Rendering with Projective Texture-Mapping.",
+                    "Uniformly Sampled Light Fields.",
+                    "Forward Shadow Mapping.",
+                    "Efficient Image Generation for Multiprojector and Multisurface Displays.",
+                    "Per-Object Image Warping with Layered Impostors.",
+                    "Interactive Volumetric Textures.",
+                    "Efficiently Rendering Macro Geometric Surface Structures with Bi-Directional Texture Functions.",
+                    "Point Sample Rendering.",
+                    "Rendering Hyper-Sprites in Real Time.",
+                    "Automatic Calculation of Soft Shadow Textures for Fast, High-Quality Radiosity.",
+                    "Three Point Clustering for Radiance Computations.",
+                    "The Visible Differences Predictor: Applications to Global Illumination Problems.",
+                    "Fidelity of Graphics Reconstructions: A Psychophysical Investigation.",
+                    "Global Ray-Bundle Tracing with Hardware Acceleration.",
+                    "Hierarchical Monte Carlo Radiosity.",
+                    "Importance Driven Construction of Photon Maps.",
+                    "Lazy Decompression of Surface Light Fields for Precomputed Global Illumination.",
+                    "Canned Lightsources.",
+                    "Image-Based Rendering for Non-Diffuse Synthetic Scenes.",
+                    "Photosurrealism."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1997",
+        "name": "8th Rendering Techniques 1997",
+        "info": "St. Etienne, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/rt/1997",
+                "sub_name": "Rendering Techniques '97, Proceedings of the Eurographics Workshop in St. Etienne, France, June 16-18, 1997.",
+                "count": 29,
+                "papers": [
+                    "Polyhedral Geometry and the Two-Plane Parameterization.",
+                    "Image-based Rendering with Controllable Illumination.",
+                    "View-base Rendering: Visualizing Real Objects from Scanned Range and Color Data.",
+                    "Appying Shape from Lighting Variation to Bump Map Capture.",
+                    "Interactive Common Illumination for Computer Augmented Reality.",
+                    "An Error Metric for Monte Carlo Ray Tracing.",
+                    "Selective Culling of Discontinuity Lines.",
+                    "Reconstructing the Visual Field of Compound Eyes.",
+                    "Interactive Rendering of Globally Illuminated Glossy Scenes.",
+                    "Incremental Updates to Scenes Illuminated by Area Light Sources.",
+                    "Progressive Previewing of Ray-Traced Images Using Image Plane Disconinuity Meshing.",
+                    "An Adaptive Representation of Spectral Data for Reflectance Computations.",
+                    "A Geometry Dependent Texture Generation Framework for Simulating Surface Imperfections.",
+                    "Nailboards: A Rendering Primitive for Image Caching in Dynamic Scenes.",
+                    "Filtered Local Shading in the Wavelet Domain.",
+                    "An Empirical Comparison of Progressive and Wavelet Radiosity.",
+                    "Hierarchcal Radiosity on Curved Surfaces.",
+                    "A Hierarchcal Subdivision Algorithm for Stochastic Radiosity.",
+                    "Bidirectional Radiosity.",
+                    "Hierarchical Visibility in Terrains.",
+                    "Hierachical Lighting Simulation for Outdoor Scenes.",
+                    "Plane-Parallel Radiance Transport for Global Illumination in Vegetation.",
+                    "Lighting Reconstruction Using Fast and Adaptive Density Estimation Techniques.",
+                    "A Neuro-Evolutionary Unbiased Global Illumination Algorithm.",
+                    "Improved Irradance Computation by Importance Sampling.",
+                    "Adaptive Smpling and Bias Estimation in Path Tracing.",
+                    "Application of Rendering Techniques to Monte-Carlo Physcal Simulation of Gas Diffusion.",
+                    "Global Illumination Techniques for the Simulation of Participating Media.",
+                    "Invited Talk: Global Illumination for Professional 3D Animation, Visualization, Special Effects."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1996",
+        "name": "7th Rendering Techniques 1996",
+        "info": "Porto, Portugal",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/rt/1996",
+                "sub_name": "Rendering Techniques '96, Proceedings of the Eurographics Workshop in Porto, Portugal, August 27-31, 1996.",
+                "count": 27,
+                "papers": [
+                    "The Light Volume: An Aid to Rendering Complex Environments.",
+                    "Light-Driven Global Illumination with a Wavelet Representation of Light Transport.",
+                    "Global Illumination using Photon Maps.",
+                    "Geometry Caching for Ray-Tracing Displacement Maps.",
+                    "Cost Prediction in Ray Tracing.",
+                    "Towards an Open Rendering Kernel for Image Synthesis.",
+                    "Fast Rendering of Subdivision Surfaces.",
+                    "High-Fidelity Radiosity Rendering at Interactive Rates.",
+                    "Non-symmetric Scattering in Light Transport Algorithms.",
+                    "Rendering Participating Media with Bidirectional Path Tracing.",
+                    "Quasi-Monte Carlo Radiosity.",
+                    "Importance-Driven Stochastic Ray Radiosity.",
+                    "Efficiently Representing the Radiosity Kernel through Learning.",
+                    "Accurate Error Bounds for Multi-Resolution Visibility.",
+                    "Proximity Radiosity: Exploiting Coherence to Accelerate Form Factor Computations.",
+                    "Error Control for Radiosity.",
+                    "Hierarchical Rendering of Trees from Precomputed Multi-Layer Z-Buffers.",
+                    "A Temporal Image-Based Approach to Motion Reconstruction for Globally Illuminated Animated Environments.",
+                    "The Multi-Frame Lighting Method: A Monte Carlo Based Solution for Radiosity in Dynamic Environments.",
+                    "Wavelet Based Texture Resampling.",
+                    "Modeling Textiles as Three Dimensional Textures.",
+                    "Synthesizing Verdant Landscapes using Volumetric Textures.",
+                    "Ray Tracing in Non-Constant Media.",
+                    "Hierarchical Back-Face Computation.",
+                    "The 3D Visibility Complex: A New Approach to the Problems of Accurate Visibility.",
+                    "Conservative Radiance Interpolants for Ray Tracing.",
+                    "Accurate Visibility and Meshing Calculations for Hierarchical Radiosity."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1995",
+        "name": "6th Rendering Techniques 1995",
+        "info": "Dublin, Ireland",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/rt/1995",
+                "sub_name": "Rendering Techniques '95, Proceedings of the Eurographics Workshop in Dublin, Ireland, June 12-14, 1995.",
+                "count": 33,
+                "papers": [
+                    "Pyramid Clipping for Efficient Ray Traversal.",
+                    "A 5D Tree to Reduce the Variance of Monte Carlo Ray Tracing.",
+                    "Space Deformation using Ray Deflectors.",
+                    "Bridging between Surface Rendering and Volume Rendering for Multi-resolution Display.",
+                    "Multiple Scattering as a Diffusion Process.",
+                    "Optimized Maximum Intensity Projection (MIP).",
+                    "Spatial Domain Characterization and Control of Reconstruction Errors.",
+                    "Rendering Trees from Precomputed Z-Buffer Views.",
+                    "Comparing Real and Synthetic Images: Some Ideas about Metrics.",
+                    "A Framework for Global Illumination in Animated Environments.",
+                    "Making Global Illumination User-friendly.",
+                    "The Role of Functional Analysis in Global Illumination.",
+                    "From Local to Global Illumination and Back.",
+                    "A Radiosity Approach for the Simulation of Daylight.",
+                    "Modeling the Spatial Energy Distribution of Complex Light Sources for Lighting Engineering.",
+                    "Painting Surface Characteristics.",
+                    "Linear Radiosity with Error Estimation.",
+                    "Accurate Computation of the Radiosity Gradient for Constant and Linear Emitters.",
+                    "A Clustering Algorithm for Radiance Calculation in General Environments.",
+                    "The Stochastic Ray Method for Radiosity.",
+                    "Global Illumination via Density Estimation.",
+                    "Global Monte Carlo. A Progressive Solution.",
+                    "Smart Links and Efficient Reconstruction for Wavelet Radiosity.",
+                    "Spherical Wavelets: Texture Processing.",
+                    "Integration Methods for Galerkin Radiosity Couplings.",
+                    "Reconstruction of Illumination from Area Luminaires.",
+                    "A Two-Pass Solution to the Rendering Equation with a Source Visibility Process.",
+                    "Separating Reflection Functions for Linear Radiosity.",
+                    "Potential-driven Monte Carlo Particle Tracing for Diffuse Environments with Adaptive Probability Functions.",
+                    "Importance-Driven Progressive Refinement Radiosity.",
+                    "Importance Driven Path Tracing using the Photon Map.",
+                    "The Constant Radiosity Step.",
+                    "Fast Radiosity Solutions for Environments with High Average Reflectance."
+                ]
+            }
+        ]
+    }
+]

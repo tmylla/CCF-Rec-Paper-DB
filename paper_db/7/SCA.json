@@ -1,0 +1,779 @@
+[
+    {
+        "year": "2020",
+        "name": "19th SCA 2020",
+        "info": "Online",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sca/2020p",
+                "sub_name": "19th ACM SIGGRAPH / Eurographics Symposium on Computer Animation 2020, SCA 2020 - Posters, Online, October 6-9, 2020.",
+                "count": 3,
+                "papers": [
+                    "Efficient Unified Stokes using a Polynomial Reduced Fluid Model.",
+                    "Interactive Wood Fracture.",
+                    "Wind Erosion: Shape Modifications by Interactive Particle-based Erosion and Deposition."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/sca/2020sc",
+                "sub_name": "19th ACM SIGGRAPH / Eurographics Symposium on Computer Animation 2020, SCA 2020 - Showcases, Online, October 6-9, 2020.",
+                "count": 5,
+                "papers": [
+                    "ZooBuilder: 2D and 3D Pose Estimation for Quadrupeds Using Synthetic Data.",
+                    "Contact and Human Dynamics from Monocular Video.",
+                    "WeightShift: Accelerating Animation at Framestore with Physics.",
+                    "Negative Jacobian Free Simulations Using Principal Stretches.",
+                    "Fast Eulerian Fluid Simulation In Games Using Poisson Filters."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "18th Symposium on Computer Animation 2019",
+        "info": "Los Angeles, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sca/2019",
+                "sub_name": "Proceedings of the 18th annual ACM SIGGRAPH/Eurographics Symposium on Computer Animation, SCA 2019, Los Angeles, CA, USA, July 26-28, 2019.",
+                "count": 10,
+                "papers": [
+                    "Fast simulation of deformable characters with articulated skeletons in projective dynamics.",
+                    "Small steps in physics simulation.",
+                    "A robust volume conserving method for character-water interaction.",
+                    "GPU-based contact-aware trajectory optimization using a smooth force model.",
+                    "EigenFit for consistent elastodynamic simulation across mesh resolution.",
+                    "Subspace neural physics: fast data-driven interactive simulation.",
+                    "Divergence-free and boundary-respecting velocity interpolation using stream functions.",
+                    "Interaction motion retargeting to highly dissimilar furniture environment.",
+                    "Human articular movement algorithm to simulate muscle contraction and embedded tissue deformation.",
+                    "Online motion synthesis framework using a simple mass model based on predictive coding."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "17th Symposium on Computer Animation 2018",
+        "info": "Paris, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sca/2018p",
+                "sub_name": "Poster Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation, SCA 2018 Posters, Paris, France, July 11-13, 2018.",
+                "count": 7,
+                "papers": [
+                    "Capturing Floor Exercise from Multiple Panning-Zooming Cameras.",
+                    "Latent Motion Manifold with Sequential Auto-Encoders.",
+                    "Dilated Temporal Fully-Convolutional Network for Semantic Segmentation of Motion Capture Data.",
+                    "Local Models for Data Driven Inverse Kinematics of Soft Robots.",
+                    "VR Kino+Theatre: From the Ancient Greeks Into the Future of Media.",
+                    "Viewpoint Selection for Liquid Animations.",
+                    "Untangling Layered Garments: An Implicit Approach."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "16th Symposium on Computer Animation 2017",
+        "info": "Los Angeles, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sca/2017",
+                "sub_name": "Proceedings of the ACM SIGGRAPH / Eurographics Symposium on Computer Animation, Los Angeles, CA, USA, July 28-30, 2017.",
+                "count": 32,
+                "papers": [
+                    "Density maps for improved SPH boundary handling.",
+                    "Fully asynchronous SPH simulation.",
+                    "Evaporation and condensation of SPH-based fluids.",
+                    "A micropolar material model for turbulent SPH fluids.",
+                    "Physically-based droplet interaction.",
+                    "Hierarchical vorticity skeletons.",
+                    "A positive-definite cut-cell method for strong two-way coupling between fluids and deformable bodies.",
+                    "Authoring motion cycles.",
+                    "Emotion control of unstructured dance movements.",
+                    "Production-level facial performance capture using deep convolutional neural networks.",
+                    "Augmenting sampling based controllers with machine learning.",
+                    "Learning locomotion skills using DeepRL: does the choice of action space matter?",
+                    "Rigid body contact problems using proximal operators.",
+                    "Long range constraints for rigid body simulations.",
+                    "Designing cable-driven actuation networks for kinematic chains and trees.",
+                    "Inequality cloth.",
+                    "Modeling and data-driven parameter estimation for woven fabrics.",
+                    "Attachment-based character deformation.",
+                    "Automated regression tests for character animation systems.",
+                    "Comparing traditional key frame and hybrid animation.",
+                    "Coordinating full-body interactions with the environment.",
+                    "Cubification and animation of artistic shapes.",
+                    "Human grasping interaction capture and analysis.",
+                    "Marionette show using quadrotors.",
+                    "Motion retargeting to preserve spatial relationship between skinned characters.",
+                    "Online compression of rigid body simulations using physics-inspired interpolation.",
+                    "Position-based multi-agent dynamics for real-time crowd simulation.",
+                    "Regression-based locating landmark on dynamic humans.",
+                    "Sketch-based 3D hair posing by contour drawings.",
+                    "The stretch-engine: a method for adjusting the exaggeration of bipedal characters through squash and stretch.",
+                    "Understanding spatial perception and visual modes in the review of architectural designs.",
+                    "Volumetric muscle controller."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "15th Symposium on Computer Animation 2016",
+        "info": "Zurich, Switzerland",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sca/2016",
+                "sub_name": "Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation, Zurich, Switzerland, July 11-13, 2016.",
+                "count": 24,
+                "papers": [
+                    "Asynchronous implicit backward Euler integration.",
+                    "A macroblock optimization for grid-based nonlinear elasticity.",
+                    "ADMM \u2287 projective dynamics: fast simulation of general constitutive models.",
+                    "Enriching SPH simulation by approximate capillary waves.",
+                    "Topology-aware neighborhoods for point-based simulation and reconstruction.",
+                    "Constrained neighbor lists for SPH-based fluid simulations.",
+                    "Versatile interactions at interfaces for SPH-based simulations.",
+                    "Two-way coupling of fluids to reduced deformable bodies.",
+                    "Compressing fluid subspaces.",
+                    "Hele-shaw flow simulation with interactive control using complex barycentric coordinates.",
+                    "Repurposing hand animation for interactive applications.",
+                    "Building and animating user-specific volumetric face rigs.",
+                    "Art-directed muscle simulation for high-end facial animation.",
+                    "Accurate simulation of wound healing and skin deformation.",
+                    "Dynamic group behaviors for interactive crowd simulation.",
+                    "A data-driven model for lane-changing in traffic simulation.",
+                    "Real-time simulation of large elasto-plastic deformation with shape matching.",
+                    "Position and orientation based Cosserat rods.",
+                    "Deployable 3D linkages with collision avoidance.",
+                    "Hierarchical hp-adaptive signed distance fields.",
+                    "CANVAS: computer-assisted narrative animation synthesis.",
+                    "Real-time sound synthesis for paper material based on geometric analysis.",
+                    "Large-scale finite state game engines.",
+                    "Interactive physically-based sound design of 3D model using material optimization."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/sca/2016p",
+                "sub_name": "Poster Proceedings of the ACM SIGGRAPH/Eurographics Symposium on Computer Animation, Zurich, Switzerland, July 11-13, 2016.",
+                "count": 6,
+                "papers": [
+                    "Efficient storyboarding in 3D game engines.",
+                    "Creating a realistic face image from a cartoon character.",
+                    "Sketch-based per-frame inverse kinematics.",
+                    "Data-driven finger motion synthesis with interactions.",
+                    "A choreographic authoring system for character dance animation reflecting a user's preference.",
+                    "Friction sound synthesis of deformable objects based on adhesion theory."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "14th Symposium on Computer Animation 2015",
+        "info": "Los Angeles, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sca/2015",
+                "sub_name": "Proceedings of the 14th ACM SIGGRAPH / Eurographics Symposium on Computer Animation, SCA 2015, Los Angeles, CA, USA, August 7-9, 2015.",
+                "count": 30,
+                "papers": [
+                    "A new sharp-crease bending element for folding and wrinkling surfaces and volumes.",
+                    "Real-time dynamic wrinkling of coarse animated cloth.",
+                    "Multifarious hierarchies of mechanical models for artist assigned levels-of-detail.",
+                    "Effect of appearance on perception of deformation.",
+                    "Fully momentum-conserving reduced deformable bodies with collision, contact, articulation, and skinning.",
+                    "Efficient simulation of knitted cloth using persistent contacts.",
+                    "Hands on: interactive animation of precision manipulation and contact.",
+                    "Hierarchical planning and control for complex motor tasks.",
+                    "Learning reduced-order feedback policies for motion skills.",
+                    "Computational design of walking automata.",
+                    "Animating articulated characters using wiggly splines.",
+                    "BSwarm: biologically-plausible dynamics model of insect swarms.",
+                    "Energy-efficient mid-term strategies for collision avoidance in crowd simulation.",
+                    "Simulation of fluid mixing with interface control.",
+                    "Functional thin films on surfaces.",
+                    "Divergence-free smoothed particle hydrodynamics.",
+                    "A material point method for viscoelastic fluids, foams and sponges.",
+                    "Learning an inverse rig mapping for character animation.",
+                    "Fully automatic generation of anatomical face simulation models.",
+                    "Sketch abstractions for character posing.",
+                    "A hybrid crowd simulation framework towards modeling behavior of individual avoidance of crowds.",
+                    "Constraint-based wrinkle simulation in texture space.",
+                    "Discovering human postures from non-human silhouette.",
+                    "Eulerian-on-lagrangian cloth.",
+                    "Fast cloth simulation with implicit contact and exact coulomb friction.",
+                    "Gaze driven animation of eyes.",
+                    "Improving naturalness of locomotion of many-muscle humanoids.",
+                    "Resampling adaptive cloth simulations onto fixed-topology meshes.",
+                    "Tracking control for streaming input motion using segmented foot model.",
+                    "Trajectory-free reactive stepping of physics-based character using momentum control."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "13th Symposium on Computer Animation 2014",
+        "info": "Copenhagen, Denmark",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sca/2014",
+                "sub_name": "The Eurographics / ACM SIGGRAPH Symposium on Computer Animation, SCA 2014, Copenhagen, Denmark, 2014.",
+                "count": 20,
+                "papers": [
+                    "Coupling 3D Eulerian, Heightfield and Particle Methods for Interactive Simulation of Large Scale Liquid Phenomena.",
+                    "Ocean Waves Animation using Boundary Integral Equations and Explicit Mesh Tracking.",
+                    "Position-based Elastic Rods.",
+                    "Optimization Integrator for Large Time Steps.",
+                    "Stable Orthotropic Materials.",
+                    "A Peridynamic Perspective on Spring-Mass Fracture.",
+                    "Adaptive Tetrahedral Meshes for Brittle Fracture Simulation.",
+                    "Fast Grid-Based Nonlinear Elasticity for 2D Deformations.",
+                    "An Adaptive Virtual Node Algorithm with Robust Mesh Cutting.",
+                    "Efficient Denting and Bending of Rigid Bodies.",
+                    "DenseSense: Interactive Crowd Simulation using Density-Dependent Filters.",
+                    "Holonomic Collision Avoidance for Virtual Crowds.",
+                    "SteerFit: Automated Parameter Fitting for Steering Algorithms.",
+                    "ChaCra: An Interactive Design System for Rapid Character Crafting.",
+                    "Interactive Design of Modular Tensegrity Characters.",
+                    "Steklov-Poincar\u00e9 Skinning.",
+                    "Strain Based Dynamics.",
+                    "View-Dependent Adaptive Cloth Simulation.",
+                    "Efficient Unsupervised Temporal Segmentation of Human Motion.",
+                    "Camera Motion Graphs."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "12th Symposium on Computer Animation 2013",
+        "info": "Anaheim, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sca/2013",
+                "sub_name": "The ACM SIGGRAPH / Eurographics Symposium on Computer Animation, SCA '13, Anaheim, CA, USA, July 19-21, 2013.",
+                "count": 24,
+                "papers": [
+                    "High fidelity facial animation capture and retargeting with contours.",
+                    "Data-driven glove calibration for hand motion capture.",
+                    "Virtual character performance from speech.",
+                    "Diverse motion variations for physics-based character animation.",
+                    "Relationship descriptors for interactive motion adaptation.",
+                    "Control of rotational dynamics for ground behaviors.",
+                    "Artistic simulation of curly hair.",
+                    "View-dependent control of elastic rod simulation for 3D character animation.",
+                    "Rod constraints for simplified ragdolls.",
+                    "Chimera grids for water simulation.",
+                    "Consistent surface model for SPH-based fluid transport.",
+                    "A hybrid Lagrangian-Eulerian formulation for bubble generation and dynamics.",
+                    "Multi-domain real-time planning in dynamic environments.",
+                    "Velocity-based modeling of physical interactions in multi-agent simulations.",
+                    "SPREAD: sound propagation and perception for autonomous agents in dynamic environments.",
+                    "One-to-many: example-based mesh animation synthesis.",
+                    "Differential blending for expressive sketch-based posing.",
+                    "Efficient simulation of secondary motion in rig-space.",
+                    "Geodesic voxel binding for production character meshes.",
+                    "Fast deformation of volume data using tetrahedral mesh rasterization.",
+                    "Accurate surface embedding for higher order finite elements.",
+                    "A level set method for ductile fracture.",
+                    "Modeling and animating myriapoda: a real-time kinematic/dynamic approach.",
+                    "Creature features: online motion puppetry for non-human characters."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "11th Symposium on Computer Animation 2012",
+        "info": "Lausanne, Switzerland",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sca/2012",
+                "sub_name": "Proceedings of the 2012 Eurographics/ACM SIGGRAPH Symposium on Computer Animation, SCA 2012, Lausanne, Switzerland, 2012.",
+                "count": 36,
+                "papers": [
+                    "Efficient Simulation of Example-Based Materials.",
+                    "Enriching Coarse Interactive Elastic Objects with High-Resolution Data-Driven Deformations.",
+                    "Real-Time Example-Based Elastic Deformation.",
+                    "Energetically Consistent Invertible Elasticity.",
+                    "Combining Marker-based Mocap and RGB-D Camera for Acquiring High-fidelity Hand Motion Data.",
+                    "Finger Walking: Motion Editing with Contact-Based Hand Performance.",
+                    "Interactive Steering of Mesh Animations.",
+                    "Occlusion-free Camera Control for Multiple Targets.",
+                    "Efficient Composition for Virtual Camera Control.",
+                    "Mathematical Analysis on Affine Maps for 2D Shape Interpolation.",
+                    "Smoke Sheets for Graph-Structured Vortex Filaments.",
+                    "Linear-Time Smoke Animation with Vortex Sheet Meshes.",
+                    "Multiphase Flow of Immiscible Fluids on Unstructured Moving Meshes.",
+                    "Simulating Free Surface Flow with Very Large Time Steps.",
+                    "Tiling Motion Patches.",
+                    "Precomputed Motion Maps for Unstructured Motion Capture.",
+                    "Contact-Invariant Optimization for Hand Manipulation.",
+                    "Learning Motion Controllers with Adaptive Depth Perception.",
+                    "Task-driven Posture Optimization for Virtual Characters.",
+                    "Component-based Locomotion Composition.",
+                    "Evaluating the Plausibility of Edited Throwing Animations.",
+                    "Quaternion Space Sparse Decomposition for Motion Compression and Retrieval.",
+                    "Environment-aware Real-Time Crowd Control.",
+                    "Cloning Crowd Motions.",
+                    "Simple Data-Driven Control for Simulated Bipeds.",
+                    "Physically Plausible Simulation for Character Animation.",
+                    "Misconceptions of PD Control in Animation.",
+                    "Principal Geodesic Dynamics.",
+                    "Mass-Conserving Eulerian Liquid Simulation.",
+                    "Controlling Liquids Using Meshes.",
+                    "Faster Acceleration Noise for Multibody Animations using Precomputed Soundbanks.",
+                    "Dynamic Units of Visual Speech.",
+                    "Efficient Collision Detection for Brittle Fracture.",
+                    "Multi-linear Data-Driven Dynamic Hair Model with Efficient Hair-Body Collision Handling.",
+                    "Long Range Attachments - A Method to Simulate Inextensible Clothing in Computer Games.",
+                    "The Intersection Contour Minimization Method for Untangling Oriented Deformable Surfaces."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "10th Symposium on Computer Animation 2011",
+        "info": "Vancouver, BC, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sca/2011",
+                "sub_name": "Proceedings of the 2011 Eurographics/ACM SIGGRAPH Symposium on Computer Animation, SCA 2011, Vancouver, BC, Canada, 2011.",
+                "count": 30,
+                "papers": [
+                    "A Particle-based Method for Preserving Fluid Sheets.",
+                    "A Level-set Method for Skinning Animated Particle Data.",
+                    "SPH Granular Flow with Friction and Cohesion.",
+                    "Hybrid Smoothed Particle Hydrodynamics.",
+                    "Simulating Heterogeneous Crowd BehaviorsUsing Personality Trait Theory.",
+                    "Scenario Space: Characterizing Coverage, Quality, and Failure of SteeringAlgorithms.",
+                    "Physics-based Character Skinningusing Multi-Domain Subspace Deformations.",
+                    "Controllable Hand Deformation from Sparse Examples with Rich Details.",
+                    "A Multigrid Fluid Pressure SolverHandling Separating Solid Boundary Conditions.",
+                    "Mass and Momentum Conservation for Fluid Simulation.",
+                    "Mathematical Foundation of the Optimization-based Fluid Animation Method.",
+                    "A Simple Finite Volume Method for Adaptive Viscous Liquids.",
+                    "A Data-driven Appearance Model for Human Fatigue.",
+                    "Human Motion Reconstruction from Force Sensors.",
+                    "Practical Color-Based Motion Capture.",
+                    "Real-Time Classification of Dance Gesturesfrom Skeleton Animation.",
+                    "A Puppet Interface for Retrieval of Motion Capture Data.",
+                    "Procedural Fluid Modeling of Explosion PhenomenaBased on Physical Properties.",
+                    "Preview-based Sampling for Controlling Gaseous Simulations.",
+                    "Graph-based Fire Synthesis.",
+                    "Content Retargeting Using Parameter-Parallel Facial Layers.",
+                    "Facial Cartography: Interactive Scan Correspondence.",
+                    "Real-time Facial Animation from Live Video Tracking.",
+                    "Optimization for Sag-Free Simulations.",
+                    "Robust Real-Time Deformation of Incompressible Surface Meshes.",
+                    "Asynchronous Integration with Phantom Meshes.",
+                    "Element-Wise Mixed Implicit-Explicit Integration for Stable Dynamic Simulation of Deformable Objects.",
+                    "Biomechanically-Inspired Motion Path Editing.",
+                    "Spacetime Vertex Constraints for Dynamically-based Adaptation of Motion-Captured Animation.",
+                    "Perceptual evaluation of footskate cleanup."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "9th Symposium on Computer Animation 2010",
+        "info": "Madrid, Spain",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sca/2010",
+                "sub_name": "Proceedings of the 2010 Eurographics/ACM SIGGRAPH Symposium on Computer Animation, SCA 2010, Madrid, Spain, 2010.",
+                "count": 24,
+                "papers": [
+                    "Fast Local and Global Similarity Searches in Large Motion Capture Databases.",
+                    "Editing Dynamic Human Motions via Momentum and Force.",
+                    "Modeling Style and Variation in Human Motion.",
+                    "Linear-Time Dynamics for Multibody Systems with General Joint Models.",
+                    "Constraint-Based Simulation of Adhesive Contact.",
+                    "Point Cloud Glue: Constraining Simulations Using the Procrustes Transform.",
+                    "Interactive SPH Simulation and Rendering on the GPU.",
+                    "A Parallel Multigrid Poisson Solver for Fluids Simulation on Large Grids.",
+                    "Enhancing Fluid Animation with Adaptive, Controllable and Intermittent Turbulence.",
+                    "Wrinkle Meshes.",
+                    "Augmenting Hand Animation with Three-dimensional Secondary Motion.",
+                    "A Bayesian Interactive Optimization Approach to Procedural Animation Design.",
+                    "Goal-Directed Stepping with Momentum Control.",
+                    "PLEdestrians: A Least-Effort Approach to Crowd Simulation.",
+                    "Control Systems for Human Running using an Inverted Pendulum Model and a Reference Motion Capture Sequence.",
+                    "A Real-time Cinematography System for Interactive 3D Environments.",
+                    "FASTCD: Fracturing-Aware Stable Collision Detection.",
+                    "Shortest Paths with Arbitrary Clearance from Navigation Meshes.",
+                    "Animating Non-Humanoid Characters with Human Motion Data.",
+                    "BoLeRO: A Principled Technique for Including Bone Length Constraints in Motion Capture Occlusion Filling.",
+                    "Performance Capture with Physical Interaction.",
+                    "Real-time Simulation of Large Bodies of Water with Small Scale Details.",
+                    "Practical Animation of Compressible Flow for ShockWaves and Related Phenomena.",
+                    "Reconstructing Surfaces of Particle-Based Fluids Using Anisotropic Kernels."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "8th Symposium on Computer Animation 2009",
+        "info": "New Orleans, Louisiana, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sca/2009",
+                "sub_name": "Proceedings of the 2009 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, SCA 2009, New Orleans, Louisiana, USA, August 1-2, 2009.",
+                "count": 26,
+                "papers": [
+                    "Face/Off: live facial puppetry.",
+                    "Efficient and robust annotation of motion capture data.",
+                    "Automatic construction of a minimum size motion graph.",
+                    "Simulating balance recovery responses to trips based on biomechanical principles.",
+                    "Interactive synthesis of human-object interaction.",
+                    "Visibility transition planning for dynamic camera control.",
+                    "Spatial deformation transfer.",
+                    "Bounded normal trees for reduced deformations of triangulated surfaces.",
+                    "Exact volume preserving skinning with shape control.",
+                    "Leveraging the talent of hand animators to create three-dimensional animation.",
+                    "Interactive editing of motion style using drives and correlations.",
+                    "Pose-timeline for propagating motion edits.",
+                    "Style learning and transferring for facial animation editing.",
+                    "A point-based method for animating elastoplastic solids.",
+                    "Statistical simulation of rigid bodies.",
+                    "Anisotropic friction for deformable surfaces and solids.",
+                    "Energy stability and fracture for frame rate rigid body simulations.",
+                    "Real-time deformation and fracture in a game environment.",
+                    "ClearPath: highly parallel collision avoidance for multi-agent simulation.",
+                    "Experiment-based modeling, simulation and validation of interactions between virtual walkers.",
+                    "Fitting behaviors to pedestrian simulations.",
+                    "SteerBug: an interactive framework for specifying and detecting steering behaviors.",
+                    "Guiding of smoke animations through variational coupling of simulations at different resolutions.",
+                    "Accurate tangential velocities for solid fluid coupling.",
+                    "Fast and robust tracking of fluid surfaces.",
+                    "A point-based method for animating incompressible flow."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "7th Symposium on Computer Animation 2008",
+        "info": "Dublin, Ireland",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sca/2008",
+                "sub_name": "Proceedings of the 2008 Eurographics/ACM SIGGRAPH Symposium on Computer Animation, SCA 2008, Dublin, Ireland, 2008.",
+                "count": 24,
+                "papers": [
+                    "Evolving Sub-Grid Turbulence for Smoke Animation.",
+                    "Low Viscosity Flow Simulations for Animation.",
+                    "Visual Simulation of Shockwaves.",
+                    "Real-Time Planning for Parameterized Human Motion.",
+                    "Composite Agents.",
+                    "DrivenShape - a Data-driven Approach for Shape Deformation.",
+                    "Pose-Space Animation and Transfer of Facial Details.",
+                    "Perceptually Guided Expressive Facial Animation.",
+                    "Meshless Modeling of Deformable Shapes and their Motion.",
+                    "Fast Adaptive Shape Matching Deformations.",
+                    "Two-way Coupling of Rigid and Deformable Bodies.",
+                    "Flexible Simulation of Deformable Models Using Discontinuous Galerkin FEM.",
+                    "Motion-Motif Graphs.",
+                    "Achieving Good Connectivity in Motion Graphs.",
+                    "Staggered Poses: A Character Motion Representation for Detail-Preserving Editing of Pose and Coordinated Timing.",
+                    "Globally Coupled Collision Handling Using Volume Preserving Impulses.",
+                    "Image-based Collision Detection and Response between Arbitrary Volume Objects.",
+                    "Synthesis of Interactive Hand Manipulation.",
+                    "Elevation Cable Modeling for Interactive Simulation of Cranes.",
+                    "Puppet Master: Designing Reactive Character Behavior by Demonstration.",
+                    "Action Capture with Accelerometers.",
+                    "Interactive Terrain Modeling Using Hydraulic Erosion.",
+                    "Density Contrast SPH Interfaces.",
+                    "Accurate Viscous Free Surfaces for Buckling, Coiling, and Rotating Liquids."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "6th Symposium on Computer Animation 2007",
+        "info": "San Diego, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sca/2007",
+                "sub_name": "Proceedings of the 2007 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, SCA 2007, San Diego, California, USA, August 2-4, 2007.",
+                "count": 27,
+                "papers": [
+                    "Screen space meshes.",
+                    "Legendre fluids: a unified framework for analytic reduced space modeling and rendering of participating media.",
+                    "A simple boiling module.",
+                    "Flipping with physics: motion editing for acrobatics.",
+                    "Guided time warping for motion editing.",
+                    "Dynamic, expressive speech animation from a single mesh.",
+                    "Arbitrary cutting of deformable tetrahedralized objects.",
+                    "Hybrid simulation of deformable solids.",
+                    "Cubic shells.",
+                    "Controlling individual agents in high-density crowd simulation.",
+                    "Group behavior from video: a data-driven approach to crowd simulation.",
+                    "A decision network framework for the behavioral animation of virtual humans.",
+                    "Kinodynamic skinning using volume-preserving deformations.",
+                    "Deformation styles for spline-based skeletal animation.",
+                    "Harmonic skeleton for realistic character animation.",
+                    "Face poser: interactive modeling of 3D facial expressions using model priors.",
+                    "Time-critical distributed contact for 6-DoF haptic rendering of adaptively sampled reduced deformable models.",
+                    "Adaptive deformations with fast tight bounds.",
+                    "Real-time simulations of bubbles and foam within a shallow water framework.",
+                    "Animation of chemically reactive fluids using a hybrid simulation method.",
+                    "Weakly compressible SPH for free surface flows.",
+                    "Liquid simulation on lattice-based tetrahedral meshes.",
+                    "Solving general shallow wave equations on surfaces.",
+                    "On the beat!: timing and tension for dynamic characters.",
+                    "Multiobjective control with frictional contacts.",
+                    "Smooth movers: perceptually guided human motion simulation.",
+                    "Animation collage."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "5th Symposium on Computer Animation 2006",
+        "info": "Vienna, Austria",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sca/2006",
+                "sub_name": "Proceedings of the 2006 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, SCA 2006, Vienna, Austria, September 2-4, 2006.",
+                "count": 37,
+                "papers": [
+                    "Detail-preserving fluid control.",
+                    "Keyframe control of complex particle systems using the adjoint method.",
+                    "A controllable, fast and stable basis for vortex based smoke simulation.",
+                    "Path-based control of smoke simulations.",
+                    "Geometric, variational integrators for computer animation.",
+                    "Progressive deforming meshes based on deformation oriented decimation and dynamic connectivity updating.",
+                    "Fast arbitrary splitting of deforming objects.",
+                    "Fast simulation of deformable models in contact using dynamic deformation textures.",
+                    "Simultaneous coupling of fluids and deformable bodies.",
+                    "Oriented strands: dynamics of stiff multi-body system.",
+                    "Simple linear bending stiffness in particle systems.",
+                    "A consistent bending model for cloth simulation with corotational subdivision finite elements.",
+                    "Perceptual evaluation of LOD clothing for virtual humans.",
+                    "Segment-based human motion compression.",
+                    "Motion templates for automatic classification and retrieval of motion capture data.",
+                    "Learning a correlated model of identity and pose-dependent body shape variation for real-time synthesis.",
+                    "Animation of open water phenomena with coupled shallow water and free surface simulations.",
+                    "Modeling ice dynamics as a thin-film Stefan problem.",
+                    "Generating surface crack patterns.",
+                    "Hierarchical retargetting of 2D motion fields to the animation of 3D plant models.",
+                    "Interactive animation of dynamic manipulation.",
+                    "Physics-based motion retiming.",
+                    "Composition of complex optimal multi-character motions.",
+                    "Re-using traditional animation: methods for semi-automatic segmentation and inbetweening.",
+                    "MotionMaster: authoring and choreographing Kung-fu motions by sketch drawings.",
+                    "Walk to here: a voice driven animation system.",
+                    "eFASE: expressive facial animation synthesis and editing with phoneme-isomap controls.",
+                    "Simulating speech with a physics-based facial muscle model.",
+                    "Sketching articulation and pose for facial animation.",
+                    "Robust kinematic constraint detection for motion data.",
+                    "Fat graphs: constructing an interactive character with continuous controls.",
+                    "Precomputed search trees: planning for interactive goal-driven animation.",
+                    "Automatic splicing for hand and body animations.",
+                    "Physics based boiling simulation.",
+                    "Simulation of bubbles.",
+                    "Practical animation of turbulent splashing water.",
+                    "A texture synthesis method for liquid animations."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "4th Symposium on Computer Animation 2005",
+        "info": "Los Angeles, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sca/2005",
+                "sub_name": "Proceedings of the 2005 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, SCA 2005, Los Angeles, CA, USA, July 29-31, 2005.",
+                "count": 35,
+                "papers": [
+                    "Imitation as a first step to social learning in synthetic characters: a graph-based approach.",
+                    "Autonomous pedestrians.",
+                    "Motion modeling for on-line locomotion synthesis.",
+                    "Capture and synthesis of insect motion.",
+                    "Video-based character animation.",
+                    "Pushing people around.",
+                    "An efficient search algorithm for motion data using weighted PCA.",
+                    "Particle-based simulation of granular materials.",
+                    "Simulation of smoke based on vortex filament primitives.",
+                    "Modeling and animating gases with simulation features.",
+                    "Spatial keyframing for performance-driven animation.",
+                    "An art-directed wrinkle system for CG character clothing.",
+                    "Directable animation of elastic objects.",
+                    "Morphable model of quadrupeds skeletons for animating 3D animals.",
+                    "Transferable videorealistic speech animation.",
+                    "Simulating complex hair with robust collision handling.",
+                    "AER: aesthetic exploration and refinement for expressive character animation.",
+                    "Analyzing the physical correctness of interpolated human motion.",
+                    "Robust quasistatic finite elements and flesh simulation.",
+                    "Progressive multiresolution meshes for deforming surfaces.",
+                    "Animosaics.",
+                    "Simple and efficient compression of animation sequences.",
+                    "Particle-based viscoelastic fluid simulation.",
+                    "Taming liquids for rapidly changing targets.",
+                    "Particle-based fluid-fluid interaction.",
+                    "Adapted unstructured LBM for flow simulation on curved surfaces.",
+                    "Fluids in deforming meshes.",
+                    "Vortex fluid for gaseous phenomena.",
+                    "Behavior planning for character animation.",
+                    "Group motion graphs.",
+                    "Fast and accurate goal-directed motion synthesis for crowds.",
+                    "Physically based rigging for deformable characters.",
+                    "Physically based grasping control from example.",
+                    "Helping hand: an anatomically accurate inverse dynamics solution for unconstrained hand motion.",
+                    "Outside-in anatomy based character rigging."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "3rd Symposium on Computer Animation 2004",
+        "info": "Grenoble, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sca/2004",
+                "sub_name": "Proceedings of the 2004 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, Grenoble, France, August 27-29, 2004.",
+                "count": 37,
+                "papers": [
+                    "Autonomous behaviors for interactive vehicle animations.",
+                    "Finding paths for coherent groups using clearance.",
+                    "Breathe easy: model and control of simulated respiration for animation.",
+                    "Layered dynamic control for interactive character swimming.",
+                    "Methods for exploring expressive stance.",
+                    "System for authoring highly interactive, personality-rich interactive characters.",
+                    "Example-based control of human motion.",
+                    "Precomputing avatar behavior from human motion data.",
+                    "Evaluating motion graphs for character navigation.",
+                    "Enriching a motion collection by transplanting limbs.",
+                    "Quasi-rigid objects in contact.",
+                    "Collision between deformable objects using fast-marching on tetrahedral models.",
+                    "Invertible finite elements for robust simulation of large deformation.",
+                    "Point based animation of elastic, plastic and melting objects.",
+                    "Decomposing cloth.",
+                    "Interactive motion deformation with prioritized constraints.",
+                    "Momentum-based parameterization of dynamic character motion.",
+                    "Wavelet compression of parametrically coherent mesh sequences.",
+                    "Directable photorealistic liquids.",
+                    "Animation of reactive gaseous fluids through chemical kinetics.",
+                    "Extended Galilean invariance for adaptive fluid simulation.",
+                    "Modeling and editing flows using advected radial basis functions.",
+                    "Flow tiles.",
+                    "Crowdbrush: interactive authoring of real-time crowd scenes.",
+                    "Performance timing for keyframe animation.",
+                    "Motion map: image-based retrieval and segmentation of motion data.",
+                    "Cartoon textures.",
+                    "Animal gaits from video.",
+                    "Better with bubbles: enhancing the visual realism of simulated fluid.",
+                    "Simulation levels of detail for plant motion.",
+                    "A hybrid algorithm for modeling ice formation.",
+                    "Animation and control of breaking waves.",
+                    "Synchronization for dynamic blending of motions.",
+                    "Computing the duration of motion transitions: an empirical approach.",
+                    "Real-time speech motion synthesis from recorded motions.",
+                    "Modeling deformable human hands from medical images.",
+                    "Image-based tomographic reconstruction of flames."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "name": "2nd Symposium on Computer Animation 2003",
+        "info": "San Diego, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sca/2003",
+                "sub_name": "Proceedings of the 2003 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, San Diego, CA, USA, July 26-27, 2003.",
+                "count": 38,
+                "papers": [
+                    "A practical dynamics system.",
+                    "Interactive physically based solid dynamics.",
+                    "Simulation of clothing with folds and wrinkles.",
+                    "Estimating cloth simulation parameters from video.",
+                    "Feel the \"fabric\": an audio-haptic interface.",
+                    "Discrete shells.",
+                    "Finite volume methods for the simulation of skeletal muscle.",
+                    "Blowing in the wind.",
+                    "Visual simulation of ice crystal growth.",
+                    "Construction and animation of anatomically based human hand models.",
+                    "Handrix: animating the human hand.",
+                    "Synthesizing animatable body models with parameterized shape modifications.",
+                    "Dynapack: space-time compression of the 3D animations of triangle meshes with fixed connectivity.",
+                    "Geometry videos: a new representation for 3D animations.",
+                    "Advected textures.",
+                    "Particle-based fluid simulation for interactive applications.",
+                    "A real-time cloud modeling, rendering, and animation system.",
+                    "An example-based approach for facial expression cloning.",
+                    "Geometry-driven photorealistic facial expression synthesis.",
+                    "Learning controls for blend shape based realistic facial animation.",
+                    "Vision-based control of 3D facial animation.",
+                    "Adaptive Wisp Tree: a multiresolution control structure for simulating dynamic clustering in hair motion.",
+                    "Flexible automatic motion blending with registration curves.",
+                    "Unsupervised learning for speech motion editing.",
+                    "An evaluation of a cost metric for selecting transitions between motion segments.",
+                    "Aesthetic edits for character animation.",
+                    "Mapping optical motion capture data to skeletal motion using a physical model.",
+                    "Trackable surfaces.",
+                    "A 2-stages locomotion planner for digital actors.",
+                    "A scenario language to orchestrate virtual world evolution.",
+                    "Generating flying creatures using body-brain co-evolution.",
+                    "Constrained animation of flocks.",
+                    "On creating animated presentations.",
+                    "Stylizing motion with drawings.",
+                    "A sketching interface for articulated figure animation.",
+                    "FootSee: an interactive animation system.",
+                    "Interactive control of component-based morphing.",
+                    "Sound-by-numbers: motion-driven sound synthesis."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2002",
+        "name": "1st Symposium on Computer Animation 2002",
+        "info": "San Antonio, TX, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sca/2002",
+                "sub_name": "Proceedings of the 2002 ACM SIGGRAPH/Eurographics Symposium on Computer Animation, San Antonio, TX, USA, July 21-22, 2002.",
+                "count": 22,
+                "papers": [
+                    "Leashing the AlphaWolves: mixing user direction with autonomous emotion in a pack of semi-autonomous virtual characters.",
+                    "Stylized video cubes.",
+                    "Fast penetration depth computation for physically-based animation.",
+                    "Sphere-tree construction using dynamic medial axis approximation.",
+                    "A multiresolution framework for dynamic deformations.",
+                    "Stable real-time deformations.",
+                    "Head shop: generating animated head models with anatomical structure.",
+                    "FacEMOTE: qualitative parametric modifiers for facial animations.",
+                    "A practical model for hair mutual interactions.",
+                    "Modeling tension and relaxation for computer animation.",
+                    "Motion capture-driven simulations that hit and react.",
+                    "Footskate cleanup for motion capture editing.",
+                    "On-line locomotion generation based on motion blending.",
+                    "Human motion reconstruction from inter-frame feature correspondences of a single video stream using a motion library.",
+                    "Controlled animation of video sprites.",
+                    "Multi-weight enveloping: least-squares approximation techniques for skin animation.",
+                    "Model-based reconstruction for creature animation.",
+                    "Medial-based vertex deformation.",
+                    "EigenSkin: real time large deformation character skinning in hardware.",
+                    "Interactive animation of ocean waves.",
+                    "Melting and flowing.",
+                    "Synthesizing sounds from rigid-body simulations."
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,805 @@
+[
+    {
+        "year": "2021",
+        "name": "21st SCAM 2021",
+        "info": "Luxembourg",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/scam/2021",
+                "sub_name": "21st IEEE International Working Conference on Source Code Analysis and Manipulation, SCAM 2021, Luxembourg, September 27-28, 2021.",
+                "count": 30,
+                "papers": [
+                    "A Precise Framework for Source-Level Control-Flow Analysis.",
+                    "Modeling the Effects of Global Variables in Data-Flow Analysis for C/C++.",
+                    "Into the Woods: Experiences from Building a Dataflow Analysis Framework for C/C++.",
+                    "SecuCheck: Engineering configurable taint analysis for software developers.",
+                    "[Engineering] eNYPD - Entry Points Detector Jakarta Server Faces Use Case.",
+                    "How does Migrating to Kotlin Impact the Run-time Efficiency of Android Apps?",
+                    "Measuring source code conciseness across programming languages using compression.",
+                    "Towards Understanding Developers' Machine-Learning Challenges: A Multi-Language Study on Stack Overflow.",
+                    "Unambiguity of Python Language Elements for Static Analysis.",
+                    "Towards a taxonomy for annotation of data science experiment repositories.",
+                    "BoostNSift: A Query Boosting and Code Sifting Technique for Method Level Bug Localization.",
+                    "Formal Definition and Automatic Generation of Semantic Metrics: An Empirical Study on Bug Prediction.",
+                    "Method Calls Frequency-Based Tie-Breaking Strategy For Software Fault Localization.",
+                    "CharmFL: A Fault Localization Tool for Python.",
+                    "Improving Readability of Scratch Programs with Search-based Refactoring.",
+                    "Towards a Taxonomy of Inline Code Comment Smells.",
+                    "PYREF: Refactoring Detection in Python Projects.",
+                    "Leveraging Unsupervised Learning to Summarize APIs Discussed in Stack Overflow.",
+                    "What Do Developers Discuss about Code Comments?",
+                    "Do Comments follow Commenting Conventions? A Case Study in Java and Python.",
+                    "Fex: Assisted Identification of Domain Features from C Programs.",
+                    "SootFX: A Static Code Feature Extraction Tool for Java and Android.",
+                    "Jicer: Simplifying Cooperative Android App Analysis Tasks.",
+                    "D-REX: Static Detection of Relevant Runtime Exceptions with Location Aware Transformer.",
+                    "QSES: Quasi-Static Executable Slices.",
+                    "An Experimental Analysis of Graph-Distance Algorithms for Comparing API Usages.",
+                    "Empirical Comparison of Black-box Test Case Generation Tools for RESTful APIs.",
+                    "Naming Amplified Tests Based on Improved Coverage.",
+                    "Removing Redundant Statements in Amplified Test Cases.",
+                    "Linkage of Similar Code Snippets Assessed in the Micro Benchmark Service jsPerf."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "name": "20th SCAM 2020",
+        "info": "Adelaide, Australia",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/scam/2020",
+                "sub_name": "20th IEEE International Working Conference on Source Code Analysis and Manipulation, SCAM 2020, Adelaide, Australia, September 28 - October 2, 2020.",
+                "count": 30,
+                "papers": [
+                    "A Parallel Worklist Algorithm for Modular Analyses.",
+                    "Compositional Information Flow Analysis for WebAssembly Programs.",
+                    "Incremental Flow Analysis through Computational Dependency Reification.",
+                    "MAF: A Framework for Modular Static Analysis of Higher-Order Languages.",
+                    "Does code review really remove coding convention violations?",
+                    "Automated Identification of On-hold Self-admitted Technical Debt.",
+                    "Towards Detecting Inconsistent Comments in Java Source Code Automatically.",
+                    "Can Refactorings Indicate Design Tradeoffs?",
+                    "Looking for Software Defects? First Find the Nonconformists.",
+                    "Understanding and Characterizing Changes in Bugs Priority: The Practitioners' Perceptive.",
+                    "Failure of One, Fall of Many: An Exploratory Study of Software Features for Defect Prediction.",
+                    "An Approach for the Identification of Information Leakage in Automotive Infotainment systems.",
+                    "Ad hoc Test Generation Through Binary Rewriting.",
+                    "Adapting Queries to Database Schema Changes in Hybrid Polystores.",
+                    "Annotation practices in Android apps.",
+                    "DroidXP: A Benchmark for Supporting the Research on Mining Android Sandboxes.",
+                    "DepGraph: Localizing Performance Bottlenecks in Multi-Core Applications Using Waiting Dependency Graphs and Software Tracing.",
+                    "An Investigation into the Effect of Control and Data Dependence Paths on Predicate Testability.",
+                    "DCT: An Scalable Multi-Objective Module Clustering Tool.",
+                    "Free the Bugs: Disclosing Blocking Violations in Reactive Programming.",
+                    "Static Extraction of Enforced Authorization Policies SeeAuthz.",
+                    "Fix that Fix Commit: A real-world remediation analysis of JavaScript projects.",
+                    "The Role of Implicit Conversions in Erroneous Function Argument Swapping in C++.",
+                    "Optimizing Away JavaScript Obfuscation.",
+                    "Engineering a Converter Between Two Domain-Specific Languages for Sorting.",
+                    "Out of Sight, Out of Place: Detecting and Assessing Swapped Arguments.",
+                    "Does Infrastructure as Code Adhere to Semantic Versioning? An Analysis of Ansible Role Evolution.",
+                    "GitHub Label Embeddings.",
+                    "MUTAMA: An Automated Multi-label Tagging Approach for Software Libraries on Maven.",
+                    "Techniques for Efficient Automated Elimination of False Positives."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "19th SCAM 2019",
+        "info": "Cleveland, OH, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/scam/2019",
+                "sub_name": "19th International Working Conference on Source Code Analysis and Manipulation, SCAM 2019, Cleveland, OH, USA, September 30 - October 1, 2019.",
+                "count": 28,
+                "papers": [
+                    "A Study on the Effects of Exception Usage in Open-Source C++ Systems.",
+                    "MOAD: Modeling Observation-Based Approximate Dependency.",
+                    "Towards Constructing the SSA form using Reaching Definitions Over Dominance Frontiers.",
+                    "Automatically Generating Fix Suggestions in Response to Static Code Analysis Warnings.",
+                    "Rebasing in Code Review Considered Harmful: A Large-Scale Empirical Investigation.",
+                    "Automatically Curated Data Sets.",
+                    "An Exploratory Study on Automatic Architectural Change Analysis Using Natural Language Processing Techniques.",
+                    "Contextualizing Rename Decisions using Refactorings and Commit Messages.",
+                    "No Accounting for Taste: Supporting Developers' Individual Choices of Coding Styles.",
+                    "The Strengths and Behavioral Quirks of Java Bytecode Decompilers.",
+                    "Automated Customized Bug-Benchmark Generation.",
+                    "Evaluating Automatic Fault Localization Using Markov Processes.",
+                    "Toward Optimal Selection of Information Retrieval Models for Software Engineering Tasks.",
+                    "Rascal, 10 Years Later.",
+                    "Software Engineering by Source Transformation - Experience with TXL (Most Influential Paper, SCAM 2001).",
+                    "Characterizing Leveraged Stack Overflow Posts.",
+                    "Interactive Refactoring Documentation Bot.",
+                    "Movement Patterns and Trajectories in Three-Dimensional Software Visualization.",
+                    "WAL: A Tool for Diagnosing Accessibility Issues and Evolving Legacy Web Systems at Runtime.",
+                    "Less is More: From Multi-objective to Mono-objective Refactoring via Developer's Knowledge Extraction.",
+                    "On the Efficacy of Dynamic Behavior Comparison for Judging Functional Equivalence.",
+                    "On the Quality of Identifiers in Test Code.",
+                    "Simultaneous Refactoring and Regression Testing.",
+                    "Behave Nicely! Automatic Generation of Code for Behaviour Driven Development Test Suites.",
+                    "Permission Issues in Open-Source Android Apps: An Exploratory Study.",
+                    "The Architectural Security Tool Suite - ARCHSEC.",
+                    "LUDroid: A Large Scale Analysis of Android - Web Hybridization.",
+                    "Introducing Privacy in Screen Event Frequency Analysis for Android Apps."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "18th SCAM 2018",
+        "info": "Madrid, Spain",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/scam/2018",
+                "sub_name": "18th IEEE International Working Conference on Source Code Analysis and Manipulation, SCAM 2018, Madrid, Spain, September 23-24, 2018.",
+                "count": 27,
+                "papers": [
+                    "From Start-ups to Scale-ups: Opportunities and Open Problems for Static and Dynamic Program Analysis.",
+                    "[Research Paper] Combining Obfuscation and Optimizations in the Real World.",
+                    "[Engineering Paper] A Tool for Optimizing Java 8 Stream Software via Automated Refactoring.",
+                    "[Research Paper] Obfuscating Java Programs by Translating Selected Portions of Bytecode to Native Libraries.",
+                    "[Engineering Paper] Analyzing the Evolution of Preprocessor-Based Variability: A Tale of a Thousand and One Scripts.",
+                    "[Engineering Paper] Enabling the Continuous Analysis of Security Vulnerabilities with VulData7.",
+                    "[Research Paper] Towards Anticipation of Architectural Smells Using Link Prediction Techniques.",
+                    "[Research Paper] Periodic Developer Metrics in Software Defect Prediction.",
+                    "[Research Paper] Which Method-Stereotype Changes are Indicators of Code Smells?",
+                    "[Research Paper] Semantics-Based Code Search Using Input/Output Examples.",
+                    "[Research Paper] Automatic Detection of Sources and Sinks in Arbitrary Java Libraries.",
+                    "[Research Paper] Detecting Evolutionary Coupling Using Transitive Association Rules.",
+                    "[Engineering Paper] Graal: The Quest for Source Code Knowledge.",
+                    "[Research Paper] The Case for Adaptive Change Recommendation.",
+                    "[Research Paper] CroLSim: Cross Language Software Similarity Detector Using API Documentation.",
+                    "[Engineering Paper] Identifying Feature Clones in a Suite of Systems.",
+                    "[Research Paper] On the Use of Machine Learning Techniques Towards the Design of Cloud Based Automatic Code Clone Validation Tools.",
+                    "[Engineering Paper] Built-in Clone Detection in Meta Languages.",
+                    "[Engineering Paper] Challenges of Implementing Cross Translation Unit Analysis in Clang Static Analyzer.",
+                    "[Research Paper] Static JavaScript Call Graphs: A Comparative Study.",
+                    "[Engineering Paper] RECKA and RPromF: Two Frama-C Plug-ins for Optimizing Registers Usage in CUDA, OpenACC and OpenMP Programs.",
+                    "[Research Paper] Untangling Composite Commits Using Program Slicing.",
+                    "[Engineering Paper] SCC: Automatic Classification of Code Snippets.",
+                    "[Engineering Paper] An IDE for Easy Programming of Simple Robotics Tasks.",
+                    "[Research Paper] POI: Skew-Aware Parallel Race Detection.",
+                    "[Research Paper] Automatic Checking of Regular Expressions.",
+                    "[Research Paper] Fine-Grained Model Slicing for Rebel."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "17th SCAM 2017",
+        "info": "Shanghai, China",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/scam/2017",
+                "sub_name": "17th IEEE International Working Conference on Source Code Analysis and Manipulation, SCAM 2017, Shanghai, China, September 17-18, 2017.",
+                "count": 18,
+                "papers": [
+                    "Working Around Loops for Infeasible Path Detection in Binary Programs.",
+                    "Revisiting Exception Handling Practices with Exception Flow Analysis.",
+                    "Tree-Oriented vs. Line-Oriented Observation-Based Slicing.",
+                    "An Exploratory Study of Functional Redundancy in Code Repositories.",
+                    "Does the Choice of Configuration Framework Matter for Developers? Empirical Study on 11 Java Configuration Frameworks.",
+                    "How do Scratch Programmers Name Variables and Procedures?",
+                    "Contextual Recommendation of Relevant Program Elements in an Interactive Feature Location Process.",
+                    "Harvesting the Wisdom of the Crowd to Infer Method Nullness in Java.",
+                    "Investigating the Use of Code Analysis and NLP to Promote a Consistent Usage of Identifiers.",
+                    "Extracting Timed Automata from Java Methods.",
+                    "Towards Better Symbol Resolution for C/C++ Programs: A Cluster-Based Solution.",
+                    "A Methodology for Relating Software Structure with Energy Consumption.",
+                    "Security Smells in Android.",
+                    "On the Relationships Between Stability and Bug-Proneness of Code Clones: An Empirical Study.",
+                    "Automatically Adding Missing Libraries to Java Projects to Foster Better Results from Static Analysis.",
+                    "A Static Code Smell Detector for SQL Queries Embedded in Java Code.",
+                    "Supporting Analysis of SQL Queries in PHP AiR.",
+                    "Detecting Security Vulnerabilities in Object-Oriented PHP Programs."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "16th SCAM 2016",
+        "info": "Raleigh, NC, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/scam/2016",
+                "sub_name": "16th IEEE International Working Conference on Source Code Analysis and Manipulation, SCAM 2016, Raleigh, NC, USA, October 2-3, 2016.",
+                "count": 24,
+                "papers": [
+                    "Vulnerability Prediction Models: A Case Study on the Linux Kernel.",
+                    "Assessment of Source Code Obfuscation Techniques.",
+                    "A Security Perspective on Code Review: The Case of Chromium.",
+                    "A Source-Level Energy Optimization Framework for Mobile Applications.",
+                    "SATT: Tailoring Code Metric Thresholds for Different Software Architectures.",
+                    "Collective Intelligence for Smarter API Recommendations in Python.",
+                    "BinCFP: Efficient Multi-threaded Binary Code Control Flow Profiling.",
+                    "Conc2Seq: A Frama-C Plugin for Verification of Parallel Compositions of C Programs.",
+                    "Augur: Incorporating Hidden Dependencies and Variable Granularity in Change Impact Analysis.",
+                    "Statically-Informed Dynamic Analysis Tools to Detect Algorithmic Complexity Vulnerabilities.",
+                    "Scala-AM: A Modular Static Analysis Framework.",
+                    "A Program Interpreter Framework for Arbitrary Abstractions.",
+                    "Mutation-Based Graph Inference for Fault Localization.",
+                    "An Exploratory Study of Interface Redundancy in Code Repositories.",
+                    "Similarity of Source Code in the Presence of Pervasive Modifications.",
+                    "LLSPLAT: Improving Concolic Testing by Bounded Model Checking.",
+                    "Are My Unit Tests in the Right Package?",
+                    "Analysing and Comparing the Effectiveness of Mutation Testing Tools: A Manual Study.",
+                    "Survey of Approaches for Handling Static Analysis Alarms.",
+                    "Effects Dependence Graph: A Key Data Concept for C Source-to-Source Compilers.",
+                    "Transforming C++11 Code to C++03 to Support Legacy Compilation Environments.",
+                    "A Case for Software Specific Natural Language Techniques.",
+                    "A Source Level Empirical Study of Features and Their Interactions in Variable Software.",
+                    "Exploring the Effects of History Length and Age on Mining Software Change Impact."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "15th SCAM 2015",
+        "info": "Bremen, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/scam/2015",
+                "sub_name": "15th IEEE International Working Conference on Source Code Analysis and Manipulation, SCAM 2015, Bremen, Germany, September 27-28, 2015.",
+                "count": 30,
+                "papers": [
+                    "ORBS and the limits of static slicing.",
+                    "Intent, tests, and release dependencies: Pragmatic recipes for source code integration.",
+                    "The use of C++ exception handling constructs: A comprehensive study.",
+                    "Multi-layer software configuration: Empirical study on wordpress.",
+                    "Can the use of types and query expansion help improve large-scale code search?",
+                    "Using changeset descriptions as a data source to assist feature location.",
+                    "Automatically identifying focal methods under test in unit test cases.",
+                    "Navigating source code with words.",
+                    "Recommending insightful comments for source code using crowdsourced knowledge.",
+                    "Checking C++ codes for compatibility with operator overloading.",
+                    "Detecting function purity in JavaScript.",
+                    "Data tainting and obfuscation: Improving plausibility of incorrect taint.",
+                    "A grammar for spreadsheet formulas evaluated on two large datasets.",
+                    "The impact of cross-distribution bug duplicates, empirical study on Debian and Ubuntu.",
+                    "Cumulative code churn: Impact on maintainability.",
+                    "How do Java methods grow?",
+                    "On the comprehension of code clone visualizations: A controlled study using eye tracking.",
+                    "When code smells twice as much: Metric-based detection of variability-aware code smells.",
+                    "LeakTracer: Tracing leaks along the way.",
+                    "Automated memory leak diagnosis by regression testing.",
+                    "Automating the performance deviation analysis for multiple system releases: An evolutionary study.",
+                    "From preprocessor-constrained parse graphs to preprocessor-constrained control flow.",
+                    "Recording and replaying system specific, source code transformations.",
+                    "Discovering likely mappings between APIs using text mining.",
+                    "SimNav: Simulink navigation of model clone classes.",
+                    "A translation validation framework for symbolic value propagation based equivalence checking of FSMDAs.",
+                    "FaultBuster: An automatic code smell refactoring toolset.",
+                    "Improving prioritization of software weaknesses using security models with AVUS.",
+                    "A static microcode analysis tool for programmable load drivers.",
+                    "CodeMetropolis: Eclipse over the city of source code."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "14th SCAM 2014",
+        "info": "Victoria, BC, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/scam/2014",
+                "sub_name": "14th IEEE International Working Conference on Source Code Analysis and Manipulation, SCAM 2014, Victoria, BC, Canada, September 28-29, 2014.",
+                "count": 35,
+                "papers": [
+                    "Effect of Clone Information on the Performance of Developers Fixing Cloned Bugs.",
+                    "Automatic Identification of Important Clones for Refactoring and Tracking.",
+                    "A Comparative Study of Bug Patterns in Java Cloned and Non-cloned Code.",
+                    "A Change-Type Based Empirical Study on the Stability of Cloned Code.",
+                    "C/C++ Thread Safety Analysis.",
+                    "Toolset and Program Repository for Code Coverage-Based Test Suite Analysis and Manipulation.",
+                    "The Ekeko/X Program Transformation Tool.",
+                    "Flowgen: Flowchart-Based Documentation Framework for C++.",
+                    "PESTO: A Tool for Migrating DOM-Based to Visual Web Tests.",
+                    "Pangea: A Workbench for Statically Analyzing Multi-language Software Corpora.",
+                    "Source Meter Sonar Qube Plug-in.",
+                    "Total ADS: Automated Software Anomaly Detection System.",
+                    "ACUA: API Change and Usage Auditor.",
+                    "Bulk Fixing Coding Issues and Its Effects on Software Quality: Is It Worth Refactoring?",
+                    "Instrumentation of Annotated C Programs for Test Generation.",
+                    "Scalable Security Verification of Software at Compile Time.",
+                    "Impact of Code Refactoring Using Object-Oriented Methodology on a Scientific Computing Application.",
+                    "Concolic Fault Localization.",
+                    "On the Accuracy of Forward Dynamic Slicing and Its Effects on Software Maintenance.",
+                    "Efficient Utilization of Secondary Storage for Scalable Dynamic Slicing.",
+                    "SENSA: Sensitivity Analysis for Quantitative Change-Impact Prediction.",
+                    "Seeing Is Slicing: Observation Based Slicing of Picture Description Languages.",
+                    "Explaining Why Methods Change Together.",
+                    "Studying Fine-Grained Co-evolution Patterns of Production and Test Code.",
+                    "Supplementary Bug Fixes vs. Re-opened Bugs.",
+                    "Semantic Versioning versus Breaking Changes: A Study of the Maven Repository.",
+                    "Fast Flow Analysis with Godel Hashes.",
+                    "A Parallel On-Demand Algorithm for Computing Interprocedural Dominators.",
+                    "Are Object Graphs Extracted Using Abstract Interpretation Significantly Different from the Code?",
+                    "Bit-Level Taint Analysis.",
+                    "Pruning, Pushdown Exception-Flow Analysis.",
+                    "On Automatically Generating Commit Messages via Summarization of Source Code Changes.",
+                    "On the Use of Context in Recommending Exception Handling Code Examples.",
+                    "A Pattern Search Method for Unpreprocessed C Programs Based on Tokenized Syntax Trees.",
+                    "Identifying Source Code Reuse across Repositories Using LCS-Based Source Code Similarity."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "13th SCAM 2013",
+        "info": "Eindhoven, The Netherlands",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/scam/2013",
+                "sub_name": "13th IEEE International Working Conference on Source Code Analysis and Manipulation, SCAM 2013, Eindhoven, Netherlands, September 22-23, 2013.",
+                "count": 24,
+                "papers": [
+                    "Empirical investigation of SEA-based dependence cluster properties.",
+                    "Characterization and assessment of the linux configuration complexity.",
+                    "Criticality of defects in cyclic dependent components.",
+                    "Code clustering workbench.",
+                    "ForkSim: Generating software forks for evaluating cross-project similarity analysis tools.",
+                    "Empirical evidence of large-scale diversity in API usage of object-oriented software.",
+                    "Aspectual source code analysis with GASR.",
+                    "Driving a sound static software analyzer with branch-and-bound.",
+                    "PtrTracker: Pragmatic pointer analysis.",
+                    "Tracing with a minimal number of probes.",
+                    "A state alteration and inspection-based interactive debugger.",
+                    "Proteum/FL: A tool for localizing faults using mutation analysis.",
+                    "GeCoS: A framework for prototyping custom hardware design flows.",
+                    "Review efforts reduction by partitioning of static analysis warnings.",
+                    "JSNOSE: Detecting JavaScript Code Smells.",
+                    "Determining dynamic coupling in JavaScript using object type inference.",
+                    "CodeMetropolis - code visualisation in MineCraft.",
+                    "MetricMiner: Supporting researchers in mining software repositories.",
+                    "Assembler restructuring in FermaT.",
+                    "A Hidden Markov Model to detect coded information islands in free text.",
+                    "Fix-it: An extensible code auto-fix component in Review Bot.",
+                    "sql-schema-comparer: Support of multi-language refactoring with relational databases.",
+                    "A relational symbolic execution algorithm for constraint-based testing of database programs.",
+                    "Ontological interpretation of object-oriented programming abstractions."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "12th SCAM 2012",
+        "info": "Riva del Garda, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/scam/2012",
+                "sub_name": "12th IEEE International Working Conference on Source Code Analysis and Manipulation, SCAM 2012, Riva del Garda, Italy, September 23-24, 2012.",
+                "count": 22,
+                "papers": [
+                    "Cooperative Testing and Analysis: Human-Tool, Tool-Tool and Human-Human Cooperations to Get Work Done.",
+                    "Collections Frameworks for Points-To Analysis.",
+                    "Building Useful Program Analysis Tools Using an Extensible Java Compiler.",
+                    "Impact Analysis in the Presence of Dependence Clusters Using Static Execute after in WebKit.",
+                    "Closed Symbolic Execution for Verifying Program Termination.",
+                    "Alias-Aware Propagation of Simple Pattern-Based Properties in PHP Applications.",
+                    "CAWDOR: Compiler Assisted Worm Defense.",
+                    "Folding Repeated Instructions for Improving Token-Based Code Clone Detection.",
+                    "Evolution of Near-Miss Clones.",
+                    "Optimizing Expression Selection for Lookup Table Program Transformation.",
+                    "Cross-Language Code Analysis and Refactoring.",
+                    "When Does a Refactoring Induce Bugs? An Empirical Study.",
+                    "Aucsmith-Like Obfuscation of Java Bytecode.",
+                    "AccessAnalysis: A Tool for Measuring the Appropriateness of Access Modifiers in Java Systems.",
+                    "Dynamic Trace-Based Data Dependency Analysis for Parallelization of C Programs.",
+                    "Bakar Alir: Supporting Developers in Construction of Information Flow Contracts in SPARK.",
+                    "InputTracer: A Data-Flow Analysis Tool for Manual Program Comprehension of x86 Binaries.",
+                    "Combining Conceptual and Domain-Based Couplings to Detect Database and Code Dependencies.",
+                    "What Does Control Flow Really Look Like? Eyeballing the Cyclomatic Complexity Metric.",
+                    "Compatibility Prediction of Eclipse Third-Party Plug-ins in New Eclipse Releases.",
+                    "Improving Bug Location Using Binary Class Relationships.",
+                    "On the Use of Stemming for Concern Location and Bug Localization in Java."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "11th SCAM 2011",
+        "info": "Williamsburg, VA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/scam/2011",
+                "sub_name": "11th IEEE Working Conference on Source Code Analysis and Manipulation, SCAM 2011, Williamsburg, VA, USA, September 25-26, 2011.",
+                "count": 21,
+                "papers": [
+                    "Counting Bugs is Harder Than You Think.",
+                    "Knitting Music and Programming: Reflections on the Frontiers of Source Code Analysis.",
+                    "Program Analysis Too Loopy? Set the Loops Aside.",
+                    "Computation of Alias Sets from Shape Graphs for Comparison of Shape Analysis Precision.",
+                    "Assumption Hierarchy for a CHA Call Graph Construction Algorithm.",
+                    "Tuning Static Data Race Analysis for Automotive Control Software.",
+                    "Exploring the Development of Micro-apps: A Case Study on the BlackBerry and Android Platforms.",
+                    "Are the Clients of Flawed Classes (Also) Defect Prone?",
+                    "Equational Reasoning on x86 Assembly Code.",
+                    "Security Testing of Web Applications: A Search-Based Approach for Cross-Site Scripting Vulnerabilities.",
+                    "A Study of Cloning in the Linux SCSI Drivers.",
+                    "A Constraint Programming Approach to Conflict-Aware Optimal Scheduling of Prioritized Code Clone Refactoring.",
+                    "Analyzing the Effect of Preprocessor Annotations on Code Clones.",
+                    "The Effect of Lexicon Bad Smells on Concept Location in Source Code.",
+                    "Recovering a Balanced Overview of Topics in a Software Domain.",
+                    "A Comparative Study of Code Query Technologies.",
+                    "I2SD: Reverse Engineering Sequence Diagrams from Enterprise Java Beans with Interceptors.",
+                    "CheckPointer - A C Memory Access Validator.",
+                    "Lightweight Transformation and Fact Extraction with the srcML Toolkit.",
+                    "Automatic Parallelization of Side-Effecting Higher-Order Scheme Programs.",
+                    "What You See is What You Asked for: An Effort-Based Transformation of Code Analysis Tasks into Interactive Visualization Scenarios."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "10th SCAM 2010",
+        "info": "Timisoara, Romania",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/scam/2010",
+                "sub_name": "Tenth IEEE International Working Conference on Source Code Analysis and Manipulation, SCAM 2010, Timisoara, Romania, 12-13 September 2010.",
+                "count": 21,
+                "papers": [
+                    "Learning from 6, 000 Projects: Mining Models in the Large.",
+                    "Why Source Code Analysis and Manipulation Will Always be Important.",
+                    "Subclass Instantiation Distribution.",
+                    "New Conceptual Coupling and Cohesion Metrics for Object-Oriented Systems.",
+                    "Deriving Coupling Metrics from Call Graphs.",
+                    "Validating the Use of Topic Models for Software Evolution.",
+                    "Estimating the Optimal Number of Latent Concepts in Source Code Analysis.",
+                    "Language-Independent Clone Detection Applied to Plagiarism Detection.",
+                    "Evaluating Code Clone Genealogies at Release Level: An Empirical Study.",
+                    "The Fika Parser Generator.",
+                    "AMBIDEXTER: Practical Ambiguity Detection.",
+                    "Speeding Up Context-, Object- and Field-Sensitive SDG Generation.",
+                    "How Good is Static Analysis at Finding Concurrency Bugs?",
+                    "Parallel Reachability and Escape Analyses.",
+                    "Effective Static Analysis to Find Concurrency Bugs in Java.",
+                    "Encapsulating Software Platform Logic by Aspect-Oriented Programming: A Case Study in Using Aspects for Language Portability.",
+                    "Refactoring Support for Modularity Maintenance in Erlang.",
+                    "Visualization of C++ Template Metaprograms.",
+                    "Reconstruction of Composite Types for Decompilation.",
+                    "Recovering the Memory Behavior of Executable Programs.",
+                    "MemSafe: Ensuring the Spatial and Temporal Memory Safety of C at Runtime."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "9th SCAM 2009",
+        "info": "Edmonton, Alberta, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/scam/2009",
+                "sub_name": "Ninth IEEE International Working Conference on Source Code Analysis and Manipulation, SCAM 2009, Edmonton, Alberta, Canada, September 20-21, 2009.",
+                "count": 20,
+                "papers": [
+                    "thr2csp: Toward Transforming Threads into Communicating Sequential Processes.",
+                    "Chopping Concurrent Programs.",
+                    "Properties of Slicing Definitions.",
+                    "Improving Side-Effect Analysis with Lazy Access Path Resolving.",
+                    "Towards Comparing and Combining Points-to Analyses.",
+                    "Static Estimation of Test Coverage.",
+                    "An Assessment of Type-3 Clones as Detected by State-of-the-Art Tools.",
+                    "Evolution of Type-1 Clones.",
+                    "Identifying 'Linchpin Vertices' That Cause Large Dependence Clusters.",
+                    "Lightweight Techniques for Tracking Unique Program Statements.",
+                    "Maintaining Fine-Grained Code Metadata Regardless of Moving, Copying and Merging.",
+                    "Backporting Java 5 Code.",
+                    "A Value Analysis for C Programs.",
+                    "The FermaT Maintenance Environment Tool Demonstration.",
+                    "An Evaluation of Current Java Bytecode Decompilers.",
+                    "Engineering Abstractions in Model Checking and Testing.",
+                    "Concepts as Syntactic Sugar.",
+                    "A Metric Extraction Framework Based on a High-Level Description Language.",
+                    "RASCAL: A Domain Specific Language for Source Code Analysis and Manipulation.",
+                    "Recovering Grammar Relationships for the Java Language Specification."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "8th SCAM 2008",
+        "info": "Beijing, China",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/scam/2008",
+                "sub_name": "Eighth IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM 2008), 28-29 September 2008, Beijing, China.",
+                "count": 29,
+                "papers": [
+                    "90% Perspiration: Engineering Static Analysis Techniques for Industrial Applications.",
+                    "Some Assembly Required - Program Analysis of Embedded System Code.",
+                    "User-Input Dependence Analysis via Graph Reachability.",
+                    "TBCppA: A Tracer Approach for Automatic Accurate Analysis of C Preprocessor's Behaviors.",
+                    "An Empirical Study of Function Overloading in C++.",
+                    "Is Cloned Code More Stable than Non-cloned Code?",
+                    "Exploiting the Correspondence between Micro Patterns and Class Names.",
+                    "On the Use of Data Flow Analysis in Static Profiling.",
+                    "The Semantics of Abstract Program Slicing.",
+                    "The Evolution and Decay of Statically Detected Source Code Vulnerabilities.",
+                    "From Indentation Shapes to Code Structures.",
+                    "Evaluating Key Statements Analysis.",
+                    "Fast and Precise Points-to Analysis.",
+                    "Aspect-Aware Points-to Analysis.",
+                    "Automatic Determination of May/Must Set Usage in Data-Flow Analysis.",
+                    "Automated Detection of Code Vulnerabilities Based on Program Analysis and Model Checking.",
+                    "Analysis and Transformations for Efficient Query-Based Debugging.",
+                    "Change Impact Graphs: Determining the Impact of Prior Code Changes.",
+                    "Using Program Transformations to Add Structure to a Legacy Data Model.",
+                    "Type Highlighting: A Client-Driven Visual Approach for Class Hierarchies Reengineering.",
+                    "Automated Migration of List Based JSP Web Pages to AJAX.",
+                    "Beyond Annotations: A Proposal for Extensible Java (XJ).",
+                    "Modular Decompilation of Low-Level Code by Partial Evaluation.",
+                    "Constructing Subtle Faults Using Higher Order Mutation Testing.",
+                    "Rejuvenate Pointcut: A Tool for Pointcut Expression Recovery in Evolving Aspect-Oriented Software.",
+                    "Parfait - A Scalable Bug Checker for C Code.",
+                    "CoordInspector: A Tool for Extracting Coordination Data from Legacy Code.",
+                    "Precise Analysis of Java Programs Using JOANA.",
+                    "DTS - A Software Defects Testing System."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "7th SCAM 2007",
+        "info": "Paris, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/scam/2007",
+                "sub_name": "Seventh IEEE International Workshop on Source Code Analysis and Manipulation (SCAM 2007), September 30 - October 1, 2007, Paris, France.",
+                "count": 23,
+                "papers": [
+                    "Keynote Address: .QL for Source Code Analysis.",
+                    "An Evaluation of Slicing Algorithms for Concurrent Programs.",
+                    "Barrier Slicing for Remote Software Trusting.",
+                    "Statement-Level Cohesion Metrics and their Visualization.",
+                    "On Temporal Path Conditions in Dependence Graphs.",
+                    "Towards Path-Sensitive Points-to Analysis.",
+                    "Extending Attribute Grammars with Collection Attributes--Evaluation and Applications.",
+                    "Toward an Implementation of the \"Form Template Method\" Refactoring.",
+                    "Reengineering Standard Java Runtime Systems through Dynamic Bytecode Instrumentation.",
+                    "An Integrated Crosscutting Concern Migration Strategy and its Application to JHOTDRAW.",
+                    "Fast Approximate Matching of Programs for Protecting Libre/Open Source Software by Using Spatial Indexes.",
+                    "SUDS: An Infrastructure for Creating Bug Detection Tools.",
+                    "Finding Inputs that Reach a Target Expression.",
+                    "Improved Static Resolution of Dynamic Class Loading in Java.",
+                    "SQuAVisiT: A Software Quality Assessment and Visualisation Toolset.",
+                    "DATES: Design Analysis Tool for Enterprise Systems.",
+                    "Source Code Composition with the Reuseware Composition Framework.",
+                    "Quality Assessment for Embedded SQL.",
+                    "An Empirical Study of the Relationship of Stability Metrics and the QMOOD Quality Models Over Software Developed Using Highly Iterative or Agile Software Processes.",
+                    "Relating the Evolution of Design Patterns and Crosscutting Concerns.",
+                    "The Programmer's Lexicon, Volume I: The Verbs.",
+                    "A Framework for Studying Clones In Large Software Systems.",
+                    "Extracting Meaning from Abbreviated Identifiers."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "6th SCAM 2006",
+        "info": "Philadelphia, Pennsylvania, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/scam/2006",
+                "sub_name": "Sixth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM 2006), 27-29 September 2006, Philadelphia, Pennsylvania, USA.",
+                "count": 25,
+                "papers": [
+                    "Message from the Chairs.",
+                    "Organizing Committee.",
+                    "Steering Committee.",
+                    "Program Committee.",
+                    "Additional Reviewers.",
+                    "Stop-List Slicing.",
+                    "Graph-Less Dynamic Dependence-Based Dynamic Slicing Algorithms.",
+                    "Bug Classification Using Program Slicing Metrics.",
+                    "Characterising, Explaining, and Exploiting the Approximate Nature of Static Analysis through Animation.",
+                    "Estimating the Run-Time Progress of a Call Graph Construction Algorithm53-62.",
+                    "Constructing Accurate Application Call Graphs For Java To Model Library Callbacks.",
+                    "Normalizing Metamorphic Malware Using Term Rewriting.",
+                    "Data Representation Alternatives in Semantically Augmented Numerical Models.",
+                    "SMART C: A Semantic Macro Replacement Translator for C.",
+                    "Linking Analysis and Transformation Tools with Source-Based Mappings.",
+                    "Evolving TXL.",
+                    "Evaluating C++ Design Pattern Miner Tools.",
+                    "Syntactic Identifier Conciseness and Consistency.",
+                    "Prioritizing Software Inspection Results using Static Profiling.",
+                    "Tool Demonstration: Silver Extensible Compiler Frameworks and Modular Language Extensions for Java and C.",
+                    "AVal: an Extensible Attribute-Oriented Programming Validator for Java.",
+                    "Abstract Interpretation of PIC Programs through Logic Programming.",
+                    "Comparative Study of Refactoring Haskell and Erlang Programs.",
+                    "Cross-Language Program Analysis and Refactoring.",
+                    "Factoring Differences for Iterative Change Management."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "5th SCAM 2005",
+        "info": "Budapest, Hungary",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/scam/2005",
+                "sub_name": "5th IEEE International Workshop on Source Code Analysis and Manipulation (SCAM 2005), 30 September - 1 October 2005, Budapest, Hungary.",
+                "count": 23,
+                "papers": [
+                    "Title Page.",
+                    "Copyright.",
+                    "Message from the Chairs.",
+                    "Program Committee.",
+                    "Reviewers.",
+                    "Forward slices are smaller than backward slices.",
+                    "Abstract Slicing: A New Approach to Program Slicing Based on Abstract Interpretation and Model Checking.",
+                    "Dynamic Slicing of Java Bytecode Programs.",
+                    "Minimal Slicing and the Relationships Between Forms of Slicing.",
+                    "Extending Dynamic Aspect Mining with Static Information.",
+                    "Fine-Grained Analysis of Change Couplings.",
+                    "Concept Assignment as a Debugging Technique for Code Generators.",
+                    "Implementation and Verification of Implicit-Invocation Systems Using Source Transformation.",
+                    "Specifying Transformation Sequences as Computation on Program Fragments with an Abstract Attribute Grammar.",
+                    "Control Flow Graph Reconstruction for Assembly Language Programs with Delayed Instructions.",
+                    "Static Analysis for Computing Escapability and Mutability for Java Components.",
+                    "A Fast Analysis for Thread-Local Garbage Collection with Dynamic Class Loading.",
+                    "Pointer Analysis for Source-to-Source Transformations.",
+                    "Measuring the Impact of Friends on the Internal Attributes of Software Systems.",
+                    "Object-oriented cohesion as a surrogate of software comprehension: an empirical study.",
+                    "Transforming Embedded Java Code into Custom Tags.",
+                    "Declassification: Transforming Java Programs to Remove Intermediate Classes.",
+                    "The Performance Penalty of XML for Program Intermediate Representations."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "4th SCAM 2004",
+        "info": "Chicago, IL, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/scam/2004",
+                "sub_name": "4th IEEE International Workshop on Source Code Analysis and Manipulation (SCAM 2004), 15-16 September 2004, Chicago, IL, USA.",
+                "count": 17,
+                "papers": [
+                    "Using Source-Code Analysis to Help End-User Programmers Create Dependable Software.",
+                    "Software De-Pipelining Technique.",
+                    "Abstracting Stack to Detect Obfuscated Calls in Binaries.",
+                    "Context-Sensitivity Matters, But Context Does Not.",
+                    "Some Notes on Interprocedural Program Slicing.",
+                    "Formalizing Executable Dynamic and Forward Slicing.",
+                    "Control Flow Reversal for Adjoint Code Generation.",
+                    "Evolving Transformation Sequences using Genetic Algorithms.",
+                    "Program Restructuring Through Clustering Techniques.",
+                    "Amorphous Procedure Extraction.",
+                    "Mining Aspectual Views using Formal Concept Analysis.",
+                    "Adding Distribution to Existing Applications by Means of Aspect Oriented Programming.",
+                    "Specifying the Law of Demeter and C++ Programming Guidelines with FCL.",
+                    "Clone Detection in Source Code by Frequent Itemset Techniques.",
+                    "Predicting Class Testability using Object-Oriented Metrics.",
+                    "Executable Source Code and Non-Executable Source Code: Analysis and Relationships.",
+                    "A CASE Tool Platform Using an XML Representation of Java Source Code."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "name": "3rd SCAM 2003",
+        "info": "Amsterdam, The Netherlands",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/scam/2003",
+                "sub_name": "3rd IEEE International Workshop on Source Code Analysis and Manipulation (SCAM 2003), 26-27 September 2003, Amsterdam, The Netherlands.",
+                "count": 21,
+                "papers": [
+                    "Online Cycle Detection and Difference Propagation for Pointer Analysis.",
+                    "Improving the Static Analysis of Loops by Dynamic Partitioning Techniques.",
+                    "CPP Denotational Semantics.",
+                    "Applying Meyer's Taxonomy to Object-Oriented Software Systems.",
+                    "Power Law Distributions in Class Relationships.",
+                    "The Java System Dependence Graph.",
+                    "Design of the CodeBoost Transformation System for Domain-Specific Optimisation of C++ Programs.",
+                    "Managing Multi-Billion Dollar IT Budgets using Source Code Analysis.",
+                    "Barrier Slicing and Chopping.",
+                    "Slicing the SCAM Mug: A Case Study in Semantic Slicing.",
+                    "Static Slicing of Reactive Programs.",
+                    "Design and Implementation of Bytecode-based Java Slicing System.",
+                    "Interprocedural Static Slicing of Binary Executables.",
+                    "Towards managing environment dependence during legacy systems renovation and maintenance.",
+                    "Turning Dynamic Typing into Static Typing by Program Specialization in a Compiler Front-end for Octave.",
+                    "Unique Renaming of Java Using Source Transformation.",
+                    "Parse-Tree Annotations Meet Re-Engineering Concerns.",
+                    "XOgastan: XML-Oriented gcc AST Analysis and Transformations.",
+                    "Detection of Redundant Code using R2D2.",
+                    "Checking Program Profiles.",
+                    "Results from a Large-Scale Study of Performance Optimization Techniques for Source Code Analyses Based on Graph Reachability Algorithms."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2002",
+        "name": "2nd SCAM 2002",
+        "info": "Montreal, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/scam/2002",
+                "sub_name": "2nd IEEE International Workshop on Source Code Analysis and Manipulation (SCAM 2002), 1 October 2002, Montreal, Canada.",
+                "count": 18,
+                "papers": [
+                    "Parallel Support for Source Code Analysis and Modification.",
+                    "Towards Measurement of Testability of Concurrent Object-Oriented Programs Using Fault Insertion: A Preliminary Investigation.",
+                    "An Extensible Metrics Extraction Environment for Object-Oriented Programming Languages.",
+                    "Evaluating Clone Detection Tools for Use during Preventative Maintenance.",
+                    "A Simple Mathematically Based Framework for Rule Extraction Using Wide Spectrum Language.",
+                    "VADA: A Transformation-Based System for Variable Dependence Analysis.",
+                    "Combining Source Transformation and Operator Overloading Techniques to Compute Derivatives for MATLAB Programs.",
+                    "Mechanized Operational Semantics of WSL.",
+                    "Handling Preprocessor-Conditioned Declarations.",
+                    "Grammar Programming in TXL.",
+                    "An Interprocedural Amorphous Slicer for WSL.",
+                    "Dynamic Slicing Object-Oriented Programs for Debugging.",
+                    "Construction of the System Dependence Graph for Web Application Slicing.",
+                    "Predicate-Based Dynamic Slicing of Message Passing Programs.",
+                    "Using Dependence Graphs as a Support to Document Programs.",
+                    "Precise Call Graph Construction in the Presence of Function Pointers.",
+                    "Semantics Guided Filtering of Combinatorial Graph Transformations in Declarative Equation-Based Languages.",
+                    "Visualization of Exception Propagation for Java Using Static Analysis."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2001",
+        "name": "1st SCAM 2001",
+        "info": "Florence, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/scam/2001",
+                "sub_name": "1st IEEE International Workshop on Source Code Analysis and Manipulation (SCAM 2001), 10 November 2001, Florence, Italy.",
+                "count": 23,
+                "papers": [
+                    "A Case Study in Detecting Software Security Vulnerabilities Using Constraint Optimization.",
+                    "A Hybrid Program Slicing Framework.",
+                    "An Object Level Transformation Technique to Improve the Performance of Embedded Applications.",
+                    "A Source-to-Source Compiler for Generating Dependable Software.",
+                    "Analysis and Manipulation of Distributed Multi-Language Software Code.",
+                    "Application Maintenance Using Software Agents.",
+                    "Detecting Dead Statements for Concurrent Programs.",
+                    "Finding Code on the World Wibe Web: A Preliminary Investigation.",
+                    "Flow Insensitive Points-To Sets.",
+                    "Identifying Clones in the Linux Kernel.",
+                    "Jmangler-A Framework for Load-Time Transformation of Java Class Files.",
+                    "Library Transformations.",
+                    "Measurement and Analysis of Runtime Profiling Data for Java Programs.",
+                    "Preserving the Documentary Structure of Source Code in Language-Based Transformation Tools.",
+                    "Program Slicing: Methods and Applications.",
+                    "Restructuring Web Applications via Transformation Rules.",
+                    "Smell the Coffee! Uncovering Java Analysis Issues.",
+                    "Software Engineering by Source Transformation-Experience with TXL.",
+                    "Static Slicing and Parametric Polymorphism.",
+                    "The Formal Transformation Approach to Source Code Analysis and Manipulation.",
+                    "Type Infeasible Call Chains.",
+                    "Using Automated Source Code Analysis for Software Evolution.",
+                    "Using Data Flow Analysis to Infer Type Information in Java Bytecode."
+                ]
+            }
+        ]
+    }
+]

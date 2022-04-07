@@ -37,6 +37,8 @@ def main(venue:str, no:int):
 
     for para in paras:
         name, url, type = para[0], para[1], para[2]
+        if ':' in name:
+            name = name.replace(':', '：')  # 文件命名时无法保留字符':'，为此将其替换为'：'
         if 'http://dblp' in url or 'https://dblp' in url:  # dblp数据库
             Parse_HTML(name, url, type, no).parse_dblp()
         else:
@@ -61,7 +63,7 @@ if __name__ == '__main__':
 
     venue_list = ccf_filter(no, rank='A/B/C')
 
-    for venue in venue_list:
+    for venue in venue_list[31:]:
         if venue in no_dblp:
             logging.info('"{}" in tmp_no_dblp!!'.format(venue))
         else:

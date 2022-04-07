@@ -1,0 +1,864 @@
+[
+    {
+        "year": "2022",
+        "name": "23rd VMCAI 2022",
+        "info": "Philadelphia, PA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vmcai/2022",
+                "sub_name": "Verification, Model Checking, and Abstract Interpretation - 23rd International Conference, VMCAI 2022, Philadelphia, PA, USA, January 16-18, 2022, Proceedings.",
+                "count": 24,
+                "papers": [
+                    "Flavors of Sequential Information Flow.",
+                    "Relational String Abstract Domains.",
+                    "Fanoos: Multi-resolution, Multi-strength, Interactive Explanations for Learned Systems.",
+                    "Loop Verification with Invariants and Contracts.",
+                    "EPMC Gets Knowledge in Multi-agent Systems.",
+                    "High Assurance Software for Financial Regulation and Business Platforms.",
+                    "Gradient-Descent for Randomized Controllers Under Partial Observability.",
+                    "Automata-Driven Partial Order Reduction and Guided Search for LTL Model Checking.",
+                    "Verifying Pufferfish Privacy in Hidden Markov Models.",
+                    "A Flow-Insensitive-Complete Program Representation.",
+                    "Lightweight Shape Analysis Based on Physical Types.",
+                    "Fast Three-Valued Abstract Bit-Vector Arithmetic.",
+                    "Satisfiability and Synthesis Modulo Oracles.",
+                    "Bisimulations for Neural Network Reduction.",
+                    "NP Satisfiability for Arrays as Powers.",
+                    "STAMINA 2.0: Improving Scalability of Infinite-State Stochastic Model Checking.",
+                    "Generalized Arrays for Stainless Frames.",
+                    "Making PROGRESS in Property Directed Reachability.",
+                    "Scaling Up Livelock Verification for Network-on-Chip Routing Algorithms.",
+                    "Stateful Dynamic Partial Order Reduction for Model Checking Event-Driven Applications that Do Not Terminate.",
+                    "Verifying Solidity Smart Contracts via Communication Abstraction in SmartACE.",
+                    "Out of Control: Reducing Probabilistic Models by Control-State Elimination.",
+                    "Mixed Semantics Guided Layered Bounded Reachability Analysis of Compositional Linear Hybrid Automata.",
+                    "Bit-Precise Reasoning via Int-Blasting."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2021",
+        "name": "22nd VMCAI 2021",
+        "info": "Copenhagen, Denmark",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vmcai/2021",
+                "sub_name": "Verification, Model Checking, and Abstract Interpretation - 22nd International Conference, VMCAI 2021, Copenhagen, Denmark, January 17-19, 2021, Proceedings.",
+                "count": 26,
+                "papers": [
+                    "Model Checking Algorithms for Hyperproperties (Invited Paper).",
+                    "Algebra-Based Synthesis of Loops and Their Invariants (Invited Paper).",
+                    "Generative Program Analysis and Beyond: The Power of Domain-Specific Languages (Invited Paper).",
+                    "Compositional Model Checking for Multi-properties.",
+                    "Decomposing Data Structure Commutativity Proofs with $m\\!n$-Differencing.",
+                    "Proving the Existence of Fair Paths in Infinite-State Systems.",
+                    "A Self-certifying Compilation Framework for WebAssembly.",
+                    "Concurrent Correctness in Vector Space.",
+                    "Verification of Concurrent Programs Using Petri Net Unfoldings.",
+                    "Eliminating Message Counters in Synchronous Threshold Automata.",
+                    "A Reduction Theorem for Randomized Distributed Algorithms Under Weak Adversaries.",
+                    "Runtime Abstract Interpretation for Numerical Accuracy and Robustness.",
+                    "Twinning Automata and Regular Expressions for String Static Analysis.",
+                    "Unbounded Procedure Summaries from Bounded Environments.",
+                    "Syntax-Guided Synthesis for Lemma Generation in Hardware Model Checking.",
+                    "Approximate Bit Dependency Analysis to Identify Program Synthesis Problems as Infeasible.",
+                    "Automated Repair of Heap-Manipulating Programs Using Deductive Synthesis.",
+                    "GPURepair: Automated Repair of GPU Kernels.",
+                    "A Synchronous Effects Logic for Temporal Verification of Pure Esterel.",
+                    "A Design of GPU-Based Quantitative Model Checking.",
+                    "Formal Semantics and Verification of Network-Based Biocomputation Circuits.",
+                    "Netter: Probabilistic, Stateful Network Models.",
+                    "Deciding the Bernays-Schoenfinkel Fragment over Bounded Difference Constraints by Simple Clause Learning over Theories.",
+                    "Incremental Search for Conflict and Unit Instances of Quantified Formulas with E-Matching.",
+                    "On Preprocessing for Weighted MaxSAT.",
+                    "Compositional Satisfiability Solving in Separation Logic."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "name": "21th VMCAI 2020",
+        "info": "New Orleans, LA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vmcai/2020",
+                "sub_name": "Verification, Model Checking, and Abstract Interpretation - 21st International Conference, VMCAI 2020, New Orleans, LA, USA, January 16-21, 2020, Proceedings.",
+                "count": 21,
+                "papers": [
+                    "Witnessing Secure Compilation.",
+                    "BackFlow: Backward Context-Sensitive Flow Reconstruction of Taint Analysis Results.",
+                    "Fixing Code that Explodes Under Symbolic Evaluation.",
+                    "The Correctness of a Code Generator for a Functional Language.",
+                    "Leveraging Compiler Intermediate Representation for Multi- and Cross-Language Verification.",
+                    "Putting the Squeeze on Array Programs: Loop Verification via Inductive Rank Reduction.",
+                    "A Systematic Approach to Abstract Interpretation of Program Transformations.",
+                    "Sharing Ghost Variables in a Collection of Abstract Domains.",
+                    "Harnessing Static Analysis to Help Learn Pseudo-Inverses of String Manipulating Procedures for Automatic Test Generation.",
+                    "Synthesizing Environment Invariants for Modular Hardware Verification.",
+                    "Systematic Classification of Attackers via Bounded Model Checking.",
+                    "Cheap CTL Compassion in NuSMV.",
+                    "A Cooperative Parallelization Approach for Property-Directed k-Induction.",
+                    "Generalized Property-Directed Reachability for Hybrid Systems.",
+                    "Language Inclusion for Finite Prime Event Structures.",
+                    "Promptness and Bounded Fairness in Concurrent and Parameterized Systems.",
+                    "Solving $\\mathrm {LIA} ^\\star $ Using Approximations.",
+                    "Formalizing and Checking Multilevel Consistency.",
+                    "Practical Abstractions for Automated Verification of Shared-Memory Concurrency.",
+                    "How to Win First-Order Safety Games.",
+                    "Improving Parity Game Solvers with Justifications."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "20th VMCAI 2019",
+        "info": "Cascais, Portugal",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vmcai/2019",
+                "sub_name": "Verification, Model Checking, and Abstract Interpretation - 20th International Conference, VMCAI 2019, Cascais, Portugal, January 13-15, 2019, Proceedings.",
+                "count": 27,
+                "papers": [
+                    "On the Semantics of Snapshot Isolation.",
+                    "Program Synthesis with Equivalence Reduction.",
+                    "Minimal Synthesis of String to String Functions from Examples.",
+                    "Automatic Program Repair Using Formal Verification and Expression Templates.",
+                    "Lazy but Effective Functional Synthesis.",
+                    "Static Analysis of Binary Code with Memory Indirections Using Polyhedra.",
+                    "Disjunctive Relational Abstract Interpretation for Interprocedural Program Analysis.",
+                    "Exploiting Pointer Analysis in Memory Models for Deductive Verification.",
+                    "Small Faults Grow Up - Verification of Error Masking Robustness in Arithmetically Encoded Programs.",
+                    "Relatively Complete Pushdown Analysis of Escape Continuations.",
+                    "Demand Control-Flow Analysis.",
+                    "Effect-Driven Flow Analysis.",
+                    "Type-Directed Bounding of Collections in Reactive Programs.",
+                    "Solving and Interpolating Constant Arrays Based on Weak Equivalences.",
+                    "A Decidable Logic for Tree Data-Structures with Measurements.",
+                    "A Practical Algorithm for Structure Embedding.",
+                    "euforia: Complete Software Model Checking with Uninterpreted Functions.",
+                    "Fast BGP Simulation of Large Datacenters.",
+                    "Verification of an Industrial Asynchronous Leader Election Algorithm Using Abstractions and Parametric Model Checking.",
+                    "Application of Abstract Interpretation to the Automotive Electronic Control System.",
+                    "Syntactic Partial Order Compression for Probabilistic Reachability.",
+                    "Termination of Nondeterministic Probabilistic Programs.",
+                    "Parametric Timed Broadcast Protocols.",
+                    "Flat Model Checking for Counting LTL Using Quantifier-Free Presburger Arithmetic.",
+                    "A Parallel Relation-Based Algorithm for Symbolic Bisimulation Minimization.",
+                    "Combining Refinement of Parametric Models with Goal-Oriented Reduction of Dynamics.",
+                    "Mechanically Proving Determinacy of Hierarchical Block Diagram Translations."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "19th VMCAI 2018",
+        "info": "Los Angeles, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vmcai/2018",
+                "sub_name": "Verification, Model Checking, and Abstract Interpretation - 19th International Conference, VMCAI 2018, Los Angeles, CA, USA, January 7-9, 2018, Proceedings.",
+                "count": 24,
+                "papers": [
+                    "Parameterized Model Checking of Synchronous Distributed Algorithms by Abstraction.",
+                    "Gradual Program Verification.",
+                    "Automatic Verification of RMA Programs via Abstraction Extrapolation.",
+                    "Scalable Approximation of Quantitative Information Flow in Programs.",
+                    "Code Obfuscation Against Abstract Model Checking Attacks.",
+                    "Abstract Code Injection - A Semantic Approach Based on Abstract Non-Interference.",
+                    "A Framework for Computer-Aided Design of Educational Domain Models.",
+                    "Automatic Verification of Intermittent Systems.",
+                    "On abstraction and compositionality for weak-memory linearisability.",
+                    "From Shapes to Amortized Complexity.",
+                    "Invariant Generation for Multi-Path Loops with Polynomial Assignments.",
+                    "Analyzing Guarded Protocols: Better Cutoffs, More Systems, More Expressivity.",
+                    "Refinement Types for Ruby.",
+                    "Modular Analysis of Executables Using On-Demand Heyting Completion.",
+                    "Learning to Complement B\u00fcchi Automata.",
+                    "P^5 : Planner-less Proofs of Probabilistic Parameterized Protocols.",
+                    "Co-Design and Verification of an Available File System.",
+                    "Abstraction-Based Interaction Model for Synthesis.",
+                    "Generating Tests by Example.",
+                    "A Logical System for Modular Information Flow Verification.",
+                    "On Constructivity of Galois Connections.",
+                    "Revisiting MITL to Fix Decision Procedures.",
+                    "Selfless Interpolation for Infinite-State Model Checking.",
+                    "An Abstract Interpretation Framework for the Round-Off Error Analysis of Floating-Point Programs."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "18th VMCAI 2017",
+        "info": "Paris, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vmcai/2017",
+                "sub_name": "Verification, Model Checking, and Abstract Interpretation - 18th International Conference, VMCAI 2017, Paris, France, January 15-17, 2017, Proceedings.",
+                "count": 29,
+                "papers": [
+                    "Bringing LTL Model Checking to Biologists.",
+                    "Detecting Strict Aliasing Violations in the Wild.",
+                    "Effective Bug Finding in C Programs with Shape and Effect Abstractions.",
+                    "Synthesizing Non-Vacuous Systems.",
+                    "Static Analysis of Communicating Processes Using Symbolic Transducers.",
+                    "Reduction of Workflow Nets for Generalised Soundness Verification.",
+                    "Structuring Abstract Interpreters Through State and Value Abstractions.",
+                    "Matching Multiplications in Bit-Vector Formulas.",
+                    "Independence Abstractions and Models of Concurrency.",
+                    "Complete Abstractions and Subclassical Modal Logics.",
+                    "Using Abstract Interpretation to Correct Synchronization Faults.",
+                    "Property Directed Reachability for Proving Absence of Concurrent Modification Errors.",
+                    "Stabilizing Floating-Point Programs Using Provenance Analysis.",
+                    "Dynamic Reductions for Model Checking Concurrent Software.",
+                    "Synthesising Strategy Improvement and Recursive Algorithms for Solving 2.5 Player Parity Games.",
+                    "Counterexample Validation and Interpolation-Based Refinement for Forest Automata.",
+                    "Block-Wise Abstract Interpretation by Combining Abstract Domains with SMT.",
+                    "Solving Nonlinear Integer Arithmetic with MCSAT.",
+                    "Accuracy of Message Counting Abstraction in Fault-Tolerant Distributed Algorithms.",
+                    "Efficient Elimination of Redundancies in Polyhedra by Raytracing.",
+                    "Precise Thread-Modular Abstract Interpretation of Concurrent Programs Using Relational Interference Abstractions.",
+                    "Detecting All High-Level Dataraces in an RTOS Kernel.",
+                    "Reachability for Dynamic Parametric Processes.",
+                    "Conjunctive Abstract Interpretation Using Paramodulation.",
+                    "Reasoning in the Bernays-Sch\u00f6nfinkel-Ramsey Fragment of Separation Logic.",
+                    "Finding Relevant Templates via the Principal Component Analysis.",
+                    "Sound Bit-Precise Numerical Domains.",
+                    "IC3 - Flipping the E in ICE.",
+                    "Partitioned Memory Models for Program Analysis."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "17th VMCAI 2016",
+        "info": "Stth Petersburg, FL, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vmcai/2016",
+                "sub_name": "Verification, Model Checking, and Abstract Interpretation - 17th International Conference, VMCAI 2016, St. Petersburg, FL, USA, January 17-19, 2016. Proceedings.",
+                "count": 26,
+                "papers": [
+                    "Automating Abstract Interpretation.",
+                    "Viper: A Verification Infrastructure for Permission-Based Reasoning.",
+                    "Predicate Abstraction for Linked Data Structures.",
+                    "An Abstract Domain of Uninterpreted Functions.",
+                    "Property Directed Abstract Interpretation.",
+                    "Program Analysis with Local Policy Iteration.",
+                    "Lazy Constrained Monotonic Abstraction.",
+                    "Polyhedral Approximation of Multivariate Polynomials Using Handelman's Theorem.",
+                    "D^3 : Data-Driven Disjunctive Abstraction.",
+                    "Exact Heap Summaries for Symbolic Execution.",
+                    "Abstract Interpretation with Infinitesimals - Towards Scalability in Nonstandard Static Analysis.",
+                    "Lipschitz Robustness of Timed I/O Systems.",
+                    "A Method for Invariant Generation for Polynomial Continuous Systems.",
+                    "Hybrid Analysis for Partial Order Reduction of Programs with Arrays.",
+                    "Cloud-Based Verification of Concurrent Software.",
+                    "Abstraction-driven Concolic Testing.",
+                    "Reward-Bounded Reachability Probability for Uncertain Weighted MDPs.",
+                    "Parameter Synthesis for Parametric Interval Markov Chains.",
+                    "Pointer Race Freedom.",
+                    "A Program Logic for C11 Memory Fences.",
+                    "From Low-Level Pointers to High-Level Containers.",
+                    "Regular Symmetry Patterns.",
+                    "Tight Cutoffs for Guarded Protocols with Fairness.",
+                    "A General Modular Synthesis Problem for Pushdown Systems.",
+                    "Model Checking with Multi-threaded IC3 Portfolios.",
+                    "Automatic Generation of Propagation Complete SAT Encodings."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "16th VMCAI 2015",
+        "info": "Mumbai, India",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vmcai/2015",
+                "sub_name": "Verification, Model Checking, and Abstract Interpretation - 16th International Conference, VMCAI 2015, Mumbai, India, January 12-14, 2015. Proceedings.",
+                "count": 25,
+                "papers": [
+                    "Variations on the Stochastic Shortest Path Problem.",
+                    "Abstracting Induction by Extrapolation and Interpolation.",
+                    "Path Sensitive Cache Analysis Using Cache Miss Paths.",
+                    "Datacentric Semantics for Verification of Privacy Policy Compliance by Mobile Applications.",
+                    "Induction for SMT Solvers.",
+                    "Automatic Synthesis of Piecewise Linear Quadratic Invariants for Programs.",
+                    "Distributed Markov Chains.",
+                    "Analysis of Infinite-State Graph Transformation Systems by Cluster Abstraction.",
+                    "A Model for Industrial Real-Time Systems.",
+                    "Abstraction-Based Computation of Reward Measures for Markov Automata.",
+                    "Proving Guarantee and Recurrence Temporal Properties by Abstract Interpretation.",
+                    "Tree Automata-Based Refinement with Application to Horn Clause Verification.",
+                    "Abstracting and Counting Synchronizing Processes.",
+                    "Debugging Process Algebra Specifications.",
+                    "Property Directed Polyhedral Abstraction.",
+                    "Abstraction of Arrays Based on Non Contiguous Partitions.",
+                    "From Verification to Optimizations.",
+                    "Foundations of Quantitative Predicate Abstraction for Stability Analysis of Hybrid Systems.",
+                    "An Experimental Evaluation of Deliberate Unsoundness in a Static Program Analyzer.",
+                    "Bounded Implementations of Replicated Data Types.",
+                    "Proving Memory Safety of the ANI Windows Image Parser Using Compositional Exhaustive Testing.",
+                    "Automatic Inference of Heap Properties Exploiting Value Domains.",
+                    "Dependent Array Type Inference from Tests.",
+                    "A Hierarchy of Proof Rules for Checking Differential Invariance of Algebraic Sets.",
+                    "Effective Abstractions for Verification under Relaxed Memory Models."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "15th VMCAI 2014",
+        "info": "San Diego, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vmcai/2014",
+                "sub_name": "Verification, Model Checking, and Abstract Interpretation - 15th International Conference, VMCAI 2014, San Diego, CA, USA, January 19-21, 2014, Proceedings.",
+                "count": 26,
+                "papers": [
+                    "SAT-Based Synthesis Methods for Safety Specs.",
+                    "Precise Analysis of Value-Dependent Synchronization in Priority Scheduled Programs.",
+                    "Relational Thread-Modular Static Value Analysis by Abstract Interpretation.",
+                    "Timing Analysis of Parallel Software Using Abstract Execution.",
+                    "Doomsday Equilibria for Omega-Regular Games.",
+                    "Bisimulations and Logical Characterizations on Continuous-Time Markov Decision Processes.",
+                    "Probabilistic Automata for Safety LTL Specifications.",
+                    "Refuting Heap Reachability.",
+                    "Cascade 2.0.",
+                    "A Logic-Based Framework for Verifying Consensus Algorithms.",
+                    "Verifying Array Programs by Transforming Verification Conditions.",
+                    "Weakest Precondition Synthesis for Compiler Optimizations.",
+                    "Message-Passing Algorithms for the Verification of Distributed Protocols.",
+                    "Safety Problems Are NP-complete for Flat Integer Programs with Octagonal Loops.",
+                    "Parameterized Model Checking of Token-Passing Systems.",
+                    "Modularly Combining Numeric Abstract Domains with Points-to Analysis, and a Scalable Static Numeric Analyzer for Java.",
+                    "Generic Combination of Heap and Value Analyses in Abstract Interpretation.",
+                    "Modeling Parsimonious Putative Regulatory Networks: Complexity and Heuristic Approach.",
+                    "Practical Floating-Point Tests with Integer Code.",
+                    "Monitoring Parametric Temporal Logic.",
+                    "Precisely Deciding Control State Reachability in Concurrent Traces with Limited Observability.",
+                    "Modular Synthesis of Sketches Using Models.",
+                    "Synthesis with Identifiers.",
+                    "Synthesis for Polynomial Lasso Programs.",
+                    "Policy Iteration-Based Conditional Termination and Ranking Functions.",
+                    "Widening for Control-Flow."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "14th VMCAI 2013",
+        "info": "Rome, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vmcai/2013",
+                "sub_name": "Verification, Model Checking, and Abstract Interpretation, 14th International Conference, VMCAI 2013, Rome, Italy, January 20-22, 2013. Proceedings.",
+                "count": 31,
+                "papers": [
+                    "A Model-Constructing Satisfiability Calculus.",
+                    "Automata as Proofs.",
+                    "Complete Abstractions Everywhere.",
+                    "Abstraction-Guided Synthesis.",
+                    "SMT-Based Bisimulation Minimisation of Markov Models.",
+                    "Hybrid Automata-Based CEGAR for Rectangular Hybrid Systems.",
+                    "Quantifying Information Leakage of Randomized Protocols.",
+                    "Reductions for Synthesis Procedures.",
+                    "Towards Efficient Parameterized Synthesis.",
+                    "Automatic Inference of Necessary Preconditions.",
+                    "Fixpoint Computation in the Polyhedra Abstract Domain Using Convex and Numerical Analysis Tools.",
+                    "SMT-Based Array Invariant Generation.",
+                    "Flow-Sensitive Fault Localization.",
+                    "Static Analysis of String Encoders and Decoders.",
+                    "Robustness Analysis of Networked Systems.",
+                    "Causality Checking for Complex System Models.",
+                    "ClabureDB: Classified Bug-Reports Database.",
+                    "Tool Integration with the Evidential Tool Bus.",
+                    "Compositional and Lightweight Dependent Type Inference for ML.",
+                    "Abstract Read Permissions: Fractional Permissions without the Fractions.",
+                    "Sound and Complete Flow Typing with Unions, Intersections and Negations.",
+                    "Knockout Prediction for Reaction Networks with Partial Kinetic Information.",
+                    "Reduced Product Combination of Abstract Domains for Shapes.",
+                    "Abstraction of Syntax.",
+                    "Logico-Numerical Max-Strategy Iteration.",
+                    "A Constraint Solver Based on Abstract Domains.",
+                    "An Abstract Interpretation of DPLL(T).",
+                    "All for the Price of Few.",
+                    "Uncovering Symmetries in Irregular Process Networks.",
+                    "State Space Reduction for Sensor Networks Using Two-Level Partial Order Reduction.",
+                    "Compositional Sequentialization of Periodic Programs."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "13th VMCAI 2012",
+        "info": "Philadelphia, PA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vmcai/2012",
+                "sub_name": "Verification, Model Checking, and Abstract Interpretation - 13th International Conference, VMCAI 2012, Philadelphia, PA, USA, January 22-24, 2012. Proceedings.",
+                "count": 29,
+                "papers": [
+                    "Abstract Domains for Automated Reasoning about List-Manipulating Programs with Infinite Data.",
+                    "Software Verification with Liquid Types.",
+                    "Teaching Semantics with a Proof Assistant: No More LSD Trip Proofs.",
+                    "Whale: An Interpolation-Based Algorithm for Inter-procedural Verification.",
+                    "Synchronizability for Verification of Asynchronously Communicating Systems.",
+                    "On the Termination of Integer Loops.",
+                    "Verification of Gap-Order Constraint Abstractions of Counter Systems.",
+                    "On Application of Multi-Rooted Binary Decision Diagrams to Probabilistic Model Checking.",
+                    "Regression Verification for Multi-threaded Programs.",
+                    "Crowfoot: A Verifier for Higher-Order Store Programs.",
+                    "Synthesizing Protocols for Digital Contract Signing.",
+                    "Model Checking Information Flow in Reactive Systems.",
+                    "Splitting via Interpolants.",
+                    "Automatic Inference of Access Permissions.",
+                    "Lazy Synthesis.",
+                    "Donut Domains: Efficient Non-convex Domains for Abstract Interpretation.",
+                    "Inferring Canonical Register Automata.",
+                    "Alternating Control Flow Reconstruction.",
+                    "Effective Synthesis of Asynchronous Systems from GR(1) Specifications.",
+                    "Sound Non-statistical Clustering of Static Analysis Alarms.",
+                    "Automating Induction with an SMT Solver.",
+                    "Modeling Asynchronous Message Passing for C Programs.",
+                    "Local Symmetry and Compositional Verification.",
+                    "versat: A Verified Modern SAT Solver.",
+                    "Decision Procedures for Region Logic.",
+                    "A General Framework for Probabilistic Characterizing Formulae.",
+                    "Loop Invariant Symbolic Execution for Parallel Programs.",
+                    "Synthesizing Efficient Controllers.",
+                    "Ideal Abstractions for Well-Structured Transition Systems."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "12th VMCAI 2011",
+        "info": "Austin, Texas, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vmcai/2011",
+                "sub_name": "Verification, Model Checking, and Abstract Interpretation - 12th International Conference, VMCAI 2011, Austin, TX, USA, January 23-25, 2011. Proceedings.",
+                "count": 28,
+                "papers": [
+                    "Are Cells Asynchronous Circuits? - (Invited Talk).",
+                    "Formal Analysis of Message Passing - (Invited Talk).",
+                    "Practical Verification for the Working Programmer with CodeContracts and Abstract Interpretation - (Invited Talk).",
+                    "Quality Engineering: Leveraging Heterogeneous Information - (Invited Talk).",
+                    "More Precise Yet Widely Applicable Cost Analysis.",
+                    "Refinement-Based CFG Reconstruction from Unstructured Programs.",
+                    "SAT-Based Model Checking without Unrolling.",
+                    "Beyond Quantifier-Free Interpolation in Extensions of Presburger Arithmetic.",
+                    "Probabilistic B\u00fcchi Automata with Non-extremal Acceptance Thresholds.",
+                    "Synthesis of Fault-Tolerant Embedded Systems Using Games: From Theory to Practice.",
+                    "Proving Stabilization of Biological Systems.",
+                    "Precondition Inference from Intermittent Assertions and Application to Contracts on Collections.",
+                    "Strengthening Induction-Based Race Checking with Lightweight Static Analysis.",
+                    "Access Nets: Modeling Access to Physical Spaces.",
+                    "Join-Lock-Sensitive Forward Reachability Analysis for Concurrent Programs with Dynamic Process Creation.",
+                    "Verifying Deadlock-Freedom of Communication Fabrics.",
+                    "Static Analysis of Finite Precision Computations.",
+                    "An Evaluation of Automata Algorithms for String Analysis.",
+                    "Automata Learning with Automated Alphabet Abstraction Refinement.",
+                    "Towards Complete Reasoning about Axiomatic Specifications.",
+                    "String Analysis as an Abstract Interpretation.",
+                    "ExplainHoudini: Making Houdini Inference Transparent.",
+                    "Abstract Probabilistic Automata.",
+                    "Distributed and Predictable Software Model Checking.",
+                    "Access Analysis-Based Tight Localization of Abstract Memories.",
+                    "Decision Procedures for Automating Termination Proofs.",
+                    "Collective Assertions.",
+                    "Sets with Cardinality Constraints in Satisfiability Modulo Theories."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "11th VMCAI 2010",
+        "info": "Madrid, Spain",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vmcai/2010",
+                "sub_name": "Verification, Model Checking, and Abstract Interpretation, 11th International Conference, VMCAI 2010, Madrid, Spain, January 17-19, 2010. Proceedings.",
+                "count": 27,
+                "papers": [
+                    "Analysis of Systems with Stochastic Process Creation.",
+                    "Verifying Concurrent Programs with Chalice.",
+                    "Static Timing Analysis for Hard Real-Time Systems.",
+                    "Abstract Interpretation-Based Protection.",
+                    "Advances in Probabilistic Model Checking.",
+                    "Building a Calculus of Data Structures.",
+                    "Temporal Reasoning for Procedural Programs.",
+                    "Improved Model Checking of Hierarchical Systems.",
+                    "Path-Oriented Reachability Verification of a Class of Nonlinear Hybrid Automata Using Convex Programming.",
+                    "Complexity Bounds for the Verification of Real-Time Software.",
+                    "An Abstract Domain to Discover Interval Linear Equalities.",
+                    "Interpolant Strength.",
+                    "Checking Bounded Reachability in Asynchronous Systems by Symbolic Event Tracing.",
+                    "Invariant and Type Inference for Matrices.",
+                    "Deriving Invariants by Algorithmic Learning, Decision Procedures, and Predicate Abstraction.",
+                    "Automatic Abstraction for Congruences.",
+                    "Shape Analysis of Low-Level C with Overlapping Structures.",
+                    "Abstract Threads.",
+                    "Shape Analysis with Reference Set Relations.",
+                    "Shape Analysis in the Absence of Pointers and Structure.",
+                    "An Analysis of Permutations in Arrays.",
+                    "Regular Linear Temporal Logic with Past.",
+                    "Model-Checking In-Lined Reference Monitors.",
+                    "Considerate Reasoning and the Composite Design Pattern.",
+                    "RGSep Action Inference.",
+                    "Best Probabilistic Transformers.",
+                    "Collections, Cardinalities, and Relations."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "10th VMCAI 2009",
+        "info": "Savannah, GA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vmcai/2009",
+                "sub_name": "Verification, Model Checking, and Abstract Interpretation, 10th International Conference, VMCAI 2009, Savannah, GA, USA, January 18-20, 2009. Proceedings.",
+                "count": 29,
+                "papers": [
+                    "Model Checking: Progress and Problems.",
+                    "Model Checking Concurrent Programs.",
+                    "Thread-Modular Shape Analysis.",
+                    "Advances in Program Termination and Liveness.",
+                    "Verification of Security Protocols.",
+                    "Towards Automatic Stability Analysis for Rely-Guarantee Proofs.",
+                    "Mostly-Functional Behavior in Java Programs.",
+                    "The Higher-Order Aggregate Update Problem.",
+                    "An Abort-Aware Model of Transactional Programming.",
+                    "Model-Checking the Linux Virtual File System.",
+                    "LTL Generalized Model Checking Revisited.",
+                    "Monitoring the Full Range of omega-Regular Properties of Stochastic Systems.",
+                    "Constraint-Based Invariant Inference over Predicate Abstraction.",
+                    "Reducing Behavioural to Structural Properties of Programs with Procedures.",
+                    "Query-Driven Program Testing.",
+                    "Average-Price-per-Reward Games on Hybrid Automata with Strong Resets.",
+                    "Abstraction Refinement for Probabilistic Software.",
+                    "Finding Concurrency-Related Bugs Using Random Isolation.",
+                    "An Abstract Interpretation-Based Framework for Control Flow Reconstruction from Binaries.",
+                    "SubPolyhedra: A (More) Scalable Approach to Infer Linear Inequalities.",
+                    "Deciding Extensions of the Theories of Vectors and Bags.",
+                    "A PosterioriSoundness for Non-deterministic Abstract Interpretations.",
+                    "An Automata-Theoretic Dynamic Completeness Criterion for Bounded Model-Checking.",
+                    "A Scalable Memory Model for Low-Level Code.",
+                    "Synthesizing Switching Logic Using Constraint Solving.",
+                    "Extending Symmetry Reduction by Exploiting System Architecture.",
+                    "Shape-Value Abstraction for Verifying Linearizability.",
+                    "Mixed Transition Systems Revisited.",
+                    "Counterexample Generation for Discrete-Time Markov Chains Using Bounded Model Checking."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "9th VMCAI 2008",
+        "info": "San Francisco, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vmcai/2008",
+                "sub_name": "Verification, Model Checking, and Abstract Interpretation, 9th International Conference, VMCAI 2008, San Francisco, USA, January 7-9, 2008, Proceedings.",
+                "count": 26,
+                "papers": [
+                    "Abstract Interpretation of Non-monotone Bi-inductive Semantic Definitions.",
+                    "CTL as an Intermediate Language.",
+                    "Multi-valued Logics, Automata, Simulations, and Games.",
+                    "Verification of Register Allocators.",
+                    "Program Analysis and Programming Languages for Security.",
+                    "An Improved Tight Closure Algorithm for Integer Octagonal Constraints.",
+                    "Handling Parameterized Systems with Non-atomic Global Conditions.",
+                    "Abstract Interpretation of the Physical Inputs of Embedded Programs.",
+                    "Diagnostic Information for Realizability.",
+                    "Approximation Refinement for Interpolation-Based Model Checking.",
+                    "Abstract Interpretation of Cellular Signalling Networks.",
+                    "Is Lazy Abstraction a Decision Procedure for Broadcast Protocols?",
+                    "Model Checking for Action Abstraction.",
+                    "On Bridging Simulation and Formal Verification.",
+                    "Extending Model Checking with Dynamic Analysis.",
+                    "Deriving Bisimulations by Simplifying Partitions.",
+                    "Precise Set Sharing Analysis for Java-Style Programs.",
+                    "Sufficient Preconditions for Modular Assertion Checking.",
+                    "Runtime Checking for Separation Logic.",
+                    "Decision Procedures for Multisets with Cardinality Constraints.",
+                    "All You Need Is Compassion.",
+                    "A Forward-Backward Abstraction Refinement Algorithm.",
+                    "Internal and External Logics of Abstract Interpretations.",
+                    "From LTL to Symbolically Represented Deterministic Automata.",
+                    "Monitoring Temporal Properties of Stochastic Systems.",
+                    "A Hybrid Algorithm for LTL Games."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "8th VMCAI 2007",
+        "info": "Nice, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vmcai/2007",
+                "sub_name": "Verification, Model Checking, and Abstract Interpretation, 8th International Conference, VMCAI 2007, Nice, France, January 14-16, 2007, Proceedings.",
+                "count": 27,
+                "papers": [
+                    "DIVINE: DIscovering Variables IN Executables.",
+                    "Verifying Compensating Transactions.",
+                    "Model Checking Nonblocking MPI Programs.",
+                    "Model Checking Via GammaCFA.",
+                    "Using First-Order Theorem Provers in the Jahob Data Structure Verification System.",
+                    "Interpolants and Symbolic Model Checking.",
+                    "Shape Analysis of Single-Parent Heaps.",
+                    "An Inference-Rule-Based Decision Procedure for Verification of Heap-Manipulating Programs with Mutable Data and Cyclic Data Structures.",
+                    "On Flat Programs with Lists.",
+                    "Automata-Theoretic Model Checking Revisited.",
+                    "Language-Based Abstraction Refinement for Hybrid System Verification.",
+                    "More Precise Partition Abstractions.",
+                    "The Spotlight Principle.",
+                    "Lattice Automata.",
+                    "Learning Algorithms and Formal Verification (Invited Tutorial).",
+                    "Constructing Specialized Shape Analyses for Uniform Change.",
+                    "Maintaining Doubly-Linked List Invariants in Shape Analysis with Local Reasoning.",
+                    "Automated Verification of Shape and Size Properties Via Separation Logic.",
+                    "Towards Shape Analysis for Device Drivers.",
+                    "An Abstract Domain Extending Difference-Bound Matrices with Disequality Constraints.",
+                    "Cibai: An Abstract Interpretation-Based Static Analyzer for Modular Analysis and Verification of Java Classes.",
+                    "Symmetry and Completeness in the Analysis of Parameterized Systems.",
+                    "Better Under-Approximation of Programs by Hiding Variables.",
+                    "The Constraint Database Approach to Software Verification.",
+                    "Constraint Solving for Interpolation.",
+                    "Assertion Checking Unified.",
+                    "Invariant Synthesis for Combined Theories."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "7th VMCAI 2006",
+        "info": "Charleston, SC, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vmcai/2006",
+                "sub_name": "Verification, Model Checking, and Abstract Interpretation, 7th International Conference, VMCAI 2006, Charleston, SC, USA, January 8-10, 2006, Proceedings.",
+                "count": 28,
+                "papers": [
+                    "Closure Operators for ROBDDs.",
+                    "A CLP Method for Compositional and Intermittent Predicate Abstraction.",
+                    "Combining Shape Analyses by Intersecting Abstractions.",
+                    "A Complete Abstract Interpretation Framework for Coverability Properties of WSTS.",
+                    "Complexity Results on Branching-Time Pushdown Model Checking.",
+                    "A Compositional Logic for Control Flow.",
+                    "Detecting Non-cyclicity by Abstract Compilation into Boolean Functions.",
+                    "Efficient Strongly Relational Polyhedral Analysis.",
+                    "Environment Abstraction for Parameterized Verification.",
+                    "Error Control for Probabilistic Model Checking.",
+                    "Field Constraint Analysis.",
+                    "A Framework for Certified Program Analysis and Its Applications to Mobile-Code Safety.",
+                    "Improved Algorithm Complexities for Linear Temporal Logic Model Checking of Pushdown Systems.",
+                    "A Logic and Decision Procedure for Predicate Abstraction of Heap-Manipulating Programs.",
+                    "Monitoring Off-the-Shelf Components.",
+                    "Parallel External Directed Model Checking with Linear I/O.",
+                    "Piecewise FIFO Channels Are Analyzable.",
+                    "Ranking Abstraction of Recursive Programs.",
+                    "Relative Safety.",
+                    "Resource Usage Analysis for the pi-Calculus.",
+                    "Semantic Hierarchy Refactoring by Abstract Interpretation.",
+                    "Strong Preservation of Temporal Fixpoint-Based Operators by Abstract Interpretation.",
+                    "Symbolic Methods to Enhance the Precision of Numerical Abstract Domains.",
+                    "Synthesis of Reactive(1) Designs.",
+                    "Systematic Construction of Abstractions for Model-Checking.",
+                    "Totally Clairvoyant Scheduling with Relative Timing Constraints.",
+                    "Verification of Well-Formed Communicating Recursive State Machines.",
+                    "What's Decidable About Arrays?"
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "6th VMCAI 2005",
+        "info": "Paris, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vmcai/2005",
+                "sub_name": "Verification, Model Checking, and Abstract Interpretation, 6th International Conference, VMCAI 2005, Paris, France, January 17-19, 2005, Proceedings.",
+                "count": 30,
+                "papers": [
+                    "Proving Program Invariance and Termination by Parametric Abstraction, Lagrangian Relaxation and Semidefinite Programming.",
+                    "Scalable Analysis of Linear Systems Using Mathematical Programming.",
+                    "The Arithmetic-Geometric Progression Abstract Domain.",
+                    "An Overview of Semantics for the Validation of Numerical Programs.",
+                    "The Verifying Compiler, a Grand Challenge for Computing Research.",
+                    "Checking Herbrand Equalities and Beyond.",
+                    "Static Analysis by Abstract Interpretation of the Quasi-synchronous Composition of Synchronous Programs.",
+                    "Termination of Polynomial Programs.",
+                    "Verifying Safety of a Token Coherence Implementation by Parametric Compositional Refinement.",
+                    "Abstraction for Liveness.",
+                    "Abstract Interpretation with Alien Expressions and Heap Structures.",
+                    "Shape Analysis by Predicate Abstraction.",
+                    "Predicate Abstraction and Canonical Abstraction for Singly-Linked Lists.",
+                    "Purity and Side Effect Analysis for Java Programs.",
+                    "Automata as Abstractions.",
+                    "Don't Know in the \u00b5-Calculus.",
+                    "Model Checking of Systems Employing Commutative Functions.",
+                    "Weak Automata for the Linear Time \u00b5-Calculus.",
+                    "Model Checking for Process Rewrite Systems and a Class of Action-Based Regular Properties.",
+                    "Minimizing Counterexample with Unit Core Extraction and Incremental SAT.",
+                    "I/O Efficient Directed Model Checking.",
+                    "Verification of an Error Correcting Code by Abstract Interpretation.",
+                    "Information Flow Analysis for Java Bytecode.",
+                    "Cryptographic Protocol Analysis on Real C Code.",
+                    "Simple Is Better: Efficient Bounded Model Checking for Past LTL.",
+                    "Optimizing Bounded Model Checking for Linear Hybrid Systems.",
+                    "Efficient Verification of Halting Properties for MPI Programs with Wildcard Receives.",
+                    "Generalized Typestate Checking for Data Structure Consistency.",
+                    "On the Complexity of Error Explanation.",
+                    "Efficiently Verifiable Conditions for Deadlock-Freedom of Large Concurrent Programs."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "5th VMCAI 2004",
+        "info": "Venice, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vmcai/2004",
+                "sub_name": "Verification, Model Checking, and Abstract Interpretation, 5th International Conference, VMCAI 2004, Venice, Italy, January 11-13, 2004, Proceedings.",
+                "count": 26,
+                "papers": [
+                    "Security, Protocols, and Trust.",
+                    "Security Types Preserving Compilation: (Extended Abstract).",
+                    "History-Dependent Scheduling for Cryptographic Processes.",
+                    "Construction of a Semantic Model for a Typed Assembly Language.",
+                    "Rule-Based Runtime Verification.",
+                    "On the Expressive Power of Canonical Abstraction.",
+                    "Boolean Algebra of Shape Analysis Constraints.",
+                    "Approximate Probabilistic Model Checking.",
+                    "Completeness and Complexity of Bounded Model Checking.",
+                    "Model Checking for Object Specifications in Hidden Algebra.",
+                    "Model Checking Polygonal Differential Inclusions Using Invariance Kernels.",
+                    "Checking Interval Based Properties for Reactive Systems.",
+                    "Widening Operators for Powerset Domains.",
+                    "Type Inference for Parameterized Race-Free Java.",
+                    "Certifying Temporal Properties for Compiled C Programs.",
+                    "Verifying Atomicity Specifications for Concurrent Object-Oriented Software Using Model-Checking.",
+                    "Static Analysis versus Software Model Checking for Bug Finding.",
+                    "Automatic Inference of Class Invariants.",
+                    "Liveness with Invisible Ranking.",
+                    "A Complete Method for the Synthesis of Linear Ranking Functions.",
+                    "Symbolic Implementation of the Best Transformer.",
+                    "Constructing Quantified Invariants via Predicate Abstraction.",
+                    "Analysis of Recursive Game Graphs Using Data Flow Equations.",
+                    "Applying Jlint to Space Exploration Software.",
+                    "Why AI + ILP Is Good for WCET, but MC Is Not, Nor ILP Alone.",
+                    "A Grand Challenge for Computing: Towards Full Reactive Modeling of a Multi-cellular Animal."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "name": "4th VMCAI 2003",
+        "info": "New York, NY, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vmcai/2003",
+                "sub_name": "Verification, Model Checking, and Abstract Interpretation, 4th International Conference, VMCAI 2003, New York, NY, USA, January 9-11, 2002, Proceedings.",
+                "count": 25,
+                "papers": [
+                    "Software Model Checking with Abstraction Refinement.",
+                    "Model-Checking and Abstraction to the Aid of Parameterized Systems.",
+                    "Behavior-Based Model Construction.",
+                    "Automatic Verification by Abstract Interpretation.",
+                    "Symmetry Reductions in Model-Checking.",
+                    "CHASE: A Static Checker for JML's Assignable Clause.",
+                    "Abstract Interpretation-Based Certification of Assembly Code.",
+                    "Property Checking Driven Abstract Interpretation-Based Static Analysis.",
+                    "Optimized Live Heap Bound Analysis.",
+                    "Complexity of Nesting Analysis in Mobile Ambients.",
+                    "Types for Evolving Communication in Safe Ambients.",
+                    "A Logical Encoding of the pi-Calculus: Model Checking Mobile Processes Using Tabled Resolution.",
+                    "Properties of a Type Abstract Interpreter.",
+                    "Domain Compression for Complete Abstractions.",
+                    "Abstraction of Expectation Functions Using Gaussian Distributions.",
+                    "Lifting Temporal Proofs through Abstractions.",
+                    "Efficient Verification of Timed Automata with BDD-Like Data-Structures.",
+                    "On the Expressiveness of 3-Valued Models.",
+                    "Bisimulation and Unwinding for Verifying Possibilistic Security Properties.",
+                    "Formal Verification of the Horn-Preneel Micropayment Protocol.",
+                    "Action Refinement from a Logical Point of View.",
+                    "Reasoning about Layered Message Passing Systems.",
+                    "Using Simulated Execution in Verifying Distributed Algorithms.",
+                    "Efficient Computation of Recurrence Diameters.",
+                    "Shape Analysis through Predicate Abstraction and Model Checking."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2002",
+        "name": "3rd VMCAI 2002",
+        "info": "Venice, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/vmcai/2002",
+                "sub_name": "Verification, Model Checking, and Abstract Interpretation, Third International Workshop, VMCAI 2002, Venice, Italy, January 21-22, 2002, Revised Papers.",
+                "count": 22,
+                "papers": [
+                    "Combining Abstract Interpretation and Model Checking for Analysing Security Properties of Java Bytecode.",
+                    "Proofs Methods for Bisimulation Based Information Flow Security.",
+                    "A Formal Correspondence between Offensive and Defensive JavaCard Virtual Machines.",
+                    "Analyzing Cryptographic Protocols in a Reactive Framework.",
+                    "An Abstract Schema for Equivalence-Checking Games.",
+                    "Synchronous Closing of Timed SDL Systems for Model Checking.",
+                    "Automata-Theoretic Decision of Timed Games.",
+                    "Compositional Termination Analysis of Symbolic Forward Analysis.",
+                    "Combining Norms to Prove Termination.",
+                    "Static Monotonicity Analysis for lambda-definable Functions over Lattices.",
+                    "A Refinement of the Escape Property.",
+                    "Storage Size Reduction by In-place Mapping of Arrays.",
+                    "Verifying BDD Algorithms through Monadic Interpretation.",
+                    "Improving the Encoding of LTL Model Checking into SAT.",
+                    "Automatic Verification of Probabilistic Free Choice.",
+                    "An Experiment in Type Inference and Verification by Abstract Interpretation.",
+                    "Weak Muller Acceptance Conditions for Tree Automata.",
+                    "A Fully Abstract Model for Higher-Order Mobile Ambients.",
+                    "A Simulation Preorder for Abstraction of Reactive Systems.",
+                    "Approximating ATL* in ATL.",
+                    "Model Checking Modal Transition Systems Using Kripke Structures.",
+                    "Parameterized Verification of a Cache Coherence Protocol: Safety and Liveness."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1998",
+        "name": "2nd VMCAI 1998",
+        "info": "Pisa, Italy",
+        "venues": []
+    },
+    {
+        "year": "1997",
+        "name": "1st VMCAI 1997",
+        "info": "Port Jefferson, NY, USA",
+        "venues": []
+    }
+]

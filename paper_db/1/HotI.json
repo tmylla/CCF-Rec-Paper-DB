@@ -1,0 +1,670 @@
+[
+    {
+        "year": "2021",
+        "name": "Hot Interconnects 2021",
+        "info": "Santa Clara, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hoti/2021",
+                "sub_name": "IEEE Symposium on High-Performance Interconnects, HOTI 2021, Santa Clara, CA, USA, August 18-20, 2021.",
+                "count": 10,
+                "papers": [
+                    "Keynote 1: Compute Express Link (CXL) changing the game for Cloud Computing.",
+                    "In-network reductions on multi-dimensional HyperX.",
+                    "Hardware SYN Attack Protection For High Performance Load Balancers.",
+                    "Accelerating CPU-based Distributed DNN Training on Modern HPC Clusters using BlueField-2 DPUs.",
+                    "Efficient Multi-Path NVLink/PCIe-Aware UCX based Collective Communication for Deep Learning.",
+                    "A low latency approach to delivering alternate protocols with coherency and memory semantics using PCI Express\u00ae 6.0 PHY at 64.0 GT/s.",
+                    "Programmable FPGA-based Memory Controller.",
+                    "Polarized routing: an efficient and versatile algorithm for large direct networks.",
+                    "MBitTree: A fast and scalable packet classification for software switches.",
+                    "Higher Performance and Capacity with OMI Near Memory."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "name": "Hot Interconnects 2020",
+        "info": "Piscataway, NJ, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hoti/2020",
+                "sub_name": "IEEE Symposium on High-Performance Interconnects, HOTI 2020, Piscataway, NJ, USA, August 19-21, 2020.",
+                "count": 10,
+                "papers": [
+                    "PCI Express\u00ae 6.0 Specification at 64.0 GT/s with PAM-4 signaling: a low latency, high bandwidth, high reliability and cost-effective interconnect.",
+                    "Bunch of Wires: An Open Die-to-Die Interface.",
+                    "COnfigurable Network Protocol Accelerator (COPA) \u2020 : An Integrated Networking/Accelerator Hardware/Software Framework.",
+                    "The Open Domain-Specific Architecture.",
+                    "Scalable Distributed Training of Recommendation Models: An ASTRA-SIM + NS3 case-study with TCP/IP transport.",
+                    "Communication-Efficient Distributed Deep Learning with GPU-FPGA Heterogeneous Computing.",
+                    "Optimizing Packet Dropping by Efficient Congesting-Flow Isolation in Lossy Data-Center Networks.",
+                    "Isolated Trees in Multi-Tenant Fat Tree Datacenters for In-Network Computing.",
+                    "Kano: Efficient Container Network Policy Verification.",
+                    "Reliable and Time-efficient Virtualized Function Placement."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "Hot Interconnects 2019",
+        "info": "Santa Clara, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hoti/2019",
+                "sub_name": "2019 IEEE Symposium on High-Performance Interconnects, HOTI 2019, Santa Clara, CA, USA, August 14-16, 2019.",
+                "count": 16,
+                "papers": [
+                    "The First Supercomputer with HyperX Topology: A Viable Alternative to Fat-Trees?",
+                    "Path2SL: Optimizing Head-of-Line Blocking Reduction in InfiniBand-Based Fat-Tree Networks.",
+                    "High-Quality Fault-Resiliency in Fat-Tree Networks (Extended Abstract).",
+                    "Versal Network-on-Chip (NoC).",
+                    "Compute Express Link, Stephen Van Doren (Intel).",
+                    "High Capacity On-Package Physical Link Considerations.",
+                    "Enabling Standalone FPGA Computing.",
+                    "A Bunch of Wires (BoW) Interface for Inter-Chiplet Communication.",
+                    "Demonstration of a Single-Lane 80 Gbps PAM-4 Full-Duplex Serial Link.",
+                    "Improved MPI Multi-Threaded Performance using OFI Scalable Endpoints.",
+                    "Designing Scalable and High-Performance MPI Libraries on Amazon Elastic Fabric Adapter.",
+                    "A Study of Network Congestion in Two Supercomputing High-Speed Interconnects.",
+                    "Communication Profiling and Characterization of Deep Learning Workloads on Clusters with High-Performance Interconnects.",
+                    "Lightweight, Packet-Centric Monitoring of Network Traffic and Congestion Implemented in P4.",
+                    "OmniXtend: Direct to Caches Over Commodity Fabric.",
+                    "Latency Critical Operation in Network Processors."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "Hot Interconnects 2017",
+        "info": "Santa Clara, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hoti/2017",
+                "sub_name": "25th IEEE Annual Symposium on High-Performance Interconnects, HOTI 2017, Santa Clara, CA, USA, August 28-30, 2017.",
+                "count": 16,
+                "papers": [
+                    "Panel - Ethernet vs. HPC: Can the hyperscale ethernet data center handle all workloads?",
+                    "Improving Non-minimal and Adaptive Routing Algorithms in Slim Fly Networks.",
+                    "Routing Keys.",
+                    "Fast Networks and Slow Memories: A Mechanism for Mitigating Bandwidth Mismatches.",
+                    "WaveLight: A Monolithic Low Latency Silicon-Photonics Communication Platform for the Next-Generation Disaggregated Cloud Data Centers.",
+                    "An FPGA Platform for Hyperscalers.",
+                    "Throughput Models of Interconnection Networks: The Good, the Bad, and the Ugly.",
+                    "A High Speed Hardware Scheduler for 1000-Port Optical Packet Switches to Enable Scalable Data Centers.",
+                    "Subchannel Scheduling for Shared Optical On-chip Buses.",
+                    "Utilizing HPC Network Technologies in High Energy Physics Experiments.",
+                    "On the Impact of Routing Algorithms in the Effectiveness of Queuing Schemes in High-Performance Interconnection Networks.",
+                    "Placement of Virtual Network Functions in Hybrid Data Center Networks.",
+                    "MPI Process and Network Device Affinitization for Optimal HPC Application Performance.",
+                    "Characterizing Deep Learning over Big Data (DLoBD) Stacks on RDMA-Capable Networks.",
+                    "Host Software Stack Optimizations to Maximize Aggregate Fabric Throughput.",
+                    "Userspace RDMA Verbs on Commodity Hardware Using DPDK."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "Hot Interconnects 2016",
+        "info": "Santa Clara, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hoti/2016",
+                "sub_name": "24th IEEE Annual Symposium on High-Performance Interconnects, HOTI 2016, Santa Clara, CA, USA, August 24-26, 2016.",
+                "count": 12,
+                "papers": [
+                    "Ensuring Deadlock-Freedom in Low-Diameter InfiniBand Networks.",
+                    "Scalable, Global, Optimal-bandwidth, Application-Specific Routing.",
+                    "Traffic Pattern-Based Adaptive Routing for Intra-Group Communication in Dragonfly Networks.",
+                    "Improvements to the InfiniBand Congestion Control Mechanism.",
+                    "Scalable High-Radix Modular Crossbar Switches.",
+                    "A Clos-Network Switch Architecture Based on Partially-Buffered Crossbar Fabrics.",
+                    "Race Cars vs. Trailer Trucks: Switch Buffers Sizing vs. Latency Trade-Offs in Data Center Networks.",
+                    "A Multilevel NOSQL Cache Design Combining In-NIC and In-Kernel Caches.",
+                    "RoB-Router: Low Latency Network-on-Chip Router Microarchitecture Using Reorder Buffer.",
+                    "Offloading Collective Operations to Programmable Logic on a Zynq Cluster.",
+                    "Exploring Data Vortex Network Architectures.",
+                    "Exploring Wireless Technology for Off-Chip Memory Access."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "Hot Interconnects 2015",
+        "info": "Santa Clara, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hoti/2015",
+                "sub_name": "23rd IEEE Annual Symposium on High-Performance Interconnects, HOTI 2015, Santa Clara, CA, USA, August 26-28, 2015.",
+                "count": 11,
+                "papers": [
+                    "Intel\u00ae Omni-path Architecture: Enabling Scalable, High Performance Fabrics.",
+                    "NUMA Aware I/O in Virtualized Systems.",
+                    "The BXI Interconnect Architecture.",
+                    "Exploiting Offload Enabled Network Interfaces.",
+                    "A Brief Introduction to the OpenFabrics Interfaces - A New Network API for Maximizing High Performance Application Efficiency.",
+                    "UCX: An Open Source Framework for HPC Network APIs and Beyond.",
+                    "OWN: Optical and Wireless Network-on-Chip for Kilo-core Architectures.",
+                    "Amon: An Advanced Mesh-like Optical NoC.",
+                    "Impact of InfiniBand DC Transport Protocol on Energy Consumption of All-to-All Collective Algorithms.",
+                    "Implementing Ultra Low Latency Data Center Services with Programmable Logic.",
+                    "Enhanced Overloaded CDMA Interconnect (OCI) Bus Architecture for On-Chip Communication."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "Hot Interconnects 2014",
+        "info": "Mountain View, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hoti/2014",
+                "sub_name": "22nd IEEE Annual Symposium on High-Performance Interconnects, HOTI 2014, Mountain View, CA, USA, August 26-28, 2014.",
+                "count": 11,
+                "papers": [
+                    "Modeling and Evaluation of Chip-to-Chip Scale Silicon Photonic Networks.",
+                    "Accelerating Spark with RDMA for Big Data Processing: Early Experiences.",
+                    "End-to-End Adaptive Packet Aggregation for High-Throughput I/O Bus Network Using Ethernet.",
+                    "Strategies for Mitigating TCAM Space Bottlenecks.",
+                    "The Buffer Size vs Link Bandwidth Tradeoff in Lossless Networks.",
+                    "Quasi Fat Trees for HPC Clouds and Their Fault-Resilient Closed-Form Routing.",
+                    "Reuse Distance Based Circuit Replacement in Silicon Photonic Interconnection Networks for HPC.",
+                    "The Tofu Interconnect 2.",
+                    "Characterizing Traffic Locality in 3D NoC-Based CMPs Using a Path-Based Partitioning Method.",
+                    "Traffic Optimization in Multi-layered WANs Using SDN.",
+                    "IBRMP: A Reliable Multicast Protocol for InfiniBand."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "Hot Interconnects 2013",
+        "info": "Santa Clara, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hoti/2013",
+                "sub_name": "IEEE 21st Annual Symposium on High-Performance Interconnects, HOTI 2013, Santa Clara, CA, USA, August 21-23, 2013.",
+                "count": 16,
+                "papers": [
+                    "Keynote Abstracts.",
+                    "Tutorials.",
+                    "Deterministic Multiplexing of NoC on Grid CMPs.",
+                    "Minimizing Delay in Shared Pipelines.",
+                    "Heterogeneous Multi-processor Coherent Interconnect.",
+                    "TCP Pacing in Data Center Networks.",
+                    "Clustered Linked List Forest for IPv6 Lookup.",
+                    "HybridCuts: A Scheme Combining Decomposition and Cutting for Packet Classification.",
+                    "Efficient Implementation of Security Applications in OpenFlow Controller with FleXam.",
+                    "OFAR-CM: Efficient Dragonfly Networks with Simple Congestion Management.",
+                    "Designing Optimized MPI Broadcast and Allreduce for Many Integrated Core (MIC) InfiniBand Clusters.",
+                    "On the Data Path Performance of Leaf-Spine Datacenter Fabrics.",
+                    "Can Parallel Replication Benefit Hadoop Distributed File System for High Performance Interconnects?",
+                    "Interconnection Network for Tightly Coupled Accelerators Architecture.",
+                    "Low Latency Scheduling Algorithm for Shared Memory Communications over Optical Networks.",
+                    "Bursting Data between Data Centers: Case for Transport SDN."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "Hot Interconnects 2012",
+        "info": "Santa Clara, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hoti/2012",
+                "sub_name": "IEEE 20th Annual Symposium on High-Performance Interconnects, HOTI 2012, Santa Clara, CA, USA, August 22-24, 2012.",
+                "count": 9,
+                "papers": [
+                    "ParaSplit: A Scalable Architecture on FPGA for Terabit Packet Classification.",
+                    "A Low-Latency Library in FPGA Hardware for High-Frequency Trading (HFT).",
+                    "Rx Stack Accelerator for 10 GbE Integrated NIC.",
+                    "Caliper: Precise and Responsive Traffic Generator.",
+                    "Weighted Differential Scheduler.",
+                    "Performance Evaluation of Open MPI on Cray XE/XK Systems.",
+                    "Performance Analysis and Evaluation of InfiniBand FDR and 40GigE RoCE on HPC and Cloud Computing Systems.",
+                    "Bufferless Routing in Optical Gaussian Macrochip Interconnect.",
+                    "Occupancy Sampling for Terabit CEE Switches."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "Hot Interconnects 2011",
+        "info": "Santa Clara, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hoti/2011",
+                "sub_name": "IEEE 19th Annual Symposium on High Performance Interconnects, HOTI 2011, Santa Clara, CA, USA, August 24-26, 2011.",
+                "count": 11,
+                "papers": [
+                    "Express Virtual Channels with Taps (EVC-T): A Flow Control Technique for Network-on-Chip (NoC) in Manycore Systems.",
+                    "iWISE: Inter-router Wireless Scalable Express Channels for Network-on-Chips (NoCs) Architecture.",
+                    "Per-flow Queue Scheduling with Pipelined Counting Priority Index.",
+                    "Designing Non-blocking Broadcast with Collective Offload on InfiniBand Clusters: A Case Study with HPL.",
+                    "Enabling Flexible Collective Communication Offload with Triggered Operations.",
+                    "Short and Fat: TCP Performance in CEE Datacenter Networks.",
+                    "The Common Communication Interface (CCI).",
+                    "Enhanced Support for OpenSHMEM Communication in Portals.",
+                    "Evaluating the Potential of Cray Gemini Interconnect for PGAS Communication Runtime Systems.",
+                    "Implementation and Evaluation of Network Interface and Message Passing Services for TianHe-1A Supercomputer.",
+                    "The Tofu Interconnect."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "Hot Interconnects 2010",
+        "info": "Google Campus, Mountain View, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hoti/2010",
+                "sub_name": "IEEE 18th Annual Symposium on High Performance Interconnects, HOTI 2010, Google Campus, Mountain View, California, USA, August 18-20, 2010.",
+                "count": 21,
+                "papers": [
+                    "Intel\u00ae QuickPath Interconnect Architectural Features Supporting Scalable System Architectures.",
+                    "Belief-Propagation Assisted Scheduling in Input-Queued Switches.",
+                    "Impact of Inter-application Contention in Current and Future HPC Systems.",
+                    "Multi-root Share of Single-Root I/O Virtualization (SR-IOV) Compliant PCI Express Device.",
+                    "Understanding Power Efficiency of TCP/IP Packet Processing over 10GbE.",
+                    "Design and Evaluation of Generalized Collective Communication Primitives with Overlap Using ConnectX-2 Offload Engine.",
+                    "R3C2: Reactive Route and Rate Control for CEE.",
+                    "AF-QCN: Approximate Fairness with Quantized Congestion Notification for Multi-tenanted Data Centers.",
+                    "Leveraging Performance of Multiroot Data Center Networks by Reactive Reroute.",
+                    "The PERCS High-Performance Interconnect.",
+                    "The Gemini System Interconnect.",
+                    "Silicon Nanophotonic Network-on-Chip Using TDM Arbitration.",
+                    "Clocking Links in Multi-chip Packages: A Case Study.",
+                    "Optics in Future Data Center Networks.",
+                    "Direct Network Prototype Leveraging Light Peak Technology.",
+                    "Scaling Optical Interconnects in Datacenter Networks Opportunities and Challenges for WDM.",
+                    "Optical Interconnects in the Data Center.",
+                    "Innovating in Your Network with OpenFlow: A Hands-on Tutorial.",
+                    "Architectures for the Future Networks and the Next Generation Internet.",
+                    "Designing High-End Computing Systems with InfiniBand and High-Speed Ethernet.",
+                    "The Photonics Advancements in the Emerging Zettabyte Network Architecture."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "Hot Interconnects 2009",
+        "info": "New York, NY, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hoti/2009",
+                "sub_name": "17th IEEE Symposium on High Performance Interconnects, HOTI 2009, New York, New York, USA, August 25-27, 2009.",
+                "count": 25,
+                "papers": [
+                    "Keynote: The Other Face of On-Chip Interconnect.",
+                    "Keynote: The Need for Speed in Trading Environments.",
+                    "Keynote: High-Speed Networking and the Race to Zero.",
+                    "Tutorial: Infiniband and 10-Gigabit Ethernet for Dummies.",
+                    "Tutorial: Designing High-End Computing Systems with Infiniband and 10-Gigabit Ethernet.",
+                    "Designing Energy-Efficient Low-Diameter On-Chip Networks with Equalized Interconnects.",
+                    "Winning with Pinning in NoC.",
+                    "Simple Fairness Protocols for Daisy Chain Interconnects.",
+                    "Adaptive Routing in Data Center Bridges.",
+                    "Fulcrum's FocalPoint FM4000: A Scalable, Low-Latency 10GigE Switch for High-Performance Data Centers.",
+                    "Performance Measurement of an Integrated NIC Architecture with 10GbE.",
+                    "MPI Collective Communications on The Blue Gene/P Supercomputer: Algorithms and Optimizations.",
+                    "MiAMI: Multi-core Aware Processor Affinity for TCP/IP over Multiple Network Interfaces.",
+                    "FPGA Accelerated Low-Latency Market Data Feed Processing.",
+                    "Data Center Switch Architecture in the Age of Merchant Silicon.",
+                    "Optimized Routing for Large-Scale InfiniBand Networks.",
+                    "Designing Next Generation Clusters: Evaluation of InfiniBand DDR/QDR on Intel Computing Platforms.",
+                    "Remote Direct Memory Access over the Converged Enhanced Ethernet Fabric: Evaluating the Options.",
+                    "Cost-Effective Optics: Enabling the Exascale Roadmap.",
+                    "Optics for Enabling Future HPC Systems.",
+                    "The Impact of Optics on HPC System Interconnects.",
+                    "Interconnect Challenges in a Many Core Compute Environment.",
+                    "Optical Networking for Data Center Interconnects Across Wide Area Networks.",
+                    "160Gb/s Serial Line Rates in a Monolithic Optoelectronic Multistage Interconnection Network.",
+                    "Low-Power Reconfigurable Network Architecture for On-Chip Photonic Interconnects."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "Hot Interconnects 2008",
+        "info": "Stanford University, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hoti/2008",
+                "sub_name": "16th Annual IEEE Symposium on High Performance Interconnects (HOTI 2008), 26-28 August 2008, Stanford, CA, USA.",
+                "count": 23,
+                "papers": [
+                    "A High-Speed Optical Multi-Drop Bus for Computer Interconnections.",
+                    "NoC with Near-Ideal Express Virtual Channels Using Global-Line Communication.",
+                    "Building Manycore Processor-to-DRAM Networks with Monolithic Silicon Photonics.",
+                    "Design Exploration of Optical Interconnection Networks for Chip Multiprocessors.",
+                    "Coherency Hub Design for Multi-Node Victoria Falls Server Systems.",
+                    "Low Power Passive Equalizer Design for Computer Memory Links.",
+                    "OCDIMM: Scaling the DRAM Memory Wall Using WDM Based Optical Interconnects.",
+                    "Backlog-Aware Crossbar Schedulers: A New Algorithm and its Efficient Hardware Implementation.",
+                    "High-Speed, Short-Latency Multipath Ethernet Transport for Interconnections.",
+                    "Performance Analysis and Evaluation of PCIe 2.0 and Quad-Data Rate InfiniBand.",
+                    "Evaluation of an Integrated PCI Express IO Expansion and Clustering Fabric.",
+                    "An Efficient Hardware-Based Multi-hash Scheme for High Speed IP Lookup.",
+                    "Constraint Repetition Inspection for Regular Expression on FPGA.",
+                    "Network Processing on an SPE Core in Cell Broadband Engine.",
+                    "Telecentric Optics for Free-Space Optical Link.",
+                    "A Network Fabric for Scalable Multiprocessor Systems.",
+                    "HPP Switch: A Novel High Performance Switch for HPC.",
+                    "QsNetIII an Adaptively Routed Network for High Performance Computing.",
+                    "Adaptive Routing Strategies for Modern High Performance Networks.",
+                    "Optical Interconnects for Present and Future High-Performance Computing Systems.",
+                    "Optical Interconnects in Next Generation Data Centers: An End to End View.",
+                    "A Nanophotonic Interconnect for High-Performance Many-Core Computation.",
+                    "Leveraging Optical Interconnects in Future Supercomputers and Servers."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "Hot Interconnects 2007",
+        "info": "Stanford University, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hoti/2007",
+                "sub_name": "15th Annual IEEE Symposium on High-Performance Interconnects, HOTI 2007, Stanford, CA, USA, August 22-24, 2007.",
+                "count": 21,
+                "papers": [
+                    "CMOS Photonics - Bringing Moore's Law to Optical Interconnect.",
+                    "On-Die Interconnect and Other Challenges for Chip-Level Multi-Processing.",
+                    "Hands-on with the NetFPGA to build a Gigabit-rate Router.",
+                    "Introduction to Programming High Performance Applications on the CELL Broadband Engine.",
+                    "Design of Interconnection Networks.",
+                    "Design of a Dynamic Priority-Based Fast Path Architecture for On-Chip Interconnects.",
+                    "Layout-Accurate Design and Implementation of a High-Throughput Interconnection Network for Single-Chip Parallel Processing.",
+                    "Photonic NoC for DMA Communications in Chip Multiprocessors.",
+                    "Backlog Aware Low Complexity Schedulers for Input Queued Packet Switches.",
+                    "Power Aware Management of Packet Switches.",
+                    "Implementation of Dynamic Bandwidth Re-allocation in Optical Interconnects using Microring Resonators.",
+                    "A Real-Time Worm Outbreak Detection System Using Shared Counters.",
+                    "Prototyping Fast, Simple, Secure Switches for Etha.",
+                    "A Memory-Balanced Linear Pipeline Architecture for Trie-based IP Lookup.",
+                    "Building a RCP (Rate Control Protocol) Test Network.",
+                    "ElephantTrap: A low cost device for identifying large flows.",
+                    "An Analysis of 10-Gigabit Ethernet Protocol Stacks in Multicore Environments.",
+                    "Assessing the Ability of Computation/Communication Overlap and Communication Progress in Modern Interconnects.",
+                    "Performance Analysis and Evaluation of Mellanox ConnectX InfiniBand Architecture with Multi-Core Platforms.",
+                    "Memory Management Strategies for Data Serving with RDMA.",
+                    "Reducing the Impact of the MemoryWall for I/O Using Cache Injection."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "Hot Interconnects 2006",
+        "info": "Stanford University, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hoti/2006",
+                "sub_name": "14th IEEE Symposium on High-Performance Interconnects, HOTI'06, Stanford, CA, USA, August 23-25, 2006.",
+                "count": 13,
+                "papers": [
+                    "Loosely Coupled TCP Acceleration Architecture.",
+                    "Network I/O Acceleration in Heterogeneous Multicore Processors.",
+                    "A Case Study in I/O Disaggregation using PCI Express Advanced Switching Interconnect (ASI).",
+                    "Designing Full-Connectivity WDM Optical Interconnects with Reduced Switching and Conversion Complexity.",
+                    "A New Dynamic Bandwidth Re-Allocation Technique in Optically Interconnected High-Performance Computing Systems.",
+                    "Strictly Nonblocking Multicasting WDM Optical Cross Connects Using Multiwavelength Converters.",
+                    "ExpressEther - Ethernet-Based Virtualization Technology for Reconfigurable Hardware Platform.",
+                    "Memory Scalability Evaluation of the Next-Generation Intel Bensley Platform with InfiniBand.",
+                    "A Reconfigurable Architecture for Multi-Gigabit Speed Content-Based Routing.",
+                    "Fast Buffer Memory with Deterministic Packet Departures.",
+                    "A Single-Cycle Multi-Match Packet Classification Engine Using TCAMs.",
+                    "Buffer Management for Lossless Service in Network Processors.",
+                    "Scheduling Traffic Matrices On General Switch Fabrics."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "Hot Interconnects 2005",
+        "info": "Stanford University, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hoti/2005",
+                "sub_name": "13th Annual IEEE Symposium on High Performance Interconnects (HOTIC 2005), 17-19 August 2005, Stanford, CA, USA.",
+                "count": 30,
+                "papers": [
+                    "General Chairs' Message.",
+                    "Message from the Program Co-Chairs.",
+                    "Committees.",
+                    "Using the Open Network Lab.",
+                    "Quality of Service in Global Grid Computing.",
+                    "Internet Infrastructure Security.",
+                    "High-Speed Networking: A Systematic Approach to High-Bandwidth Low-Latency Communications.",
+                    "Challenges in Building a Flat-Bandwidth Memory Hierarchy for a Large-Scale Computer with Proximity Communication.",
+                    "Optimised Global Reduction on QsNetII.",
+                    "Control Path Implementation for a Low-Latency Optical HPC Switch.",
+                    "Breaking the Connection: RDMA Deconstructed.",
+                    "Can Memory-Less Network Adapters Benefit Next-Generation InfiniBand Systems?.",
+                    "Initial Performance Evaluation of the Cray SeaStar Interconnect.",
+                    "Performance Characterization of a 10-Gigabit Ethernet TOE.",
+                    "Hybrid Cache Architecture for High Speed Packet Processing.",
+                    "High-Speed and Low-Power Network Search Engine Using Adaptive Block-Selection Scheme.",
+                    "Design and Implementation of a Content-Aware Switch Using a Network Processor.",
+                    "Impact of Grid Computing on Network Operators and HW Vendors.",
+                    "A Scalable Switch for Service Guarantees.",
+                    "Design of Randomized Multichannel Packet Storage for High Performance Routers.",
+                    "Addressing Queuing Bottlenecks at High Speeds.",
+                    "EtherNET vs. EtherNOT.",
+                    "SIFT: Snort Intrusion Filter for TCP.",
+                    "Zero Copy Sockets Direct Protocol over InfiniBand - Preliminary Implementation and Performance Analysis.",
+                    "Long Round-Trip Time Support with Shared-Memory Crosspoint Buffered Packet Switch.",
+                    "A Scalable, Self-Routed, Terabit Capacity, Photonic Interconnection Network.",
+                    "Reconfigurable Networking Hardware: A Classroom Tool.",
+                    "Congestion Control in InfiniBand Networks.",
+                    "Centralized and Distributed Topology Discovery Service Implementations.",
+                    "PathScale InfiniPath: A First Look."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "Hot Interconnects 2004",
+        "info": "Stanford University, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hoti/2004",
+                "sub_name": "Proceedings of the 12th Annual IEEE Symposium on High Performance Interconnects, HOTIC 2004, August 22-24, 2004, Stanford, CA, USA.",
+                "count": 23,
+                "papers": [
+                    "Message from the General Chairs.",
+                    "Message from the Program Chairs.",
+                    "Buffers: how we fell in love with them and why we need a divorce [Keynote 1].",
+                    "Virtualizing the Net - a strategy for enabling network innovation [Keynote 2].",
+                    "What are the future trends in high-performance inter.connects for parallel computers? [Panel 1].",
+                    "Network processors: prospects for practical deployment [Panel 2].",
+                    "Proceedings. 12th Annual IEEE Symposium on High Performance Interconnects.",
+                    "Performance evaluation of InfiniBand with PCI Express.",
+                    "Performance evaluation of the Cray X1 distributed shared memory architecture.",
+                    "Efficient multi-match packet classification with TCAM.",
+                    "Non-random generator for IPv6 tables.",
+                    "Efficient prefix cache for network processors.",
+                    "Configuring a load-balanced switch in hardware.",
+                    "Designing packet buffers with statistical guarantees.",
+                    "Efficient multicast on a terabit router.",
+                    "Worms vs. perimeters: the case for hard-LANs.",
+                    "Design of a system for real-time worm detection.",
+                    "Studying network protocol offload with emulation: approach and preliminary results.",
+                    "Design of a high-speed optical interconnect for scalable shared memory multiprocessors.",
+                    "Evaluation of a wireless enterprise backbone network architecture.",
+                    "Resilient network infrastructures for global grid computing.",
+                    "High-speed networking: a systematic approach to high-bandwidth low-latency communication.",
+                    "Internet infrastructure security."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "name": "Hot Interconnects 2003",
+        "info": "Stanford University, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hoti/2003",
+                "sub_name": "Proceedings of the 11th Annual IEEE Symposium on High Performance Interconnects, HOTIC 2003, August 20-22, 2003, Stanford, CA, USA.",
+                "count": 19,
+                "papers": [
+                    "Nexus: an asynchronous crossbar interconnect for synchronous system-on-chip designs.",
+                    "A wave-pipelined on-chip interconnect structure for networks-on-chips.",
+                    "Dynamic power management for power optimization of interconnection networks using on/off links.",
+                    "PCI express and advanced switching: evolutionary path to building next generation interconnects.",
+                    "A rule grouping technique for weight-based TCAM coprocessors [packet classification application].",
+                    "A dual-level matching algorithm for 3-stage Clos-network packet switches.",
+                    "Deep packet inspection using parallel Bloom filters.",
+                    "Scalable collective communication on the ASCI Q machine.",
+                    "Micro-benchmark level performance comparison of high-speed cluster interconnects.",
+                    "A case for network-centric buffer cache organization.",
+                    "ETA: experience with an Intel\u00ae Xeon\u2122 processor as a packet processing engine.",
+                    "Network processors as building blocks in overlay networks.",
+                    "Architecture for a hardware based, TCP/IP content scanning system [intrusion detection system applications].",
+                    "On slotted WDM switching in bufferless all-optical networks.",
+                    "Design of optical burst switches based on dual shuffle-exchange network and deflection routing.",
+                    "Dynamic scheduling of optical data bursts in time-domain wavelength interleaved networks.",
+                    "Initial end-to-end performance evaluation of 10-Gigabit Ethernet.",
+                    "FPsed: a streaming content search-and-replace module for an Internet firewall.",
+                    "Efficient exploitation of kernel access to Infiniband: a software DSM example."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2002",
+        "name": "Hot Interconnects 2002",
+        "info": "Stanford University, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hoti/2002",
+                "sub_name": "10th Annual IEEE Symposium on High Performance Interconnects (HOTIC 2002), August 21 - 23, 2002, Stanford, CA, USA.",
+                "count": 30,
+                "papers": [
+                    "Message from the General Co-Chairs.",
+                    "Message from the Program Chair.",
+                    "Hot Interconnects 10 Committees.",
+                    "Delay Tolerant Networking.",
+                    "A Four-Terabit Single-Stage Packet Switch with Large Round-Trip Time Support.",
+                    "Feedback Output Queuing: A Novel Architecture for Efficient Switching Systems.",
+                    "A Power Model for Routers: Modeling Alpha 21364 and InfiniBand Routers.",
+                    "Multicast Scheduling for Switches with Multiple Input-Queues.",
+                    "A Flow Table-Based Design to Approximate Fairness.",
+                    "Stable Round-Robin Scheduling Algorithms for High-Performance Input Queued Switches.",
+                    "Architecture and Hardware for Scheduling Gigabit Packet Streams.",
+                    "Scalability Port: A Coherent Interface for Shared Memory Multiprocessors.",
+                    "Scalable Opto-Electronic Network (SOENet).",
+                    "Distributed-and-Split Data-Control Extension to SCSI for Scalable Storage Area Networks.",
+                    "Wireless Wars: Wi-Fi vs. GPRS vs. 3G.",
+                    "Thinking across Layers: What Do We Want Out of a Network?",
+                    "A Middle Ground between CAMs and DAGs for High-Speed Packet Classification.",
+                    "Efficient Mapping of Range Classifier into Ternary-CAM.",
+                    "Sorting and Searching Using Ternary CAMs.",
+                    "Reducing TCAM Power Consumption and Increasing Throughput.",
+                    "Stream Handlers: Application-Specific Message Services on Attached Network Processors.",
+                    "DiffServ over Network Processors: Implementation and Evaluation.",
+                    "TCP-Splitter: A TCP/IP Flow Monitor in Reconfigurable Hardware.",
+                    "Radioport: A Radio Network for Monitoring and Diagnosing Computer Systems.",
+                    "Optimized Upstream Scheduling in Broadband Cable Networks.",
+                    "WDM Optical Interconnect Architectures Under Two Connection Models.",
+                    "Tutorial 1: Optical Networking: Recent Developments, Issues, and Trends.",
+                    "Tutorial 2: InfiniBand Architecture and Where it is Headed.",
+                    "Tutorial 3: High-Speed Networking: A Systematic Approach to High-Bandwidth Low-Latency Communication.",
+                    "Tutorial 4: Mobile Ad Hoc Networking: Medium Access Control and Routing Protocols."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2001",
+        "name": "Hot Interconnects 2001",
+        "info": "Stanford University, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hoti/2001",
+                "sub_name": "The Ninth Symposium on High Performance Interconnects, HOTI '01, Stanford, CA, USA, August 22-24, 2001.",
+                "count": 23,
+                "papers": [
+                    "An efficient randomized algorithm for input-queued switch scheduling.",
+                    "An implementable parallel scheduler for input-queued switches.",
+                    "OC-3072 packet classification using BDDs and pipelined SRAMs.",
+                    "Synfinity II-a high-speed interconnect with 2 GBytes/sec self-configurable physical link.",
+                    "Optical interconnection as an IP macro of a CMOS library.",
+                    "The Sun Fireplane SMP interconnect in the Sun Fire 3800-6800.",
+                    "TCP switching: exposing circuits to IP.",
+                    "Flexible network attached storage using remote DMA.",
+                    "Stonehenge: a fault-tolerant real-time network-attached storage device.",
+                    "High-speed, high-bandwidth DRAM memory bus with crosstalk transfer logic (XTL) interface.",
+                    "Reducing routing table size using ternary-CAM.",
+                    "Deferred segmentation for wire-speed transmission of large TCP frames over standard GbE networks.",
+                    "Evaluation of SCSI over TCP/IP and SCSI over fibre channel connections.",
+                    "Layered protocol wrappers for Internet packet processing in reconfigurable hardware.",
+                    "Quality of service guarantee on 802.11 networks.",
+                    "Analysis of a statistics counter architecture.",
+                    "The Alpha 21364 network architecture.",
+                    "RHiNET-3/SW: an 80-Gbit/s high-speed network switch for distributed parallel computing.",
+                    "The Quadrics network (QsNet): high-performance clustering technology.",
+                    "Analysis and avoidance of cross-talk in on-chip buses.",
+                    "On the techniques of clock extraction and oversampling.",
+                    "A family of ASIC devices for next generation distributed packet switches with QoS support for IP and ATM.",
+                    "New World Campus networking."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1994",
+        "name": "Hot Interconnects 1994",
+        "info": "Stanford University, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/hoti/1994",
+                "sub_name": "Hot Interconnects II - Symposium Record, Stanford, CA, USA, August 11-13, 1994.",
+                "count": 24,
+                "papers": [
+                    "High-speed Host Interfaces to ATM Networks.",
+                    "Reducing the complexity of ATM Host Interfaces.",
+                    "A memory integrated network interface.",
+                    "A case for NOW (networks-of-workstations).",
+                    "HPAM: an active message layer for a network of hp workstations.",
+                    "Low-latency communication over ATM networks using active messages.",
+                    "Gigabit design techniques for pci.",
+                    "Using an ATM interconnect as a high performance I/O backplanet.",
+                    "Designing low cost gigabit FC-2 silicon.",
+                    "Tnet: a reliable system area network for I/O and IPC.",
+                    "Myrinet-a gigabit-per-second local-area network.",
+                    "nCUBE3 communications architecture.",
+                    "Sp2 high-performance switch architecture.",
+                    "Architecture and implementation of the reliable router.",
+                    "Two virtual memory mapped network interface designs.",
+                    "Network substrate for parallel processing on a workstation cluster.",
+                    "Hotpads - macro-dells for gigabit I/O.",
+                    "An architecture for the future internet.",
+                    "A high speed, metropolitan are, ATM network.",
+                    "PCI for multimedia applications.",
+                    "A Modular Approach to Low Cost Networked Multimedia.",
+                    "Data services over cdma digital cellular.",
+                    "Cellular digital packet - data(CDPD).",
+                    "Measured performance of an-in-building cellular radio network."
+                ]
+            }
+        ]
+    }
+]

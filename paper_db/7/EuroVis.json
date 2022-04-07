@@ -1,0 +1,1749 @@
+[
+	{
+		"year": "2021",
+		"name": "23rd EuroVis 2021",
+		"info": "Virtual Event, Switzerland",
+		"venues": []
+	},
+	{
+		"year": "2020",
+		"name": "22nd EuroVis / 41st Eurographics 2020",
+		"info": "Norrköping, Sweden",
+		"venues": [
+			{
+				"sub_name_abbr": "conf/vissym/2020",
+				"sub_name": "22nd Eurographics Conference on Visualization, EuroVis 2020 - Short Papers, Norrköping, Sweden, May 25-29, 2020 [online only].",
+				"count": 31,
+				"papers": [
+					"The Effect of Graph Layout on the Perception of Graph Properties.",
+					"Exploring Time Series Segmentations Using Uncertainty and Focus+Context Techniques.",
+					"SAMBAVis: Design Study of a Visual Analytics Tool for the Music Industry Powered by YouTube Comments.",
+					"Configuration Finder: A Tidy Visual Interface for Effective Faceted Search.",
+					"ARGUS: Interactive Visual Analytics Framework for the Discovery of Disruptions in Bio-Behavioral Rhythms.",
+					"Design of a Real Time Visual Analytics Support Tool for Conflict Detection and Resolution in Air Traffic Control.",
+					"Dissecting Visual Analytics: Comparing Frameworks for Interpreting and Modelling Observed Visual Analytics Behavior.",
+					"Examining Design-Centric Test Participants in Graphical Perception Experiments.",
+					"Designing Pairs of Colormaps for Visualizing Bivariate Scalar Fields.",
+					"Interactive Creation of Perceptually Uniform Color Maps.",
+					"Task-based Colormap Design Supporting Visual Comprehension in Process Tomography.",
+					"Investigating the Role of Locus of Control in Moderating Complex Analytic Workflows.",
+					"Exploring Design Opportunities for Visually Congruent Proxemics in Information Visualization: A Design Space.",
+					"Characterizing Exploratory Behaviors on a Personal Visualization Interface Using Interaction Logs.",
+					"TopoLines: Topological Smoothing for Line Charts.",
+					"Evaluating Strategies of Exploratory Visual Data Analysis in Multi Device Environments.",
+					"Influence of Container Resolutions on the Layout Stability of Squarified and Slice-And-Dice Treemaps.",
+					"Width-Scale Bar Charts for Data with Large Value Range.",
+					"A Force-Directed Power Diagram Approach for Interactive Voronoi Treemaps.",
+					"Fast Design Space Rendering of Scatterplots.",
+					"Glyph-Based Visualization of Affective States.",
+					"GaCoVi: a Correlation Visualization to Support Interpretability-Aware Feature Selection for Regression Models.",
+					"Progressive Uniform Manifold Approximation and Projection.",
+					"Sketchy Rendering to Aid the Recollection of Regular Visualizations.",
+					"Progressive Rendering of Transparent Integral Surfaces.",
+					"Effective Visualization of Sparse Image-to-Image Correspondences.",
+					"Joint-Sphere: Intuitive and Detailed Human Joint Motion Representation.",
+					"MODELAR: A MODular and EvaLuative framework to improve surgical Augmented Reality visualization.",
+					"Comprehensive Visualization of Longitudinal Patient Data for the Dermatological Oncological Tumor Board.",
+					"RankBooster: Visual Analysis of Ranking Predictions.",
+					"Visualising Collocation for Close Writing."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/vissym/2020p",
+				"sub_name": "22nd Eurographics Conference on Visualization, EuroVis 2019 - Posters, Norrköping, Sweden, May 25-29, 2020 [online only].",
+				"count": 11,
+				"papers": [
+					"A Tool to Help lay out Multiple View Visualisations Guided by View Analysis.",
+					"Evaluation of Mesh Compression and GPU Ray Casting for Tree Based AMR data in VTK.",
+					"ResFlow: Visualizing Global Resource Flows.",
+					"Data Driven Multi-Hazard Risk Visualization.",
+					"Designing Effective Network Visualization Representations of Disinformation Operations - Improving DisInfoVis.",
+					"Visual Analysis of Car-hailing Reimbursement Data for Overtime.",
+					"The Impact of EuroVis Publications.",
+					"Rockwell Adhesion Test - Approach to Standard Modernization.",
+					"A Tool for N-way Analysis of Programming Exercises.",
+					"Accurate Visualization of Galaxy Velocity Fields from Three-Dimensional Integral Field Spectroscopy Data.",
+					"A Web-based Visual Analytics Application for Biological Networks."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/egpgv/2020",
+				"sub_name": "20th Eurographics Symposium on Parallel Graphics and Visualization, EGPGV@Eurographics/EuroVis 2020, Norrköping, Sweden, May 25, 2020 [online only].",
+				"count": 8,
+				"papers": [
+					"Finding Efficient Spatial Distributions for Massively Instanced 3-d Models.",
+					"Fast Multi-View Rendering for Real-Time Applications.",
+					"Moment-Based Opacity Optimization.",
+					"Improving Performance of M-to-N Processing and Data Redistribution in In Transit Analysis and Visualization.",
+					"Effective Parallelization Strategies for Scalable, High-Performance Iterative Reconstruction.",
+					"Approaches for In Situ Computation of Moments in a Data-Parallel Environment.",
+					"High-Quality Rendering of Glyphs Using Hardware-Accelerated Ray Tracing.",
+					"Alternative Parameters for On-The-Fly Simplification of MergeTrees."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/envirvis-ws/2020",
+				"sub_name": "8th Workshop on Visualisation in Environmental Sciences, EnvirVis@Eurographics/EuroVis 2020, Norrköping, Sweden, May 25, 2020 [online only].",
+				"count": 3,
+				"papers": [
+					"Visual Exploration of Climate-Related Volunteered Geographic Information.",
+					"Visual Analysis of a Full-Scale-Emplacement Experiment in the Underground Rock Laboratory Mont Terri using Fiber Surfaces.",
+					"SoilScanner: 3D Visualization for Soil Profiling using Portable X-ray Fluorescence."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/eurova-ws/2020",
+				"sub_name": "11th International EuroVis Workshop on Visual Analytics, EuroVA@Eurographics/EuroVis 2020, Norrköping, Sweden, May 25, 2020 [online only].",
+				"count": 14,
+				"papers": [
+					"SpatialRugs: Enhancing Spatial Awareness of Movement in Dense Pixel Visualizations.",
+					"SepEx: Visual Analysis of Class Separation Measures.",
+					"Dual Radial Set.",
+					"An Exploratory Visual Analytics Tool for Multivariate Dynamic Networks.",
+					"DualNetView: Dual Views for Visualizing the Dynamics of Networks.",
+					"Quality Metrics to Guide Visual Analysis of High Dimensional Genomics Data.",
+					"Enhanced Attribute-Based Explanations of Multidimensional Projections.",
+					"Progressive Parameter Space Visualization for Task-Driven SAX Configuration.",
+					"Congnostics: Visual Features for Doubly Time Series Plots.",
+					"A Window-based Approach for Mining Long Duration Event-sequences.",
+					"Learning and Teaching in Co-Adaptive Guidance for Mixed-Initiative Visual Analytics.",
+					"A Generic Model for Projection Alignment Applied to Neural Network Visualization.",
+					"Visual Analysis for Hospital Infection Control using a RNN Model.",
+					"Interactive Visualization of AI-based Speech Recognition Texts."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/mlvis-ws/2020",
+				"sub_name": "3rd Workshop on Machine Learning Methods in Visualisation for Big Data, MLVis@Eurographics/EuroVis 2020, Norrköping, Sweden, May 25, 2020 [online only].",
+				"count": 5,
+				"papers": [
+					"Progressive Multidimensional Projections: A Process Model based on Vector Quantization.",
+					"ModelSpeX: Model Specification Using Explainable Artificial Intelligence Methods.",
+					"Visual Analysis of the Impact of Neural Network Hyper-Parameters.",
+					"Improving the Sensitivity of Statistical Testing for Clusterability with Mirrored-Density Plots.",
+					"Visual Interpretation of DNN-based Acoustic Models using Deep Autoencoders."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/molva-ws/2020",
+				"sub_name": "3rd Workshop on Molecular Graphics and Visual Analysis of Molecular Data, MolVA@Eurographics/EuroVis 2020, Norrköping, Sweden, May 25, 2020 [online only].",
+				"count": 4,
+				"papers": [
+					"Molecular Binding in a Visuohaptic Environment: An Enhanced Approach in STEM Learning.",
+					"The Vesicle Builder - A Membrane Packing Algorithm for the CELLmicrocosmos MembraneEditor.",
+					"Improved Umbrella Visualization implemented in UnityMol gives valuable insight on sugar/protein interplay.",
+					"Mesoscope: A Web-based Tool for Mesoscale Data Integration and Curation."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/vissym/2020visgap",
+				"sub_name": "1st Workshop on the Gap between Visualization Research and Visualization Software, VisGap@Eurographics/EuroVis 2020, Norrköping, Sweden, May 25, 2020 [online only].",
+				"count": 10,
+				"papers": [
+					"Visualization in Notebook-Style Interfaces.",
+					"Selecting and Sharing Multidimensional Projection Algorithms: A Practical View.",
+					"Framing the Challenges of Operational and Domain Usage of Volume Visualization Methods in Ocean Science.",
+					"Towards Closing the Gap of Medical Visualization Research and Clinical Daily Routine.",
+					"Participatory Visualization Design as an Approach to Minimize the Gap between Research and Application.",
+					"From Research Topic to Industrial Practice: An Experience Report.",
+					"Lessons Learnt from Developing Visual Analytics Applications for Adaptive Prostate Cancer Radiotherapy.",
+					"How the Deprecation of Java Applets Affected Online Visualization Frameworks - A Case Study.",
+					"Tales from the Trenches: Developing sciview, a new 3D viewer for the ImageJ community.",
+					"Lessons Learned from Large Data Visualization Software Development for the K computer."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/eurographics/2020education",
+				"sub_name": "41st Annual Conference of the European Association for Computer Graphics, Eurographics 2020 - Education Papers, Norrköping, Sweden, May 25-29, 2020 [online only].",
+				"count": 7,
+				"papers": [
+					"Rayground: An Online Educational Tool for Ray Tracing.",
+					"Designing a Course on Non-Photorealistic Rendering.",
+					"Critical Thinking Sheet (CTS) for Design Thinking in Programming Courses.",
+					"Asset Integration: An Exceptional Undergraduate Student Project.",
+					"Recreating Past and Present: An Exceptional Student-Created Virtual Heritage Experience.",
+					"Treemap Literacy: A Classroom-Based Investigation.",
+					"Visualization for Data Scientists: How specific is it?"
+				]
+			},
+			{
+				"sub_name_abbr": "conf/eurographics/2020posters",
+				"sub_name": "41st Annual Conference of the European Association for Computer Graphics, Eurographics 2020 - Posters, Norrköping, Sweden, May 25-29, 2020 [online only].",
+				"count": 5,
+				"papers": [
+					"An End-to-end Framework for 3D Capture and Human Digitization with a Single RGB Camera.",
+					"Fabric Appearance Benchmark.",
+					"Streamlining Photogrammetry Reconstructions of Bone Fragments for Bioarchaeological Analysis, Conservation, and Public Engagement.",
+					"Integrating Local Collision Avoidance with Shortest Path Maps.",
+					"GPU-Accelerated Generation of the Molecular Surface."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/eurographics/2020short",
+				"sub_name": "41st Annual Conference of the European Association for Computer Graphics, Eurographics 2020 - Short Papers, Norrköping, Sweden, May 25-29, 2020 [online only].",
+				"count": 24,
+				"papers": [
+					"Accelerated Foveated Rendering based on Adaptive Tessellation.",
+					"Photon Mapping Superluminal Particles.",
+					"Controllable Caustic Animation Using Vector Fields.",
+					"Conservative Ray Batching using Geometry Proxies.",
+					"Compression and Real-Time Rendering of Inward Looking Spherical Light Fields.",
+					"Multisample Anti-aliasing in Deferred Rendering.",
+					"On Learning the Best Local Balancing Strategy.",
+					"MEPP2: A Generic Platform for Processing 3D Meshes and Point Clouds.",
+					"First Order Signed Distance Fields.",
+					"Learning Body Shape and Pose from Dense Correspondences.",
+					"Adversarial Generation of Continuous Implicit Shape Representations.",
+					"Space-Time Blending for Heterogeneous Objects.",
+					"Neural Smoke Stylization with Color Transfer.",
+					"Triplanar Displacement Mapping for Terrain Rendering.",
+					"A Practical Male Hair Aging Model.",
+					"UV Completion with Self-referenced Discrimination.",
+					"Frequency-Aware Reconstruction of Fluid Simulations with Generative Networks.",
+					"Procedural 3D Asteroid Surface Detail Synthesis.",
+					"Interactive Assembly and Animation of 3D Digital Garments.",
+					"ScagnosticsJS: Extended Scatterplot Visual Features for the Web.",
+					"Deep-Eyes: Fully Automatic Anime Character Colorization with Painting of Details on Empty Pupils.",
+					"Interactive Flat Coloring of Minimalist Neat Sketches.",
+					"Pair Correlation Functions with Free-Form Boundaries for Distribution Inpainting and Decomposition.",
+					"Organic Narrative Charts."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/eurographics/2020tutorials",
+				"sub_name": "41st Annual Conference of the European Association for Computer Graphics, Eurographics 2020 - Tutorials, Norrköping, Sweden, May 25-29, 2020 [online only].",
+				"count": 2,
+				"papers": [
+					"Black Box Geometric Computing with Python: From Theory to Practice.",
+					"From Perception to Interaction with Virtual Characters."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/wiced/2020",
+				"sub_name": "9th Workshop on Intelligent Cinematography and Editing, WICED@Eurographics/EuroVis 2020, Norrköping, Sweden, May 25-29, 2020 [online only].",
+				"count": 7,
+				"papers": [
+					"User-Adaptive Rotational Snap-Cutting for Streamed 360º Videos.",
+					"Designing an Adpative Assisting Interface for Learning Virtual Filmmaking.",
+					"How Good is Good Enough? The Challenge of Evaluating Subjective Quality of AI-Edited Video Coverage of Live Events.",
+					"Exploring the Impact of 360º Movie Cuts in Users' Attention.",
+					"CineFilter: Unsupervised Filtering for Real Time Autonomous Camera Systems.",
+					"GAZED - Gaze-guided Cinematic Editing of Wide-Angle Monocular Video Recordings.",
+					"Joint Attention for Automated Video Editing."
+				]
+			}
+		]
+	},
+	{
+		"year": "2019",
+		"name": "21st EuroVis 2019",
+		"info": "Porto, Portugal",
+		"venues": [
+			{
+				"sub_name_abbr": "conf/vissym/2019",
+				"sub_name": "21st Eurographics Conference on Visualization, EuroVis 2019 - Short Papers, Porto, Portugal, June 3-7, 2019.",
+				"count": 22,
+				"papers": [
+					"Label Placement for Outliers in Scatterplots.",
+					"The Impact of Distribution and Chart Type on Part-to-Whole Comparisons.",
+					"Circular Part-to-Whole Charts Using the Area Visual Cue.",
+					"The Human User in Progressive Visual Analytics.",
+					"Visualizing Transportation Flows with Mode Split using Glyphs.",
+					"Color Names Across Languages: Salient Colors and Term Translation in Multilingual Color Naming Models.",
+					"Highly Efficient Controlled Hierarchical Data Reduction techniques for Interactive Visualization of Massive Simulation Data.",
+					"ReLVis: Visual Analytics for Situational Awareness During Reinforcement Learning Experimentation.",
+					"Objective Finite-Time Saddles and their Connection to FTLE.",
+					"Highlight Insert Colormaps: Luminance for Focused Data Analysis.",
+					"Simulation and Visualization of Fluid Flows Around Real Objects in Augmented Reality.",
+					"Voronoi-Based Foveated Volume Rendering.",
+					"Defining an Analysis: A Study of Client-Facing Data Scientists.",
+					"A Construction Kit for Visual Exploration Interfaces.",
+					"Online Learning of Visualization Preferences through Dueling Bandits for Enhancing Visualization Recommendations.",
+					"MOOCad: Visual Analysis of Anomalous Learning Activities in Massive Open Online Courses.",
+					"Viz-Blocks: Building Visualizations and Documents in the Browser.",
+					"WordStream: Interactive Visualization for Topic Evolution.",
+					"CoCoa: A Linked Network Visualization System of Co-citation and Co-author Relationships.",
+					"Authoring Combined Textual and Visual Descriptions of Graph Data.",
+					"The Curious Case of Combining Text and Visualization.",
+					"The Design Space of SparkWords."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/vissym/2019p",
+				"sub_name": "21st Eurographics Conference on Visualization, EuroVis 2019 - Posters, Porto, Portugal, June 3-7, 2019.",
+				"count": 26,
+				"papers": [
+					"CrossWidget: a D3.js Plugin to Support Multiple Scented Cross Filtering Activities.",
+					"Towards a WHAT-WHY-HOW Taxonomy of Trajectories in Visualization Research.",
+					"Visual-Interactive Exploration of Pathogen Outbreaks in Hospitals.",
+					"Interactive Hierarchical Quote Extraction for Content Insights.",
+					"Real-Time Gaze Mapping in Virtual Environments.",
+					"Supporting Volumetric Data Visualization and Analysis by Combining Augmented Reality Visuals with Multi-Touch Input.",
+					"A Visual Encoding System for Comparative Exploration of Magnetic Resonance Spectroscopy Data.",
+					"Text Visualization Revisited: The State of the Field in 2019.",
+					"Visual Biofeedback for Upper Limb Compensatory Movements: A Preliminary Study Next to Rehabilitation Professionals.",
+					"Model-Agnostic Visual Explanation of Machine Learning Models Based on Heat Map.",
+					"A Descriptive Framework for Stories of Algorithms.",
+					"Shapes of Time: Visualizing Set Changes Over Time in Cultural Heritage Collections.",
+					"Visual Analysis of Aluminum Production Data with Tightly Linked Views.",
+					"Improving the Scalability of Interactive Visualization Systems for Exploring Threaded Conversations.",
+					"Interactive 3D Visualizations of Laser Plasma Experiments on the Web and in VR.",
+					"A Study on Reflecting User's Emotions Using a Painterly Rendering System.",
+					"The Vitruvian Baby: Interactive Reformation of Fetal Ultrasound Data to a T-Position.",
+					"A Systematic Review of Online Bitcoin Visualizations.",
+					"A Multi-Scale Animation Framework for Biological Fibrous Structures.",
+					"Accurate and Memory-Efficient GPU Ray-Casting Algorithm for Volume Rendering Unstructured Grid Data.",
+					"Visual Mapping of Nobel Prizes.",
+					"A Survey on Sleep Visualizations for Fitness Trackers.",
+					"Visual Analysis of Reactionary Train Delay from an Agent Based Model.",
+					"LOOPS: Visual Analysis Tool for Non-Periodic Protein Structures.",
+					"Comparative Analysis with Heightmaps in Virtual Reality Environments.",
+					"Visualization of Spatial and Temporal Pollution Exposure through a Temporal Ordered Spacial Matrix."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/egpgv/2019",
+				"sub_name": "19th Eurographics Symposium on Parallel Graphics and Visualization, EGPGV@EuroVis 2019, Porto, Portugal, June 3-4, 2019.",
+				"count": 12,
+				"papers": [
+					"Dynamic I/O Budget Reallocation For In Situ Wavelet Compression.",
+					"Fast Mesh Validation in Combustion Simulations through In-Situ Visualization.",
+					"Scalable Parallel Flow Visualization Using 3D Line Integral Convolution for Large Scale Unstructured Simulation Data.",
+					"Task-based Augmented Reeb Graphs with Dynamic ST-Trees.",
+					"Parallel XPBD Simulation of Modified Morse Potential - an Alternative Spring Model.",
+					"Real-time Particle-based Snow Simulation on the GPU.",
+					"Hybrid Online Autotuning for Parallel Ray Tracing.",
+					"Screen Partitioning Load Balancing for Parallel Rendering on a Multi-GPU Multi-Display Workstation.",
+					"Efficient Point Merging Using Data Parallel Techniques.",
+					"Hybrid Remote Visualization in Immersive Virtual Environments with Vistle.",
+					"Statistical Analysis of Parallel Data Uploading using OpenGL.",
+					"An Interpolation Scheme for VDVP Lagrangian Basis Flows."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/vissym/2019envirvis",
+				"sub_name": "7th Workshop on Visualisation in Environmental Sciences, EnvirVis@EuroVis 2019, Porto, Portugal, June 3, 2019.",
+				"count": 6,
+				"papers": [
+					"On Inconvenient Images: Exploring the Design Space of Engaging Climate Change Visualizations for Public Audiences.",
+					"Topology-based Feature Detection in Climate Data.",
+					"Leveraging Lagrangian Analysis for Discriminating Nutrient Origins.",
+					"RedSeaAtlas: A Visual Analytics Tool for Spatio-temporal Multivariate Data of the Red Sea.",
+					"SOAViz: Visualization for Portable X-ray Fluorescence Soil Profiles.",
+					"Visual Exploration of the European Red List."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/vissym/2019va",
+				"sub_name": "10th International EuroVis Workshop on Visual Analytics, EuroVA@EuroVis 2019, June 3, 2019, Porto, Portugal.",
+				"count": 15,
+				"papers": [
+					"Visual Analysis of Degree-of-Interest Functions to Support Selection Strategies for Instance Labeling.",
+					"TourDino: A Support View for Confirming Patterns in Tabular Data.",
+					"Deep Learning Inverse Multidimensional Projections.",
+					"Visualization of Rubik's Cube Solution Algorithms.",
+					"On Quality Indicators for Progressive Visual Analytics.",
+					"Quantifying Uncertainty in Multivariate Time Series Pre-Processing.",
+					"Moving Together: Towards a Formalization of Collective Movement.",
+					"Visually Analyzing Latent Accessibility Clusters of Urban POIs.",
+					"Contextualized Analysis of Movement Events.",
+					"Interactive Pattern Analysis of Multiple T-Maze Data.",
+					"Visual Analytics of Event Data using Multiple Mining Methods.",
+					"Visualizing Event Sequences as Oscillating Streams.",
+					"SurviVIS: Visual Analytics for Interactive Survival Analysis.",
+					"Interactive Visual Analysis of Patient-Reported Outcomes for Improved Cancer Aftercare.",
+					"Visual Analytics of Conversational Dynamics."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/eurorvvv-ws/2019",
+				"sub_name": "1st EuroVis Workshop on Trustworthy Visualization, TrustVis@EuroVis 2019, Porto, Portugal, June 3, 2019.",
+				"count": 5,
+				"papers": [
+					"Towards Supporting Interpretability of Clustering Results with Uncertainty Visualization.",
+					"Uni- and Multi-modal Uncertainty Visualization in 2D Scalar Field Ensembles.",
+					"Detection of Confirmation and Distinction Biases in Visual Analytics Systems.",
+					"Examining the Components of Trust in Map-Based Visualizations.",
+					"Trust in Information Visualization."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/mlvis-ws/2019",
+				"sub_name": "2nd Workshop on Machine Learning Methods in Visualisation for Big Data, MLVis@EuroVis 2019, Porto, Portugal, June 3, 2019.",
+				"count": 4,
+				"papers": [
+					"On KDE-based Brushing in Scatterplots and how it Compares to CNN-based Brushing.",
+					"Interpreting Black-Box Semantic Segmentation Models in Remote Sensing Applications.",
+					"Visual Analysis of Multivariate Urban Traffic Data Resorting to Local Principal Curves.",
+					"Visual Ensemble Analysis to Study the Influence of Hyper-parameters on Training Deep Neural Networks."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/molva-ws/2019",
+				"sub_name": "2nd Workshop on Molecular Graphics and Visual Analysis of Molecular Data, MolVA@EuroVis 2019, Porto, Portugal, June 3, 2019.",
+				"count": 4,
+				"papers": [
+					"A Massively Parallel CUDA Algorithm to Compute and Visualize the Solvent Excluded Surface for Dynamic Molecular Data.",
+					"QuickSES: A Library for Fast Computation of Solvent Excluded Surfaces.",
+					"MolFind - Integrated Multi-Selection Schemes for Complex Molecular Structures.",
+					"PBmapclust: Mapping and Clustering the Protein Conformational Space Using a Structural Alphabet."
+				]
+			}
+		]
+	},
+	{
+		"year": "2018",
+		"name": "20th EuroVis 2018",
+		"info": "Brno, Czech Republic",
+		"venues": [
+			{
+				"sub_name_abbr": "conf/vissym/2018",
+				"sub_name": "20th Eurographics Conference on Visualization, EuroVis 2018 - Short Papers, Brno, Czech Republic, June 4-8, 2018.",
+				"count": 21,
+				"papers": [
+					"Perception-Aware Uncertainty Glyphs in the 3D Vector Fields.",
+					"Evolutionary Lines for Flow Visualization.",
+					"Pressure-based Vortex Extraction in Cardiac 4D PC-MRI Blood Flow Data.",
+					"Colored Stochastic Shadow Mapping for Direct Volume Rendering.",
+					"Visualizing Functional Regions by Analysis of Geo-textual Data.",
+					"Visual Analysis of Parallel Interval Events.",
+					"Comparative Visual Analysis of Pelvic Organ Segmentations.",
+					"Improving Provenance Data Interaction for Visual Storytelling in Medical Imaging Data Exploration.",
+					"ChemoExplorer: A Dashboard for the Visual Analysis of Chemotherapy Response in Breast Cancer Patients.",
+					"TapVis: A Data Visualization Approach for Assessment of Alternating Tapping Performance in Patients with Parkinson's Disease.",
+					"VisGuides: A Forum for Discussing Visualization Guidelines.",
+					"Sketching Temporal Uncertainty - An Exploratory User Study.",
+					"Issues and Suggestions for the Development of a Biodiversity Data Visualization Support Tool.",
+					"Using a Task Classification in the Visualisation Design Process for Task Understanding and Abstraction: an Empirical Study.",
+					"STEIN: Speeding up Evaluation Activities With a Seamless Testing Environment INtegrator.",
+					"Exploring Interactive Linking Between Text and Visualization.",
+					"Learning from the Best - Visual Analysis of a Quasi-Optimal Data Labeling Strategy.",
+					"Pixel Wise Pie Charts: Placement of Data Points Visualizing Spatial Value Distributions.",
+					"DiffPin: Interactive Specification of References for Comparative Small-Multiple Displays.",
+					"Touch the Time: Touch-Centered Interaction Paradigms for Time-Oriented Data.",
+					"Risk Fixers and Sweet Spotters: a Study of the Different Approaches to Using Visual Sensitivity Analysis in an Investment Scenario."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/vissym/2018p",
+				"sub_name": "20th Eurographics Conference on Visualization, EuroVis 2018 - Posters, Brno, Czech Republic, June 4-8, 2018.",
+				"count": 15,
+				"papers": [
+					"CV3: Visual Exploration, Assessment, and Comparison of CVs.",
+					"Extending Document Exploration with Image Retrieval: Concept and First Results.",
+					"Visually Exploring Data Provenance and Quality of Open Data.",
+					"Case Studies of Shareable Personal Map Visualization.",
+					"An Eye-Tracking Study on Sparklines within Textual Context.",
+					"Network Analysis for Financial Fraud Detection.",
+					"Validation of Quantitative Measures for Edge Bundling by Comparing with Human Feeling.",
+					"ViMEC: Interactive Application for Micro-Cluster Visualizations.",
+					"Exploring Uncertainty in Image Segmentation Ensembles.",
+					"Supporting Visual Parameter Analysis of Time Series Segmentation with Correlation Calculations.",
+					"The Impact of Visualizing Uncertainty on Train Trip Selection.",
+					"Categorizing Uncertainties in the Process of Segmenting and Labeling Time Series Data.",
+					"Visual Analysis of Sentiment and Stance in Social Media Texts.",
+					"Towards Natural Language Empowered Interactive Data Analysis.",
+					"A Visual Comparison of Hand-Drawn and Machine-Generated Human Metabolic Pathways."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/egpgv/2018",
+				"sub_name": "18th Eurographics Symposium on Parallel Graphics and Visualization, EGPGV@EuroVis 2018, Brno, Czech Republic, June 4, 2018.",
+				"count": 10,
+				"papers": [
+					"Direct Raytracing of Particle-based Fluid Surfaces Using Anisotropic Kernels.",
+					"VisIt-OSPRay: Toward an Exascale Volume Visualization System.",
+					"Robust Iterative Find-Next-Hit Ray Traversal.",
+					"Hardware-Accelerated Multi-Tile Streaming for Realtime Remote Visualization.",
+					"Performance-Portable Particle Advection with VTK-m.",
+					"Dense Texture Flow Visualization using Data-Parallel Primitives.",
+					"Revisiting the Evaluation of In Situ Lagrangian Analysis.",
+					"Rapid k-d Tree Construction for Sparse Volume Data.",
+					"Interactive Visual Analysis of Multi-dimensional Metamodels.",
+					"La VALSE: Scalable Log Visualization for Fault Characterization in Supercomputers."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/envirvis-ws/2018",
+				"sub_name": "6th Workshop on Visualisation in Environmental Sciences, EnvirVis@EuroVis 2018, Brno, Czech Republic, June 4, 2018.",
+				"count": 10,
+				"papers": [
+					"Interactive Visual Exploration of Teleconnections in Atmospheric Datasets.",
+					"Web-based 3D Meteo Visualization: 3D Rendering Farms from a New Perspective.",
+					"Developing a Concept to Visualize Object-based Weather Forecasting Ensembles.",
+					"Change Point Detection for Ocean Eddy Analysis.",
+					"Predict Saturated Thickness using TensorBoard Visualization.",
+					"How To Look at Data: Environmental Practitioners' Lens Through Two Case Studies.",
+					"TreeeX: Exploring the Diversity of Tree Species.",
+					"Visual Analysis of Urban Traffic Data based on High-Resolution and High-Dimensional Environmental Sensor Data.",
+					"Visualizing Electrical Power Systems as Flow Fields.",
+					"What if we use the \"What if\" Approach for Eco-Feedback? Designing an Electricity Consumption Analysis for Layman Users."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/eurorvvv-ws/2018",
+				"sub_name": "6th EuroVis Workshop on Reproducibility, Verification, and Validation in Visualization, EuroRV³@EuroVis 2018, Brno, Czech Republic, June 4, 2018.",
+				"count": 5,
+				"papers": [
+					"Visual Analytics-enabled Bayesian Network Approach to Reasoning about Public Camera Data.",
+					"Visualizing Uncertainty in Cultural Heritage Collections.",
+					"Uncertainty Visualization: Recent Developments and Future Challenges in Prostate Cancer Radiotherapy Planning.",
+					"Toward Visualizing Subjective Uncertainty: A Conceptual Framework Addressing Perceived Uncertainty through Action Redundancy.",
+					"Uncertainty of Visualizations for SenseMaking in Criminal Intelligence Analysis."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/vissym/2018va",
+				"sub_name": "9th International EuroVis Workshop on Visual Analytics, EuroVA@EuroVis 2018, Brno, Czech Republic, June 4, 2018.",
+				"count": 11,
+				"papers": [
+					"ComModeler: Topic Modeling Using Community Detection.",
+					"Visual Exploration of Spatial and Temporal Variations of Tweet Topic Popularity.",
+					"Visual Predictive Analytics using iFuseML.",
+					"Guidance or No Guidance? A Decision Tree Can Help.",
+					"A Visual Analytics System for Managing Mobile Network Failures.",
+					"Personalized Visual-Interactive Music Classification.",
+					"A Set-based Visual Analytics Approach to Analyze Retail Data.",
+					"polimaps: Supporting Predictive Policing with Visual Analytics.",
+					"Combining the Automated Segmentation and Visual Analysis of Multivariate Time Series.",
+					"Towards Visual Cyber Security Analytics for the Masses.",
+					"A Concept for Consensus-based Ordering of Views."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/mlvis-ws/2018",
+				"sub_name": "1st Workshop on Machine Learning Methods in Visualisation for Big Data, MLVis@EuroVis 2018, Brno, Czech Republic, June 4, 2018.",
+				"count": 1,
+				"papers": [
+					"Panning for Insight: Amplifying Insight through Tight Integration of Machine Learning, Data Mining, and Visualization."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/molva-ws/2018",
+				"sub_name": "1st Workshop on Molecular Graphics and Visual Analysis of Molecular Data, MolVA@EuroVis 2018, Brno, Czech Republic, June 4, 2018.",
+				"count": 4,
+				"papers": [
+					"An Accelerated Online PCA with O(1) Complexity for Learning Molecular Dynamics Data.",
+					"Atomic Accessibility Radii for Molecular Dynamics Analysis.",
+					"VIA-MD: Visual Interactive Analysis of Molecular Dynamics.",
+					"Mol*: Towards a Common Library and Tools for Web Molecular Graphics."
+				]
+			}
+		]
+	},
+	{
+		"year": "2017",
+		"name": "19th EuroVis 2017",
+		"info": "Barcelona, Spain",
+		"venues": [
+			{
+				"sub_name_abbr": "conf/vissym/2017",
+				"sub_name": "19th Eurographics Conference on Visualization, EuroVis 2017 - Short Papers, Barcelona, Spain, June 12-16, 2017.",
+				"count": 30,
+				"papers": [
+					"Scale-Adaptive Placement of Hierarchical Map Labels.",
+					"Marching Pentatopes for Continuous Morphing of Isosurfaces From Four Dimensional Data in HTML5/WebGL.",
+					"MVN-Reduce: Dimensionality Reduction for the Visual Analysis of Multivariate Networks.",
+					"Nodes, Paths, and Edges: Using Mental Maps to Augment Crime Data Analysis in Urban Spaces.",
+					"TypoTweet Maps: Characterizing Urban Areas through Typographic Social Media Visualization.",
+					"An Argument Structure for Data Stories.",
+					"Visualizing Large Time-series Data on Very Small Screens.",
+					"ETK: An Evaluation Toolkit for Visualization User Studies.",
+					"TexTile: A Pixel-Based Focus+Context Tool For Analyzing Variants Across Multiple Text Scales.",
+					"Natural Language Interfaces for Data Analysis with Visualization: Considering What Has and Could Be Asked.",
+					"In Situ and Post Processing Workflows for Asteroid Ablation Studies.",
+					"A Stream Ribbon Seeding Strategy.",
+					"Spatial Interaction for the Post-Processing of 3D CFD Datasets.",
+					"Hybrid-Treemap Layouting.",
+					"Time-Ray Maps: Visualization of Spatial and Temporal Evolution of News Stories.",
+					"Readability and Precision in Pictorial Bar Charts.",
+					"On Establishing Visualization Requirements: A Case Study in Product Costing.",
+					"Trajectory Mapper: Interactive Widgets and Artist-Designed Encodings for Visualizing Multivariate Trajectory Data.",
+					"Reflections on an Experiment, Evaluating the Impact of Spatialisation on Exploration.",
+					"Scoped: Visualising the Scope Chain Within Source Code.",
+					"Spatiotemporal Visualization of Gene Expression in the Developing Mouse Brain.",
+					"Interactive Level-of-Detail Visualization of 3D-Polarized Light Imaging Data Using Spherical Harmonics.",
+					"Molecular Visualization of Computational Biology Data: A Survey of Surveys.",
+					"Dynamic Label Placement for Forensic Case Visualization.",
+					"Intuitive Error Space Exploration of Medical Image Data in Clinical Daily Routine.",
+					"TExVis: An Interactive Visual Tool to Explore Twitter Data.",
+					"Visual Access to Performance Indicators in the Mining Sector.",
+					"Additional On-Demand Dimension for Data Visualization.",
+					"PubViz: Lightweight Visual Presentation of Publication Data.",
+					"The Situation Universe: Visualizing the Semantics of Integrated Data Structures."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/vissym/2017p",
+				"sub_name": "19th Eurographics Conference on Visualization, EuroVis 2017 - Posters, Barcelona, Spain, June 12-16, 2017.",
+				"count": 35,
+				"papers": [
+					"Structuring and Visualizing Knowledge in Soil Science.",
+					"Towards an Adaptive Framework for Real-Time Visualization of Streaming Big Data.",
+					"Diggersdiaries: Using Text Analysis to Support Exploration and Reading in a Large Document Collection.",
+					"Memory Efficient Parallel Ray-casting Algorithm for Unstructured Grid Volume Rendering.",
+					"Evaluating Cognitive Load: Force-directed Layout vs. Chord Layout.",
+					"Visualization of the Forever 27 Club.",
+					"BitConduite: Visualizing and Analyzing Activity on the Bitcoin Network.",
+					"Visualization Taxonomy based on the Specification of User's Goal and Data Dimensions.",
+					"Hypenet: Visualizing Dynamic Hypergraphs.",
+					"An Interactive Visual Representation to Explore Association with Hierarchical Social Circles.",
+					"Integrating Guided Clustering in Visual Analytics to Support Domain Expert Reasoning Processes.",
+					"DcPAIRS: A Pairs Plot Based Decision Support System.",
+					"Power Efficiency of Volume Raycasting on Mobile Devices.",
+					"Interactive Lens for Effective Time-Series Animation.",
+					"A Visual Approach for Text Analysis Using Multiword Topics.",
+					"DaaG: Visual Analytics Clustering Using Network Representation.",
+					"Interactive Visualization of Massive Location Data using Multi-Scale Trajectories.",
+					"Uncertainty Visualization of Stenotic Regions in Vascular Structures.",
+					"Using Graphs for Exposing the Underlying Competence Design of Academic Degrees.",
+					"'Them again?\" Dynamic Communities in the Media.",
+					"Visual Stratification for Epidemiological Analysis.",
+					"MDS-based Visual Survey of Biological Data Visualization Techniques.",
+					"Visually Analyzing Parameter Influence on Optical Coherence Tomography Data in Ophthalmology.",
+					"ConTraffic Visual Analytics in Support to Customs Risk-Analysis.",
+					"Visual Analysis of Magnetic Resonance Spectroscopy Imaging Data for the Study of Human Brain Tumors.",
+					"Visual Analytics of Global Parameters in Simulation Ensembles of ODE-based Excitable Network Dynamics.",
+					"Quantitative Comparison of Treemap Techniques for Time-Dependent Hierarchies.",
+					"Projection Navigation In Extremely Large Datasets (PNIELD).",
+					"Responsive Data Visualisation.",
+					"Visualization of Temporal Logic Specifications.",
+					"Semi-automatic Colonic Content Analysis for Diagnostic.",
+					"Visual Analysis of Geolocated Echo Chambers in Social Media.",
+					"Tangible Visual Analysis: Brushing in a Mixed-Reality Environment.",
+					"A High-Dimensional Data Quality Metric using Pareto Optimality.",
+					"Visualising Data with L2."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/egpgv/2017",
+				"sub_name": "17th Eurographics Symposium on Parallel Graphics and Visualization, EGPGV@EuroVis 2017, Barcelona, Spain, June 12-13, 2017.",
+				"count": 8,
+				"papers": [
+					"PaViz: A Power-Adaptive Framework for Optimizing Visualization Performance.",
+					"Prediction of Distributed Volume Visualization Performance to Support Render Hardware Acquisition.",
+					"Progressive CPU Volume Rendering with Sample Accumulation.",
+					"Photo-Guided Exploration of Volume Data Features.",
+					"A Space-Efficient Method for Navigable Ensemble Analysis and Visualization.",
+					"Interactive Exploration of Dissipation Element Geometry.",
+					"A Task-Based Parallel Rendering Component For Large-Scale Visualization Applications.",
+					"Achieving Portable Performance For Wavelet Compression Using Data Parallel Primitives."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/envirvis-ws/2017",
+				"sub_name": "5th Workshop on Visualisation in Environmental Sciences, EnvirVis@EuroVis 2017, Barcelona, Spain, June 12-13, 2017.",
+				"count": 10,
+				"papers": [
+					"Setting up Virtual Geographic Environments in Unity.",
+					"An InteractiveWeb-based Doppler Wind Lidar Visualisation System.",
+					"Visual Characterisation of Temporal Occupancy for Movement Ecology.",
+					"Visual Study of the Benguela Upwelling System using Pathline Predicates.",
+					"Visual Eddy Analysis of the Agulhas Current.",
+					"Multivariate Visualization of Oceanography Data Using Decals.",
+					"STOAViz: Visualizing Saturated Thickness of Ogallala Aquifer.",
+					"Extracting, Visualizing and Tracking Mesoscale Ocean Eddies in Two-dimensional Image Sequences Using Contours and Moments.",
+					"Video Compression for Ocean Simulation Image Databases.",
+					"Intuitive Colormaps for Environmental Visualization."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/eurorvvv-ws/2017",
+				"sub_name": "5th EuroVis Workshop on Reproducibility, Verification, and Validation in Visualization, EuroRV³@EuroVis 2017, Barcelona, Spain, June 12-13, 2017.",
+				"count": 5,
+				"papers": [
+					"A Crowdsourced Approach to Colormap Assessment.",
+					"Evaluating the Perceptual Uniformity of Color Sequences for Feature Discrimination.",
+					"Where'd it go? How Geographic and Force-directed Layouts Affect Network Task Performance.",
+					"Guidelines and Recommendations for the Evaluation of New Visualization Techniques by Means of Experimental Studies.",
+					"From a User Study to a Valid Claim: How to Test Your Hypothesis and Avoid Common Pitfalls."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/vissym/2017va",
+				"sub_name": "8th International EuroVis Workshop on Visual Analytics, EuroVA@EuroVis 2017, Barcelona, Spain, 12-13 June 2017.",
+				"count": 13,
+				"papers": [
+					"Guidance for Multi-Type Entity Graphs from Text Collections.",
+					"How Sensemaking Tools Influence Display Space Usage.",
+					"Feature Alignment for the Analysis of Verbatim Text Transcripts.",
+					"Combining Cluster and Outlier Analysis with Visual Analytics.",
+					"Visual Analytics for Information Retrieval Evaluation Campaigns.",
+					"PipeVis: Interactive Visual Exploration of Pipeline Incident Data.",
+					"Visual Analysis of Optical Coherence Tomography Data in Ophthalmology.",
+					"Subpopulation Discovery and Validation in Epidemiological Data.",
+					"Visual Comparative Case Analytics.",
+					"Visual Analytics for Multitemporal Aerial Image Georeferencing.",
+					"Visual Analysis of Geo-spatial Data in 3D Terrain Environments using Focus+Context.",
+					"A Visual Analytics Approach for User Behaviour Understanding through Action Sequence Analysis.",
+					"A Unified Process for Visual-Interactive Labeling."
+				]
+			}
+		]
+	},
+	{
+		"year": "2016",
+		"name": "18th EuroVis 2016",
+		"info": "Groningen, The Netherlands",
+		"venues": [
+			{
+				"sub_name_abbr": "conf/vissym/2016",
+				"sub_name": "18th Eurographics Conference on Visualization, EuroVis 2016 - Short Papers, Groningen, The Netherlands, June 6-10, 2016.",
+				"count": 25,
+				"papers": [
+					"Analysis of Error in Interpolation-Based Pathline Tracing.",
+					"Error Estimates for Lagrangian Flow Field Representations.",
+					"Crystal Glyph: Visualization of Directional Distributions Based on the Cube Map.",
+					"Detecting and Visualizing Rip Current Using Optical Flow.",
+					"Visualizing Flow Fields Using Fractal Dimensions.",
+					"LMML: Initial Developments of an Integrated Environment for Forensic Data Visualization.",
+					"Visualization for Understanding Uncertainty in Activation Volumes for Deep Brain Stimulation.",
+					"Fast 3D Thinning of Medical Image Data based on Local Neighborhood Lookups.",
+					"VarVis: Visualizing Anatomical Variation in Branching Structures.",
+					"Towards Visual Mega-Analysis of Voxel-based Measurement in Brain Cohorts.",
+					"Space Bundling for Continuous Parallel Coordinates.",
+					"SpaceCuts: Making Room for Visualizations on Maps.",
+					"Visualizing Time-Dependent Data Using Dynamic t-SNE.",
+					"Interactive Web-based Visualization for Accessibility Mapping of Transportation Networks.",
+					"Manifold Visualization via Short Walks.",
+					"Judgment Error in Pie Chart Variations.",
+					"Using Icicle Trees to Encode the Hierarchical Structure of Source Code.",
+					"Visualization of Publication Impact.",
+					"Spiral Theme Plot.",
+					"Cavity and Pore Segmentation in 3D Images with Ambient Occlusion.",
+					"Classic Techniques in New Domains: An Alternative Recipe.",
+					"Clarifying Hypotheses by Sketching Data.",
+					"IN2CO - A Visualization Framework for Intuitive Collaboration.",
+					"CompaRing: Reducing Costs of Visual Comparison.",
+					"Analytic Behavior and Trust Building in Visual Analytics."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/vissym/2016p",
+				"sub_name": "18th Eurographics Conference on Visualization, EuroVis 2016 - Posters, Groningen, The Netherlands, June 6-10, 2016.",
+				"count": 25,
+				"papers": [
+					"Hierarchical Clustering with Multiple-Height Branch-Cut Applied to Short Time-Series Gene Expression Data.",
+					"User Interaction Visualization for Design Synthesis.",
+					"MetricScalpel: Analyzing Diagnostic Outcomes with Exploratory Data Visualization.",
+					"When Individual Data Points Matter: Interactively Analysing Classification Landscapes.",
+					"Quantitative Evaluation for Edge Bundling Based on Structural Aesthetics.",
+					"Coloring Interactive Compositional Dot Maps.",
+					"Visual Data Exploration for Balance Quantification During Exergaming.",
+					"Tracking and Visualizing Dynamic Structures in Multichannel EEG Coherence Networks.",
+					"Transfer Function Optimization Based on a Combined Model of Visibility and Saliency.",
+					"Geometry-Aware Visualization of Performance Data.",
+					"Query by Visual Words: Visual Search for Scatter Plot Visualizations.",
+					"Visual Analytics for Fraud Detection: Focusing on Profile Analysis.",
+					"Visual Analysis of Text Annotations for Stance Classification with ALVA.",
+					"Interactive Exploration of Student Generated Content presented in Blogs.",
+					"InVITe - Towards Intuitive Visualization of Iterations over Text.",
+					"Features vs Prototypes: Amplifying Cognition with Common Data Graphics.",
+					"Large-scale Argument Visualization (LSAV).",
+					"Visualizing Article Similarities in Wikipedia.",
+					"Towards Combining Attribute-based and Time Series-based Visual Querying.",
+					"Tracking Space-Filling Features by Two-Step Optimization.",
+					"Understanding Networks beyond Overlapping Clusters.",
+					"Volume Rendering Using Principal Component Analysis.",
+					"TaCo: Comparative Visualization of Large Tabular Data.",
+					"Styrian Diversity Visualisation: Visualising Statistical Open Data with a LeanWeb App and Data Server.",
+					"Visualization-Aware Color Design."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/egpgv/2016",
+				"sub_name": "16th Eurographics Symposium on Parallel Graphics and Visualization, EGPGV@EuroVis 2016, Groningen, The Netherlands, June 6-10, 2016.",
+				"count": 10,
+				"papers": [
+					"Adaptive Collision Culling for Large-Scale Simulations by a Parallel Sweep and Prune Algorithm.",
+					"External Facelist Calculation with Data-Parallel Primitives.",
+					"Parallel Spatial Splits in Bounding Volume Hierarchies.",
+					"Interacting with Large Distributed Datasets Using Sketch.",
+					"High-Performance Mesh Partitioning and Ghost Cell Generation for Visualization Software.",
+					"Web-enabled Server-based and Distributed Real-time Ray-Tracing.",
+					"A Scalable Streamline Generation Algorithm Via Flux-Based Isocontour Extraction.",
+					"Dynamically Scheduled Region-Based Image Compositing.",
+					"Dynamic Work Packages in Parallel Rendering.",
+					"Data Mining Tornadogenesis Precursors."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/envirvis-ws/2016",
+				"sub_name": "4th Workshop on Visualisation in Environmental Sciences, EnvirVis@EuroVis 2016, Groningen, The Netherlands, June 6-10, 2016.",
+				"count": 8,
+				"papers": [
+					"Visual Analysis of Reservoir Simulation Ensembles.",
+					"Towards Visual Analytics for Multi-Sensor Analysis of Remote Sensing Archives.",
+					"Visual Monitoring of Photovoltaic Systems.",
+					"Are Environmental RegulationsWorking? A Visual Analytic Approach To Answering Their Impact on Toxic Emissions.",
+					"Strategic Initiatives for Flow Visualization in Environmental Sciences.",
+					"Visualizing Malaria Spread Under Climate Variability.",
+					"A Data-Driven Approach to Categorize Climatic Microenvironments.",
+					"Visualization of Scanned Cave Data with Global Illumination."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/vissym/2016eurorvvv",
+				"sub_name": "4th EuroVis Workshop on Reproducibility, Verification, and Validation in Visualization, EuroRV³@EuroVis 2016, Groningen, The Netherlands, June 6-7, 2016.",
+				"count": 9,
+				"papers": [
+					"Uncertainty and Reproducibility in Medical Visualization.",
+					"High-Performance Motion Correction of Fetal MRI.",
+					"OphthalVis - Making Data Analytics of Optical Coherence Tomography Reproducible.",
+					"Classifying Medical Projection Techniques based on Parameterization Attribute Preservation.",
+					"Detection of Diabetic Neuropathy - Can Visual Analytics Methods Really Help in Practice?",
+					"Towards Multi-user Provenance Tracking of Visual Analysis Workflows over Multiple Applications.",
+					"Experiences on Validation of Multi-Component System Simulations for Medical Training Applications.",
+					"On the Evaluation of a Semi-Automatic Vortex Flow Classification in 4D PC-MRI Data of the Aorta.",
+					"An Introduction to Evaluation in Medical Visualization."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/vissym/2016va",
+				"sub_name": "7th International EuroVis Workshop on Visual Analytics, EuroVA@EuroVis 2016, Groningen, The Netherlands, June 6-7, 2016.",
+				"count": 11,
+				"papers": [
+					"Lessons on Combining Topology and Geography - Visual Analytics for Electrical Outage Management.",
+					"A Visual Analytics System for Mobile Telecommunication Marketing Analysis.",
+					"Patent Retrieval: A Multi-Modal Visual Analytics Approach.",
+					"Visualization of Latin Textual Variants using a Pixel-Based Text Analysis Tool.",
+					"An Art-based Approach to Visual Analytics.",
+					"Visual-Interactive Segmentation of Multivariate Time Series.",
+					"Visual Analytics for Persistent Scatterer Interferometry: First Steps and Future Challenges.",
+					"Visual Analytics in Process Mining: Classification of Process Mining Techniques.",
+					"Visual-Interactive Exploration of Relations Between Time-Oriented Data and Multivariate Data.",
+					"MultiLayerMatrix: Visualizing Large Taxonomic Datasets.",
+					"Multigraph Visualization for Feature Classification of Brain Network Data."
+				]
+			}
+		]
+	},
+	{
+		"year": "2015",
+		"name": "17th EuroVis 2015",
+		"info": "Cagliari, Sardinia, Italy",
+		"venues": [
+			{
+				"sub_name_abbr": "conf/vissym/2015",
+				"sub_name": "17th Eurographics Conference on Visualization, EuroVis 2015 - Short Papers, Cagliari, Sardinia, Italy, May 25-29, 2015.",
+				"count": 24,
+				"papers": [
+					"WebGL-Enabled Remote Visualization of Smoothed Particle Hydrodynamics Simulations.",
+					"Visualization and Analysis of Large-Scale Atomistic Simulations of Plasma-Surface Interactions.",
+					"Exploratory Performance Analysis and Tuning of Parallel Interactive Volume Visualization on Large Displays.",
+					"A Quality-Preserving Cartesian to Body-Centered Cubic Downsampling Transform.",
+					"Improved Sparse Seeding for 3D Electrostatic Field Lines.",
+					"Clustering Moment Invariants to Identify Similarity within 2D Flow Fields.",
+					"Dynamic Scheduling for Progressive Large-Scale Visualization.",
+					"Analyzing the Evolution of the Internet.",
+					"OceanPaths: Visualizing Multivariate Oceanography Data.",
+					"Ambient Grids: Maintain Context-Awareness via Aggregated Off-Screen Visualization.",
+					"Task Taxonomy for Cartograms.",
+					"A Testbed Combining Visual Perception Models for Geographic Gaze Contingent Displays.",
+					"Visualizing Dynamic Brain Networks Using an Animated Dual-Representation.",
+					"Visual Analytics of Work Behavior Data - Insights on Individual Differences.",
+					"Exploratory Text Analysis using Lexical Episode Plots.",
+					"Visualization-assisted Insights into Home Energy Usage.",
+					"PoPI: Glyph Designs for Collaborative Filtering on Interactive Tabletops.",
+					"Visual Techniques to Support Exploratory Analysis of Temporal Graph Data.",
+					"Towards Understanding Enjoyment and Flow in Information Visualization.",
+					"ColorCAT: Guided Design of Colormaps for Combined Analysis Tasks.",
+					"Card Sorting Techniques for Domain Characterization in Problem-driven Visualization Research.",
+					"Bridging the Gap of Domain and Visualization Experts with a Liaison.",
+					"Interaction with Uncertainty in Visualisations.",
+					"State of the Art in Mobile Volume Rendering on iOS Devices."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/vissym/2015stars",
+				"sub_name": "17th Eurographics Conference on Visualization, EuroVis 2015 - State of the Art Reports, Cagliari, Sardinia, Italy, May 25-29, 2015.",
+				"count": 7,
+				"papers": [
+					"A Survey of Multi-faceted Graph Visualization.",
+					"The State of the Art in Visualizing Group Structures in Graphs.",
+					"A Survey of Graph-Based Representations and Techniques for Scientific Visualization.",
+					"Visualization of Biomolecular Structures: State of the Art.",
+					"On Close and Distant Reading in Digital Humanities: A Survey and Future Challenges.",
+					"A Survey of Visualization Systems for Malware Analysis.",
+					"Visualizing High-Dimensional Data: Advances in the Past Decade."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/egpgv/2015",
+				"sub_name": "15th Eurographics Symposium on Parallel Graphics and Visualization, EGPGV@EuroVis 2015, Cagliari, Sardinia, Italy, May 25-26, 2015.",
+				"count": 12,
+				"papers": [
+					"Large-Scale Parallel Visualization of Particle-Based Simulations using Point Sprites and Level-Of-Detail.",
+					"Memory-Efficient On-The-Fly Voxelization of Particle Data.",
+					"Visualization of 2DWave Propagation by Huygens' Principle.",
+					"Visualization Showcase: General-Relativistic Black Hole Visualization.",
+					"SIMD Parallel Ray Tracing of Homogeneous Polyhedral Grids.",
+					"Packet-Oriented Streamline Tracing on Modern SIMD Architectures.",
+					"Volume Rendering Via Data-Parallel Primitives.",
+					"Visualization of High-Resolution Weather Model Data.",
+					"TOD-Tree: Task-Overlapped Direct send Tree Image Compositing for Hybrid MPI Parallelism.",
+					"Contour Tree Depth Images For Large Data Visualization.",
+					"Out-of-Core Framework for QEM-based Mesh Simplification.",
+					"Visualizing Groundwater Flow Through Karst Limestone."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/vissym/2015envirvis",
+				"sub_name": "3rd Workshop on Visualisation in Environmental Sciences, EnvirVis@EuroVis 2015, Cagliari, Sardinia, Italy, May 25-26, 2015.",
+				"count": 12,
+				"papers": [
+					"Visualization of 2D Uncertainty in Decadal Climate Predictions.",
+					"Multi-Purpose Exploration of Uncertain Data for the Video Monitoring of Ecosystems.",
+					"Web-Based Visualization of the Global Change Assessment Model.",
+					"Spatial Aggregation of Mobile Transect Measurements for the Identification of Climatic Microenvironments.",
+					"A Collaborative Web-Based Environmental Data Visualization and Analysis Framework.",
+					"Towards Interactive Definition of Fast Surrogate Models for Geochemical Simulations Using Visual Analysis.",
+					"Real-Time Visualization of Urban Flood Simulation Data for Non-Professionals.",
+					"Probability Maps for the Visualization of Assimilation Ensemble Flow Data.",
+					"VafusQ: A Visual Analytics Application with Data Quality Features to Support the Urban Planning Process.",
+					"An Interactive Web-Based Geovisual Analytics Tool to Explore Water Scarcity in Niger River Basin.",
+					"Mining Social Images to Analyze Routing Preferences in Tourist Areas.",
+					"Visualizing Category-Specific Changes in Oblique Photographs of Mountain Landscapes."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/vissym/2015eurorvvv",
+				"sub_name": "3rd EuroVis Workshop on Reproducibility, Verification, and Validation in Visualization, EuroRV³@EuroVis 2015, Cagliari, Sardinia, Italy, May 25-26, 2015.",
+				"count": 9,
+				"papers": [
+					"Reproducibility, Verification, and Validation of Experiments on the Marschner-Lobb Test Signal.",
+					"On the Reproducibility of Line Integral Convolution for Real-Time Illustration of Molecular Surface Shape and Salient Regions.",
+					"On the Reproducibility of our Biomolecular Visualization.",
+					"Reproducibility Made Easy.",
+					"Debugging Vega through Inspection of the Data Flow Graph.",
+					"On the Reproducibility of VisRuption: A Tool for Intuitive and Efficient Visualization of Airline Disruption Data.",
+					"Choosing the Right Sample? Experiences of Selecting Participants for Visualization Evaluation.",
+					"A Mixed Approach for the Evaluation of a Guided Exploratory Visualization System.",
+					"Should we Dream the Impossible Dream of Reproducibility in Visual Analytics Evaluation?"
+				]
+			},
+			{
+				"sub_name_abbr": "conf/vissym/2015va",
+				"sub_name": "6th International EuroVis Workshop on Visual Analytics, EuroVA@EuroVis 2015, Cagliari, Sardinia, Italy, May 25-26, 2015.",
+				"count": 14,
+				"papers": [
+					"Supporting Historical Research Through User-Centered Visual Analytics.",
+					"Inspector Gadget: Integrating Data Preprocessing and Orchestration in the Visual Analysis Loop.",
+					"Visual Scaffolding in Integrated Spatial and Nonspatial Analysis.",
+					"Interactive Image Feature Selection Aided by Dimensionality Reduction.",
+					"The Use of High-Dimensional Visualizations in Explaining Hospital Pricing Patterns.",
+					"Attribute-based Visual Explanation of Multidimensional Projections.",
+					"Visual-Interactive Text Analysis to Support Political Decision Making - From Sentiments to Arguments to Policies.",
+					"Trajectory-based Visual Analytics for Anomalous Human Movement Analysis using Social Media.",
+					"Integrated Spatial Uncertainty Visualization using Off-screen Aggregation.",
+					"Visual Analytics and Uncertainty: Its Not About the Data.",
+					"Visual Analysis of Relations in Attributed Time-Series Data.",
+					"Exploration and Assessment of Event Data.",
+					"Integrating Predictions in Time Series Model Selection.",
+					"Gnaeus: Utilizing Clinical Guidelines for Knowledge-assisted Visualisation of EHR Cohorts."
+				]
+			}
+		]
+	},
+	{
+		"year": "2014",
+		"name": "16th EuroVis 2014",
+		"info": "Swansea, UK",
+		"venues": [
+			{
+				"sub_name_abbr": "conf/vissym/2014",
+				"sub_name": "16th Eurographics Conference on Visualization, EuroVis 2014 - Short Papers, Swansea, UK, June 9-13, 2014.",
+				"count": 22,
+				"papers": [
+					"Vortex Detection in 4D MRI Data: Using the Proper Orthogonal Decomposition for Improved Noise-Robustness.",
+					"Studying Color Blending Perception for Data Visualization.",
+					"Interactive Visualisation of Automotive Warranty Data Using Novel Extensions of Chord Diagrams.",
+					"Visibility-Driven Depth Determination of Surface Patches in Direct Volume Rendering.",
+					"Evaluation of Visualizations for Interface Analysis of SPH.",
+					"Comparing Three Designs of Macro-Glyphs for Poetry Visualization.",
+					"Revisiting Perceptually Optimized Color Mapping for High-Dimensional Data Analysis.",
+					"Eliciting Multi-touch Selection Gestures for Interactive Data Graphics.",
+					"Group-Level Graph Visualization Taxonomy.",
+					"Per-Fragment Image-based Flow Visualization using Interactive Surface Extraction from Unstructured Grids.",
+					"Color and Uncertainty: It is not always Black and White.",
+					"Redesigning the Sequence Logo with Glyph-based Approaches to Aid Interpretation.",
+					"Characterization of Blood-Flow Patterns from Phase-Contrast MRI Velocity Fields.",
+					"Extracting Jacobi Structures in Reeb Spaces.",
+					"FluidDiagrams: Web-Based Information Visualisation using JavaScript and WebGL.",
+					"Interactive Design of Multidimensional Data Projection Layout.",
+					"Bilateral Depth Filtering for Enhanced Vessel Reformation.",
+					"Visualizing Graphs as Maps with Contiguous Regions.",
+					"Visualizing Uncertainty in HARDI Tractography Using Superquadric Streamtubes.",
+					"Coherent View-Dependent Streamlines for Understanding Blood Flow.",
+					"The Design Space of Temporal Graph Visualisation.",
+					"The Effect of Information Visualization Delivery on Narrative Construction and Development."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/vissym/2014stars",
+				"sub_name": "16th Eurographics Conference on Visualization, EuroVis 2014 - State of the Art Reports, Swansea, UK, June 9-13, 2014.",
+				"count": 8,
+				"papers": [
+					"State-of-the-Art Report of Visual Analysis for Event Detection in Text Data Streams.",
+					"State of the Art of Performance Visualization.",
+					"State-of-the-Art of Visualization for Eye Tracking Data.",
+					"The State of the Art in Visualizing Dynamic Graphs.",
+					"A Survey of GPU-Based Large-Scale Volume Visualization.",
+					"A Survey on Interactive Lenses in Visualization.",
+					"A Review of Temporal Data Visualizations Based on Space-Time Cube Operations.",
+					"Visualizing Sets and Set-typed Data: State-of-the-Art and Future Challenges."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/egpgv/2014",
+				"sub_name": "14th Eurographics Symposium on Parallel Graphics and Visualization, EGPGV@EuroVis 2014, Swansea, UK, June 9-10, 2014.",
+				"count": 10,
+				"papers": [
+					"A Study of Parallel Data Compression Using Proper Orthogonal Decomposition on the K Computer.",
+					"Collaborative High-fidelity Rendering over Peer-to-peer Networks.",
+					"Parallel Methodologies for a Micropolygon Renderer.",
+					"Clustered Pre-convolved Radiance Caching.",
+					"Parallel Progressive Mesh Editing.",
+					"Finely-Threaded History-Based Topology Computation.",
+					"Freeprocessing: Transparent in situ Visualization via Data Interception.",
+					"Auto-Tuning Complex Array Layouts for GPUs.",
+					"Performance Modeling of vl3 Volume Rendering on GPU-Based Clusters.",
+					"Precomputing Sound Scattering for Structured Surfaces."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/envirvis-ws/2014",
+				"sub_name": "2nd Workshop on Visualisation in Environmental Sciences, EnvirVis@EuroVis 2014, Swansea, UK, June 9-10, 2014.",
+				"count": 6,
+				"papers": [
+					"Utilizing GeoTemCo for Visualizing Environmental Data.",
+					"Animation of Clouds Based on the Interpolation of Weather Forecast Data.",
+					"WebGL-based Geodata Visualization for Policy Support and Decision Making.",
+					"Point-Based Rendering of Forest LiDAR.",
+					"Simulating Urban Environments for Energy Analysis.",
+					"An Interactive Visualization Approach to Explore Mass Variations in the Earth System."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/vissym/2014va",
+				"sub_name": "5th International EuroVis Workshop on Visual Analytics, EuroVA@EuroVis 2014, Swansea, UK, June 9-10, 2014.",
+				"count": 11,
+				"papers": [
+					"Towards more Visual Analytics in Learning Analytics.",
+					"Interactively Visualizing Summaries of Rules and Exceptions.",
+					"Supporting an Early Detection of Diabetic Neuropathy by Visual Analytics.",
+					"What's In a Name? Data Linkage, Demography and Visual Analytics.",
+					"A Visual Analytics Field Experiment to Evaluate Alternative Visualizations for Cyber Security Applications.",
+					"Integrated Visualization and Analysis of a Multi-scale Biomedical Knowledge Space.",
+					"A Visual Analytics Approach to Segmenting and Labeling Multivariate Time Series Data.",
+					"Guided Sketching for Visual Search and Exploration in Large Scatter Plot Spaces.",
+					"Ribbons: Enabling the Effective Use of HPC Utilization Data for System Support Staff.",
+					"Visual Analytics for Risk-based Decision Making, Long-Term Planning, and Assessment Process.",
+					"From Ill-defined Problems to Informed Decisions."
+				]
+			}
+		]
+	},
+	{
+		"year": "2013",
+		"name": "15th EuroVis 2013",
+		"info": "Leipzig, Germany",
+		"venues": [
+			{
+				"sub_name_abbr": "conf/vissym/2013",
+				"sub_name": "15th Eurographics Conference on Visualization, EuroVis 2013 - Short Papers, Leipzig, Germany, June 17-21, 2013.",
+				"count": 18,
+				"papers": [
+					"MLMD: Multi-Layered Visualization for Multi-Dimensional Data.",
+					"Total Euler Characteristic as a Noise Measure to aid Transfer Function Design.",
+					"3D Strokes on Visible Structures in Direct Volume Rendering.",
+					"Visits: A Spatiotemporal Visualization of Location Histories.",
+					"Toward Wall Function Consistent Interpolation of Flow Fields.",
+					"Neighbor Embedding by Soft Kendall Correlation.",
+					"Extraction of Robust Voids and Pockets in Proteins.",
+					"Visualizing Contour Distributions in 2D Ensemble Data.",
+					"Illustrative Rendering of Vortex Cores.",
+					"Local Data Models for Probabilistic Transfer Function Design.",
+					"B: 3D - Visualize Land-use Plans Interactively.",
+					"Information Retrieval Perspective to Interactive Data Visualization.",
+					"Trajectory Density Projection for Vector Field Visualization.",
+					"A Survey of Visualization Construction User Interfaces.",
+					"PointAO - Improved Ambient Occlusion for Point-based Visualization.",
+					"A Novel Radial Visualization Approach for Undirected Hypergraphs.",
+					"HumMod Browser: An Exploratory Visualization Tool for Model Validation of Whole-Body Physiology Simulation.",
+					"Automatic Geometric Calibration of Projector-based Light Field Displays."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/envirvis-ws/2013",
+				"sub_name": "1st Workshop on Visualisation in Environmental Sciences, EnvirVis@EuroVis 2013, Leipzig, Germany, June 17-18, 2013.",
+				"count": 14,
+				"papers": [
+					"Visualizing Saline Intrusion in a Three-Dimensional, Heterogeneous, Coastal Aquifer.",
+					"MO2GEO - a Small Tool for Registration and Visualization of Geological Data.",
+					"Visual Analytics for Exploring Changes in Biodiversity.",
+					"Determining and Visualizing Potential Sources of Floods.",
+					"Visualisation Strategies for Modelling and Simulation Using Geoscientific Data.",
+					"Visualization of Urban Micro-Climate Simulations.",
+					"Rendering Technique of Multi-layered Domain Boundaries and its Application to Fluid Flow in Porous Media Visualizations.",
+					"Visualisation design for representing bird migration tracks in time and space.",
+					"Rapid Sketch-based 3D Modeling of Geology.",
+					"Environmental Visualization: Applications to Site Characterization, Remedial Programs, and Litigation Support.",
+					"Using K-Means Clustering for a Spatial Analysis of Multivariate and Time-Varying Microclimate Data.",
+					"3D Visualization of Atmospheric Data for Analytical Approaches.",
+					"Visual Analytics of the Hydrodynamic Flux for Coastal Flooding Prediction and Management.",
+					"BlendGIS: An Open Source tool for 3d and 4d visualization of ecology related spatial data."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/eurorvvv-ws/2013",
+				"sub_name": "2nd EuroVis Workshop on Reproducibility, Verification, and Validation in Visualization, EuroRV³@EuroVis 2013, Leipzig, Germany, June 17-18, 2013.",
+				"count": 4,
+				"papers": [
+					"Using User-Centered Techniques for the Design and Evaluation of Interactive Visualizations to Support Urban and Regional Planning: Case Study Bogota 21.",
+					"A Survey on Visualization in Industrial Ergonomics.",
+					"Gaze into Hierarchy: A Practice-oriented Eye Tracking Study.",
+					"A Study Of Discretization Errors In Volume Rendering Integral Approximations."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/eurova-ws/2013",
+				"sub_name": "4th International EuroVis Workshop on Visual Analytics, EuroVA@EuroVis 2013, Leipzig, Germany, June 17-18, 2013.",
+				"count": 12,
+				"papers": [
+					"Dataflow-based Visual Analysis for Fault Diagnosis and Predictive Maintenance in Manufacturing.",
+					"Interactive Visual Analysis in the Concept Stage of a Hybrid-Vehicle Design.",
+					"Visual Analytics of Microblog Data for Public Behavior Analysis in Disaster Events.",
+					"Retrospective Analysis of Surveillance Data: A Case Study for Road Tunnels.",
+					"Visual Analysis of Expert Systems for Smart Grid Monitoring.",
+					"Visual Analysis of Tracts of Homozygosity in Human Genome.",
+					"Mind the Time: Unleashing the Temporal Aspects in Pattern Discovery.",
+					"Feature-Based Visual Analytics for Studying Simulations of Dynamic Bi-Stable Spatial Systems.",
+					"Towards Privacy-Preserving Semantic Mobility Analysis.",
+					"Modeling Incremental Visualizations.",
+					"Visual Comparison of Orderings and Rankings.",
+					"Visual Grouping - Follow the Leader!"
+				]
+			},
+			{
+				"sub_name_abbr": "conf/vissym/2013vamp",
+				"sub_name": "1st International Workshop on Visual Analytics Using Multidimensional Projections, VAMP@EuroVis 2013, Leipzig, Germany, June 19, 2013.",
+				"count": 6,
+				"papers": [
+					"User Control for Adjusting Conflicting Objectives in Parameter-dependent Visualization of Data.",
+					"Interactive Visualization and Feature Transformation for Multidimensional Data Projection.",
+					"ProxiLens: Interactive Exploration of High-Dimensional Data using Projections.",
+					"ClassiMap: a Supervised Mapping Technique for Decision Support.",
+					"Stability Comparison of Dimensionality Reduction Techniques Attending to Data and Parameter Variations.",
+					"A Proposition of Interactive Visual Clustering System."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/vmls-ws/2013short",
+				"sub_name": "3rd International Workshop on Visualization in Medicine and Life Sciences, VMLS@EuroVis 2013 - Short Papers, Leipzig, Germany, June 16-18, 2013.",
+				"count": 11,
+				"papers": [
+					"Amyloid Analyzer - A software assistant for qualitative and quantitative analysis of Florbetaben PET scans.",
+					"Improving Electrical Impedance Tomography Imaging of the Lung with Patient-specific 3D Models.",
+					"Supervised Kernel Principal Component Analysis for Visual Sample-based Analysis of Gene Expression Data.",
+					"Interactive Visualization of Neuroanatomical Data for a Hands-On Multimedia Exhibit.",
+					"Visualization for Understanding Uncertainty in the Simulation of Myocardial Ischemia.",
+					"Corrected Uncertainty in Probabilistic Segmentation Using Local Statistics.",
+					"Towards a Structured Analysis of Quantitative Descriptors from Segmented Biological Image Data.",
+					"Towards Automatic Extraction of the Myocardium in Temporal MRI Using Object-based Segmentation.",
+					"Hierarchical Poisson-Disk Sampling for Fiber Stipples.",
+					"Combined Volume Registration and Visualization.",
+					"Functional Connectivity Glyphs for Brain Visualization."
+				]
+			}
+		]
+	},
+	{
+		"year": "2012",
+		"name": "14th EuroVis 2012",
+		"info": "Vienna, Austria",
+		"venues": [
+			{
+				"sub_name_abbr": "conf/vissym/2012",
+				"sub_name": "14th Eurographics Conference on Visualization, EuroVis 2012 - Short Papers, Vienna, Austria, June 5-8, 2012.",
+				"count": 21,
+				"papers": [
+					"MorphingProjections: Interactive Visualization of Electric Power Demand Time Series.",
+					"Visualization of Geospatial Time Series from Environmental Modeling Output.",
+					"DiffMatrix: Matrix-based Interactive Visualization for Comparing Temporal Trends.",
+					"arcs.fm - A Backdrop Visualization for Music Talk.",
+					"ClockMap: Enhancing Circular Treemaps with Temporal Glyphs for Time-Series Data.",
+					"The Effects of Visualization Feedback on Promoting Health Goal Progress in Older Adults.",
+					"Pattern Visualization of Human Connectome Data.",
+					"A Unified Representation for the Model-based Visualization of Heterogeneous Anatomy Data.",
+					"Fast Visualization of Gaussian Density Surfaces for Molecular Dynamics and Particle System Trajectories.",
+					"Visualization Software for 3D Video Microscopy: A Design Study.",
+					"Projection-based Visualization of Dynamical Processes on Networks.",
+					"MCS Filters to Express Partial Satisfaction of Criteria.",
+					"Sankey Arcs - Visualizing edge weights in path graphs.",
+					"Visualization of Large, Time-Dependent, Abstract Data with Integrated Spherical and Parallel Coordinates.",
+					"The Parallel Coordinates Matrix.",
+					"CrystalExplorer: An Interactive Knowledge-Assisted System for Visual Design of Solar Cell Crystal Structures.",
+					"Particle-Based Transparent Rendering of Implicit Surfaces and its Application to Fused Visualization.",
+					"Continuous Navigation of Nested Abstraction Levels.",
+					"Calibration of the Marschner-Lobb Signal on CC, BCC, and FCC Lattices.",
+					"Force Brushes: Progressive Data-Driven Haptic Selection and Filtering for Multi-Variate Flow Visualizations.",
+					"Vortex Merge Graphs in Two-dimensional Unsteady Flow Fields."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/vissym/2012va",
+				"sub_name": "3rd International EuroVis Workshop on Visual Analytics, EuroVA@EuroVis 2012, Vienna, Austria, June 4-5, 2012.",
+				"count": 17,
+				"papers": [
+					"Interactive Visual Analysis of Ethological Studies: Getting Insight from Large Ensembles of Animals' Paths.",
+					"Graph Visualization Using Hierarchical Edge Routing and Bundling.",
+					"Visual Analysis of Public Transport Vehicle Movement.",
+					"Ontology Visualization: One Size Does Not Fit All.",
+					"The News Auditor: Visual Exploration of Clusters of Stories.",
+					"Visual Analytics of Microblog Data for Pandemic and Crisis Analysis.",
+					"MultiNode-Explorer: A Visual Analytics Framework for Generating Web-based Multimodal Graph Visualizations.",
+					"AMPLIO VQA - A Web Based Visual Query Analysis System for Micro Grid Energy Mix Planning.",
+					"Visual Text Analytics using Semantic Networks and Interactive 3D Visualization.",
+					"Developing an Extended Task Framework for Exploratory Data Analysis Along the Structure of Time.",
+					"Visual Exploration of Feature-Class Matrices for Classification Problems.",
+					"Visual Analysis of Explicit Opinion and News Bias in German Soccer Articles.",
+					"Scalable Cluster Analysis of Spatial Events.",
+					"A System for Query Based Analysis and Visualization.",
+					"PCDC - On the Highway to Data - A Tool for the Fast Generation of Large Synthetic Data Sets.",
+					"Visual Analytics for Dynamic Evacuation Planning.",
+					"Supporting Visual Analysis in Smart Meeting Rooms."
+				]
+			}
+		]
+	},
+	{
+		"year": "2011",
+		"name": "13th EuroVis 2011",
+		"info": "Bergen, Norway",
+		"venues": [
+			{
+				"sub_name_abbr": "conf/eurova-ws/2011",
+				"sub_name": "2nd International EuroVis Workshop on Visual Analytics, EuroVA@EuroVis 2011, Bergen, Norway, May 31, 2011.",
+				"count": 14,
+				"papers": [
+					"Steerable Clustering for Visual Analysis of Ecosystems.",
+					"Contingency Wheel: Visual Analysis of Large Contingency Tables.",
+					"A Framework for the Multi-Temporal Analysis of Land Cover Change using Visual Analytics.",
+					"Exploring Complex Mobile Life through Lightweight Visualizations.",
+					"Adaptive Interactive Multi-Resolution Computational Steering for Complex Engineering Systems.",
+					"Interactive Analysis of Object Group Changes over Time.",
+					"Visual Comparison of Ranked Result Cumulated Gains.",
+					"Visual Analysis of Advanced Manufacturing Simulations.",
+					"Visual Analysis of User Behaviour in Pay-Per-Bid Auctions.",
+					"Towards a Concept how the Structure of Time can Support the Visual Analytics Process.",
+					"Understanding the Role and Value of Interaction: First Steps.",
+					"SmartStripes - Looking under the Hood of Feature Subset Selection Methods.",
+					"Data Driven Color Mapping.",
+					"Characterizing Visual Analytics in Diagnostic Imaging."
+				]
+			}
+		]
+	},
+	{
+		"year": "2010",
+		"name": "12th EuroVis 2010",
+		"info": "Bordeaux, France",
+		"venues": [
+			{
+				"sub_name_abbr": "conf/vissym/2010vast",
+				"sub_name": "1st International Symposium on Visual Analytics Science and Technology, EuroVAST@EuroVis 2010, Bordeaux, France, June 8, 2010.",
+				"count": 14,
+				"papers": [
+					"DYNEVI - DYnamic News Entity Visualization.",
+					"Visual Analytics in Software Maintenance: Challenges and Opportunities.",
+					"Interactive Visual Analysis of Families of Surfaces: An Application to Car Race and Car Setup.",
+					"Policy-making in a Complex World: Can Visual Analytics Help?",
+					"Combining Details of the Chi-Square Goodness-of-Fit Test with Multivariate Data Visualization.",
+					"Visual Analytics to Check Marine Containers in the Eritr\\@c Project.",
+					"Utilizing Treemaps for Multicriterial Search of 3D Objects.",
+					"Does Jason Bourne need Visual Analytics to catch the Jackal?",
+					"Capturing Reasoning Process through User Interaction.",
+					"Comparative Visual Analysis of Cross-Linguistic Features.",
+					"Finding Arbitrary Shaped Clusters with Related Extents in Space and Time.",
+					"Stress Maps: Analysing Local Phenomena in Dimensionality Reduction Based Visualisations.",
+					"Smart Query Definition for Content-Based Search in Large Sets of Graphs.",
+					"Sensemaking in Visual Analytics: Processes and Challenges."
+				]
+			}
+		]
+	},
+	{
+		"year": "2009",
+		"name": "11th EuroVis 2009",
+		"info": "Berlin, Germany",
+		"venues": []
+	},
+	{
+		"year": "2008",
+		"name": "10th EuroVis 2008",
+		"info": "Eindhoven, The Netherlands",
+		"venues": []
+	},
+	{
+		"year": "2007",
+		"name": "9th EuroVis 2007",
+		"info": "Norrköping, Sweden",
+		"venues": [
+			{
+				"sub_name_abbr": "conf/vissym/2007",
+				"sub_name": "9th Joint Eurographics - IEEE VGTC Symposium on Visualization, EuroVis 2007, Norrköping, Sweden, May 23-25, 2007.",
+				"count": 35,
+				"papers": [
+					"Multiscale Visualization of Dynamic Software Logs.",
+					"Relevance Driven Visualization of Financial Performance Measures.",
+					"Multi-Resolution Techniques for Visual Exploration of Large Time-Series Data.",
+					"Depth Cues and Density in Temporal Parallel Coordinates.",
+					"KeyStrokes: Personalizing Typed Text with Visualization.",
+					"Visualization of Uncertainty in Lattices to Support Decision-Making.",
+					"Manual Clustering Refinement using Interaction with Blobs.",
+					"Grouse: Feature-Based, Steerable Graph Hierarchy Exploration.",
+					"Online Dynamic Graph Drawing.",
+					"Path Visualization for Adjacency Matrices.",
+					"Story Telling for Presentation in Volume Visualization.",
+					"Dimensional Congruence for Interactive Visual Data Mining and Knowledge Discovery.",
+					"TrustNeighborhoods: Visualizing Trust in Distributed File Sharing Systems.",
+					"A Tri-Space Visualization Interface for Analyzing Time-Varying Multivariate Volume Data.",
+					"Interactive Visualization of Multi-Field Medical Data Using Linked Physical and Feature-Space Views.",
+					"Design of Multi-dimensional Transfer Functions Using Dimensional Reduction.",
+					"Subdivision Volume Splatting.",
+					"The CoMIRVA Toolkit for Visualizing Music-Related Data.",
+					"Sonar Explorer: A New Tool for Visualization of Fish Schools from 3D Sonar Data.",
+					"See What You Know: Analyzing Data Distribution to Improve Density Map Visualization.",
+					"Integrating Local Feature Detectors in the Interactive Visual Analysis of Flow Simulation Data.",
+					"Flexible And Topologically Localized Segmentation.",
+					"Segmentation of DT-MRI Anisotropy Isosurfaces.",
+					"Feature Identification and Extraction in Function Fields.",
+					"Parametric Visualization of High Resolution Correlated Multi-spectral Features Using PCA.",
+					"Visualization Methods for Vortex Rings and Vortex Breakdown Bubbles.",
+					"Animation of Orthogonal Texture-Based Vector Field Visualization.",
+					"Priority Streamlines: A context-based Visualization of Flow Fields.",
+					"Hardware-accelerated Stippling of Surfaces derived from Medical Volume Data.",
+					"Multiresolution MIP Rendering of Large Volumetric Data Accelerated on Graphics Hardware.",
+					"Interactive Visual Exploration of Unsteady 3D Flows.",
+					"Functional Unit Maps for Data-Driven Visualization of High-Density EEG Coherence.",
+					"Viewpoint Selection for Intervention Planning.",
+					"Feature Emphasis and Contextual Cutaways for Multimodal Medical Visualization.",
+					"Model-free Surface Visualization of Vascular Trees."
+				]
+			}
+		]
+	},
+	{
+		"year": "2006",
+		"name": "8th EuroVis 2006",
+		"info": "Lisbon, Portugal",
+		"venues": [
+			{
+				"sub_name_abbr": "conf/vissym/2006",
+				"sub_name": "8th Joint Eurographics - IEEE VGTC Symposium on Visualization, EuroVis 2006, Lisbon, Portugal, May 8-10, 2006.",
+				"count": 43,
+				"papers": [
+					"GPU-Accelerated Volume Splatting With Elliptical RBFs.",
+					"Hardware-accelerated Extraction and Rendering of Point Set Surfaces.",
+					"GPUFLIC: Interactive and Accurate Dense Visualization of Unsteady Flows.",
+					"GPU-Based Hyperstreamlines for Diffusion Tensor Imaging.",
+					"Natural Visualizations.",
+					"Combining Extended Table Lens and Treemap Techniques for Visualizing Tabular Data.",
+					"PhylloTrees: Phyllotactic Patterns for Tree Layout.",
+					"Evaluating the Effectiveness of Tree Visualization Systems for Knowledge Discovery.",
+					"Robust Surface Detection for Variance Comparison and Dimensional Measurement.",
+					"Efficient Surface Reconstruction from Noisy Data using Regularized Membrane Potentials.",
+					"Terrain Rendering using Spherical Clipmaps.",
+					"Direct Isosurface Extraction from Scattered Volume Data.",
+					"Knowledge-Based Out-of-Core Algorithms for Data Management in Visualization.",
+					"Volume Composition Using Eye Tracking Data.",
+					"Enhancing Slice-based Visualizations of Medical Volume Data.",
+					"Integrated Visualization of Morphologic and Perfusion Data for the Analysis of Coronary Artery Disease.",
+					"Path Line Oriented Topology for Periodic 2D Time-Dependent Vector Fields.",
+					"Segmentation of Flow Fields using Pattern Matching.",
+					"Texture Advection on Stream Surfaces: A Novel Hybrid Visualization Applied to CFD Simulation Results.",
+					"Structure-accentuating Dense Flow Visualization.",
+					"Simultaneous Classification of Time-Varying Volume Data Based on the Time Histogram.",
+					"Affiliation Dynamics with an Application to Movie-Actor Biographies.",
+					"CVSgrab: Mining the History of Large Software Projects.",
+					"A Spectral Visualization System for Analyzing Financial Time Series Data.",
+					"PointCloudXplore: Visual Analysis of 3D Gene Expression Data Using Physical Views and Parallel Coordinates.",
+					"D2VR: High-Quality Volume Rendering of Projection-based Volumetric Data.",
+					"Integrating Dynamic Deformations into Interactive Volume Visualization.",
+					"The alpha -histogram: Using Spatial Coherence to Enhance Histograms and Transfer Function Design.",
+					"Fast Ray Traversal of Tetrahedral and Hexahedral Meshes for Direct Volume Rendering.",
+					"Automating Transfer Function Design for Volume Rendering Using Hierarchical Clustering of Material Boundaries.",
+					"Improving the Quality of Multi-resolution Volume Rendering.",
+					"Multiresolution Interblock Interpolation in Direct Volume Rendering.",
+					"A Granular Three Dimensional Multiresolution Transform.",
+					"Lossless Geometry Compression for Steady-State and Time-Varying Irregular Grids.",
+					"An Interactive Visualization System for Quantifying Coral Structures.",
+					"Visualizing the Phonon Map.",
+					"A Case Study: Visualizing Material Point Method Data.",
+					"Enhanced Visualizations of Thermographic Data in Process Industry.",
+					"Perspective Isosurface and Direct Volume Rendering for Virtual Endoscopy Applications.",
+					"Data Reconstruction and Visualization Techniques for Forensic Pathology.",
+					"3D Soft Segmentation and Visualization of Medical Data Based on Nonlinear Diffusion and Distance Functions.",
+					"Application-Oriented Extensions of Profile Flags.",
+					"Real-Time Super Resolution Contextual Close-up of Clinical Volumetric Data."
+				]
+			},
+			{
+				"sub_name_abbr": "conf/egpgv/2006",
+				"sub_name": "6th Eurographics Symposium on Parallel Graphics and Visualization, EGPGV@EuroVis/EGVE 2006, Braga, Portugal, May 11-12, 2006.",
+				"count": 21,
+				"papers": [
+					"Rendering on Demand.",
+					"An Application of Scalable Massive Model Interaction using Shared-Memory Systems.",
+					"Accelerating the Irradiance Cache through Parallel Component-Based Rendering.",
+					"Parallel Simulation of Cloth on Distributed Memory Architectures.",
+					"Dynamic Load Balancing for Parallel Volume Rendering.",
+					"Interactive Volume Rendering of Unstructured Grids with Time-Varying Scalar Fields.",
+					"Optimized Volume Raycasting for Graphics-Hardware-based Cluster Systems.",
+					"Accelerated Volume Rendering with Homogeneous Region Encoding using Extended Anisotropic Chessboard Distance on GPU.",
+					"Parallel Texture-Based Vector Field Visualization on Curved Surfaces Using GPU Cluster Computers.",
+					"Distributed Force-Directed Graph Layout and Visualization.",
+					"Time Step Prioritising in Parallel Feature Extraction on Unsteady Simulation Data.",
+					"Parallelization of Inverse Design of Luminaire Reflectors.",
+					"The Challenges of Commodity-Based Visualization Clusters.",
+					"WinSGL: Software Genlocking for Cost-Effective Display Synchronization under Microsoft Windows.",
+					"Sorted Pipeline Image Composition.",
+					"Optimized Visualization for Tiled Displays.",
+					"Parallel Particle Rendering: a Performance Comparison between Chromium and Aura.",
+					"Piggybacking for More Efficient Parallel Out-of-Core Isosurfacing.",
+					"A Scalable, Hybrid Scheme for Volume Rendering Massive Data Sets.",
+					"Remote Large Data Visualization in the ParaView Framework.",
+					"Multi-layered Image Caching for Distributed Rendering of Large Multiresolution Datasets."
+				]
+			}
+		]
+	},
+	{
+		"year": "2005",
+		"name": "7th EuroVis 2005",
+		"info": "Leeds, UK",
+		"venues": [
+			{
+				"sub_name_abbr": "conf/vissym/2005",
+				"sub_name": "7th Joint Eurographics - IEEE VGTC Symposium on Visualization, Leeds, UK, June 1-3, 2005.",
+				"count": 38,
+				"papers": [
+					"Dynamically Modelling Interaction.",
+					"Real-Time Advection and Volumetric Illumination for the Visualization of 3D Unsteady Flow.",
+					"Dense Geometric Flow Visualization.",
+					"Vector Field Analysis and Visualization through Variational Clustering.",
+					"Scalable, Robust Visualization of Very Large Trees.",
+					"The i-Disc - A Tool To Visualize and Explore Topic Maps.",
+					"ArcTrees: Visualizing Relations in Hierarchical Data.",
+					"Tiled Parallel Coordinates for the Visualization of Time-Varying Multichannel EEG Data.",
+					"Illustrative Context-Preserving Volume Rendering.",
+					"High-Quality Rendering of Compressed Volume Data Formats.",
+					"High-Quality Volume Rendering with Resampling in the Frequency Domain.",
+					"Visualization for Validation and Improvement of Three-dimensional Segmentation Algorithms.",
+					"VIS-a-VE: Visual Augmentation for Virtual Environments in Surgical Training.",
+					"VisBiz: A Business Process Visualization Case Study.",
+					"Transfer Functions for Imaging Spectroscopy Data using Principal Component Analysis.",
+					"A Simple and Novel Seed-Set Finding Approach for Iso-Surface Extraction.",
+					"Interactive rendering of massive terrains on PC clusters.",
+					"Localized Flow Analysis of 2D and 3D Vector Fields.",
+					"Galilean Invariant Extraction and Iconic Representation of Vortex Core Lines.",
+					"Analysis and Visualization of 3-C PIV Images from HART II using Image Processing Methods.",
+					"Pointillist and Glyph-based Visualization of Nanoparticles in Formation.",
+					"Hardware-Accelerated Glyphs for Mono- and Dipoles in Molecular Dynamics Visualization.",
+					"Visualization of Computer-Modeled Forests for Forest Management.",
+					"GVis: A Scalable Visualization Framework for Genomic Data.",
+					"Non-manifold Mesh Extraction from Time-varying Segmented Volumes used for Modeling a Human Heart.",
+					"Isosurface Extraction Using Fixed-Sized Buckets.",
+					"Spline-Based Gradient Filters For High-Quality Refraction Computations in Discrete Datasets.",
+					"Version-Centric Visualization of Code Evolution.",
+					"MoireTrees: Visualization and Interaction for Multi-Hierarchical Data.",
+					"Visualisation and Analysis of Large and Complex Scale-free Networks.",
+					"Mail Explorer - Spatial and Temporal Exploration of Electronic Mail.",
+					"Discovering High-level Parameters for Visualization Design.",
+					"Extending and Simplifying Transfer Function Design in Medical Volume Rendering Using Local Histograms.",
+					"Spatialized Transfer Functions.",
+					"Interactive Methods for Exploring Particle Simulation Data.",
+					"BioBrowser: A Framework for Fast Protein Visualization.",
+					"Interactive Visualization for Neck-Dissection Planning.",
+					"Combining Silhouettes, Surface, and Volume Rendering for Surgery Education and Planning."
+				]
+			}
+		]
+	},
+	{
+		"year": "2004",
+		"name": "6th VisSym 2004",
+		"info": "Konstanz, Germany",
+		"venues": [
+			{
+				"sub_name_abbr": "conf/vissym/2004",
+				"sub_name": "6th Joint Eurographics - IEEE TCVG Symposium on Visualization, VisSym 2004, Konstanz, Germany, May 19-21, 2004.",
+				"count": 40,
+				"papers": [
+					"New Frontiers for Visualization.",
+					"Illustrating Surfaces in Volume.",
+					"A Cluster-Space Visual Interface for Arbitrary Dimensional Classification of Volume Data.",
+					"High-Quality Lighting for Pre-Integrated Volume Rendering.",
+					"Interactively Visualizing Procedurally Encoded Scalar Fields.",
+					"TimeHistograms for Large, Time-Dependent Data.",
+					"Shape-Embedded-Histograms for Visual Data Mining.",
+					"Graph Drawing by Subspace Optimization.",
+					"Visual Triangulation of Network-Based Phylogenetic Trees.",
+					"Texture-Based Flow Visualization on Isosurfaces.",
+					"Case Study: Visual Analysis of Complex, Time-Dependent Simulation Results of a Diesel Exhaust System.",
+					"Visualizing Organisms with Hydraulic Body Parts: A Case Study in Integrating Simulation and Visualization Models.",
+					"Visualization For Public-Resource Climate Modeling.",
+					"Case Study: Visualization of annotated DNA sequences.",
+					"Accuracy Evaluation of Different Centerline Approximations of Blood Vessels.",
+					"Interactive Treemaps With Detail on Demand to Support Information Search in Documents.",
+					"Visual Component Analysis.",
+					"Interaction Spaces in Data and Information Visualization.",
+					"Superquadric tensor glyphs.",
+					"Surface Techniques for Vortex Visualization.",
+					"Techniques for Visualizing Multi-Valued Flow Data.",
+					"DTI Visualization with Streamsurfaces and Evenly-Spaced Volume Seeding.",
+					"Boundary Switch Connectors for Topological Visualization of Complex 3D Vector Fields.",
+					"Auralization I: Vortex Sound Synthesis.",
+					"Ray Casting Curved-Quadratic Elements.",
+					"Interactive High Quality Trimmed NURBS Visualization Using Appearance Preserving Tessellation.",
+					"Generalized Distance Transforms and Skeletons in Graphics Hardware.",
+					"A Botanically Inspired High-Dimensional Visualization with Multivariate Glyphs.",
+					"Browsing and Visualizing Digital Bibliographic Data.",
+					"Visualization of Cardio-CT Data on Standard PC Hardware.",
+					"Medical Applications of Multi-field Volume Rendering and VR Techniques.",
+					"Volume Visualization and Visual Queries for Large High-Dimensional Datasets.",
+					"Software Landscapes: Visualizing the Structure of Large Software Systems.",
+					"Occlusion Culling for Sub-Surface Models in Geo-Scientific Applications.",
+					"Meshless Isosurface Generation from Multiblock Data.",
+					"Efficient Isosurface Tracking Using Precomputed Correspondence Table.",
+					"Isosurface Computation Made Simple.",
+					"Efficient Display of Background Objects for Virtual Endoscopy using Flexible First-Hit Ray Casting.",
+					"Visualization of anatomic tree structures with convolution surfaces.",
+					"Adaptive Volume Construction from Ultrasound Images of a Human Heart."
+				]
+			}
+		]
+	},
+	{
+		"year": "2003",
+		"name": "5th VisSym 2003",
+		"info": "Grenoble, France",
+		"venues": [
+			{
+				"sub_name_abbr": "conf/vissym/2003",
+				"sub_name": "5th Joint Eurographics - IEEE TCVG Symposium on Visualization, VisSym 2003, Grenoble, France, May 26-28, 2003.",
+				"count": 30,
+				"papers": [
+					"Using Graphs for Fast Error Term Approximation of Time-varying Datasets.",
+					"Visual Hierarchical Dimension Reduction for Exploration of High Dimensional Datasets.",
+					"Visualizing Spatial Distribution Data Sets.",
+					"Isosurfaces on Optimal Regular Samples.",
+					"Path Seeds and Flexible Isosurfaces - Using Topology for Exploratory Visualization.",
+					"Accelerated Force Computation for Physics-Based Information Visualization.",
+					"Detection of constrictions on closed polyhedral surfaces.",
+					"Shrouds: Optimal Separating Surfaces for Enumerated Volumes.",
+					"Detecting Critical Regions in Scalar Fields.",
+					"Analysis of HDAF for Interpolation and Noise Suppression in Volume Rendering.",
+					"ShellSplatting: Interactive Rendering of Anisotropic Volumes.",
+					"Anti-Aliased Volume Extraction.",
+					"Case Study: Cellar Scaffold Extraction Using Crest Point for Volume Rendering.",
+					"Case Study: Comparing Two Methods for Filtering External Motion in 4D Confocal Microscopy Data.",
+					"Efficient Visualization of Large Medical Image Datasets on Standard PC Hardware.",
+					"Feature Flow Fields.",
+					"MCMR: A Fluid View on Time Dependent Volume Data.",
+					"Interaction of Light and Tensor Fields.",
+					"Contouring Curved Quadratic Elements.",
+					"Adaptive Smooth Scattered Data Approximation for Large-scale Terrain Visualization.",
+					"A Robust Level-Set Algorithm for Centerline Extraction.",
+					"Vector field visualization using Markov Random Field texture synthesis.",
+					"Improving Topological Segmentation of Three-dimensional Vector Fields.",
+					"Rendering Vector Data over Global, Multiresolution 3D Terrain.",
+					"Post-convolved Splatting.",
+					"Smart Hardware-Accelerated Volume Rendering.",
+					"Interactive Feature Specification for Focus+Context Visualization of Complex Simulation Data.",
+					"Hierarchical Isosurface Segmentation Based on Discrete Curvature.",
+					"ISOSLIDER: A System for Interactive Exploration of Isosurfaces.",
+					"Hardware-assisted View-dependent Isosurface Extraction using Spherical Partition."
+				]
+			}
+		]
+	},
+	{
+		"year": "2002",
+		"name": "4th VisSym 2002",
+		"info": "Barcelona, Spain",
+		"venues": [
+			{
+				"sub_name_abbr": "conf/vissym/2002",
+				"sub_name": "4th Joint Eurographics - IEEE TCVG Symposium on Visualization, VisSym 2002, Barcelona, Spain, May 27-29, 2002.",
+				"count": 31,
+				"papers": [
+					"Parallel and Out-of-core View-dependent Isocontour Visualization Using Random Data Distribution.",
+					"Statistical Computation of Salient ISO-Values.",
+					"Interactive Visualization and Steering of CFD Simulations.",
+					"Adding a scalar value to texture-based vector field representations by local contrast analysis.",
+					"AUFLIC: An Accelerated Algorithm For Unsteady Flow Line Integral Convolution.",
+					"Octreemizer: A Hierarchical Approach for Interactive Roaming Through Very Large Volumes.",
+					"Comparison of Morphological Pyramids for Multiresolution MIP Volume Rendering.",
+					"Interactive Previewing for Transfer Function Specification in Volume Rendering.",
+					"Cell-Based First-Hit Ray Casting.",
+					"A Generic Solution for Hardware-Accelerated Remote Visualization.",
+					"Shear-Warp Deluxe: The Shear-Warp Algorithm Revisited.",
+					"Feature-Preserving Volume Filtering.",
+					"Direct Volume Rendering of Photographic Volumes Using Multi-Dimensional Color-Based Transfer Functions.",
+					"View-Dependent Multiresolution Splatting of Non-Uniform Data.",
+					"Best Quadratic Spline Approximation for Hierarchical Visualization.",
+					"Bag-of-Particles as a Deformable Model.",
+					"A Continuous Skeletonization Method Based on Level Sets.",
+					"Visualization of Bibliographic Networks with a Reshaped Landscape Metaphor.",
+					"Secondary Task Display Attributes - Optimizing Visualizations for Cognitive Task Suitability and Interference Avoidance.",
+					"Visualizing and Investigating Multidimensional Functions.",
+					"Viewpoint Entropy: A New Tool for Obtaining Good Views of Molecules.",
+					"Volume Rendering Multivariate Data to Visualize Meteorological Simulations: A Case Study.",
+					"Speech and Gesture Multimodal Control of a Whole Earth 3D Visualization Environment.",
+					"Visualization of Large Web Access Data Sets.",
+					"Useful Properties of Semantic Depth of Field for Better F+C Visualization.",
+					"An Evaluation of Information Visualization in Attention-Limited Environments.",
+					"A Novel Approach To Vortex Core Region Detection.",
+					"Locating Closed Streamlines in 3D Vector Fields.",
+					"Vortex Tracking in Scale-Space.",
+					"An Open Toolkit for Prototyping Reverse Engineering Visualizations.",
+					"An Augmented Fast Marching Method for Computing Skeletons and Centerlines."
+				]
+			}
+		]
+	},
+	{
+		"year": "2001",
+		"name": "3rd VisSym 2001",
+		"info": "Ascona, Switzerland",
+		"venues": [
+			{
+				"sub_name_abbr": "conf/vissym/2001",
+				"sub_name": "3rd Joint Eurographics - IEEE TCVG Symposium on Visualization, VisSym 2001, Ascona, Switzerland, May 28-30, 2001.",
+				"count": 33,
+				"papers": [
+					"A Case Study in Multi-Sensory Investigation of Geoscientific Data.",
+					"Acquisition and Display of Real-Time Atmospheric Data on Terrain.",
+					"Extraction of Crack-free Isosurfaces from Adaptive Mesh Refinement Data.",
+					"Fast Multiresolution Extraction of Multiple Transparent Isosurfaces.",
+					"Multiresolution Maximum Intensity Volume Rendering by Morphological Pyramids.",
+					"Subdivision Surfaces for Scattered-data Approximation.",
+					"The Rendering of Unstructured Grids Revisited.",
+					"Nonlinear Diffusion in Graphics Hardware.",
+					"Voxel Column Culling: Occlusion Culling for Large Terrain Models.",
+					"Stream Surface Generation for Fluid Flow Solutions on Curvilinear Grids.",
+					"Vector and Tensor Field Topology Simplification on Irregular Grids.",
+					"Topology-Based Visualization of Time-Dependent 2D Vector Fields.",
+					"Virtual Colon Flattening.",
+					"Improved visualization in virtual colonoscopy using image-based rendering.",
+					"Three-dimensional Reconstruction and Visualization of the Cerebral Cortex in Primates.",
+					"Interactive and Multi-modal Visualization for Neuroendoscopic Interventions.",
+					"Visualization of Generalized Voronoi Diagrams.",
+					"Preserving the Mental Map using Foresighted Layout.",
+					"Visualization of directed associations in e-commerce transaction data.",
+					"Space-Efficient Boundary Representation of Volumetric Objects.",
+					"Salient Representation of Volume Data.",
+					"A Selective Refinement Approach for Computing the Distance Functions of Curves.",
+					"Progressive View-Dependent Isosurface Propagation.",
+					"A Hardware-Assisted Visibility-Ordering Algorithm With Applications To Volume Rendering.",
+					"Volume Rendering Data with Uncertainty Information.",
+					"Adaptive Volume Rendering using Fuzzy Logic Control.",
+					"I/O-Conscious Volume Rendering.",
+					"Interacting with Stock Market Data in a Virtual Environment.",
+					"Case Study: Visualization and Information Retrieval Techniques for Network Intrusion Detection.",
+					"DDDiver: 3D Interactive Visualization of Entity Relationships.",
+					"Visualization of Thermal Flows in an Automotive Cabin with Volume Rendering Method.",
+					"Automotive Soiling Simulation Based On Massive Particle Tracing.",
+					"Comparative Visualization of Instabilities in Crash-Worthiness Simulations."
+				]
+			}
+		]
+	},
+	{
+		"year": "2000",
+		"name": "2nd VisSym 2000",
+		"info": "Amsterdam, The Netherlands",
+		"venues": [
+			{
+				"sub_name_abbr": "conf/vissym/2000",
+				"sub_name": "2nd Joint Eurographics - IEEE TCVG Symposium on Visualization, VisSym 2000, Amsterdam, The Netherlands, May 29-30, 2000.",
+				"count": 27,
+				"papers": [
+					"DAG Drawing from an Information Visualization Perspective.",
+					"Contextual Visualization of Actor Status in Social Networks.",
+					"Improving Angular Resolution in Visualizations of Geographic Networks.",
+					"Squarified Treemaps.",
+					"Dynamic Overview Techniques for Image Retrieval.",
+					"Drawing Relational Schemas.",
+					"Hierarchical Data Representations Based on Planar Voronoi Diagrams.",
+					"Skeleton Graph Generation for Feature Shape Description.",
+					"Progressive Volume Models for Rectilinear Data using Tetrahedral Coons Volumes.",
+					"Hardware Accelerated Wavelet Transformations.",
+					"Multiresolution Techniques for Interactive Texture-based Rendering of Arbitrarily Oriented Cutting Planes.",
+					"Very Large Scale Visualization Methods for Astrophysical Data.",
+					"Hybrid Model for Vascular Tree Structures.",
+					"Direct Volume Rendering from Photographic Data.",
+					"Variational Approach to Vector Field Decomposition.",
+					"Integrated Multiresolution Geometry and Texture Models for Terrain Visualization.",
+					"A Framework for Interactive Hardware Accelerated Remote 3D-Visualization.",
+					"Appearance-Based Virtual-View Generation for Fly Through in a Real Dynamic Scene.",
+					"SMARTLINK: An Agent for Supporting Dataflow Application Construction.",
+					"Design of Visualizations for Urban Modeling.",
+					"ViSSh: A Data Visualisation Spreadsheet.",
+					"Fast Visualization of Special Relativistic Effects on Geometry and Illumination.",
+					"AlVis - An Aluminium-Foam Visualization and Investigation Tool.",
+					"WWW-based Visualization of the Real Time Run of a Space Weather Forecasting Model.",
+					"Towards visual matching as a way of transferring pre-operative surgery planning.",
+					"A Case Study of Isosurface Extraction Algorithm Performance.",
+					"Case Study: Resource Steering in a Visualization System."
+				]
+			}
+		]
+	},
+	{
+		"year": "1999",
+		"name": "1st VisSym 1999",
+		"info": "Vienna, Austria",
+		"venues": [
+			{
+				"sub_name_abbr": "conf/vissym/1999",
+				"sub_name": "1st Joint Eurographics - IEEE TCVG Symposium on Visualization, VisSym 1999, Vienna, Austria, May 26-28, 1999.",
+				"count": 30,
+				"papers": [
+					"Procedural Shape Generation for Multi-dimensional Data Visualization.",
+					"Skeletal Images as Visual Cues in Graph Visualization.",
+					"Visualization by Examples: Mapping Data to Visual Representations using Few Correspondences.",
+					"2D Vector Field Visualization Using Furlike Texture.",
+					"Visualization of Global Flow Structures Using Multiple Levels of Topology.",
+					"Geometric Methods for Vortex Extraction.",
+					"Attribute-Based Feature Tracking.",
+					"New Approaches for Particle Tracing on Sparse Grids.",
+					"A Methodology for Comparing Direct Volume Rendering Algorithms Using a Projection-Based Data Level Approach.",
+					"Parallel Multipipe Rendering for Very Large Isosurface Visualization.",
+					"Interactive Direct Volume Rendering of Time-Varying Data.",
+					"Efficiently Rendering Large Volume Data Using Texture Mapping Hardware.",
+					"Real-Time Maximum Intensity Projection.",
+					"Fast Volume Rotation using Binary Shear-Warp Factorization.",
+					"VIVENDI - A Virtual Endoscopy System for Virtual Medicine.",
+					"A Client-side Approach towards Platform Independent Molecular Visualization over the World Wide Web.",
+					"Geodesic Flow on Polyhedral Surfaces.",
+					"On Simulated Annealing and the Construction of Linear Spline Approximations for Scattered Data.",
+					"A Comparison of Error Indicators for Multilevel Visualization on Nested Grids.",
+					"Efficient Ray Intersection for Visualization and Navigation of Global Terrain using Spheroidal Height-Augmented Quadtrees.",
+					"VISSION: An Object Oriented Dataflow System for Simulation and Visualization.",
+					"Application of Information Visualization to the Analysis of Software Release History.",
+					"Internet-Based Front-End to Network Simulator.",
+					"Visualization of Grinding Processes.",
+					"Where Weather Meets the Eye - A Case Study on a Wide Range of Meteorological Visualizations for Diverse Audiences.",
+					"Parallel Ray Casting of Visible Human on Distributed Memory Architectures.",
+					"Exploring Instationary Fluid Flows by Interactive Volume Movies.",
+					"Analysis and Visualization of the Brain Shift Phenomenon in Neurosurgery.",
+					"Advances in Quality Control of Intraoperative Radiotherapy.",
+					"Visualization of Molecules with Positional Uncertainty."
+				]
+			}
+		]
+	}
+]

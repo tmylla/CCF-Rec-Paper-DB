@@ -1,0 +1,783 @@
+[
+    {
+        "year": "2020",
+        "name": "19th ICSR 2020",
+        "info": "Hammamet, Tunisia",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/icsr/2020",
+                "sub_name": "Reuse in Emerging Software Engineering Practices - 19th International Conference on Software and Systems Reuse, ICSR 2020, Hammamet, Tunisia, December 2-4, 2020, Proceedings.",
+                "count": 18,
+                "papers": [
+                    "Semantic Software Capability Profile Based on Enterprise Architecture for Software Reuse.",
+                    "Safety Patterns for SysML: What Does OMG Specify?",
+                    "A Hybrid Approach Based on Reuse Techniques for Autonomic Adaptation of Business Processes.",
+                    "Reusable Formal Models for Threat Specification, Detection, and Treatment.",
+                    "Dynamic Reconfiguration of Cloud Composite Services Using Event-B.",
+                    "15 Years of Reuse Experience in Evolutionary Prototyping for the Defense Industry.",
+                    "CxDev: A Case Study in Domain Engineering for Customer eXperience Management.",
+                    "Modular Moose: A New Generation of Software Reverse Engineering Platform.",
+                    "DeepClone: Modeling Clones to Generate Code Predictions.",
+                    "Analysing Microsoft Access Projects: Building a Model in a Partially Observable Domain.",
+                    "Automated Reuse Recommendation of Product Line Assets Based on Natural Language Requirements.",
+                    "Learning to Recommend Trigger-Action Rules for End-User Development - A Knowledge Graph Based Approach.",
+                    "AndroLib: Third-Party Software Library Recommendation for Android Applications.",
+                    "Investigating the Impact of Functional Size Measurement on Predicting Software Enhancement Effort Using Correlation-Based Feature Selection Algorithm and SVR Method.",
+                    "How Does Library Migration Impact Software Quality and Comprehension? An Empirical Study.",
+                    "How Do Developers Refactor Code to Improve Code Reusability?",
+                    "Analyzing the Impact of Refactoring Variants on Feature Location.",
+                    "An Exploratory Study on How Software Reuse is Discussed in Stack Overflow."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "18th ICSR 2019",
+        "info": "Cincinnati, OH, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/icsr/2019",
+                "sub_name": "Reuse in the Big Data Era - 18th International Conference on Software and Systems Reuse, ICSR 2019, Cincinnati, OH, USA, June 26-28, 2019, Proceedings.",
+                "count": 16,
+                "papers": [
+                    "A Flexible and Efficient Approach to Component Test in Time-Critical Scenarios.",
+                    "Extending FragOP Domain Reusable Components to Support Product Customization in the Context of Software Product Lines.",
+                    "Towards a Software System for Facilitating the Reuse of Business Processes.",
+                    "Automated Support to Capture Creative Requirements via Requirements Reuse.",
+                    "A Comparative Analysis of Game Engines to Develop Core Assets for a Software Product Line of Mini-Games.",
+                    "Behavioral Evolution of Design Patterns: Understanding Software Reuse Through the Evolution of Pattern Behavior.",
+                    "Developing a Flexible Simulation-Optimization Framework to Facilitate Sustainable Urban Drainage Systems Designs Through Software Reuse.",
+                    "Automatically Extracting Bug Reproducing Steps from Android Bug Reports.",
+                    "Searching Software Knowledge Graph with Question.",
+                    "SemiTagRec: A Semi-supervised Learning Based Tag Recommendation Approach for Docker Repositories.",
+                    "Slicing Based Code Recommendation for Type Based Instance Retrieval.",
+                    "NLI2Code: Reusing Libraries with Natural Language Interface.",
+                    "A Double-Edged Sword? Software Reuse and Potential Security Vulnerabilities.",
+                    "ACO-RR: Ant Colony Optimization Ridge Regression in Reuse of Smart City System.",
+                    "An Improved Approach for Complex Activity Recognition in Smart Homes.",
+                    "Examining the Reusability of Smart Home Applications: A Case Study on Eclipse Smart Home."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "17th ICSR 2018",
+        "info": "Madrid, Spain",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/icsr/2018",
+                "sub_name": "New Opportunities for Software Reuse - 17th International Conference, ICSR 2018, Madrid, Spain, May 21-23, 2018, Proceedings.",
+                "count": 11,
+                "papers": [
+                    "Variability Management in Safety-Critical Software Product Line Engineering.",
+                    "Towards Estimating and Predicting User Perception on Software Product Variants.",
+                    "Reusability Index: A Measure for Assessing Software Assets Reusability.",
+                    "A Hybrid Approach for Tag Hierarchy Construction.",
+                    "Top-Down Evaluation of Reusable Goal Models.",
+                    "An Empirical Analysis of Technical Lag in npm Package Dependencies.",
+                    "On-Demand Automated Traceability Maintenance and Evolution.",
+                    "Assuring Virtual PLC in the Context of SysML Models.",
+                    "Guiding Clone-and-Own When Creating Unplanned Products from a Software Product Line.",
+                    "Supporting Product Line Adoption by Combining Syntactic and Textual Feature Extraction.",
+                    "A Delta-Oriented Approach to Support the Safe Reuse of Black-Box Code Rewriters."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "16th ICSR 2017",
+        "info": "Salvador, Brazil",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/icsr/2017",
+                "sub_name": "Mastering Scale and Complexity in Software Reuse - 16th International Conference on Software Reuse, ICSR 2017, Salvador, Brazil, May 29-31, 2017, Proceedings.",
+                "count": 16,
+                "papers": [
+                    "DevRec: A Developer Recommendation System for Open Source Repositories.",
+                    "Documentation Reuse: Hot or Not? An Empirical Study.",
+                    "A Preliminary Assessment of Variability Implementation Mechanisms in Service-Oriented Computing.",
+                    "No Code Anomaly is an Island - Anomaly Agglomeration as Sign of Product Line Instabilities.",
+                    "ReMINDER: An Approach to Modeling Non-Functional Properties in Dynamic Software Product Lines.",
+                    "Clustering Variation Points in MATLAB/Simulink Models Using Reverse Signal Propagation Analysis.",
+                    "Discovering Software Architectures with Search-Based Merge of UML Model Variants.",
+                    "Tracing Imperfectly Modular Variability in Software Product Line Implementation.",
+                    "Composition of Verification Assets for Software Product Lines of Cyber Physical Systems.",
+                    "Engineering and Employing Reusable Software Components for Modular Verification.",
+                    "Refactoring Legacy JavaScript Code to Use Classes: The Good, The Bad and The Ugly.",
+                    "DyMMer-NFP: Modeling Non-functional Properties and Multiple Context Adaptation Scenarios in Software Product Lines.",
+                    "Identification and Prioritization of Reuse Opportunities with JReuse.",
+                    "EcoData: Architecting Cross-Platform Software Ecosystem Applications.",
+                    "Investigating the Recovery of Product Line Architectures: An Approach Proposal.",
+                    "Towards a Guideline-Based Approach to Govern Developers in Mobile Software Ecosystems."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/icsr/2017washes",
+                "sub_name": "Proceedings of the 2nd Workshop on Social, Human, and Economic Aspects of Software, WASHES@ICSR 2017, Salvador, Brazil, May 29, 2017.",
+                "count": 4,
+                "papers": [
+                    "The Architect's Role in Software Ecosystems Health.",
+                    "Facing up the primary emotions in Mobile Software Ecosystems from Developer Experience.",
+                    "Evaluation of a Preliminary Assessment Method for Identifying the Maturity of Communication in Distributed Software Development.",
+                    "Designing for Reuse in an Industrial Internet of Things Monitoring Application."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "15th ICSR 2016",
+        "info": "Limassol, Cyprus",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/icsr/2016",
+                "sub_name": "Software Reuse: Bridging with Social-Awareness - 15th International Conference, ICSR 2016, Limassol, Cyprus, June 5-7, 2016, Proceedings.",
+                "count": 29,
+                "papers": [
+                    "Applying Incremental Model Slicing to Product-Line Regression Testing.",
+                    "Automated Composition of Service Mashups Through Software Product Line Engineering.",
+                    "Feature Location in Model-Based Software Product Lines Through a Genetic Algorithm.",
+                    "Carrying Ideas from Knowledge-Based Configuration to Software Product Lines.",
+                    "Tax-PLEASE - Towards Taxonomy-Based Software Product Line Engineering.",
+                    "A Method to Support the Adoption of Reuse Technology in Large Software Organizations.",
+                    "A Practical Use Case Modeling Approach to Specify Crosscutting Concerns.",
+                    "An Approach for Prioritizing Software Features Based on Node Centrality in Probability Network.",
+                    "VCU: The Three Dimensions of Reuse.",
+                    "Reuse vs. Reusability of Software Supporting Business Processes.",
+                    "A Case Study on the Availability of Open-Source Components for Game Development.",
+                    "RAGE Reusable Game Software Components and Their Integration into Serious Game Engines.",
+                    "Reusable Secure Connectors for Secure Software Architecture.",
+                    "Concept-Based Engineering of Situation-Specific Migration Methods.",
+                    "Leveraging Feature Location to Extract the Clone-and-Own Relationships of a Family of Software Products.",
+                    "AIRES: An Architecture to Improve Software Reuse.",
+                    "Pragmatic Software Reuse in Bioinformatics: How Can Social Network Information Help?",
+                    "Feature Location Benchmark for Software Families Using Eclipse Community Releases.",
+                    "Java Extensions for Design Pattern Instantiation.",
+                    "Towards a Semantic Search Engine for Open Source Software.",
+                    "Detecting Similar Programs via The Weisfeiler-Leman Graph Kernel.",
+                    "Metamodel and Constraints Co-evolution: A Semi Automatic Maintenance of OCL Constraints.",
+                    "A Model Repository Description Language - MRDL.",
+                    "Reverse-Engineering Reusable Language Modules from Legacy Domain-Specific Languages.",
+                    "A Framework for Enhancing the Retrieval of UML Diagrams.",
+                    "Puzzle: A Tool for Analyzing and Extracting Specification Clones in DSLs.",
+                    "FeatureIDE: Scalable Product Configuration of Variable Systems.",
+                    "Recalot.com: Towards a Reusable, Modular, and RESTFul Social Recommender System.",
+                    "CORPO-DS: A Tool to Support Decision Making for Component Reuse Through Profiling with Ontologies."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "14th ICSR 2015",
+        "info": "Miami, FL, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/icsr/2015",
+                "sub_name": "Software Reuse for Dynamic Systems in the Cloud and Beyond - 14th International Conference on Software Reuse, ICSR 2015, Miami, FL, USA, January 4-6, 2015. Proceedings.",
+                "count": 24,
+                "papers": [
+                    "Evaluating Feature Change Impact on Multi-product Line Configurations Using Partial Information.",
+                    "Recovering Architectural Variability of a Family of Product Variants.",
+                    "A Feature-Similarity Model for Product Line Engineering.",
+                    "Evaluating Lehman's Laws of Software Evolution within Software Product Lines: A Preliminary Empirical Study.",
+                    "Experiences in System-of-Systems-Wide Architecture Evaluation over Multiple Product Lines.",
+                    "A Systematic Literature Review of Software Product Line Management Tools.",
+                    "Open Source License Violation Check for SPDX Files.",
+                    "Automatically Solving Simultaneous Type Equations for Type Difference Transformations That Redesign Code.",
+                    "Pragmatic Approach to Test Case Reuse - A Case Study in Android OS BiDiTests Library.",
+                    "The Supportive Effect of Traceability Links in Change Impact Analysis for Evolving Architectures - Two Controlled Experiments.",
+                    "How Often Is Necessary Code Missing? - A Controlled Experiment -.",
+                    "An Analysis of a Project Reuse Approach in an Industrial Setting.",
+                    "HadoopMutator: A Cloud-Based Mutation Testing Framework.",
+                    "Template-Based Generation of Semantic Services.",
+                    "Automatic Color Modification for Web Page Based on Partitional Color Transfer.",
+                    "Software Development Support for Shared Sensing Infrastructures: A Generative and Dynamic Approach.",
+                    "Flexible and Efficient Reuse of Multi-mode Components for Building Multi-mode Systems.",
+                    "A Method to Generate Reusable Safety Case Fragments from Compositional Safety Analysis.",
+                    "A Comparison of Methods for Automatic Term Extraction for Domain Analysis.",
+                    "Measures for Quality Evaluation of Feature Models.",
+                    "A Metric for Functional Reusability of Services.",
+                    "Revealing Purity and Side Effects on Functions for Reusing Java Libraries.",
+                    "Mining Software Components from Object-Oriented APIs.",
+                    "Adapting Collections and Arrays: Another Step towards the Automated Adaptation of Object Ensembles."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "13th ICSR 2013",
+        "info": "Pisa, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/icsr/2013",
+                "sub_name": "Safe and Secure Software Reuse - 13th International Conference on Software Reuse, ICSR 2013, Pisa, Italy, June 18-20. Proceedings.",
+                "count": 27,
+                "papers": [
+                    "Validating Consistency between a Feature Model and Its Implementation.",
+                    "Mechanisms to Handle Structural Variability in MATLAB/Simulink Models.",
+                    "An Analysis of Variability Modeling Concepts: Expressiveness vs. Analyzability.",
+                    "Towards Test Case Reuse: A Study of Redundancies in Android Platform Test Libraries.",
+                    "An Assessment of Test-Driven Reuse: Promises and Pitfalls.",
+                    "Improving the Runtime-Processing of Test Cases for Component Adaptation.",
+                    "REARM: A Reuse-Based Economic Model for Software Reference Architectures.",
+                    "Cross-Domain Reuse: Lessons Learned in a Multi-project Trajectory.",
+                    "Automatic Analysis of Software Architectures with Variability.",
+                    "On Software Reference Architectures and Their Application to the Space Domain.",
+                    "Automated Analysis in Feature Modelling and Product Configuration.",
+                    "Configurable Software Product Lines - Supporting Heterogeneous Configuration Knowledge.",
+                    "Extracting Models from ISO 26262 for Reusable Safety Assurance.",
+                    "Assessing Software Quality through Web Comment Search and Analysis.",
+                    "Consistency among Domain Analysts in Selecting Domain Documents and Creating Vocabularies.",
+                    "Mining Cohesive Domain Topics from Source Code.",
+                    "Mining Instances of Structural Design Patterns from Class Diagrams Based on Sub-patterns.",
+                    "Patterns for Use Case Context and Content.",
+                    "A Common Representation for Reuse Assistants.",
+                    "A Knowware Based Infrastructure for Rule Based Control Systems in Smart Spaces.",
+                    "An Action-Stack Based Selective-Undo Method in Feature Model Customization.",
+                    "Feature Location in a Collection of Software Product Variants Using Formal Concept Analysis.",
+                    "A Language for Building Verified Software Components.",
+                    "Estimating the Economic Value of Reusable Green ICT Practices.",
+                    "Composition and Self-Adaptation of Service-Based Systems with Feature Models.",
+                    "Leveraging Reuse-Related Maturity Issues for Achieving Higher Maturity and Capability Levels.",
+                    "Appendix: ICSR 2013 Workshop Summaries."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "12th ICSR 2011",
+        "info": "Pohang, South Korea",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/icsr/2011",
+                "sub_name": "Top Productivity through Software Reuse - 12th International Conference on Software Reuse, ICSR 2011, Pohang, South Korea, June 13-17, 2011. Proceedings.",
+                "count": 23,
+                "papers": [
+                    "Understanding Variability Abstraction and Realization.",
+                    "Binary-Search Based Verification of Feature Models.",
+                    "Supporting Consistency Checking between Features and Software Product Line Use Scenarios.",
+                    "Towards a More Fundamental Explanation of Constraints in Feature Models: A Requirement-Oriented Approach.",
+                    "Towards Feature-Oriented Variability Reconfiguration in Dynamic Software Product Lines.",
+                    "Reuse by Placement: A Paradigm for Cross-Domain Software Reuse with High Level of Granularity.",
+                    "A Semi-supervised Approach for Component Recommendation Based on Citations.",
+                    "Capability Assessment for Introducing Component Reuse.",
+                    "Software Product Line Evolution with Cardinality-Based Feature Models.",
+                    "Recovering Object-Oriented Framework for Software Product Line Reengineering.",
+                    "Architecture Evolution in Software Product Line: An Industrial Case Study.",
+                    "Improving Product Line Architecture Design and Customization by Raising the Level of Variability Modeling.",
+                    "Code Reuse with Language Oriented Programming.",
+                    "Achieving Reuse with Pluggable Software Units.",
+                    "Eight Practical Considerations in Applying Feature Modeling for Product Lines.",
+                    "On the Extent and Nature of Software Reuse in Open Source Java Projects.",
+                    "University-Industry Collaboration Journey towards Product Lines.",
+                    "1st International ICSR Workshop on Comparing Software Retrieval Approaches (CORA).",
+                    "The 2nd International Workshop on Software Trustworthiness (SoTrust2011).",
+                    "The 5th International Workshop on Software Reuse and Safety.",
+                    "The Doctoral Symposium of the 12th International Conference of Software Reuse.",
+                    "Pragmatic Strategies for Variability Management in Software Product Lines.",
+                    "Software Reuse and Safety."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "11th ICSR 2009",
+        "info": "Falls Church, VA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/icsr/2009",
+                "sub_name": "Formal Foundations of Reuse and Domain Engineering, 11th International Conference on Software Reuse, ICSR 2009, Falls Church, VA, USA, September 27-30, 2009. Proceedings.",
+                "count": 28,
+                "papers": [
+                    "Consistency Checking for Component Reuse in Open Systems.",
+                    "Generating Verified Java Components through RESOLVE.",
+                    "Increasing Reuse in Component Models through Genericity.",
+                    "Verifying Component-Based Software: Deep Mathematics or Simple Bookkeeping?",
+                    "Extending FeatuRSEB with Concepts from Systems Engineering.",
+                    "Features Need Stories.",
+                    "An Optimization Strategy to Feature Models' Verification by Eliminating Verification-Irrelevant Features and Constraints.",
+                    "Reusable Model-Based Testing.",
+                    "A Case Study of Using Domain Engineering for the Conflation Algorithms Domain.",
+                    "Model Transformation Using Graph Transactions.",
+                    "Refactoring Feature Modules.",
+                    "Variability in Automation System Models.",
+                    "A Case Study of Variation Mechanism in an Industrial Product Line.",
+                    "Experience Report on Using a Domain Model-Based Extractive Approach to Software Product Line Asset Development.",
+                    "Reuse with Software Components - A Survey of Industrial State of Practice.",
+                    "Evaluating the Reusability of Product-Line Software Fault Tree Analysis Assets for a Safety-Critical System.",
+                    "Feature-Driven and Incremental Variability Generalization in Software Product Line.",
+                    "Identifying Issues and Concerns in Software Reuse in Software Product Lines.",
+                    "Reuse of Architectural Knowledge in SPL Development.",
+                    "Introducing Motivations in Design Pattern Representation.",
+                    "The Managed Adapter Pattern: Facilitating Glue Code Generation for Component Reuse.",
+                    "Reusing Patterns through Design Refinement.",
+                    "Building Service-Oriented User Agents Using a Software Product Line Approach.",
+                    "DAREonline: A Web-Based Domain Engineering Tool.",
+                    "Extending a Software Component Repository to Provide Services.",
+                    "A Negotiation Framework for Service-Oriented Product Line Development.",
+                    "Ranking and Selecting Services.",
+                    "A Reusable Model for Data-Centric Web Services."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/icsr/2009iwseco",
+                "sub_name": "Proceedings of the First International Workshop on Software Ecosystems ( IWSECO-2009 ), co-located with the 11th International Conference on Software Reuse , Falls Church, Virginia, USA, September 27, 2009.",
+                "count": 5,
+                "papers": [
+                    "Introduction to the Proceedings of the First Workshop on Software Ecosystems.",
+                    "Building Software Ecosystems from a Reuse Perspective.",
+                    "The Role of Software Licenses in Open Architecture Ecosystems.",
+                    "Specification and Analysis of Requirements Negotiation Strategy in Software Ecosystems.",
+                    "Business Network Management as a Survival Strategy: A Tale of Two Software Ecosystems."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "10th ICSR 2008",
+        "info": "Beijing, China",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/icsr/2008",
+                "sub_name": "High Confidence Software Reuse in Large Systems, 10th International Conference on Software Reuse, ICSR 2008, Beijing, China, May 25-29, 2008, Proceedings.",
+                "count": 41,
+                "papers": [
+                    "Introducing Architecture-Centric Reuse into a Small Development Organization.",
+                    "An Architectural Style for Data-Driven Systems.",
+                    "Architectural Analysis Approaches: A Component-Based System Development Perspective.",
+                    "Component-Based Abstraction and Refinement.",
+                    "High Confidence Subsystem Modelling for Reuse.",
+                    "A Trustable Brokerage Solution for Component and Service Markets.",
+                    "Recommending Typical Usage Examples for Component Retrieval in Reuse Repositories.",
+                    "A Reuse Repository System: From Specification to Deployment.",
+                    "COTS Selection Best Practices in Literature and in Industry.",
+                    "Mining Open Source Component Behavior for Reuse Evaluation.",
+                    "Combining Different Product Line Models to Balance Needs of Product Differentiation and Reuse.",
+                    "Integrating Component and Product Lines Technologies.",
+                    "Feature Implementation Modeling Based Product Derivation in Software Product Line.",
+                    "Feature-Oriented Analysis and Specification of Dynamic Product Reconfiguration.",
+                    "Managing Large Scale Reuse Across Multiple Software Product Lines.",
+                    "Quality Assessment in Software Product Lines.",
+                    "Managing Variability in Reusable Requirement Models for Software Product Lines.",
+                    "A BDD-Based Approach to Verifying Clone-Enabled Feature Models' Constraints and Customization.",
+                    "Performing Domain Analysis for Model-Driven Software Reuse.",
+                    "Exploiting COTS-Based RE Methods: An Experience Report.",
+                    "Towards Reusable Automation System Components.",
+                    "An Approach to Domain-Specific Reuse in Service-Oriented Environments.",
+                    "View-Based Reverse Engineering Approach for Enhancing Model Interoperability and Reusability in Process-Driven SOAs.",
+                    "A Lightweight Approach to Partially Reuse Existing Component-Based System in Service-Oriented Environment.",
+                    "Towards Variable Service Compositions Using VxBPEL.",
+                    "Abstract Reachability Graph for Verifying Web Service Interfaces.",
+                    "Reuse: From Components to Services.",
+                    "Active Binding Technology: A Reuse-Enabling Component Model.",
+                    "Collective Reuse of Software Components Speeds-Up Reliability.",
+                    "Refinement of Component Model Standards and Conventions.",
+                    "Identifying and Improving Reusability Based on Coupling Patterns.",
+                    "Conquering Fine-Grained Blends of Design Patterns.",
+                    "Pattern-Based Transformation Rules for Developing Interaction Models of Access Control Systems.",
+                    "Balancing Quantification and Obliviousness in the Design of Aspect-Oriented Frameworks.",
+                    "Lightweight, Semi-automated Enactment of Pragmatic-Reuse Plans.",
+                    "Constructing Flexible Application Servers with Off-the-Shelf Middleware Services Integration Framework.",
+                    "SAM: Simple API for Object-Oriented Code Metrics.",
+                    "Leveraging Source Code Search for Reuse.",
+                    "An Experimental Evaluation of Documentation Methods and Reusability.",
+                    "An Empirical Comparison of Methods for Reengineering Procedural Software Systems to Object-Oriented Systems.",
+                    "Appendix: Workshop and Tutorial Abstracts."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "9th ICSR 2006",
+        "info": "Turin, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/icsr/2006",
+                "sub_name": "Reuse of Off-the-Shelf Components, 9th International Conference on Software Reuse, ICSR 2006, Turin, Italy, June 12-15, 2006, Proceedings.",
+                "count": 46,
+                "papers": [
+                    "A Goal-Oriented Strategy for Supporting Commercial Off-the-Shelf Components Selection.",
+                    "A State-of-the-Practice Survey of Off-the-Shelf Component-Based Development Processes.",
+                    "Automating Integration of Heterogeneous COTS Components.",
+                    "The Domain Analysis Concept Revisited: A Practical Approach.",
+                    "Feature Driven Dynamic Customization of Software Product Lines.",
+                    "Inter-organisational Approach in Rapid Software Product Family Development - A Case Study.",
+                    "Ontology-Based Feature Modeling and Application-Oriented Tailoring.",
+                    "The COVAMOF Derivation Process.",
+                    "A Metamodel Approach to Architecture Variability in a Product Line.",
+                    "An Approach to Managing Feature Dependencies for Product Releasing in Software Product Lines.",
+                    "Adaptation and Composition Within Component Architecture Specification.",
+                    "Re-engineering a Credit Card Authorization System for Maintainability and Reusability of Components - A Case Study.",
+                    "Odyssey-CCS: A Change Control System Tailored to Software Reuse.",
+                    "Case Study of a Method for Reengineering Procedural Systems into OO Systems.",
+                    "Reconciling Subtyping and Code Reuse in Object-Oriented Languages: Using inherit and insert in SmartEiffel, the GNU Eiffel Compiler.",
+                    "Recommending Library Methods: An Evaluation of the Vector Space Model (VSM) and Latent Semantic Indexing (LSI).",
+                    "Improving Extensibility of Object-Oriented Frameworks with Aspect-Oriented Programming.",
+                    "Comparing White-Box, Black-Box, and Glass-Box Composition of Aspect Mechanisms.",
+                    "Achieving Smooth Component Integration with Generative Aspects and Component Adaptation.",
+                    "A Tactic-Driven Process for Developing Reusable Components.",
+                    "Does Refactoring Improve Reusability?",
+                    "Using the Web as a Reuse Repository.",
+                    "A UML2 Profile for Reusable and Verifiable Software Components for Real-Time Applications.",
+                    "Formalizing MDA Components.",
+                    "A Component-Oriented Substitution Model.",
+                    "Building Reflective Mobile Middleware Framework on Top of the OSGi Platform.",
+                    "Goal-Oriented Performance Analysis of Reusable Software Components.",
+                    "Establishing Extra Organizational Reuse Capabilities.",
+                    "Incremental Software Reuse.",
+                    "Variability in Goal-Oriented Domain Requirements.",
+                    "Variability Modeling in a Component-Based Domain Engineering Process.",
+                    "GENMADEM: A Methodology for Generative Multi-agent Domain Engineering.",
+                    "Product Line Architecture for a Family of Meshing Tools.",
+                    "Binding Time Based Concept Instantiation in Feature Modeling.",
+                    "Aspects as Components.",
+                    "Improving Reuse of Off-the-Shelf Components with Shared, Distributed Component Repository Systems.",
+                    "Support to Development-with-Reuse in Very Small Software Developing Companies.",
+                    "A Simple Generic Library for C.",
+                    "Eliciting Potential Requirements with Feature-Oriented Gap Analysis.",
+                    "X-ARM: A Step Towards Reuse of Commercial and Open Source Components.",
+                    "Implementing Domain-Specific Modeling Languages and Generators.",
+                    "Metrics and Strategy for Reuse Planning and Management.",
+                    "Building Reusable Testing Assets for a Software Product Line.",
+                    "The Business Case for Software Reuse: Reuse Metrics, Economic Models, Organizational Issues, and Case Studies.",
+                    "Designing Software Product Lines with UML 2.0: From Use Cases to Pattern-Based Software Architectures.",
+                    "Aspect-Oriented Software Development Beyond Programming."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "8th ICSR 2004",
+        "info": "Madrid, Spain",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/icsr/2004",
+                "sub_name": "Software Reuse: Methods, Techniques and Tools: 8th International Conference, ICSR 2004, Madrid, Spain, July 5-9, 2009. Proceedings.",
+                "count": 28,
+                "papers": [
+                    "Supporting Software Variability by Reusing Generic Incomplete Models at the Requirements Specification Stage.",
+                    "Business Users and Program Variability: Bridging the Gap.",
+                    "An Approach to Develop Requirement as a Core Asset in Product Line.",
+                    "Towards Generating Acceptance Tests for Product Lines.",
+                    "TTCN-3 Language Characteristics in Producing Reusable Test Software.",
+                    "Software Reuse and the Test Development Process: A Combined Approach.",
+                    "Feature Dependency Analysis for Product Line Component Design.",
+                    "Enhancements - Enabling Flexible Feature and Implementation Selection.",
+                    "XML-Based Feature Modelling.",
+                    "Aspects for Synthesizing Applications by Refinement.",
+                    "Framed Aspects: Supporting Variability and Configurability for AOP.",
+                    "An Evaluation of Aspect-Oriented Programming as a Product Line Implementation Technology.",
+                    "Variability and Component Composition.",
+                    "Concern-Based Composition and Reuse of Distributed Systems.",
+                    "Reusable Web Services.",
+                    "Quantifying COTS Component Functional Adaptation.",
+                    "Reuse Variables: Reusing Code and State in Timor.",
+                    "Decoupling Source Trees into Build-Level Components.",
+                    "Attribute Ranking: An Entropy-Based Approach to Accelerating Browsing-Based Component Retrieval.",
+                    "Software Reuse as Ontology Negotiation.",
+                    "Component-Extraction-Based Search System for Object-Oriented Programs.",
+                    "A Metamodel-Based Approach for the Dynamic Reconfiguration of Component-Based Software.",
+                    "A Multiple-View Meta-modeling Approach for Variability Management in Software Product Lines.",
+                    "Validating Quality of Service for Reusable Software Via Model-Integrated Distributed Continuous Quality Assurance.",
+                    "Implementing Tag-Driven Transformers with Tango.",
+                    "Developing Active Help for Framework Instantiation Through Case-Based Reasoning.",
+                    "Requirements-Reuse Using GOPCSD: Component-Based Development of Process Control Systems.",
+                    "Reuse, Standardization, and Transformation of Requirements."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2002",
+        "name": "7th ICSR 2002",
+        "info": "Austin, Texas, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/icsr/2002",
+                "sub_name": "Software Reuse: Methods, Techniques, and Tools, 7th International Conference, ICSR-7, Austin, TX, USA, April 15-19, 2002, Proceedings.",
+                "count": 38,
+                "papers": [
+                    "Integrating and Reusing GUI-Driven Applications.",
+                    "Source Tree Composition.",
+                    "Layered Development with (Unix) Dynamic Libraries.",
+                    "Early-Reply Components: Concurrent Execution with Sequential Reasoning.",
+                    "Concepts and Guidelines of Feature Modeling for Product Line Software Engineering.",
+                    "Domain Modeling for World Wide Web Based Software Product Lines with UML.",
+                    "Enhancing Component Reusability through Product Line Technology.",
+                    "Modeling Variability with the Variation Point Model.",
+                    "Reusing Open-Source Software and Practices: The Impact of Open-Source on Commercial Vendors.",
+                    "Integrating Reference Architecture Definition and Reuse Investment Planning.",
+                    "Control Localization in Domain Specific Translation.",
+                    "Model Reuse with Metamodel-Based Transformations.",
+                    "Generation of Text Search Applications for Databases. An Exercise on Domain Engineering.",
+                    "Domain Networks in the Software Development Process.",
+                    "Supporting Reusable Use Cases.",
+                    "Project Management Knowledge Reuse through Scenario Models.",
+                    "Adaptation of Coloured Petri Nets Models of Software Artifacts for Reuse.",
+                    "Improving Hazard Classification through the Reuse of Descriptive Arguments.",
+                    "Service Oriented Programming: A New Paradigm of Software Reuse.",
+                    "An Empirical User Study of an Active Reuse Repository System.",
+                    "Towards the Formalization of a Reusability Framework for Refactoring.",
+                    "Service Facilities: Extending Abstract Factories to Decouple Advanced Dependencies.",
+                    "Software Fortresses.",
+                    "The Case against a Grand Unification Theory.",
+                    "ICSR7 Young Researchers Workshop.",
+                    "International Workshop on Reuse Economics.",
+                    "Workshop on Generative Programming 2002 (GP2002).",
+                    "ICSR7 Workshop on Component-Based Software Development Processes.",
+                    "Industrial Experience with Product Line Approaches.",
+                    "Workshop on Software Reuse and Agile Approaches.",
+                    "Software Architecture Quality Analysis Methods.",
+                    "Tutorial on Practical Product Line Scoping and Modeling.",
+                    "Transformation Systems: Generative Reuse for Software Generation, Maintenance and Reengineering.",
+                    "Component-Based Product-Line Engineering with the UML.",
+                    "Building Reusable Test Assets for a Product Line.",
+                    "Architecture-Centric Software Engineering.",
+                    "Practical Strategies and Techniques for Adopting Software Product Lines.",
+                    "Generative Programming: Methods, Techniques, and Applications."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2000",
+        "name": "6th ICSR 2000",
+        "info": "Vienna, Austria",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/icsr/2000",
+                "sub_name": "Software Reuse: Advances in Software Reusability, 6th International Conerence, ICSR-6, Vienna, Austria, June 27-29, 2000, Proceedings.",
+                "count": 26,
+                "papers": [
+                    "A New Control Structure for Transformation-Based Generators.",
+                    "Palette: A Reuse-Oriented Specification Language for Real-Time Systems.",
+                    "From Application Domains to Executable Domains: Achieving Reuse with a Domain Network.",
+                    "Reuse of Knowledge at an Appropriate Level of Abstraction - Case Studies Using Specware.",
+                    "Building Customizable Frameworks for the Telecommunications Domain: A Comparison of Approaches.",
+                    "Object Oriented Analysis and Modeling for Families of Systems with UML.",
+                    "Framework-Based Applications: From Incremental Development to Incremental Reasoning.",
+                    "Achieving Extensibility Through Product-Lines and Domain-Specific Languages: A Case Study.",
+                    "Implementing Product-Line Features with Component Reuse.",
+                    "Representing Requirements on Generic Software in an Application Family Model.",
+                    "Implementation Issues in Product Line Scoping.",
+                    "Requirements Classification and Reuse: Crossing Domain Boundaries.",
+                    "Reuse Measurement in the ERP Requirements Engineering Process.",
+                    "Business Modeling and Component Mining Based on Rough Set Theory.",
+                    "Visualization of Reusable Software Assets.",
+                    "Reasoning about Software-Component Behavior.",
+                    "Use and Identification of Components in Component-Based Software Development Methods.",
+                    "Promoting Reuse with Active Reuse Repository Systems.",
+                    "A Method to Recover Design Patterns Using Software Product Metrics.",
+                    "Object Oriented Design Expertise Reuse: An Approach Based on Heuristics, Design Patterns and Anti-patterns.",
+                    "Patterns Leveraging Analysis Reuse of Business Processes.",
+                    "Constructional Design Patterns as Reusable Components.",
+                    "A Two-Dimensional Composition Framework to Support Software Adaptability and Reuse.",
+                    "Structuring Meachanisms for an Object-Oriented Formal Specification Language.",
+                    "Software Reuse in an Object Oriented Framework: Distinguishing Types from Implementations and Objects from Attributes.",
+                    "Compatibility Elements in System Composition."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1998",
+        "name": "5th ICSR 1998",
+        "info": "Victoria, BC, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/icsr/1998",
+                "sub_name": "Proceedings of the Fifth International Conference on Software Reuse, ICSR 1998, Victoria, BC, Canada, June 2-5, 1998.",
+                "count": 47,
+                "papers": [
+                    "Leftover curry and reheated Pizza: how functional programming nourishes software reuse.",
+                    "Reusable components for evolving systems.",
+                    "Code reuse, distributed systems, and language-centric design.",
+                    "Engineering domains: executable commands as an example.",
+                    "Implementing reusable object-oriented components.",
+                    "A framework for detecting interface violations in component-based software.",
+                    "Reliability certification of software components.",
+                    "Strategies for seeking reusable components in Smalltalk.",
+                    "Integrating feature modeling with the RSEB.",
+                    "Object-oriented technology and domain analysis.",
+                    "Weaving the model web: a multi-modeling approach to concepts and features in domain engineering.",
+                    "An environment for reusing software processes.",
+                    "Transformation in intentional programming.",
+                    "Anticipatory optimization in domain specific translation.",
+                    "Modular domain specific languages and tools.",
+                    "JTS: tools for implementing domain-specific languages.",
+                    "IBM's reuse programs: knowledge management and software reuse.",
+                    "FODAcom: an experience with domain analysis in the Italian telecom industry.",
+                    "Design-related reuse problems-an experience report.",
+                    "An architecture for reusable libraries.",
+                    "A new class generation mechanism by method integration.",
+                    "Inheritance: from code reuse to reasoning reuse.",
+                    "Reusing a distributed object domain framework.",
+                    "Scripting COM components in Haskell.",
+                    "An Internet-based information system for cooperative software reuse.",
+                    "Software document reuse with XML.",
+                    "Design wizards and visual programming environments for generators.",
+                    "Re-engineering of the Internet Stream Protocol ST2+ with formalized design patterns.",
+                    "An architectural style for object oriented real-time systems.",
+                    "View extraction and view fusion in architectural understanding.",
+                    "Architecture framework for business components.",
+                    "Scenario-based software architecture reengineering.",
+                    "Reusable interactions for animation.",
+                    "Laws for dynamic systems.",
+                    "Modelling formal integrated component retrieval.",
+                    "Domain analysis for GenVoca generators.",
+                    "Delocalization vs performance: the dilemma of domain translation.",
+                    "Feature-oriented development of applications for a domain.",
+                    "Domain analysis and generative implementation.",
+                    "The Global Software Engineering Community.",
+                    "Making Reuse Work.",
+                    "Reuse at the enterprise, national and international level.",
+                    "How to solve the reuse problem: find out what isn't reusable and don't use it.",
+                    "Position paper: How to solve the reuse problem.",
+                    "The solution to the re-use problem.",
+                    "How to solve the reuse problem? Functional programming.",
+                    "How to solve the reuse problem."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1996",
+        "name": "4th ICSR 1996",
+        "info": "Orlando, Florida, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/icsr/1996",
+                "sub_name": "Proceedings of Fourth IEEE International Conference on Software Reuse, ICSR 1996, April 23-26, 1996, Orlando, Florida, USA.",
+                "count": 21,
+                "papers": [
+                    "Parameterized programming and software architecture.",
+                    "Language-technical aspects of reuse.",
+                    "Software process reuse in an industrial setting.",
+                    "Reuse of design processes based on domain analysis.",
+                    "Reuse economics: a comparison of seventeen models and directions for future research.",
+                    "Understanding the impact of language features on reusability.",
+                    "Characterizing observability and controllability of software components.",
+                    "Validating component compositions in software system generators.",
+                    "Style-based reuse for software architectures.",
+                    "A reuse-based software architecture for management information systems.",
+                    "Design for large scale software reuse: an industrial case study.",
+                    "On domain models for system testing.",
+                    "Accelerating the successful reuse of problem solving knowledge through the domain lifecycle.",
+                    "A comparison of approaches to reuse investment analysis.",
+                    "Packaging reusable components using patterns and hypermedia.",
+                    "Legal and contractual issues in software reuse.",
+                    "Subjectivity and GenVoca generators.",
+                    "Enabling reuse with a configuration language.",
+                    "ClassExpert: a knowledge-based assistant to support reuse by specialization and modification in Smalltalk.",
+                    "Representation inheritance: a safe form of \"white box\" code inheritance.",
+                    "Literate programming and documentation reuse."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1994",
+        "name": "3rd ICSR 1994",
+        "info": "Rio De Janeiro, Brazil",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/icsr/1994",
+                "sub_name": "Proceedings of 3rd International Conference on Software Reuse, ICSR 1994, Rio De Janeiro, Brazil, November 1-4, 1994.",
+                "count": 40,
+                "papers": [
+                    "Systematic software reuse: a paradigm shift.",
+                    "An assessment of reuse technology after ten years.",
+                    "Maximizing reuse during reengineering.",
+                    "Automatic indexing of software artifacts.",
+                    "Learning the semantic similarity of reusable software components.",
+                    "Reuse of software process and product through knowledge-based adaptation.",
+                    "Practical software reuse: an interim report.",
+                    "A reuse-driven approach for rapid telephone service creation.",
+                    "A prototype domain modeling environment for reusable software architectures.",
+                    "An architecture-driven, business-specific, and component-based approach to software engineering.",
+                    "Draco-PUC: a technology assembly for domain oriented software development.",
+                    "The library scaling problem and the limits of concrete component reuse.",
+                    "Reducing business and legal risks in software reuse libraries.",
+                    "The use of encryption to ensure the integrity of reusable software components.",
+                    "Measuring software reusability.",
+                    "Reuse level metrics.",
+                    "On tight performance specification of object-oriented software components.",
+                    "Creating domain specific libraries: a methodology and design guidelines.",
+                    "Domain modeling for reuse.",
+                    "The design of object-oriented software with domain architecture reuse.",
+                    "Is 'Technology' a second order term in reuse's success equation?",
+                    "Reuse so far: phasing in a revolution.",
+                    "Reuse state of the art and state of the practice report card.",
+                    "Panel at the ICSR'94: Reuse in Asia.",
+                    "Triadic domain model-based development of software systems.",
+                    "Flage: field-oriented language for agents model.",
+                    "A model for the recording and reuse of software design decisions and decision rationale.",
+                    "Debate on software reuse libraries.",
+                    "Debate on software reuse libraries.",
+                    "Beyond a software library: building an Organon.",
+                    "Distributed network of reuse libraries offers the best approach to successful software reuse.",
+                    "Object-oriented reuse.",
+                    "Software architecture and reuse-an inherent conflict?",
+                    "Software architecture and reuse - an inherent conflict?",
+                    "Architecting kits for reuse.",
+                    "Software architecture and reuse-an inherent conflict?",
+                    "The future of systematic software reuse.",
+                    "Future directions for reuse in Europe.",
+                    "Future of software reuse in Korea.",
+                    "The disappearance of software reuse."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1993",
+        "name": "2nd IWSR 1993",
+        "info": "Lucca, Italy",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/icsr/1993",
+                "sub_name": "Proceedings Advances in Software Reuse, Selected Papers from the Second International Workshop on Software Reusability 1993, Lucca, Italy, March 24-26, 1993.",
+                "count": 21,
+                "papers": [
+                    "Uniformity and invariance in support of re-use.",
+                    "Design as evolution and reuse.",
+                    "A constructive approach to reuse of conceptual components.",
+                    "Object oriented module interconnection languages.",
+                    "The generic reusable component: an approach to reuse hierarchical OO designs.",
+                    "Polymorphic components for monomorphic languages.",
+                    "Reuse-in-the-large: modeling, specification and management.",
+                    "LILEANNA: a parameterized programming language.",
+                    "The REBOOT environment [software reuse].",
+                    "Retrieval of reusable components in a development information system.",
+                    "On the retrieval of reusable software components.",
+                    "SRSGEN-a software reuse tool for large scale applications.",
+                    "Experiences from application of a faceted classification scheme.",
+                    "The reuse capability model: a basis for improving an organization's reuse capability.",
+                    "Regression analysis of reusable program components.",
+                    "Performance considerations in object-oriented reuse.",
+                    "A reuse metrics and return on investment model.",
+                    "Enhanced reuse with group decision support systems.",
+                    "People-oriented software reuse: the very thought.",
+                    "Experiences from software reuse in industrial process control applications.",
+                    "A positive experience with software reuse supported by a software bus framework."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1991",
+        "name": "1st IWSR 1991",
+        "info": "Dortmund, Germany",
+        "venues": []
+    }
+]

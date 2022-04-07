@@ -1,0 +1,1393 @@
+[
+    {
+        "year": "2021",
+        "name": "28th SOSP 2021",
+        "info": "Virtual Event / Koblenz, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sosp/2021",
+                "sub_name": "SOSP '21: ACM SIGOPS 28th Symposium on Operating Systems Principles, Virtual Event / Koblenz, Germany, October 26-29, 2021.",
+                "count": 54,
+                "papers": [
+                    "Basil: Breaking up BFT with ACID (transactions).",
+                    "Bidl: A High-throughput, Low-latency Permissioned Blockchain Framework for Datacenter Networks.",
+                    "Kauri: Scalable BFT Consensus with Pipelined Tree-Based Dissemination and Aggregation.",
+                    "iGUARD: In-GPU Advanced Race Detection.",
+                    "Snowboard: Finding Kernel Concurrency Bugs through Systematic Inter-thread Communication Analysis.",
+                    "Rudra: Finding Memory Safety Bugs in Rust at the Ecosystem Scale.",
+                    "Witcher: Systematic Crash Consistency Testing for Non-Volatile Memory Key-Value Stores.",
+                    "Understanding and Detecting Software Upgrade Failures in Distributed Systems.",
+                    "Crash Consistent Non-Volatile Memory Express.",
+                    "Cuckoo Trie: Exploiting Memory-Level Parallelism for Efficient DRAM Indexing.",
+                    "Regular Sequential Serializability and Regular Sequential Consistency.",
+                    "Caracal: Contention Management with Deterministic Concurrency Control.",
+                    "The Demikernel Datapath OS Architecture for Microsecond-scale Datacenter Systems.",
+                    "Birds of a Feather Flock Together: Scaling RDMA RPCs with Flock.",
+                    "PRISM: Rethinking the RDMA Interface for Distributed Systems.",
+                    "Kangaroo: Caching Billions of Tiny Objects on Flash.",
+                    "lODA: A Host/Device Co-Design for Strong Predictability Contract on Modern Flash Storage.",
+                    "FragPicker: A New Defragmentation Tool for Modern Storage Devices.",
+                    "dSpace: Composable Abstractions for Smart Spaces.",
+                    "Random Walks on Huge Graphs at Cache Efficiency.",
+                    "Mycelium: Large-Scale Distributed Graph Queries with Differential Privacy.",
+                    "HEALER: Relation Learning Guided Kernel Fuzzing.",
+                    "Gradient Compression Supercharged High-Performance Data Parallel DNN Training.",
+                    "Generating Complex, Realistic Cloud Workloads using Recurrent Neural Networks.",
+                    "HeMem: Scalable Tiered Memory Management for Big Data Applications and Real NVM.",
+                    "J-NVM: Off-heap Persistent Objects in Java.",
+                    "PACTree: A High Performance Persistent Range Index Using PAC Guidelines.",
+                    "Exploiting Nil-Externality for Fast Replicated Storage.",
+                    "Geometric Partitioning: Explore the Boundary of Optimal Erasure Code Repair.",
+                    "Rabia: Simplifying State-Machine Replication Through Randomization.",
+                    "MIND: In-Network Memory Management for Disaggregated Data Centers.",
+                    "RAS: Continuously Optimized Region-Wide Datacenter Resource Allocation.",
+                    "Solving Large-Scale Granular Resource Allocation Problems Efficiently with POP.",
+                    "Log-structured Protocols in Delos.",
+                    "Shard Manager: A Generic Shard Management Framework for Geo-distributed Applications.",
+                    "Forerunner: Constraint-based Speculative Transaction Execution for Ethereum.",
+                    "ghOSt: Fast & Flexible User-Space Delegation of Linux Scheduling.",
+                    "Syrup: User-Defined Scheduling Across the Stack.",
+                    "When Idling is Ideal: Optimizing Tail-Latency for Heavy-Tailed Datacenter Workloads with Pers\u00e9phone.",
+                    "TwinVisor: Hardware-isolated Confidential Virtual Machines for ARM.",
+                    "Snoopy: Surpassing the Scalability Bottleneck of Oblivious Storage.",
+                    "Coeus: A System for Oblivious Document Ranking and Retrieval.",
+                    "Boki: Stateful Serverless Computing with Shared Logs.",
+                    "Bladerunner: Stream Processing at Scale for a Live View of Backend Data Mutations at the Edge.",
+                    "Faster and Cheaper Serverless Computing on Harvested Resources.",
+                    "Xenic: SmartNIC-Accelerated Distributed Transactions.",
+                    "LineFS: Efficient SmartNIC Offload of a Distributed File System with Pipeline Parallelism.",
+                    "Automated SmartNIC Offloading Insights for Network Functions.",
+                    "The Aurora Single Level Store Operating System.",
+                    "WineFS: a hugepage-aware file system for persistent memory that ages gracefully.",
+                    "Scale and Performance in a Filesystem Semi-Microkernel.",
+                    "Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3.",
+                    "CLoF: A Compositional Lock Framework for Multi-level NUMA Systems.",
+                    "Formal Verification of a Multiprocessor Hypervisor on Arm Relaxed Memory Hardware."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/sosp/2021plos",
+                "sub_name": "PLOS '21: Proceedings of the 11th Workshop on Programming Languages and Operating Systems, Virtual Event, Germany, October 25, 2021.",
+                "count": 12,
+                "papers": [
+                    "AnyCall: Fast and Flexible System-Call Aggregation.",
+                    "Asterope: A Cross-Platform Optimization Method for Fast Memory Copy.",
+                    "Files-as-Filesystems for POSIX Shell Data Processing.",
+                    "Decoupling Application Logic from Persistent Memory Frameworks with AspectC++.",
+                    "PyMM: Heterogeneous Memory Programming for Python Data Science.",
+                    "FlashCube: Fast Provisioning of Serverless Functions with Streamlined Container Runtimes.",
+                    "Using Coroutines for Multi-core Preemptive Scheduling.",
+                    "Understanding the Overheads of Hardware and Language-Based IPC Mechanisms.",
+                    "CppSig: Extracting Type Information for C-Preprocessor Macro Expansions.",
+                    "Generating correct initial page tables from formal hardware descriptions.",
+                    "Isolation in Rust: What is Missing?",
+                    "How ISO C became unusable for operating systems development."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/sosp/2021resilientfl",
+                "sub_name": "ResilientFL '21: Proceedings of the First Workshop on Systems Challenges in Reliable and Secure Federated Learning, Virtual Event / Koblenz, Germany, 25 October 2021.",
+                "count": 6,
+                "papers": [
+                    "FedScale: Benchmarking Model and System Performance of Federated Learning.",
+                    "Redundancy in cost functions for Byzantine fault-tolerant federated learning.",
+                    "Towards an Efficient System for Differentially-private, Cross-device Federated Learning.",
+                    "GradSec: a TEE-based Scheme Against Federated Learning Inference Attacks.",
+                    "Community-Structured Decentralized Learning for Resilient EI.",
+                    "Separation of Powers in Federated Learning (Poster Paper)."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "27th SOSP 2019",
+        "info": "Huntsville, ON, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sosp/2019",
+                "sub_name": "Proceedings of the 27th ACM Symposium on Operating Systems Principles, SOSP 2019, Huntsville, ON, Canada, October 27-30, 2019.",
+                "count": 38,
+                "papers": [
+                    "PipeDream: generalized pipeline parallelism for DNN training.",
+                    "A generic communication scheduler for distributed DNN training acceleration.",
+                    "Parity models: erasure-coded resilience for prediction serving systems.",
+                    "TASO: optimizing deep learning computation with automatic generation of graph substitutions.",
+                    "Teechain: a secure payment network with asynchronous blockchain access.",
+                    "Fast and secure global payments with Stellar.",
+                    "Notary: a device for secure transaction approval.",
+                    "CrashTuner: detecting crash-recovery bugs in cloud systems via meta-info analysis.",
+                    "The inflection point hypothesis: a principled debugging approach for locating the root cause of a failure.",
+                    "Finding semantic bugs in file systems with an extensible fuzzing framework.",
+                    "Efficient scalable thread-safety-violation detection: finding thousands of concurrency bugs during testing.",
+                    "Privacy accounting and quality control in the sage differentially private ML platform.",
+                    "Honeycrisp: large-scale differentially private aggregation without a trusted core.",
+                    "Yodel: strong metadata security for voice calls.",
+                    "Scaling symbolic evaluation for automated verification of systems code with Serval.",
+                    "Verifying concurrent, crash-safe systems with Perennial.",
+                    "Using concurrent relational logic with helpers for verifying the AtomFS file system.",
+                    "Verifying software network functions with no verification expertise.",
+                    "Optimizing data-intensive computations in existing libraries with split annotations.",
+                    "Niijima: sound and automated computation consolidation for efficient multilingual data-parallel pipelines.",
+                    "Nexus: a GPU cluster engine for accelerating DNN-based video analysis.",
+                    "Lineage stash: fault tolerance off the critical path.",
+                    "File systems unfit as distributed storage backends: lessons from 10 years of Ceph evolution.",
+                    "I4: incremental inference of inductive invariants for verification of distributed protocols.",
+                    "Aegean: replication beyond the client-server model.",
+                    "Snap: a microkernel approach to host networking.",
+                    "Risk based planning of network changes in evolving data centers.",
+                    "Taiji: managing global user traffic for large-scale internet services at the edge.",
+                    "KVell: the design and implementation of a fast persistent key-value store.",
+                    "Recipe: converting concurrent DRAM indexes to persistent-memory indexes.",
+                    "Performance and protection in the ZoFS user-space NVM file system.",
+                    "SplitFS: reducing software overhead in file systems for persistent memory.",
+                    "AutoMine: harmonizing high-level abstraction and high performance for graph mining.",
+                    "KnightKing: a fast distributed graph random walk engine.",
+                    "Gerenuk: thin computation over big native data using speculative program transformation.",
+                    "An analysis of performance evolution of Linux's core operations.",
+                    "ShortCut: accelerating mostly-deterministic code regions.",
+                    "Scalable and practical locking with shuffling."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/sosp/2019plos",
+                "sub_name": "Proceedings of the 10th Workshop on Programming Languages and Operating Systems, SOSP 2019, Huntsville, ON, Canada, October 27-30, 2019.",
+                "count": 10,
+                "papers": [
+                    "Cocoon: Custom-Fitted Kernel Compiled on Demand.",
+                    "Exploring Rust for Unikernel Development.",
+                    "Enveloping Implicit Assumptions of Intrusive Data Structures within Ownership Type System.",
+                    "Wait-Free Code Patching of Multi-Threaded Processes.",
+                    "A Persistent Problem: Managing Pointers in NVM.",
+                    "Cache-Line Transactions: Building Blocks for Persistent Kernel Data Structures Enabled by AspectC++.",
+                    "Rethinking Communication in Multiple-kernel OSes for New Shared Memory Interconnects.",
+                    "Fork/Wait and Multicore Frequency Scaling: a Generational Clash.",
+                    "Taxonomy of Package Management in Programming Languages and Operating Systems.",
+                    "Trials and Tribulations in Synthesizing Operating Systems."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/sosp/2019systex",
+                "sub_name": "Proceedings of the 4th Workshop on System Software for Trusted Execution, SysTEX@SOSP 2019, Huntsville, ON, Canada, October 27-30, 2019.",
+                "count": 7,
+                "papers": [
+                    "A vision for autonomous blockchains backed by secure hardware.",
+                    "Propagating trusted execution through mutual attestation.",
+                    "Toward scaling hardware security module for emerging cloud services.",
+                    "Protecting the stack with PACed canaries.",
+                    "Execution integrity without implicit trust of system software.",
+                    "Towards a standards-compliant pure-software trusted execution environment for resource-constrained embedded devices.",
+                    "TEEMo: trusted peripheral monitoring for optical networks and beyond."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "26th SOSP 2017",
+        "info": "Shanghai, China",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sosp/2017",
+                "sub_name": "Proceedings of the 26th Symposium on Operating Systems Principles, Shanghai, China, October 28-31, 2017.",
+                "count": 39,
+                "papers": [
+                    "DeepXplore: Automated Whitebox Testing of Deep Learning Systems.",
+                    "Pensieve: Non-Intrusive Failure Reproduction for Distributed Systems using the Event Chaining Approach.",
+                    "Canopy: An End-to-End Performance Tracing And Analysis System.",
+                    "Algorand: Scaling Byzantine Agreements for Cryptocurrencies.",
+                    "Scaling a file system to many cores using an operation log.",
+                    "SVE: Distributed Video Processing at Facebook Scale.",
+                    "Eris: Coordination-Free Consistent Transactions Using In-Network Concurrency Control.",
+                    "NetCache: Balancing Key-Value Stores with Fast In-Network Caching.",
+                    "KV-Direct: High-Performance In-Memory Key-Value Store with Programmable NIC.",
+                    "Resource Central: Understanding and Predicting Workloads for Improved Resource Management in Large Cloud Platforms.",
+                    "MittOS: Supporting Millisecond Tail Tolerance with Fast Rejecting SLO-Aware OS Interface.",
+                    "Monotasks: Architecting for Performance Clarity in Data Analytics Frameworks.",
+                    "NEVE: Nested Virtualization Extensions for ARM.",
+                    "My VM is Lighter (and Safer) than your Container.",
+                    "Multiprogramming a 64kB Computer Safely and Efficiently.",
+                    "Hyperkernel: Push-Button Verification of an OS Kernel.",
+                    "Verifying a high-performance crash-safe file system using a tree specification.",
+                    "Komodo: Using verification to disentangle secure-enclave hardware from software.",
+                    "LITE Kernel RDMA Support for Datacenter Applications.",
+                    "ZygOS: Achieving Low Tail Latency for Microsecond-scale Networked Tasks.",
+                    "ffwd: delegation is (much) faster than you think.",
+                    "Automatically Repairing Network Control Planes Using an Abstract Representation.",
+                    "Drizzle: Fast and Adaptable Stream Processing at Scale.",
+                    "Rocksteady: Fast Migration for Low-latency In-memory Storage.",
+                    "Atom: Horizontally Scaling Strong Anonymity.",
+                    "Stadium: A Distributed Metadata-Private Messaging System.",
+                    "Prochlo: Strong Privacy for Analytics in the Crowd.",
+                    "Strata: A Cross Media File System.",
+                    "NOVA-Fortis: A Fault-Tolerant Non-Volatile Main Memory File System.",
+                    "PebblesDB: Building Key-Value Stores using Fragmented Log-Structured Merge Trees.",
+                    "WatchIT: Who Watches Your IT Guy?",
+                    "Secure Page Fusion with VUsion: https: //www.vusec.net/projects/VUsion.",
+                    "The Efficient Server Audit Problem, Deduplicated Re-execution, and the Web.",
+                    "Log20: Fully Automated Optimal Placement of Log Printing Statements under Specified Overhead Threshold.",
+                    "Lazy Diagnosis of In-Production Concurrency Bugs.",
+                    "CrystalNet: Faithfully Emulating Large Production Networks.",
+                    "Sub-millisecond Stateful Stream Querying over Fast-evolving Linked Data.",
+                    "Optimizing Big-Data Queries Using Program Synthesis.",
+                    "Low-Latency Analytics on Colossal Data Streams with SummaryStore."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/sosp/2017plos",
+                "sub_name": "Proceedings of the 9th Workshop on Programming Languages and Operating Systems, Shanghai, China, October 28, 2017.",
+                "count": 8,
+                "papers": [
+                    "The Cogent Case for Property-Based Testing.",
+                    "Towards Correct-by-Construction Interrupt Routing on Real Hardware.",
+                    "Programmable Elasticity for Actor-based Cloud Applications.",
+                    "Adaptable Actors: Just What The World Needs.",
+                    "Theseus: a State Spill-free Operating System.",
+                    "Annotations in Operating Systems with Custom AspectC++ Attributes.",
+                    "Towards Fine-grained, Automated Application Compartmentalization.",
+                    "Sandcrust: Automatic Sandboxing of Unsafe Components in Rust."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/sosp/2017systex",
+                "sub_name": "Proceedings of the 2nd Workshop on System Software for Trusted Execution, SysTEX@SOSP 2017, Shanghai, China, October 28, 2017.",
+                "count": 10,
+                "papers": [
+                    "Strongly Secure and Efficient Data Shuffle on Hardware Enclaves.",
+                    "Hardening Intel SGX Applications: Balancing Concerns.",
+                    "Cobweb: Practical Remote Attestation Using Contextual Graphs.",
+                    "SGX-Step: A Practical Attack Framework for Precise Enclave Execution Control.",
+                    "SGX-Bomb: Locking Down the Processor via Rowhammer Attack.",
+                    "vCFI: Visible Control Flow Integrity for Cloud Tenants.",
+                    "Enclave-Based Privacy-Preserving Alignment of Raw Genomic Information: Information Leakage and Countermeasures.",
+                    "Challenges For Scaling Applications Across Enclaves.",
+                    "Scaling Databases through Trusted Hardware Proxies.",
+                    "Architectures for Enhancing Authentication Privacy and Security using Trusted Computing."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "25th SOSP 2015",
+        "info": "Monterey, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sosp/2015",
+                "sub_name": "Proceedings of the 25th Symposium on Operating Systems Principles, SOSP 2015, Monterey, CA, USA, October 4-7, 2015.",
+                "count": 30,
+                "papers": [
+                    "IronFleet: proving practical distributed systems correct.",
+                    "Using Crash Hoare logic for certifying the FSCQ file system.",
+                    "SibylFS: formal specification and oracle-based testing for POSIX and real-world file systems.",
+                    "No compromises: distributed transactions with consistency, availability, and performance.",
+                    "Implementing linearizability at large scale and low latency.",
+                    "Fast in-memory transaction processing using RDMA and HTM.",
+                    "Paxos made transparent.",
+                    "E2: a framework for NFV applications.",
+                    "Vuvuzela: scalable private messaging resistant to traffic analysis.",
+                    "Parallelizing user-defined aggregations using symbolic execution.",
+                    "Read-log-update: a lightweight synchronization mechanism for concurrent programming.",
+                    "Coz: finding code that counts with causal profiling.",
+                    "JouleGuard: energy guarantees for approximate applications.",
+                    "Software defined batteries.",
+                    "Drowsy power management.",
+                    "Yesquel: scalable sql storage for web applications.",
+                    "Building consistent transactions with inconsistent replication.",
+                    "High-performance ACID via modular concurrency control.",
+                    "Existential consistency: measuring and understanding consistency at Facebook.",
+                    "Virtual CPU validation.",
+                    "Holistic configuration management at Facebook.",
+                    "Failure sketching: a technique for automated root cause diagnosis of in-production failures.",
+                    "Cross-checking semantic correctness: the case of finding file system bugs.",
+                    "Pivot tracing: dynamic causal monitoring for distributed systems.",
+                    "Interruptible tasks: treating memory pressure as interrupts for highly scalable data-parallel programs.",
+                    "Chaos: scale-out graph processing from secondary storage.",
+                    "Arabesque: a system for distributed graph mining.",
+                    "How to get more value from your file system directory cache.",
+                    "Opportunistic storage maintenance.",
+                    "Split-level I/O scheduling."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/sosp/2015inflow",
+                "sub_name": "Proceedings of the 3rd Workshop on Interactions of NVM/FLASH with Operating Systems and Workloads, INFLOW 2015, Monterey, California, USA, October 4, 2015.",
+                "count": 6,
+                "papers": [
+                    "Revisiting hash table design for phase change memory.",
+                    "Exploiting NVM in large-scale graph analytics.",
+                    "Androtrace: framework for tracing and analyzing IOs on Android.",
+                    "Mj\u00f6lnir: collecting trash in a demanding new world.",
+                    "A fast and slippery slope for file systems.",
+                    "Towards software defined persistent memory: rethinking software support for heterogenous memory architectures."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/sosp/2015plos",
+                "sub_name": "Proceedings of the 8th Workshop on Programming Languages and Operating Systems, PLOS 2015, Monterey, California, USA, October 4, 2015.",
+                "count": 7,
+                "papers": [
+                    "Hardening an L4 microkernel against soft errors by aspect-oriented programming and whole-program analysis.",
+                    "Lightweight capability domains: towards decomposing the Linux kernel.",
+                    "Running application specific kernel code by a just-in-time compiler.",
+                    "Ownership is theft: experiences building an embedded OS in rust.",
+                    "Speculative region-based memory management for big data systems.",
+                    "Tapir: a language for verified OS kernel probes.",
+                    "Making lock-free data structures verifiable with artificial transactions."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/sosp/2015hotpower",
+                "sub_name": "Proceedings of the Workshop on Power-Aware Computing and Systems, HotPower 2015, Monterey, California, USA, October 4, 2015.",
+                "count": 7,
+                "papers": [
+                    "A case for bad big.LITTLE switching: how to scale power-performance in SI-HMP.",
+                    "Harnessing energy efficiency of heterogeneous-ISA platforms.",
+                    "Modeling communication costs in blade servers.",
+                    "Data layout for power efficient archival storage systems.",
+                    "Optimizing power consumption of mobile games.",
+                    "Sudden drop in the battery level?: understanding smartphone state of charge anomaly.",
+                    "How device properties influence energy-delay metrics and the energy-efficiency of parallel computations."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/sosp/2015history",
+                "sub_name": "SOSP History Day 2015, Monterey, California, USA, October 4, 2015.",
+                "count": 14,
+                "papers": [
+                    "Overview of the day.",
+                    "The founding of the SOSP conferences.",
+                    "Perspectives on OS foundations.",
+                    "Perspectives on protection and security.",
+                    "Perspectives on system languages and abstraction.",
+                    "Evolution of file and memory management.",
+                    "Evolution of fault tolerance.",
+                    "Virtualization.",
+                    "Past and future of hardware and architecture.",
+                    "Parallel computing and the OS.",
+                    "The network and the OS.",
+                    "The rise of cloud computing systems.",
+                    "Is achieving security a hopeless quest?",
+                    "Reminiscences on SOSP history day."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "24th SOSP 2013",
+        "info": "Farmington, PA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sosp/2013",
+                "sub_name": "ACM SIGOPS 24th Symposium on Operating Systems Principles, SOSP '13, Farmington, PA, USA, November 3-6, 2013.",
+                "count": 30,
+                "papers": [
+                    "The scalable commutativity rule: designing scalable software for multicore processors.",
+                    "Speedy transactions in multicore in-memory databases.",
+                    "Everything you always wanted to know about synchronization but were afraid to ask.",
+                    "Dandelion: a compiler and runtime for heterogeneous systems.",
+                    "Sparrow: distributed, low latency scheduling.",
+                    "Timecard: controlling user-perceived delays in server-based mobile applications.",
+                    "Fast dynamic binary translation for the kernel.",
+                    "VirtuOS: an operating system with kernel virtualization.",
+                    "From L3 to seL4 what have we learnt in 20 years of L4 microkernels?",
+                    "Replication, history, and grafting in the Ori file system.",
+                    "An analysis of Facebook photo caching.",
+                    "IOFlow: a software-defined storage architecture.",
+                    "From ARIES to MARS: transaction support for next-generation, solid-state drives.",
+                    "Asynchronous intrusion recovery for interconnected web services.",
+                    "Optimistic crash consistency.",
+                    "Do not blame users for misconfigurations.",
+                    "Towards optimization-safe systems: analyzing the impact of undefined behavior.",
+                    "Transaction chains: achieving serializability with low latency in geo-distributed storage systems.",
+                    "SPANStore: cost-effective geo-replicated storage spanning multiple cloud services.",
+                    "Consistency-based service level agreements for cloud storage.",
+                    "Tango: distributed data structures over a shared log.",
+                    "Verifying computations with state.",
+                    "There is more consensus in Egalitarian parliaments.",
+                    "ROOT: replaying multithreaded traces with resource-oriented ordering.",
+                    "Parrot: a practical runtime for deterministic, stable, and reliable threads.",
+                    "RaceMob: crowdsourced data race detection.",
+                    "Discretized streams: fault-tolerant streaming computation at scale.",
+                    "Naiad: a timely dataflow system.",
+                    "A lightweight infrastructure for graph analytics.",
+                    "X-Stream: edge-centric graph processing using streaming partitions."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/sosp/2013trios",
+                "sub_name": "Proceedings of the First ACM SIGOPS Conference on Timely Results in Operating Systems, TRIOS@SOSP 2013, Farmington, PA, USA, November 3, 2013.",
+                "count": 10,
+                "papers": [
+                    "Consistent, durable, and safe memory management for byte-addressable non volatile main memory.",
+                    "Transparent driver-kernel isolation with VMM intervention.",
+                    "Better flash access via shape-shifting virtual memory pages.",
+                    "inTune: coordinating multicore islands to achieve global policy objectives.",
+                    "Impact of DVFS on n-tier application performance.",
+                    "MUTT: a watchdog for OSN applications.",
+                    "SETSUD\u014c: perturbation-based testing framework for scalable distributed systems.",
+                    "Scalable coordination of a tightly-coupled service in the wide area.",
+                    "LFGraph: simple and fast distributed graph analytics.",
+                    "Hosting dynamic data in the cloud with Isis2 and the Ida DHT."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/sosp/2013inflow",
+                "sub_name": "Proceedings of the 1st Workshop on Interactions of NVM/FLASH with Operating Systems and Workloads, INFLOW 2013, Farmington, Pennsylvania, USA, November 3, 2013.",
+                "count": 8,
+                "papers": [
+                    "Bankshot: caching slow storage in fast non-volatile memory.",
+                    "Phase change memory in enterprise storage systems: silver bullet or snake oil?",
+                    "MetaData persistence using storage class memory: experiences with flash-backed DRAM.",
+                    "Exploring storage class memory with key value stores.",
+                    "Improving performance and lifetime of the SSD RAID-based host cache through a log-structured approach.",
+                    "High performance & low latency in solid-state drives through redundancy.",
+                    "Log-structured cache: trading hit-rate for storage performance (and winning) in mobile devices.",
+                    "NVM heaps for accelerating browser-based applications."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/sosp/2013plos",
+                "sub_name": "Proceedings of the Seventh Workshop on Programming Languages and Operating Systems, PLOS 2013, Farmington, Pennsylvania, USA, November 3-6, 2013.",
+                "count": 10,
+                "papers": [
+                    "File systems deserve verification too!",
+                    "Towards a verified component platform.",
+                    "Modeling NICs with Unicorn.",
+                    "Annotation for automation: rapid generation of file system tools.",
+                    "Your server as a function.",
+                    "Weir: a streaming language for performance analysis.",
+                    "MBrace: cloud computing with monads.",
+                    "The operating system: should there be one?",
+                    "Semi-automated debugging via binary search through a process lifetime.",
+                    "Understanding the genetic makeup of Linux device drivers."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/sosp/2013hotpower",
+                "sub_name": "Proceedings of the Workshop on Power-Aware Computing and Systems, HotPower 2013, Farmington, Pennsylvania, USA, November 3-6, 2013.",
+                "count": 13,
+                "papers": [
+                    "On death, taxes, and sleep disorder bugs in smartphones.",
+                    "Why application errors drain battery easily?: a study of memory leaks in smartphone apps.",
+                    "How much energy can we save from prefetching ads?: energy drain analysis of top 100 apps.",
+                    "Cooperative control architecture of fan-less servers and fresh-air cooling in container servers for low power operation.",
+                    "No more electrical infrastructure: towards fuel cell powered data centers.",
+                    "Greening the compute cloud's pricing plans.",
+                    "Coordinate page allocation and thread group for improving main memory power efficiency.",
+                    "Evaluating integrated graphics processors for data center workloads.",
+                    "Exploiting processor heterogeneity for energy efficient context inference on mobile phones.",
+                    "A measurement study of GPU DVFS on energy conservation.",
+                    "Towards better CPU power management on multicore smartphones.",
+                    "Mobile multicores: use them or waste them.",
+                    "Racing and pacing to idle: an evaluation of heuristics for energy-aware resource allocation."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/hotdep/2013",
+                "sub_name": "Proceedings of the 9th Workshop on Hot Topics in Dependable Systems, HotDep 2013, Farmington, Pennsylvania, USA, November 3, 2013.",
+                "count": 12,
+                "papers": [
+                    "Higher SLA satisfaction in datacenters with continuous VM placement constraints.",
+                    "Using big data for more dependability: a cellular network tale.",
+                    "An untold story of redundant clouds: making your service deployment truly reliable.",
+                    "Towards transparent hardening of distributed systems.",
+                    "Towards Byzantine fault tolerant publish/subscribe: a state machine approach.",
+                    "Towards privacy-preserving fault detection.",
+                    "Verifying the correctness of remote executions: from wild implausibility to near practicality.",
+                    "Towards efficient, portable application-level consistency.",
+                    "PSCloud: a durable context-aware personal storage cloud.",
+                    "Towards effective and efficient search-based deterministic replay.",
+                    "Behave or be watched: debugging with behavioral watchpoints.",
+                    "Techniques for efficient in-memory checkpointing."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "23rd SOSP 2011",
+        "info": "Cascais, Portugal",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sosp/2011",
+                "sub_name": "Proceedings of the 23rd ACM Symposium on Operating Systems Principles 2011, SOSP 2011, Cascais, Portugal, October 23-26, 2011.",
+                "count": 28,
+                "papers": [
+                    "SILT: a memory-efficient, high-performance key-value store.",
+                    "Scalable consistency in Scatter.",
+                    "Fast crash recovery in RAMCloud.",
+                    "Design implications for enterprise storage systems via multi-dimensional trace analysis.",
+                    "Differentiated storage services.",
+                    "A file is not a file: understanding the I/O behavior of Apple desktop applications.",
+                    "CryptDB: protecting confidentiality with encrypted query processing.",
+                    "Intrusion recovery for database-backed web applications.",
+                    "Software fault isolation with API integrity and multi-principal modules.",
+                    "Thialfi: a client notification service for internet-scale applications.",
+                    "Windows Azure Storage: a highly available cloud storage service with strong consistency.",
+                    "An empirical study on configuration errors in commercial and open source systems.",
+                    "Cells: a virtual mobile smartphone architecture.",
+                    "Breaking up is hard to do: security and functionality in a commodity hypervisor.",
+                    "CloudVisor: retrofitting protection of virtual machines in multi-tenant cloud with nested virtualization.",
+                    "Atlantis: robust, extensible execution environments for web applications.",
+                    "PTask: operating system abstractions to manage GPUs as compute devices.",
+                    "Logical attestation: an authorization architecture for trustworthy computing.",
+                    "Practical software model checking via dynamic interface reduction.",
+                    "Detecting failures in distributed systems with the Falcon spy network.",
+                    "Secure network provenance.",
+                    "Fay: extensible distributed tracing from kernels to clusters.",
+                    "Dthreads: efficient deterministic multithreading.",
+                    "Efficient deterministic multithreading through schedule relaxation.",
+                    "Pervasive detection of process races in deployed systems.",
+                    "Detecting and surviving data races using complementary schedules.",
+                    "Transactional storage for geo-replicated systems.",
+                    "Don't settle for eventual: scalable causal consistency for wide-area storage with COPS."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/sosp/2011plos",
+                "sub_name": "Proceedings of the 6th Workshop on Programming Languages and Operating Systems, PLOS@SOSP 2011, Cascais, Portugal, October 23, 2011.",
+                "count": 8,
+                "papers": [
+                    "Finding resource-release omission faults in Linux.",
+                    "Configuration coverage in the analysis of large-scale system software.",
+                    "Rounding pointers: type safe capabilities with C++ meta programming.",
+                    "Preliminary design of the SAFE platform.",
+                    "Dynamic deadlock avoidance in systems code using statically inferred effects.",
+                    "Using declarative invariants for protecting file-system integrity.",
+                    "Assessing the scalability of garbage collectors on many cores.",
+                    "URDB: a universal reversible debugger based on decomposing debugging histories."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/sosp/2011hotpower",
+                "sub_name": "Proceedings of the 4th Workshop on Power-Aware Computing and Systems, HotPower '11, Cascais, Portugal, October 23, 2011.",
+                "count": 10,
+                "papers": [
+                    "The interplay of software bloat, hardware energy proportionality and system bottlenecks.",
+                    "The case for sleep states in servers.",
+                    "Power-efficient networking for balanced system designs: early experiences with PCIe.",
+                    "SEEP: exploiting symbolic execution for energy-aware programming.",
+                    "Utilizing green energy prediction to schedule mixed batch and service jobs in data centers.",
+                    "Energy-aware writes to non-volatile main memory.",
+                    "Towards realizing a low cost and highly available datacenter power infrastructure.",
+                    "Leveraging thermal storage to cut the electricity bill for datacenter cooling.",
+                    "Ekho: bridging the gap between simulation and reality in tiny energy-harvesting sensors.",
+                    "Simultaneous multithreading on x86_64 systems: an energy efficiency evaluation."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "22nd SOSP 2009",
+        "info": "Big Sky, Montana, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sosp/2009",
+                "sub_name": "Proceedings of the 22nd ACM Symposium on Operating Systems Principles 2009, SOSP 2009, Big Sky, Montana, USA, October 11-14, 2009.",
+                "count": 23,
+                "papers": [
+                    "FAWN: a fast array of wimpy nodes.",
+                    "RouteBricks: exploiting parallelism to scale software routers.",
+                    "The multikernel: a new OS architecture for scalable multicore systems.",
+                    "Fast byte-granularity software fault isolation.",
+                    "Tolerating hardware device failures in software.",
+                    "Automatic device driver synthesis with termite.",
+                    "Automatically patching errors in deployed software.",
+                    "Debugging in the (very) large: ten years of implementation and experience.",
+                    "Detecting large-scale system problems by mining console logs.",
+                    "Better I/O through byte-addressable, persistent memory.",
+                    "Modular data storage with Anvil.",
+                    "Operating systems transactions.",
+                    "PRES: probabilistic replay with execution sketching on multiprocessors.",
+                    "ODR: output-deterministic replay for multicore debugging.",
+                    "seL4: formal verification of an OS kernel.",
+                    "Helios: heterogeneous multiprocessing with satellite kernels.",
+                    "Surviving sensor network software faults.",
+                    "Distributed aggregation for data-parallel computing: interfaces and implementations.",
+                    "Quincy: fair scheduling for distributed computing clusters.",
+                    "Upright cluster services.",
+                    "Improving application security with data flow assertions.",
+                    "Heat-ray: combating identity snowball attacks using machinelearning, combinatorial optimization and attack graphs.",
+                    "Fabric: a platform for secure distributed computation and storage."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/sosp/2009plos",
+                "sub_name": "Proceedings of the Fifth Workshop on Programming Languages and Operating Systems, PLOS@SOSP 2009, Big Sky, Montana, USA, October 11, 2009.",
+                "count": 7,
+                "papers": [
+                    "Checking process-oriented operating system behaviour using CSP and refinement.",
+                    "A microkernel API for fine-grained decomposition.",
+                    "Code-Partitioning Gossip.",
+                    "CatchAndRetry: extending exceptions to handle distributed system failures and recovery.",
+                    "Filet-o-Fish: practical and dependable domain-specific languages for OS development.",
+                    "KStruct: preserving consistency through C annotations.",
+                    "Distributed data flow language for multi-party protocols."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "21st SOSP 2007",
+        "info": "Stevenson, Washington, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sosp/2007",
+                "sub_name": "Proceedings of the 21st ACM Symposium on Operating Systems Principles 2007, SOSP 2007, Stevenson, Washington, USA, October 14-17, 2007.",
+                "count": 25,
+                "papers": [
+                    "Protection and communication abstractions for web browsers in MashupOS.",
+                    "AjaxScope: a platform for remotely monitoring the client-side behavior of web 2.0 applications.",
+                    "Secure web application via automatic partitioning.",
+                    "Zyzzyva: speculative byzantine fault tolerance.",
+                    "Tolerating byzantine faults in transaction processing systems using commit barrier scheduling.",
+                    "Low-overhead byzantine fault-tolerant storage.",
+                    "TxLinux: using and managing hardware transactional memory in an operating system.",
+                    "MUVI: automatically inferring multi-variable access correlations and detecting related semantic and concurrency bugs.",
+                    "Bouncer: securing software by blocking bad input.",
+                    "Triage: diagnosing production run failures at the user's site.",
+                    "/*icomment: bugs or bad comments?*/.",
+                    "Sinfonia: a new paradigm for building scalable distributed systems.",
+                    "PeerReview: practical accountability for distributed systems.",
+                    "Attested append-only memory: making adversaries stick to their word.",
+                    "Dynamo: amazon's highly available key-value store.",
+                    "Staged deployment in mirage, an integrated software upgrade testing and distribution system.",
+                    "AutoBash: improving configuration management with operating system causality analysis.",
+                    "Integrating concurrency control and energy management in device drivers.",
+                    "VirtualPower: coordinated power management in virtualized enterprise systems.",
+                    "DejaView: a personal virtual computer recorder.",
+                    "Improving file system reliability with I/O shepherding.",
+                    "Generalized file system dependencies.",
+                    "Information flow control for standard OS abstractions.",
+                    "SecVisor: a tiny hypervisor to provide lifetime kernel code integrity for commodity OSes.",
+                    "Secure virtual architecture: a safe execution environment for commodity operating systems."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/sosp/2007plos",
+                "sub_name": "Proceedings of the 4th workshop on Programming languages and operating systems, PLOS@SOSP 2007, Stevenson, Washington, USA, October 18, 2007.",
+                "count": 10,
+                "papers": [
+                    "Writing systems software in a functional language: an experience report.",
+                    "Towards easing the diagnosis of bugs in OS code.",
+                    "Configurable memory protection by aspects.",
+                    "A DSL approach for object memory management of small devices.",
+                    "Resource management aspects for sensor network software.",
+                    "Why the grass may not be greener on the other side: a comparison of locking vs. transactional memory.",
+                    "Predictive thread-to-core assignment on a heterogeneous multi-core processor.",
+                    "A high-performance operating system for structured concurrent programs.",
+                    "Checking the hardware-software interface in spec#.",
+                    "Formalising device driver interfaces."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "20th SOSP 2005",
+        "info": "Brighton, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sosp/2005",
+                "sub_name": "Proceedings of the 20th ACM Symposium on Operating Systems Principles 2005, SOSP 2005, Brighton, UK, October 23-26, 2005.",
+                "count": 22,
+                "papers": [
+                    "Opening remarks.",
+                    "Keynote speech.",
+                    "Pioneer: verifying code integrity and enforcing untampered code execution on legacy systems.",
+                    "Labels and event processes in the Asbestos operating system.",
+                    "Mondrix: memory isolation for linux using mondriaan memory protection.",
+                    "BAR fault tolerance for cooperative services.",
+                    "Fault-scalable Byzantine fault-tolerant services.",
+                    "Implementing declarative overlays.",
+                    "Detecting past and present intrusions through vulnerability-specific predicates.",
+                    "Capturing, indexing, clustering, and retrieving system history.",
+                    "Connections: using context to enhance file search.",
+                    "Vigilante: end-to-end containment of internet worms.",
+                    "Scalability, fidelity, and containment in the potemkin virtual honeyfarm.",
+                    "The taser intrusion recovery system.",
+                    "Hibernator: helping disk arrays sleep through the winter.",
+                    "Speculative execution in a distributed file system.",
+                    "IRON file systems.",
+                    "RaceTrack: efficient detection of data race conditions via adaptive tracking.",
+                    "Rx: treating bugs as allergies - a safe method to survive software failures.",
+                    "Idletime scheduling with preemption intervals.",
+                    "FS2: dynamic data replication in free disk space for improving disk performance and energy consumption.",
+                    "THINC: a virtual display architecture for thin-client computing."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "name": "19th SOSP 2003",
+        "info": "The Sagamore, Bolton Landing (Lake George), New York, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sosp/2003",
+                "sub_name": "Proceedings of the 19th ACM Symposium on Operating Systems Principles 2003, SOSP 2003, Bolton Landing, NY, USA, October 19-22, 2003.",
+                "count": 22,
+                "papers": [
+                    "Upgrading transport protocols using untrusted mobile code.",
+                    "Model-carrying code: a practical approach for safe execution of untrusted applications.",
+                    "The Google file system.",
+                    "Preserving peer replicas by rate-limited sampled voting.",
+                    "Decentralized user authentication in a global file system.",
+                    "Performance debugging for distributed systems of black boxes.",
+                    "Transforming policies into mechanisms with infokernel.",
+                    "User-level internet path diagnosis.",
+                    "Samsara: honor among thieves in peer-to-peer storage.",
+                    "SHARP: an architecture for secure resource peering.",
+                    "Energy-efficient soft real-time CPU scheduling for mobile multimedia systems.",
+                    "Xen and the art of virtualization.",
+                    "Implementing an untrusted operating system on trusted hardware.",
+                    "Terra: a virtual machine-based platform for trusted computing.",
+                    "Improving the reliability of commodity operating systems.",
+                    "Backtracking intrusions.",
+                    "RacerX: effective, static detection of race conditions and deadlocks.",
+                    "Separating agreement from execution for byzantine fault tolerant services.",
+                    "Capriccio: scalable threads for internet services.",
+                    "Bullet: high bandwidth data dissemination using an overlay mesh.",
+                    "SplitStream: high-bandwidth multicast in cooperative environments.",
+                    "Measurement, modeling, and analysis of a peer-to-peer file-sharing workload."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2001",
+        "name": "18th SOSP 2001",
+        "info": "Banff, Alberta, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sosp/2001",
+                "sub_name": "Proceedings of the 18th ACM Symposium on Operating System Principles, SOSP 2001, Chateau Lake Louise, Banff, Alberta, Canada, October 21-24, 2001.",
+                "count": 17,
+                "papers": [
+                    "Untrusted Hosts and Confidentiality: Secure Program Partitioning.",
+                    "BASE: Using Abstraction to Improve Fault Tolerance.",
+                    "The Costs and Limits of Availability for Replicated Services.",
+                    "Information and Control in Gray-Box Systems.",
+                    "Bugs as Inconsistent Behavior: A General Approach to Inferring Errors in Systems Code.",
+                    "An Empirical Study of Operating System Errors.",
+                    "Real-Time Dynamic Voltage Scaling for Low-Power Embedded Operating Systems.",
+                    "Managing Energy and Server Resources in Hosting Centres.",
+                    "Anticipatory scheduling: A disk scheduling framework to overcome deceptive idleness in synchronous I/O.",
+                    "Resilient Overlay Networks.",
+                    "Building Efficient Wireless Sensor Networks with Low-Level Naming.",
+                    "Mesh Based Content Routing using XML.",
+                    "A Low-Bandwidth Network File System.",
+                    "Storage Management and Caching in PAST, A Large-scale, Persistent Peer-to-peer Storage Utility.",
+                    "Wide-Area Cooperative Storage with CFS.",
+                    "Building a Robust Software-Based Router Using Network Processors.",
+                    "SEDA: An Architecture for Well-Conditioned, Scalable Internet Services."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1999",
+        "name": "17th SOSP 1999",
+        "info": "Kiawah Island Resort, near Charleston, SC, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sosp/1999",
+                "sub_name": "Proceedings of the 17th ACM Symposium on Operating System Principles, SOSP 1999, Kiawah Island Resort, near Charleston, South Carolina, USA, December 12-15, 1999.",
+                "count": 19,
+                "papers": [
+                    "Manageability, Availability and Performance in Porcupine: A Highly Scalable, Cluster-based Mail Service.",
+                    "On the scale and performance of cooperative Web proxy caching.",
+                    "The interactive performance of SLIM: a stateless, thin-client architecture.",
+                    "Energy-aware adaptation for mobile applications.",
+                    "Active network vision and reality: lessions form a capsule-based system.",
+                    "Building reliable, high-performance communication systems from components.",
+                    "File system usage in Windows NT 4.0.",
+                    "Deciding when to forget in the Elephant file system.",
+                    "Separating key management from file system security.",
+                    "Integrating segmentation and paging protection for safe, efficient and transparent software extensions.",
+                    "Cellular Disco: resource management using virtual clusters on shared-memory multiprocessors.",
+                    "EROS: a fast capability system.",
+                    "The design and implementation of an intentional naming system.",
+                    "Design and implementation of a distributed virtual machine for networked computers.",
+                    "The Click modular router.",
+                    "Soft timers: efficient microsecond software timer support for network processing.",
+                    "Progress-based regulation of low-importance processes.",
+                    "Borrowed-virtual-time (BVT) scheduling: supporting latency-sensitive threads in a general-purpose schedular.",
+                    "EMERALDS: a small-memory real-time microkernel."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1997",
+        "name": "16th SOSP 1997",
+        "info": "St. Malo, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sosp/1997",
+                "sub_name": "Proceedings of the Sixteenth ACM Symposium on Operating System Principles, SOSP 1997, St. Malo, France, October 5-8, 1997.",
+                "count": 23,
+                "papers": [
+                    "Continuous Profiling: Where Have All the Cycles Gone?",
+                    "System Support for Automated Profiling and Optimization.",
+                    "Eraser: A Dynamic Data Race Detector for Multi-Threaded Programs.",
+                    "The Flux OSKit: A Substrate for Kernel and Language Research.",
+                    "Application Performance and Flexibility on Exokernel Systems.",
+                    "The Performance of \u00b5Kernel-Based Systems.",
+                    "Cluster-Based Scalable Network Services.",
+                    "Free Transactions With Rio Vista.",
+                    "HAC: Hybrid Adaptive Caching for Distributed Storage Systems.",
+                    "Extensible Security Architecture for Java.",
+                    "A Decentralized Model for Information Flow Control.",
+                    "DISCO: Running Commodity Operating Systems on Scalable Multiprocessors.",
+                    "Towards Transparent and Efficient Software Distributed Shared Memory.",
+                    "Cashmere-2L: Software Coherent Shared Memory on a Clustered Remote-Write Network.",
+                    "The Design, Implementation and Evaluation of SMART: A Scheduler for Multimedia Applications.",
+                    "CPU Reservations and Time Constraints: Efficient, Predictable Scheduling of Independent Activities.",
+                    "Distributed Schedule Management in the Tiger Video Fileserver.",
+                    "Frangipani: A Scalable Distributed File System.",
+                    "Improving the Performance of Log-Structured File Systems with Adaptive Methods.",
+                    "Exploiting the Non-Determinism and Asynchrony of Set Iterators to Reduce Aggregate File I/O Latency.",
+                    "Automated Hoarding for Mobile Computers.",
+                    "Agile Application-Aware Adaptation for Mobility.",
+                    "Flexible Update Propagation for Weakly Consistent Replication."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1995",
+        "name": "15th SOSP 1995",
+        "info": "Copper Mountain Resort, Colorado",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sosp/95",
+                "sub_name": "Proceedings of the Fifteenth ACM Symposium on Operating System Principles, SOSP 1995, Copper Mountain Resort, Colorado, USA, December 3-6, 1995.",
+                "count": 30,
+                "papers": [
+                    "Hypervisor-based Fault-tolerance.",
+                    "Hive: Fault Containment for Shared-Memory Multiprocessors.",
+                    "Logged Virtual Memory.",
+                    "U-Net: A User-Level Network Interface for Parallel and Distributed Computing.",
+                    "A Highly Available, Scalable ITV System.",
+                    "Object and Native Code Thread Mobility Among Heterogeneous Computers.",
+                    "Informed Prefetching and Caching.",
+                    "The HP AutoRAID Hierarchical Storage System.",
+                    "Serverless Network File Systems.",
+                    "Performance of Cache Coherence in Stackable Filing.",
+                    "Exploiting Weak Connectivity for Mobile File Access.",
+                    "Rover: A Toolkit for Mobile Information Access.",
+                    "Managing Update Conflicts in Bayou, a Weakly Connected Replicated Storage System.",
+                    "A New Page Table for 64-bit Address Spaces.",
+                    "Implementing Global Memory Management in a Workstation Cluster.",
+                    "CRL: High-Performance All-Software Distributed Shared Memory.",
+                    "The Performance of the Container Shipping I/O System.",
+                    "Time-Function Scheduling: A General Approach To Controllable Resource Management.",
+                    "A Real-time Upcall Facility for Protocol Processing with QoS Guarantees.",
+                    "Using Annotated Interface Definitions to Optimize RPC.",
+                    "SMART: A Processor Scheduler for Multimedia Applications.",
+                    "Autonomous Replication Across Wide-Area Internetworks.",
+                    "Using a Modified Object Buffer to Improve the Write Performance of an Object-Oriented Database.",
+                    "Exploiting Process Lifetime Distributions for Dynamic Load Balancing.",
+                    "On micro-Kernel Construction.",
+                    "Exokernel: An Operating System Architecture for Application-Level Resource Management.",
+                    "Extensibility, Safety and Performance in the SPIN Operating System.",
+                    "The Impact of Architectural Trends on Operating System Performance.",
+                    "The Measured Performance of Personal Computer Operating Systems.",
+                    "Optimistic Incremental Specialization: Streamlining a Commercial Operating System."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1993",
+        "name": "14th SOSP 1993",
+        "info": "Asheville, North Carolina",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sosp/1993",
+                "sub_name": "Proceedings of the Fourteenth ACM Symposium on Operating System Principles, SOSP 1993, The Grove Park Inn and Country Club, Asheville, North Carolina, USA, December 5-8, 1993.",
+                "count": 21,
+                "papers": [
+                    "Extensible File Systems in Spring.",
+                    "The Logical Disk: A New Approach to Improving File Systems.",
+                    "The Zebra Striped Network File System.",
+                    "Understanding the Limitations of Causally and Totally Ordered Communication.",
+                    "The Information Bus - An Architecture for Extensible Distributed Systems.",
+                    "Subcontract: A Flexible Base for Distributed Programming.",
+                    "Interposition Agents: Transparently Interposing User Code at the System Interface.",
+                    "Using Threads in Interactive Systems: A Case Study.",
+                    "Protection Traps and Alternatives for Memory Management of an Object-Oriented Language.",
+                    "The Impact of Operating System Structure on Memory System Performance.",
+                    "Performance Assertion Checking.",
+                    "Lightweight Recoverable Virtual Memory.",
+                    "Concurrent Compacting Garbage Collection of a Persistent Heap.",
+                    "Improving IPC by Kernel Design.",
+                    "Fbufs: A High-Bandwidth Cross-Domain Transfer Facility.",
+                    "Efficient Software-Based Fault Isolation.",
+                    "Network Objects.",
+                    "Handling Audio and Video Streams in a Distributed Environment.",
+                    "Protocol Service Decomposition for High-Performance Networking.",
+                    "Authentication in the Taos Operating System.",
+                    "Providing Location Information in a Ubiquitous Computing Environment."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1991",
+        "name": "13th SOSP 1991",
+        "info": "Pacific Grove, California",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sosp/1991",
+                "sub_name": "Proceedings of the Thirteenth ACM Symposium on Operating System Principles, SOSP 1991, Asilomar Conference Center, Pacific Grove, California, USA, October 13-16, 1991.",
+                "count": 18,
+                "papers": [
+                    "The Design and Implementation of a Log-Structured File System.",
+                    "Semantic File Systems.",
+                    "The Implications of Cache Affinity on Processor Scheduling for Multiprogrammed, Shared Memory Multiprocessors.",
+                    "Empirical Studies of Competitive Spinning for a Shared-Memory Multiprocessor.",
+                    "A High Performance Multi-Structured File System Design.",
+                    "Scheduling and IPC Mechanisms for Continuous Media.",
+                    "Designing File Systems for Digital Video and Audio.",
+                    "Scheduler Activations: Effective Kernel Support for the User-Level Management of Parallelism.",
+                    "First-Class User-Level Theads.",
+                    "Using Continuations to Implement Thread Management and Communication in Operating Systems.",
+                    "The Robustness of NUMA Memory Management.",
+                    "Implementation and Performance of Munin.",
+                    "Authentication in Distributed Systems: Theory and Practice.",
+                    "Automatic Reconfiguration in Autonet.",
+                    "Measurements of a Distributed File System.",
+                    "Disconnected Operation in the Coda File System.",
+                    "Replication in the Harp File System.",
+                    "Experience with Transactions in QuickSilver."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1989",
+        "name": "12th SOSP 1989",
+        "info": "Litchfield Park, Arizona",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sosp/1989",
+                "sub_name": "Proceedings of the Twelfth ACM Symposium on Operating System Principles, SOSP 1989, The Wigwam, Litchfield Park, Arizona, USA, December 3-6, 1989.",
+                "count": 20,
+                "papers": [
+                    "A Logic of Authentication.",
+                    "Reducing Risks from Poorly Chosen Keys.",
+                    "Simple But Effective Techniques for NUMA Memory Management.",
+                    "The Implementation of a Coherent Memory Abstraction on a NUMA Multiprocessor: Experiences with PLATINUM.",
+                    "Spritely NFS: Experiments with Cache-Consistency Protocols.",
+                    "Exploiting Read-Mostly Workloads in The FileNet File System.",
+                    "Improving the Efficiency of UNIX File Buffer Caches.",
+                    "Performance of Firefly RPC.",
+                    "RPC in the x-Kernel: Evaluating New Design Techniques.",
+                    "Lightweight Remote Procedure Call.",
+                    "The Portable Common Runtime Approach to Interoperability.",
+                    "Generic Virtual Memory Management for Operating System Kernels.",
+                    "Low-Synchronization Translation Lookaside Buffer Consistency in Large-Scale Shared-Memory Multiprocessors.",
+                    "The Amber System: Parallel Programming on a Network of Multiprocessors.",
+                    "Process Control and Scheduling Issues for Multiprogrammed Shared-Memory Multiprocessors.",
+                    "A Lazy Buddy System Bounded by Two Coalescing Delays per Class.",
+                    "Analysis of Transaction Management Performance.",
+                    "Threads and Input/Output in the Synthesis Kernel.",
+                    "Leases: An Efficient Fault-Tolerant Mechanism for Distributed File Cache Consistency.",
+                    "Mirage: A Coherent Distributed Shared Memory Design."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1987",
+        "name": "11th SOSP 1987",
+        "info": "Austin, Texas",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sosp/1987",
+                "sub_name": "Proceedings of the Eleventh ACM Symposium on Operating System Principles, SOSP 1987, Stouffer Austin Hotel, Austin, Texas, USA, November 8-11, 1987.",
+                "count": 19,
+                "papers": [
+                    "Scale and Performance in a Distributed File System (Extended Abstract).",
+                    "Caching in the Sprite Network File System (Extended Abstract).",
+                    "Using Idle Workstations in a Shared Computing Environment.",
+                    "Attacking the Process Migration Bottleneck.",
+                    "Hashed and Hierarchical Timing Wheels: Data Structures for the Efficient Implementation of a Timer Facility.",
+                    "The Packet Filter: An Efficient Mechanism for User-level Network Code.",
+                    "A Name Service for Evolving, Heterogeneous Systems.",
+                    "The Duality of Memory and Communication in the Implementation of a Multiprocessor Operating System.",
+                    "Distributed Simulation and the Time Wrap Operating System.",
+                    "Synchronization Primitives for a Multiprocessor: A Formal Specification.",
+                    "Managing Stored Voice in the Etherphone System (Extended Abstract).",
+                    "Fine-Grained Mobility in the Emerald System (Extended Abstract).",
+                    "Recovery Management in QuickSilver (Extended Abstract).",
+                    "801 Storage: Architecture and Programming (Extended Abstract).",
+                    "Implementation of Argus.",
+                    "Exploiting Virtual Synchrony in Distributed Systems.",
+                    "Log Files: An Extended File Service Exploiting Write-Once Storage.",
+                    "A Simple and Efficient Implementation for Small Databases.",
+                    "Reimplementing the Cedar File System Using Logging and Group Commit."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1985",
+        "name": "10th SOSP 1985",
+        "info": "Orcas Island, Washington",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sosp/1985",
+                "sub_name": "Proceedings of the Tenth ACM Symposium on Operating System Principles, SOSP 1985, Orcas Island, Washington, USA, December 1-4, 1985.",
+                "count": 19,
+                "papers": [
+                    "VAXclusters: A Closely-Coupled Distributed System (Abstract).",
+                    "Preemptable Remote Execution Facilities for the V-System.",
+                    "The Integration of Virtual Memory Management and Interprocess Communication in Accent (Abstract).",
+                    "A Trace-Driven Analysis of the UNIX 4.2 BSD File System.",
+                    "A Caching File System For a Programmer's Workstation.",
+                    "The ITC Distributed File System: Principles and Design.",
+                    "A Distributed File Service Based on Optimistic Concurrency Control.",
+                    "Replicated Distributed Programs.",
+                    "Replication and Fault-Tolerance in the ISIS System.",
+                    "Consistency and Recovery Control for Replicated Files.",
+                    "Compiler Directed Memory Management Policy For Numerical Programs.",
+                    "A Data-Flow Approach to Multitasking ob CRAY X-MP Compputers.",
+                    "Transactions and Synchronization in a Distributed Operating System.",
+                    "Distributed Transactions for Reliable Systems.",
+                    "Reliable Object Storage to Support Atomic Actions.",
+                    "The S/Net's Linda Kernel (extended abstract).",
+                    "An Architecture for Large Scale Information Systems.",
+                    "The Structuring of Systems Using Upcalls.",
+                    "Supporting Distributed Applications: Experience with Eden."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1983",
+        "name": "9th SOSP 1983",
+        "info": "Bretton Woods, New Hampshire",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sosp/1983",
+                "sub_name": "Proceedings of the Ninth ACM Symposium on Operating System Principles, SOSP 1983, Bretton Woods, New Hampshire, USA, October 10-13, 1983.",
+                "count": 16,
+                "papers": [
+                    "Computation & Communication in R*: A Distributed Database Manager (Extended Abstract).",
+                    "Implementing Remote Procedure Calls (Abstract).",
+                    "An Asymmetric Stream Communication System.",
+                    "Resource Management In A Decentralized System.",
+                    "A File System Supporting Cooperation between Programs.",
+                    "Fast Fits.",
+                    "Hints for Computer System Design.",
+                    "The LOCUS Distributed Operating System.",
+                    "A Nested Transaction Mechanism for LOCUS.",
+                    "A Message System Supporting Fault Tolerance.",
+                    "PUBLISHING: A Reliable Broadcast Communication Mechanism.",
+                    "Process Migration in DEMOS/MP.",
+                    "The TRIPOS Filing Machine, a Front End to a File Server.",
+                    "The Distributed V Kernel and its Performance for Diskless Workstations.",
+                    "Experience with Grapevine: The Growth of a Distributed System (Summary).",
+                    "Reflections on the Verification of the Security of an Operating System Kernel."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1981",
+        "name": "8th SOSP 1981",
+        "info": "Pacific Grove, California",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sosp/1981",
+                "sub_name": "Proceedings of the Eighth Symposium on Operating System Principles, SOSP 1981, Asilomar Conference Grounds, Pacific Grove, California, USA, December 14-16, 1981.",
+                "count": 23,
+                "papers": [
+                    "Proving Real-Time Properties of Programs with Temporal Logic.",
+                    "Design and Verification of Secure Systems.",
+                    "A NonStop Kernel.",
+                    "Observations on the Development of an Operating System.",
+                    "The Felix File System.",
+                    "A Comparison of Two Network-Based File Servers.",
+                    "A Reliable Object-Oriented Data Repository for a Distributed Computer System.",
+                    "Sequencing Computation Steps in a Network.",
+                    "Accent: A Communication Oriented Network Operating System Kernel.",
+                    "Performing Remore Operations Efficiently on a Local Computer Network (Summary).",
+                    "Converting a Swap-Based System to do Paging in an Architecture Lacking Page-Reference Bits.",
+                    "WSClock - A Simple and Effective Algorithm for Virtual Memory Management.",
+                    "A Study of File Sizes and Functional Lifetimes.",
+                    "Hierarchical Take-Grant Protection Systems.",
+                    "Cryptographic Sealing for Information Secrecy and Authentication (Summary).",
+                    "A Unified Model and Implementation for Interprocess Communication in a Multiprocessor Environment.",
+                    "iMAX: A Multiprocessor Operating System for an Object-Based Computer.",
+                    "The iMAX-432 Object Filing System.",
+                    "The Architecture of the Eden System.",
+                    "A Distributed UNIX System Based on a Virtual Circuit Switch.",
+                    "LOCUS - A Network Transparent, High Reliability Distributed System.",
+                    "Gravevine: An Exercise in Distributed Computing (summary).",
+                    "BRUWIN: An Adaptable Design Strategy for Window Manager / Virtual Terminal Systems."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1979",
+        "name": "7th SOSP 1979",
+        "info": "Pacific Grove, California",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sosp/1979",
+                "sub_name": "Proceedings of the Seventh Symposium on Operating System Principles, SOSP 1979, Asilomar Conference Grounds, Pacific Grove, California, USA, 10-12, December 1979.",
+                "count": 23,
+                "papers": [
+                    "A Virtual Machine Emulator for Performance Evaluation (Summary).",
+                    "Modelling and Analysis of Distributed Software Systems.",
+                    "WFS: A Simple Shared File System for a Distributed Environment.",
+                    "A Client-Based Transaction System to Maintain Data Integrity.",
+                    "Evaluating Synchronization Mechanisms.",
+                    "Primitives for Distributed Computing.",
+                    "Experience with Processes and Monitors in Mesa (Summary).",
+                    "The Transfer of Information and Authority in a Protection System.",
+                    "A Mechanism for Information Control in Parallel Systems.",
+                    "Specification and Verification of the UCLA Unix Security Kernel (Extended Abstract).",
+                    "The Behavior of Ethernet-Like Computer Communication Networks.",
+                    "Systems Aspects of the Cambridge Ring.",
+                    "Virtual Terminal Management in a Multiple Process Environment.",
+                    "An Open Operating System for a Single-User Machine.",
+                    "Pilot: An Operating System for a Personal Computer (Summary).",
+                    "The ROSCOE Distributed Operating System.",
+                    "Medusa: An Experiment in Distributed Operating System Structure (Summary).",
+                    "StarOS, a Multiprocessor Operating System for the Support of Task Forces.",
+                    "In Support of Domain Structure for Operating Systems.",
+                    "Variable-Length Capabilities as a Solution to the Small-Object Problem.",
+                    "Polyvalues: A Tool for Implementing Atomic Updates to Distributed Data.",
+                    "Weighted Voting for Replicated Data.",
+                    "Implementing Atomic Actions on Decentralized Data."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1977",
+        "name": "6th SOSP 1977",
+        "info": "West Lafayette, Indiana",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sosp/1977",
+                "sub_name": "Proceedings of the Sixth Symposium on Operating System Principles, SOSP 1977, Purdue University, West Lafayette, Indiana, USA, November 16-18, 1977.",
+                "count": 21,
+                "papers": [
+                    "The Cambridge CAP Computer and its Protection System.",
+                    "The Cap Filing System.",
+                    "The CAP Project - An Interim Evaluation.",
+                    "Task Communication in DEMOS.",
+                    "The DEMOS File System.",
+                    "The Multics Kernel Design Project.",
+                    "Proving Multilevel Security of a System Design.",
+                    "Consistency and Correctness of Duplicate Database Systems.",
+                    "Measurements of Sharing in Multics.",
+                    "Synchronization with Eventcounts and Sequencers (Extended Abstract).",
+                    "METRIC: A Kernel Instrumentation System for Distributed Environments.",
+                    "A Domain Structure for Distributed Computer Systems.",
+                    "Automatic and General Solution to the Adaption of Programs in a Paging Environment.",
+                    "Effect of Program Localities on Memory Management Strategies.",
+                    "Analysis of Demand Paging Policies with Swapped Working Sets.",
+                    "Information Transmission in Computational Systems.",
+                    "On the Synthesis and Analysis of Protection Systems.",
+                    "Process Backup in Producer-Consumer Systems.",
+                    "Indeterminancy, Monitors, and Dataflow.",
+                    "Thoth, a Portable Real-Time Operating System (Extended Abstract).",
+                    "Beyond Concurrent Pascal."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1975",
+        "name": "5th SOSP 1975",
+        "info": "Austin, Texas, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sosp/1975",
+                "sub_name": "Proceedings of the Fifth Symposium on Operating System Principles, SOSP 1975, The University of Texas at Austin, Austin, Texas, USA, November 19-21, 1975.",
+                "count": 26,
+                "papers": [
+                    "How to Evaluate Page Replacement Algorithms.",
+                    "An Analysis of the Performance of the Page Fault Frequency (PFF) Replacement Algorithm.",
+                    "On Protection in Operating System.",
+                    "Engineering a Security Kernel for Multics.",
+                    "MERT - A Multi-Environment Real-Time Operating System.",
+                    "Dynamic Linking and Environment Initialization in a Multi-Domain Process.",
+                    "Architecture of a Real-Time Operating System.",
+                    "The Network Unix System.",
+                    "Some Constraints and Tradeoffs in the Design of Network Communications.",
+                    "An Operating System for Computer Resource Sharing.",
+                    "Sharing Data and Services in a Virtual Machine System.",
+                    "Formal Properties of Recursive Virtual Machine Architectures.",
+                    "The PDP-11 Virtual Machine Architecture: A Case Study.",
+                    "Error Resynchronization in Producer-Consumer Systems.",
+                    "A Multi-Microprocessor Computer System Architecture.",
+                    "Overview of the HYDRA Operating System Development.",
+                    "Policy/Mechanism Separation in HYDRA.",
+                    "Protection in the HYDRA Operating System.",
+                    "Computational Processor Demands of Algol-60 Programs.",
+                    "Scheduling Partially Ordered Tasks with Probabilistic Execution Times.",
+                    "Analysis of a Level Algorithm for Preemptive Scheduling.",
+                    "Selecting a Scheduling Rule that Meets Pre-Specified Response Time Demands.",
+                    "A Comment on the Confinement Problem.",
+                    "The Enforcement of Security Policies for Computation.",
+                    "A Study of Program Locality and Lifetime Functions.",
+                    "Models of Memory Scheduling."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1973",
+        "name": "4th SOSP 1973",
+        "info": "Yorktown Heights, New York",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sosp/1973",
+                "sub_name": "Proceedings of the Fourth Symposium on Operating System Principles, SOSP 1973, Thomas J. Watson, Research Center, Yorktown Heights, New York, USA, October 15-17, 1973.",
+                "count": 21,
+                "papers": [
+                    "Interprocess Communication in Real-Time Systems.",
+                    "An Experimental Implementation on the Kernel/Domain Architecture.",
+                    "On the Structure and Control of Commands.",
+                    "The UNIX Time-Sharing System (Abstract).",
+                    "ARGOS: An Operating System for a Computer Utility Supporting Interactive Instrument Control.",
+                    "Multiprocessor Self Diagnosis, Surgery, and Recovery in Air Traffic Control.",
+                    "Online System Performance Measurements with Software and Hybrid Monitors.",
+                    "Random Arrival and the MTPT Drum Scheduling Discipline.",
+                    "Optimal Folding of a Paging Drum in a Three Level Memory System.",
+                    "A Page Allocation Strategy for Multiprogramming Systems with Virtual Memory.",
+                    "Dynamic Storage Partitioning.",
+                    "On Reference String Generation Processes.",
+                    "On the Propability of Deadline in Computer Systems.",
+                    "Polynomial Complete Scheduling Problems.",
+                    "Scheduling Independent Tasks to Reduce Mean Finishing Time (Extended Abstract).",
+                    "Bounds on Scheduling with Limited Resources.",
+                    "A Task Scheduling Algorithm for a Multiprogramming Computer System.",
+                    "Protection and the Control of Information Sharing in MULTICS.",
+                    "The Case for Capability-Based Computers.",
+                    "Formal Requirements for Virtualizable Third Generation Architectures.",
+                    "Limitations of Dijkstra's Semaphore Primitives and Petri Nets."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1971",
+        "name": "3rd SOSP 1971",
+        "info": "Palo Alto, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sosp/1971",
+                "sub_name": "Proceedings of the Third Symposium on Operating System Principles, SOSP 1971, Stanford University, Palo Alto, California, USA, October 18-20, 1971.",
+                "count": 23,
+                "papers": [
+                    "TENEX, a Paged Time Sharing System for the PDP-10 (Abstract).",
+                    "The Design of the Venus Operating System.",
+                    "An Operating System Based on the Concept of a Supervisory Computer (Abstract).",
+                    "A Multiprogramming System for Control.",
+                    "Extensible Data Features in the Operating System Language OSL/2.",
+                    "The MULTICS Input/Output System.",
+                    "A Hardware Architecture for Implementing Protection Rings (Abstract).",
+                    "Handling Difficult Faults in Operating Systems.",
+                    "Storage Reallocation in Hierarchical Associative Memories.",
+                    "Some Deadlock Properties of Computer Systems.",
+                    "A Concurrent Algorithm for Avoiding Deadlocks.",
+                    "Synchronization of Communicating Processes (Abstract).",
+                    "An Approach to System Correctness.",
+                    "Process Synchronization without Long-Term Interlock.",
+                    "Short Term Scheduling in Multiprogramming Systems.",
+                    "Process Selection in an Hierarchical Operating System.",
+                    "The Dependence of Computer System Queues upon Processing Time Distribution and Central Processor Scheduling.",
+                    "A Comparative Analysis of Disk Scheduling Policies (Abstract).",
+                    "A Study of Storage Partitioning Using a Mathematical Model (Abstract).",
+                    "Properties of the Working Set Model (Abstract).",
+                    "An Algorithm for Drum Storage Management in Time-Sharing Systems.",
+                    "Simulation Studies of a Virtual Memory, Time Shared, Demand Paging Operating System.",
+                    "Experimental Data on How Program Behavior Affects the Choice of Scheduler Parameters."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1969",
+        "name": "2nd SOSP 1969",
+        "info": "Princeton University",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sosp/1969",
+                "sub_name": "Proceedings of the Second Symposium on Operating Systems Principles, SOSP 1969, Princeton, NJ, USA, October 20-22, 1969.",
+                "count": 24,
+                "papers": [
+                    "The system design cycle.",
+                    "Theory and practice in operating system design.",
+                    "The role of motherhood in the pop art of system programming.",
+                    "Machine independent software.",
+                    "Measurements of segment size.",
+                    "The multics virtual memory.",
+                    "Complementary replacement: a meta scheduling principle.",
+                    "Optimal segmentation points for programs.",
+                    "Strategies for structuring two level memories in a paging environment.",
+                    "Process control and communication.",
+                    "Process management and resource sharing in the multiaccess system \"ESOPE\".",
+                    "Basic time-sharing: a system of computing principles.",
+                    "Structure of multiple activity algorithms.",
+                    "The multics interprocess communication facility.",
+                    "The structure of the ILLIAC IV operating system.",
+                    "A program simulator by partial interpretation.",
+                    "HELPER: an interactive extensible debugging system.",
+                    "Multiprogramming in a small-systems environment.",
+                    "Basic I/O handling on burroughs B6500.",
+                    "Measurement and performance of a multiprogramming system.",
+                    "The UTS time-sharing system: performance analysis and instrumentation.",
+                    "Two approaches for measuring the performance of time-sharing systems.",
+                    "The instrumentation of multics.",
+                    "Performance monitors for multi-programming systems."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1967",
+        "name": "1st SOSP 1967",
+        "info": "Gatlinburg, Tennesse",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/sosp/1967",
+                "sub_name": "Proceedings of the First Symposium on Operating Systems Principles, SOSP 1967, Gatlinburg, Tennesse, USA, 1967.",
+                "count": 17,
+                "papers": [
+                    "Protection in an information processing utility.",
+                    "A digital communication network for computers giving rapid response at remote terminals.",
+                    "Multiple computer networks and intercomputer communication.",
+                    "A study of the effect of user program optimization in a paging system.",
+                    "An implementation of a multiprocessing computer system.",
+                    "A position paper on computing and communications.",
+                    "Three criteria for designing computing systems to facilitate debugging.",
+                    "A scheduling philosophy for multi-processing systems.",
+                    "Dynamic storage allocation systems.",
+                    "The structure of the \"THE\"-multiprogramming system.",
+                    "Dynamic Supervisors - their design and construction.",
+                    "Virtual memory, processes, and sharing in Multics.",
+                    "A philosophy for computer sharing.",
+                    "Resource management for a medium scale time sharing operating system.",
+                    "The working set model for program behavior.",
+                    "An empirical study of the behavior of programs in a paging environment.",
+                    "Consideration in the design of a multiple computer system with extended core storage."
+                ]
+            }
+        ]
+    }
+]

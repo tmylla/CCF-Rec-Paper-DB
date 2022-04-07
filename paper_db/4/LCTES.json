@@ -1,0 +1,840 @@
+[
+    {
+        "year": "2021",
+        "name": "LCTES 2021",
+        "info": "Virtual Event, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lctrts/2021",
+                "sub_name": "LCTES '21: 22nd ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems, Virtual Event, Canada, 22 June, 2021.",
+                "count": 15,
+                "papers": [
+                    "Robust I/O-compute concurrency for machine learning pipelines in constrained cyber-physical devices.",
+                    "Better atomic writes by exposing the flash out-of-band area to file systems.",
+                    "MaPHeA: a lightweight memory hierarchy-aware profile-guided heap allocation framework.",
+                    "Automatic mapping and code optimization for OpenCL kernels on FT-matrix architecture (WIP paper).",
+                    "CHaNAS: coordinated search for network architecture and scheduling policy.",
+                    "Annotate once - analyze anywhere: context-aware WCET analysis by user-defined abstractions.",
+                    "Optimus: towards optimal layer-fusion on deep learning processors.",
+                    "WasmAndroid: a cross-platform runtime for native programming languages on Android (WIP paper).",
+                    "Simple, light, yet formally verified, global common subexpression elimination and loop-invariant code motion.",
+                    "Data-flow-sensitive fault-space pruning for the injection of transient hardware faults.",
+                    "HyFM: function merging for free.",
+                    "Break dancing: low overhead, architecture neutral software branch tracing.",
+                    "ARINC 653-inspired regularity-based resource partitioning on xen.",
+                    "Selective path-sensitive interval analysis (WIP paper).",
+                    "Cache abstraction for data race detection in heterogeneous systems with non-coherent accelerators."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "name": "LCTES 2020",
+        "info": "London, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lctrts/2020",
+                "sub_name": "Proceedings of the 21st ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems, LCTES 2020, London, UK, June 16, 2020.",
+                "count": 17,
+                "papers": [
+                    "Compiler 2.0: Using Machine Learning to Modernize Compiler Technology.",
+                    "PAQSIM: Fast Performance Model for Graphics Workload on Mobile GPUs.",
+                    "A Collaborative Filtering Approach for the Automatic Tuning of Compiler Optimisations.",
+                    "ApproxRefresh: Enabling Uncorrectable Data Reuse on Flash Memory with Approximate Read Awareness.",
+                    "Compiling Spiking Neural Networks to Neuromorphic Hardware.",
+                    "Performance Optimization on big.LITTLE Architectures: A Memory-latency Aware Approach.",
+                    "Path Sensitive Signatures for Control Flow Error Detection.",
+                    "Exploiting the Trust Between Boundaries: Discovering Memory Corruptions in Printers via Driver-Assisted Testing.",
+                    "Intermittent Computing with Peripherals, Formally Verified.",
+                    "CITTA: Cache Interference-aware Task Partitioning for Real-time Multi-core Systems.",
+                    "A Synergistic Approach to Predictable Compilation and Scheduling on Commodity Multi-Cores.",
+                    "Improving the Performance of WCET Analysis in the Presence of Variable Latencies.",
+                    "A Synthesis-Aided Compiler for DSP Architectures (WiP Paper).",
+                    "Towards Real-time CNN Inference from a Video Stream on a Mobile GPU (WiP Paper).",
+                    "Beyond Base-2 Logarithmic Number Systems (WiP Paper).",
+                    "Towards Building Better Mobile Web Browsers for Ad Blocking: The Energy Perspective (WiP Paper).",
+                    "FPGA-based Near Data Processing Platform Selection Using Fast Performance Modeling (WiP Paper)."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "LCTES 2019",
+        "info": "Phoenix, AZ, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lctrts/2019",
+                "sub_name": "Proceedings of the 20th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems, LCTES 2019, Phoenix, AZ, USA, June 23-23, 2019.",
+                "count": 22,
+                "papers": [
+                    "New models and methods for programming cyber-physical systems (keynote).",
+                    "An open, transparent, industry-driven approach to AV safety (keynote).",
+                    "Optimizing tensor contractions for embedded devices with racetrack memory scratch-pads.",
+                    "SHAKTI-MS: a RISC-V processor for memory safety in C.",
+                    "Crash recoverable ARMv8-oriented B+-tree for byte-addressable persistent memory.",
+                    "1+1>2: variation-aware lifetime enhancement for embedded 3D NAND flash systems.",
+                    "SA-SPM: an efficient compiler for security aware scratchpad memory (invited paper).",
+                    "Efficient intermittent computing with differential checkpointing.",
+                    "SPECTRUM: a software defined predictable many-core architecture for LTE baseband processing.",
+                    "The betrayal of constant power \u00d7 time: finding the missing Joules of transiently-powered computers.",
+                    "WCET-aware hyper-block construction for clustered VLIW processors.",
+                    "From Java to real-time Java: a model-driven methodology with automated toolchain (invited paper).",
+                    "IA-graph based inter-app conflicts detection in open IoT systems.",
+                    "ApproxSymate: path sensitive program approximation using symbolic execution.",
+                    "Automating the generation of hardware component knowledge bases.",
+                    "BitBench: a benchmark for bitstream computing.",
+                    "An empirical comparison between monkey testing and human testing (WIP paper).",
+                    "A compiler-based approach for GPGPU performance calibration using TLP modulation (WIP paper).",
+                    "PANDORA: a parallelizing approximation-discovery framework (WIP paper).",
+                    "On intermittence bugs in the battery-less internet of things (WIP paper).",
+                    "Imprecision in WCET estimates due to library calls and how to reduce it (WIP paper).",
+                    "Raising binaries to LLVM IR with MCTOLL (WIP paper)."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "LCTES 2018",
+        "info": "Philadelphia, PA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lctrts/2018",
+                "sub_name": "Proceedings of the 19th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems, LCTES 2018, Philadelphia, PA, USA, June 19-20, 2018.",
+                "count": 12,
+                "papers": [
+                    "A memory-bounded, deterministic and terminating semantics for the synchronous programming language C\u00e9u.",
+                    "MakeCode and CODAL: intuitive and efficient embedded systems programming for education.",
+                    "Adaptive deep learning model selection on embedded systems.",
+                    "Optimizing RAID/SSD controllers with lifetime extension for flash-based SSD array.",
+                    "Compositionality in scenario-aware dataflow: a rendezvous perspective.",
+                    "Decoupling address generation from loads and stores to improve data access energy efficiency.",
+                    "Verification of coarse-grained reconfigurable arrays through random test programs.",
+                    "Deep neural networks compiler for a trace-based accelerator (short WIP paper).",
+                    "Transparent standby for low-Power, resource-constrained embedded systems: a programming language-based approach (short WIP paper).",
+                    "Statically relating program properties for efficient verification (short WIP paper).",
+                    "JSCore: architectural support for accelerating JavaScript execution (short WIP paper).",
+                    "An open-source realtime computational platform (short WIP paper)."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "LCTES 2017",
+        "info": "Barcelona, Spain",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lctrts/2017",
+                "sub_name": "Proceedings of the 18th ACM SIGPLAN/SIGBED Conference on Languages, Compilers, and Tools for Embedded Systems, LCTES 2017, Barcelona, Spain, June 21-22, 2017.",
+                "count": 12,
+                "papers": [
+                    "AOT vs. JIT: impact of profile data on code quality.",
+                    "Adaptive optimization for OpenCL programs on embedded heterogeneous systems.",
+                    "Auto-vectorization for image processing DSLs.",
+                    "Dynamic translation of structured Loads/Stores and register mapping for architectures with SIMD extensions.",
+                    "Optimal functional unit assignment and voltage selection for pipelined MPSoC with guaranteed probability on time performance.",
+                    "Integrated IoT programming with selective abstraction.",
+                    "Towards SMT-based LTL model checking of clock constraint specification language for real-time and embedded systems.",
+                    "Integrating task scheduling and cache locking for multicore real-time embedded systems.",
+                    "Towards memory-efficient processing-in-memory architecture for convolutional neural networks.",
+                    "Unified nvTCAM and sTCAM architecture for improving packet matching performance.",
+                    "A lightweight progress maximization scheduler for non-volatile processor under unstable energy harvesting.",
+                    "OSEK-V: application-specific RTOS instantiation in hardware."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "LCTES 2016",
+        "info": "Santa Barbara, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lctrts/2016",
+                "sub_name": "Proceedings of the 17th ACM SIGPLAN/SIGBED Conference on Languages, Compilers, Tools, and Theory for Embedded Systems, LCTES 2016, Santa Barbara, CA, USA, June 13 - 14, 2016.",
+                "count": 12,
+                "papers": [
+                    "Efficient asynchronous interrupt handling in a full-system instruction set simulator.",
+                    "Code cache management in managed language VMs to reduce memory consumption for embedded systems.",
+                    "A graph-based iterative compiler pass selection and phase ordering approach.",
+                    "Translation validation of loop and arithmetic transformations in the presence of recurrences.",
+                    "Loop-oriented array- and field-sensitive pointer analysis for automatic SIMD vectorization.",
+                    "Generalized cache tiling for dataflow programs.",
+                    "Symbolic execution for memory consumption analysis.",
+                    "TIC: a scalable model checking based approach to WCET estimation.",
+                    "Compensate or ignore? meeting control robustness requirements through adaptive soft-error handling.",
+                    "Opportunity for compute partitioning in pursuit of energy-efficient systems.",
+                    "Compiling a gesture recognition application for a low-power spatial architecture.",
+                    "A machine learning approach to mapping streaming workloads to dynamic multicore processors."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "LCTES 2015",
+        "info": "Portland, OR, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lctrts/2015",
+                "sub_name": "Proceedings of the 16th ACM SIGPLAN/SIGBED Conference on Languages, Compilers and Tools for Embedded Systems, LCTES 2015, CD-ROM, Portland, OR, USA, June 18 - 19, 2015.",
+                "count": 14,
+                "papers": [
+                    "Optimizing Transfers of Control in the Static Pipeline Architecture.",
+                    "Clover: Compiler Directed Lightweight Soft Error Resilience.",
+                    "Improving Data Access Efficiency by Using Context-Aware Loads and Stores.",
+                    "A Practical Getaway: Applications of Escape Analysis in Embedded Real-Time Systems.",
+                    "Free Rider: A Tool for Retargeting Platform-Specific Intrinsic Functions.",
+                    "Cross-Kernel Control-Flow-Graph Analysis for Event-Driven Real-Time Systems.",
+                    "Enabling Efficient Alias Speculation.",
+                    "WCET-Aware Dynamic D-cache Locking for A Single Task.",
+                    "StarL: Towards a Unified Framework for Programming, Simulating and Verifying Distributed Robotic Systems.",
+                    "Improving the Precision of Abstract Interpretation Based Cache Persistence Analysis.",
+                    "Implementation-Aware Model Analysis: The Case of Buffer-Throughput Tradeoff in Streaming Applications.",
+                    "Secure and Durable (SEDURA): An Integrated Encryption and Wear-leveling Framework for PCM-based Main Memory.",
+                    "Semantics Driven Hardware Design, Implementation, and Verification with ReWire.",
+                    "TrilobiteG: A programming architecture for autonomous underwater vehicles."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "LCTES 2014",
+        "info": "Edinburgh, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lctrts/2014",
+                "sub_name": "SIGPLAN/SIGBED Conference on Languages, Compilers and Tools for Embedded Systems 2014, LCTES '14, Edinburgh, United Kingdom - June 12 - 13, 2014.",
+                "count": 18,
+                "papers": [
+                    "Energy efficient data access techniques.",
+                    "Efficient code generation in a region-based dynamic binary translator.",
+                    "CASM: optimized compilation of abstract state machines.",
+                    "Combinatorial spill code optimization and ultimate coalescing.",
+                    "Cache-related preemption delay analysis for FIFO caches.",
+                    "How to compute worst-case execution time by optimization modulo theory and a clever encoding of program semantics.",
+                    "WCET: aware dynamic instruction cache locking.",
+                    "Exploration of compiler optimization sequences using clustering-based selection.",
+                    "Partitioning data-parallel programs for heterogeneous MPSoCs: time and energy design space exploration.",
+                    "Energy efficient data access and storage through HW/SW co-design.",
+                    "Exploiting function similarity for code size reduction.",
+                    "ASAC: automatic sensitivity analysis for approximate computing.",
+                    "em-SPADE: a compiler extension for checking rules extracted from processor specifications.",
+                    "VOBLA: a vehicle for optimized basic linear algebra.",
+                    "A framework to schedule parametric dataflow applications on many-core platforms.",
+                    "Improving performance of loops on DIAM-based VLIW architectures.",
+                    "Superoptimization of memory subsystems.",
+                    "Lightweight and block-level concurrent sweeping for javascript garbage collection."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "LCTES 2013",
+        "info": "Seattle, WA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lctrts/2013",
+                "sub_name": "SIGPLAN/SIGBED Conference on Languages, Compilers and Tools for Embedded Systems 2013, LCTES '13, Seattle, WA, USA, June 20-21, 2013.",
+                "count": 18,
+                "papers": [
+                    "HW/SW co-designed acceleration of dynamic languages.",
+                    "Low cost control flow protection using abstract control signatures.",
+                    "Boosting efficiency of fault detection and recovery throughapplication-specific comparison and checkpointing.",
+                    "A JVM for soft-error-prone embedded systems.",
+                    "Improving processor efficiency by statically pipelining instructions.",
+                    "LUCAS: latency-adaptive unified cluster assignment and instruction scheduling.",
+                    "Practical speculative parallelization of variable-length decompression algorithms.",
+                    "Program performance spectrum.",
+                    "Non-intrusive program tracing and debugging of deployed embedded systems through side-channel analysis.",
+                    "The role of C in the dark ages of multi-core.",
+                    "FTL2: a hybrid flash translation layer with logging for write reduction in flash memory.",
+                    "Compiler directed write-mode selection for high performance low power volatile PCM.",
+                    "BLog: block-level log-block management for NAND flash memorystorage systems.",
+                    "A two-step optimization technique for functions placement, partitioning, and priority assignment in distributed systems.",
+                    "Buffer minimization in earliest-deadline first scheduling of dataflow graphs.",
+                    "Automatic dataflow model extraction from modal real-time stream processing applications.",
+                    "Portable mapping of openMP to multicore embedded systems using MCA APIs.",
+                    "Combined WCET analysis of bitcode and machine code using control-flow relation graphs."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "LCTES 2012",
+        "info": "Beijing, China",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lctrts/2012",
+                "sub_name": "SIGPLAN/SIGBED Conference on Languages, Compilers and Tools for Embedded Systems 2012, LCTES '12, Beijing, China - June 12 - 13, 2012.",
+                "count": 16,
+                "papers": [
+                    "Rethinking Java call stack design for tiny embedded devices.",
+                    "Lightweight generics in embedded systems through static analysis.",
+                    "Efficiently parallelizing instruction set simulation of embedded multi-core processors using region-based just-in-time dynamic binary translation.",
+                    "WCET-aware re-scheduling register allocation for real-time embedded systems with clustered VLIW architecture.",
+                    "WCET-aware data selection and allocation for scratchpad memory.",
+                    "A modular memory optimization for synchronous data-flow languages: application to arrays in a lustre compiler.",
+                    "Mapping a data-flow programming model onto heterogeneous platforms.",
+                    "FORMLESS: scalable utilization of embedded manycores in streaming applications.",
+                    "Profile-guided deployment of stream programs on multicores.",
+                    "Improving dynamic prediction accuracy through multi-level phase analysis.",
+                    "Efficient soft error protection for commodity embedded microprocessors using profile information.",
+                    "Compiler-assisted preferred caching for embedded systems with STT-RAM based hybrid cache.",
+                    "\"Smart\" design space sampling to predict Pareto-optimal solutions.",
+                    "An operational semantics for Simulink's simulation engine.",
+                    "Symbolic consistency checking of OpenMp parallel programs.",
+                    "Creating portable, repeatable, realistic benchmarks for embedded systems and the challenges thereof."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "LCTES 2011",
+        "info": "Chicago, IL, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lctrts/2011",
+                "sub_name": "Proceedings of the ACM SIGPLAN/SIGBED 2011 conference on Languages, compilers, and tools for embedded systems, LCTES 2011, Chicago, IL, USA, April 11-14, 2011.",
+                "count": 17,
+                "papers": [
+                    "Scheduling of stream-based real-time applications for heterogeneous systems.",
+                    "Static bus schedule aware scratchpad allocation in multiprocessors.",
+                    "Task-level analysis for a language with async/finish parallelism.",
+                    "A low-cost wear-leveling algorithm for block-mapping solid-state disks.",
+                    "An approach to improving the structure of error-handling code in the linux kernel.",
+                    "Targeting complex embedded architectures by combining the multicore communications API (mcapi) with compile-time virtualisation.",
+                    "Divide and recycle: types and compilation for a hybrid synchronous language.",
+                    "Static analysis of synchronous programs in signal for efficient design of multi-clocked embedded systems.",
+                    "Synchronous programming of device drivers for global resource control in embedded operating systems.",
+                    "Dependence-based multi-level tracing and replay for wireless sensor networks debugging.",
+                    "Lowering overhead in sampling-based execution monitoring and tracing.",
+                    "Software debugging and testing using the abstract diagnosis theory.",
+                    "Cache persistence analysis: a novel approachtheory and practice.",
+                    "Predictable task migration for locked caches in multi-core systems.",
+                    "Precise and efficient parametric path analysis.",
+                    "An instruction-scheduling-aware data partitioning technique for coarse-grained reconfigurable architectures.",
+                    "Global productiveness propagation: a code optimization technique to speculatively prune useless narrow computations."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "LCTES 2010",
+        "info": "Stockholm, Sweden",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lctrts/2010",
+                "sub_name": "Proceedings of the ACM SIGPLAN/SIGBED 2010 conference on Languages, compilers, and tools for embedded systems, LCTES 2010, Stockholm, Sweden, April 13-15, 2010.",
+                "count": 18,
+                "papers": [
+                    "Analysis and approximation for bank selection instruction minimization on partitioned memory architecture.",
+                    "Versatile system-level memory-aware platform description approach for embedded MPSoCs.",
+                    "Operation and data mapping for CGRAs with multi-bank memory.",
+                    "Look into details: the benefits of fine-grain streaming buffer analysis.",
+                    "Modeling structured event streams in system level performance analysis.",
+                    "Translating concurrent action oriented specifications to synchronous guarded actions.",
+                    "Contracts for modular discrete controller synthesis.",
+                    "Semi-automatic derivation of timing models for WCET analysis.",
+                    "Design exploration and automatic generation of MPSoC platform TLMs from Kahn Process Network applications.",
+                    "Compiler directed network-on-chip reliability enhancement for chip multiprocessors.",
+                    "Improving both the performance benefits and speed of optimization phase sequence searches.",
+                    "An efficient code update scheme for DSP applications in mobile embedded systems.",
+                    "Elastic computing: a framework for transparent, portable, and adaptive multi-core heterogeneous computing.",
+                    "Integrating safety analysis into the model-based development toolchain of automotive embedded systems.",
+                    "Sampling-based program execution monitoring.",
+                    "Cache vulnerability equations for protecting data in embedded processor caches from soft errors.",
+                    "Resilience analysis: tightening the CRPD bound for set-associative caches.",
+                    "RNFTL: a reuse-aware NAND flash translation layer for flash memory."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "LCTES 2009",
+        "info": "Dublin, Ireland",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lctrts/2009",
+                "sub_name": "Proceedings of the 2009 ACM SIGPLAN/SIGBED conference on Languages, compilers, and tools for embedded systems, LCTES 2009, Dublin, Ireland, June 19-20, 2009.",
+                "count": 18,
+                "papers": [
+                    "Modulo scheduling without overlapped lifetimes.",
+                    "Synchronous objects with scheduling policies: introducing safe shared memory in lustre.",
+                    "Recurrence cycle aware modulo scheduling for coarse-grained reconfigurable architectures.",
+                    "PTIDES on flexible task graph: real-time embedded systembuilding from theory to practice.",
+                    "A compiler optimization to reduce soft errors in register files.",
+                    "Raced profiles: efficient selection of competing compiler optimizations.",
+                    "Eliminating the call stack to save RAM.",
+                    "Live-range unsplitting for faster optimal coalescing.",
+                    "Push-assisted migration of real-time tasks in multi-core processors.",
+                    "Software transactional memory for multicore embedded systems.",
+                    "Synergistic execution of stream programs on multicores with accelerators.",
+                    "Towards device emulation code generation.",
+                    "Guaranteeing instruction fetch behavior with a lookahead instruction fetch engine (LIFE).",
+                    "Debugging FPGA-based packet processing systems through transaction-level communication-centric monitoring.",
+                    "Tracing interrupts in embedded software.",
+                    "Addressing the challenges of DBT for the ARM architecture.",
+                    "Integrating hardware and software information flow analyses.",
+                    "Specification and verification of time requirements with CCSL and Esterel."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "LCTES 2008",
+        "info": "Tucson, AZ, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lctrts/2008",
+                "sub_name": "Proceedings of the 2008 ACM SIGPLAN/SIGBED Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES'08), Tucson, AZ, USA, June 12-13, 2008.",
+                "count": 17,
+                "papers": [
+                    "Flexible task graphs: a unified restricted thread programming model for java.",
+                    "Enhanced hot spot detection heuristics for embedded java just-in-time compilers.",
+                    "Impact of JVM superoperators on energy consumption in resource-constrained embedded systems.",
+                    "Generalized instruction selection using SSA-graphs.",
+                    "Compiler driven data layout optimization for regular/irregular array access patterns.",
+                    "Relative competitive analysis of cache replacement policies.",
+                    "Robust and sustainable schedulability analysis of embedded software.",
+                    "Improving performance and reducing energy-delay with adaptive resource resizing for out-of-order embedded processors.",
+                    "A domain specific interconnect for reconfigurable computing.",
+                    "FaCSim: a fast and cycle-accurate architecture simulator for embedded systems.",
+                    "A type system for the automatic distribution of higher-order synchronous dataflow programs.",
+                    "EventScript: an event-processing language based on regular expressions with actions.",
+                    "Clock-directed modular code generation for synchronous data-flow languages.",
+                    "Design and evaluation of a compiler for embedded stream programs.",
+                    "Post-pass periodic register allocation to minimise loop unrolling degree.",
+                    "Placement-and-routing-based register allocation for coarse-grained reconfigurable arrays.",
+                    "Optimizing scientific application loops on stream processors."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "LCTES 2007",
+        "info": "San Diego, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lctrts/2007",
+                "sub_name": "Proceedings of the 2007 ACM SIGPLAN/SIGBED Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES'07), San Diego, California, USA, June 13-15, 2007.",
+                "count": 33,
+                "papers": [
+                    "A type system for preventing data races and deadlocks in the java virtual machine language: 1.",
+                    "Automated fault localization with statistically suspicious program states.",
+                    "Frequency-aware energy optimization for real-time periodic and aperiodic tasks.",
+                    "DVSleak: combining leakage reduction and voltage scaling in feedback EDF scheduling.",
+                    "Integrated CPU and l2 cache voltage scaling using machine learning.",
+                    "Java takes flight: time-portable real-time programming with exotasks.",
+                    "Java client ahead-of-time compiler for embedded systems.",
+                    "Bee+Cl@k: an implementation of lattice-based array contraction in the source-to-source translator rose.",
+                    "Combining source-to-source transformations and processor instruction set extensions for the automated design-space exploration of embedded systems.",
+                    "Optimistic coalescing for heterogeneous register architectures.",
+                    "On the complexity of spill everywhere under SSA form.",
+                    "Tetris: a new register pressure control technique for VLIW processors.",
+                    "Hierarchical real-time garbage collection.",
+                    "Issues and challenges in compiling for the CBEA.",
+                    "Safe worst-case execution time analysis by abstract interpretation of executable code.",
+                    "Enabling seamless mobility: an enablers, experiences and tools perspective.",
+                    "Joint throughput and energy optimization for pipelined execution of embedded streaming applications.",
+                    "Interface synthesis for heterogeneous multi-core systems from transaction level models.",
+                    "Automatic generation of embedded communication SW for heterogeneous MPSoC platforms.",
+                    "Enabling compiler flow for embedded VLIW DSP processors with distributed register files.",
+                    "Analyzing the real-time behaviour of deeply embedded event driven systems.",
+                    "Generalizing parametric timing analysis.",
+                    "Compiler-directed application mapping for NoC based chip multiprocessors.",
+                    "Stream execution on wide-issue clustered VLIW architectures.",
+                    "Code and data partitioning for fine-grain parallelism.",
+                    "Addressing instruction fetch bottlenecks by using an instruction register file.",
+                    "WCET analysis of instruction caches with prefetching.",
+                    "External memory page remapping for embedded multimedia systems.",
+                    "Dynamic data scratchpad memory management for a memory subsystem with an MMU.",
+                    "Scratchpad allocation for data aggregates in superperfect graphs.",
+                    "SWL: a search-while-load demand paging scheme with NAND flash memory.",
+                    "Optimizing software cache performance of packet processing applications.",
+                    "Compiler-managed partitioned data caches for low power."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "LCTES 2006",
+        "info": "Ottawa, Ontario, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lctrts/2006",
+                "sub_name": "Proceedings of the 2006 ACM SIGPLAN/SIGBED Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES'06), Ottawa, Ontario, Canada, June 14-16, 2006.",
+                "count": 22,
+                "papers": [
+                    "Embedded systems in the wild: ZebraNet software, hardware, and deployment experiences.",
+                    "Feedback linking: optimizing object code layout for updates.",
+                    "Minimizing downtime in seamless migrations of mobile applications.",
+                    "Storing a persistent transactional object heap on flash memory.",
+                    "Deriving abstract transfer functions for analyzing embedded software.",
+                    "Pluggable abstract domains for analyzing embedded software.",
+                    "Field-sensitive value analysis of embedded C programs with union types and pointer arithmetics.",
+                    "Reducing the cost of conditional transfers of control by using comparison specifications.",
+                    "Effective thread management on network processors with compiler analysis.",
+                    "In search of near-optimal optimization phase orderings.",
+                    "An EDF schedulability test for periodic tasks on reconfigurable hardware devices.",
+                    "Faster WCET flow analysis by program slicing.",
+                    "Synthesizing safe state machines from Esterel.",
+                    "Efficient code generation from SHIM models.",
+                    "Generating optimized code from SCR specifications.",
+                    "Effective compiler generation by architecture description.",
+                    "Procrastination for leakage-aware rate-monotonic scheduling on a dynamic voltage scaling processor.",
+                    "Compiler-directed thermal management for VLIW functional units.",
+                    "Bypass aware instruction scheduling for register file power reduction.",
+                    "Area and delay estimation for FPGA implementation of coarse-grained reconfigurable architectures.",
+                    "BOTS: a constraint-based component system for synthesizing scalable software systems.",
+                    "Optimizing compiler for shared-memory multiple SIMD architecture."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "LCTES 2005",
+        "info": "Chicago, IL, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lctrts/2005",
+                "sub_name": "Proceedings of the 2005 ACM SIGPLAN/SIGBED Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES'05), Chicago, Illinois, USA, June 15-17, 2005.",
+                "count": 25,
+                "papers": [
+                    "Energy-efficient policies for embedded clusters.",
+                    "Efficient application migration under compiler guidance.",
+                    "Composable code generation for distributed giotto.",
+                    "Transparent distribution of real-time components based on logical execution time.",
+                    "Software design patterns for TinyOS.",
+                    "Preventing interrupt overload.",
+                    "Nonintrusive precision instrumentation of microcontroller software.",
+                    "ACME: adaptive compilation made efficient.",
+                    "Probabilistic source-level optimisation of embedded programs.",
+                    "On the design of the local variable cache in a hardware translation-based java virtual machine.",
+                    "System-wide compaction and specialization of the linux kernel.",
+                    "A dictionary construction technique for code compression systems with echo instructions.",
+                    "Cache aware optimization of stream programs.",
+                    "Static strands: safely collapsing dependence chains for increasing embedded power efficiency.",
+                    "Complementing software pipelining with software thread integration.",
+                    "Generation of permutations for SIMD processors.",
+                    "Scalable precision cache analysis for preemptive scheduling.",
+                    "A sample-based cache mapping scheme.",
+                    "WCRT analysis for a uniprocessor with a unified prioritized cache.",
+                    "Syncopation: generational real-time garbage collection in the metronome.",
+                    "Static determination of allocation rates to support real-time garbage collection.",
+                    "Feedback EDF scheduling exploiting hardware-assisted asynchronous dynamic voltage scaling.",
+                    "Compiling for memory emergency.",
+                    "Upper bound for defragmenting buddy heaps.",
+                    "An energy efficient garbage collector for java embedded devices."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "LCTES 2004",
+        "info": "Washington, DC, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lctrts/2004",
+                "sub_name": "Proceedings of the 2004 ACM SIGPLAN/SIGBED Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES'04), Washington, DC, USA, June 11-13, 2004.",
+                "count": 28,
+                "papers": [
+                    "GraalBench: a 3D graphics benchmark suite for mobile phones.",
+                    "Modeling and simulating electronic textile applications.",
+                    "Spinach: a liberty-based simulator for programmable network interface architectures.",
+                    "NDL: a domain-specific language for device drivers.",
+                    "Asynchronous software thread integration for efficient software.",
+                    "A formal concurrency model based architecture description language for synthesis of software development tools.",
+                    "Procrastination scheduling in fixed priority real-time systems.",
+                    "Power-efficient prefetching via bit-differential offset assignment on embedded processors.",
+                    "Speculative software management of datapath-width for energy optimization.",
+                    "Dynamic voltage scaling for real-time multi-task scheduling using buffers.",
+                    "A trace-based binary compilation framework for energy-aware computing.",
+                    "ESys.Net: a new solution for embedded systems modeling and simulation.",
+                    "XTREM: a power simulator for the Intel XScale\u00ae core.",
+                    "Feedback driven instruction-set extension.",
+                    "Compositional static instruction cache simulation.",
+                    "Measuring the cache interference cost in preemptive real-time systems.",
+                    "Adaptive code unloading for resource-constrained JVMs.",
+                    "Advanced control flow in Java card programming.",
+                    "Generating fast code from concurrent program dependence graphs.",
+                    "EMBARC: an efficient memory bank assignment algorithm for retargetable compilers.",
+                    "Hardware-managed register allocation for embedded processors.",
+                    "A retargetable register allocation framework for embedded processors.",
+                    "Link-time optimization of ARM binaries.",
+                    "Optimizing for space and time usage with speculative partial redundancy elimination.",
+                    "Finding effective compilation sequences.",
+                    "Code protection for resource-constrained embedded devices.",
+                    "Input data reuse in compiling window operations onto reconfigurable hardware.",
+                    "Flattening statecharts without explosions."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "name": "LCTES 2003",
+        "info": "San Diego, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lctrts/2003",
+                "sub_name": "Proceedings of the 2003 Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES'03). San Diego, California, USA, June 11-13, 2003.",
+                "count": 29,
+                "papers": [
+                    "Predicting the impact of optimizations for embedded systems.",
+                    "Finding effective optimization phase sequences.",
+                    "Advanced copy propagation for arrays.",
+                    "A java virtual machine architecture for very small devices.",
+                    "Compiling java for low-end embedded systems.",
+                    "Efficient memory-reference checks for real-time java.",
+                    "Data size optimizations for java programs.",
+                    "Memory safety without runtime checks or garbage collection.",
+                    "Controlling fragmentation and space consumption in the metronome, a real-time garbage collector for Java.",
+                    "Time-triggered garbage collection: robust and adaptive real-time GC scheduling for embedded systems.",
+                    "Phased scheduling of stream programs.",
+                    "Schedulability-driven frame packing for multi-cluster distributed embedded systems.",
+                    "Robustness analysis of avionics embedded systems.",
+                    "Time weaver: a software-through-models framework for embedded real-time systems.",
+                    "Transport layer abstraction in event channels for embedded systems.",
+                    "From simulink to SCADE/lustre to TTA: a layered approach for distributed embedded applications.",
+                    "On efficient program synthesis from statecharts.",
+                    "Generating embedded software from hierarchical hybrid models.",
+                    "An algorithm for mapping loops onto coarse-grained reconfigurable architectures.",
+                    "Profiling tools for hardware/software partitioning of embedded applications.",
+                    "A graph covering algorithm for a coarse grain reconfigurable system.",
+                    "Tamper-resistant whole program partitioning.",
+                    "Storage assignment optimizations through variable coalescence for embedded processors.",
+                    "A DISE implementation of dynamic code decompression.",
+                    "On the side-effects of code abstraction.",
+                    "Enhancing the performance of 16-bit code using augmenting instructions.",
+                    "Energy-balanced task allocation for collaborative processing in networked embedded systems.",
+                    "Adapting instruction level parallelism for optimizing leakage in VLIW architectures.",
+                    "Energy management for real-time embedded applications with compiler support."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2002",
+        "name": "LCTES-SCOPES 2002",
+        "info": "Berlin, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lctrts/2002",
+                "sub_name": "Proceedings of the 2002 Joint Conference on Languages, Compilers, and Tools for Embedded Systems & Software and Compilers for Embedded Systems (LCTES'02-SCOPES'02), Berlin, Germany, 19-21 June 2002.",
+                "count": 27,
+                "papers": [
+                    "Systems-on-chip needs for embedded software development: an industrial perspective.",
+                    "Energy-conscious compilation based on voltage scaling.",
+                    "Fractional rate dataflow model and efficient code synthesis for multimedia applications.",
+                    "Rapid design space exploration of heterogeneous embedded systems using symbolic search and multi-granular simulation.",
+                    "Design space optimization of embedded memory systems via data remapping.",
+                    "Footprint and feature management using aspect-oriented programming techniques.",
+                    "Generic control flow reconstruction from assembly code.",
+                    "Profile guided selection of ARM and thumb instructions.",
+                    "Standardization approach of ITRON debugging interface specification and evaluation of its adaptability.",
+                    "On systematic design of globally consistent executable assertions in embedded software.",
+                    "Automatic formal verification for scheduled VLIW code.",
+                    "DSPs: why don't they just go away!.",
+                    "Energy aware compilation for DSPs with SIMD instructions.",
+                    "Optimal integrated code generation for clustered VLIW architectures.",
+                    "Loop fusion for clustered VLIW architectures.",
+                    "Compiling with code-size constraints.",
+                    "Efficient register and memory assignment for non-orthogonal architectures via graph coloring and MST algorithms.",
+                    "Register allocation for irregular architectures.",
+                    "Inter-task register-allocation for static operating systems.",
+                    "VISTA: a system for interactive code improvement.",
+                    "Compiler-directed cache polymorphism.",
+                    "Quick piping:  a fast, high-level model for describing processor pipelines.",
+                    "Application specific compiler/architecture codesign: a case study.",
+                    "When to use a compilation service?",
+                    "Proxy compilation of dynamically loaded Java classes with MoJo.",
+                    "Energy-conserving feedback EDF scheduling for embedded systems with real-time constraints.",
+                    "Perfecting preemption threshold scheduling for object-oriented real-time system design: from the perspective of real-time synchronization."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2001",
+        "name": "LCTES 2001",
+        "info": "Snowbird, Utah, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lctrts/2001",
+                "sub_name": "Proceedings of The Workshop on Languages, Compilers, and Tools for Embedded Systems (LCTES 2001), June 22-23, 2001 / The Workshop on Optimization of Middleware and Distributed Systems (OM 2001), June 18, 2001, Snowbird, Utah, USA.",
+                "count": 30,
+                "papers": [
+                    "An Accurate Instruction-Level Energy Consumption Model for Embedded RISC Processors.",
+                    "Hybrid Run-time Power Management Technique for Real-time Embedded System with Voltage Scalable Processor.",
+                    "Power-Aware Design Synthesis Techniques for Distributed Real-Time Systems.",
+                    "Combining Global Code and Data Compaction.",
+                    "Register Allocation for Banked Register File.",
+                    "Loop Transformations for Architectures with Partitioned Register Banks.",
+                    "ENSEMBLE: A Communication Layer for Embedded Multi-Processor Systems.",
+                    "Embedded Control Systems Development with Giotto.",
+                    "A Tool for Simulation and Fast Prototyping of Embedded Control Systems.",
+                    "MILAN: A Model Based Integrated Simulation Framework for Desgin of Embedded Suystems.",
+                    "Parametric Timing Analysis.",
+                    "Interval-Based Analysis of Software Processes.",
+                    "Automatic Accurate Live Memory Analysis for Garbage-Collected Languages.",
+                    "Generating Decision Trees for Decoding Binaries.",
+                    "Dealing with Hardware in Embedded Software: A General Framework Based on the Devil Language.",
+                    "Morphable Cache Architectures: Potential Benefits.",
+                    "Software Pipelining Irregular Loops on the TMS320C6000 VLIW DSP Architecture.",
+                    "ILP-based Instruction Scheduling for IA-64.",
+                    "C Compiler Design for an Industrial Network Processor.",
+                    "A Dynamic Programming Approach to Optimal Integrated Code Generation.",
+                    "Stuck in the Middle: Challenges and Trends in Optimizing Middleware.",
+                    "Optimizing Component Interaction.",
+                    "Using Cohort Scheduling to Enhance Server Performance (Extended Abstract).",
+                    "Middleware For Building Adaptive Systems Via Configuration.",
+                    "Designing and Optimizing a Scalable CORBA Notification Service.",
+                    "Issues in the Design of Adaptive Middleware Load Balancing.",
+                    "Evaluating and Optimizing Thread Pool Strategies for Real-Time CORBA.",
+                    "Designing an Efficient and Scalable Server-side Asynchrony Model for CORBA.",
+                    "Integration of QoS-Enabled Distributed Object Computing Middleware for Developing Next-Generation Distributed Application.",
+                    "Language and Compiler Support for Adaptive Distributed Applications."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2000",
+        "name": "LCTES 2000",
+        "info": "Vancouver, BC, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lctrts/2000",
+                "sub_name": "Languages, Compilers, and Tools for Embedded Systems, ACM SIGPLAN Workshop LCTES 2000, Vancouver, BC, Canada, June 18, 2000, Proceedings.",
+                "count": 17,
+                "papers": [
+                    "Randomization-Based Approaches for Dynamic Priority Scheduling of Aperiodic Messages on a CAN Network.",
+                    "Complex Reactive Control with Simple Synchronous Models.",
+                    "Optimistic Secure Real-Time Concurrency Control Using Multiple Data Version.",
+                    "Array Reference Allocation Using SSA-Form and Live Range Growth.",
+                    "PROPAN: A Retargetable System for Postpass Optimisations and Analyses.",
+                    "A Framework for Enhancing Code Quality in Limited Register Set Embedded Processors.",
+                    "A Stochastic Framework for Co-synthesis of Real-Time Systems.",
+                    "A Fault Tolerance Extension to the Embedded CORBA for the CAN Bus Systems.",
+                    "A Real-Time Animator for Hybrid Systems.",
+                    "Reordering Memory Bus Transactions for Reduced Power Consumption.",
+                    "A Power Efficient Cache Structure for Embedded Processors Based on the Dual Cache Structure.",
+                    "Approximation of Worst-Case Execution Time for Preemptive Multitasking Systems.",
+                    "A Design and Implementation of a Remote Debugging Environment for Embedded Internet Software.",
+                    "Optimizing Code Size through Procedural Abstraction.",
+                    "Automatic Validation of Code-Improving Transformations.",
+                    "Towards Energy-Aware Iteration Space Tiling.",
+                    "An Integrated Push/Pull Buffer Management Method in Multimedia Communication Environments."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1999",
+        "name": "LCTES 1999",
+        "info": "Atlanta, Georgia, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lctrts/1999",
+                "sub_name": "Proceedings of the ACM SIGPLAN 1999 Workshop on Languages, Compilers, and Tools for Embedded Systems (LCTES'99), Atlanta, Georgia, USA, May 5, 1999.",
+                "count": 13,
+                "papers": [
+                    "Optimizing for Reduced Code Space using Genetic Algorithms.",
+                    "Effective Exploitation of a Zero Overhead Loop Buffer.",
+                    "Minimizing Cost of Local Variables Access for DSP-Processors.",
+                    "Modulo Scheduling for the TMS320C6x VLIW DSP Architecture.",
+                    "Pipeline Behavior Prediction for Superscalar Processors by Abstract Interpretation.",
+                    "Live Memory Analysis for Garbage Collection in Embedded Systems.",
+                    "Scheduling Garbage Collector for Embedded Real-Time Systems.",
+                    "Table-based QoS Control for Embedded Real-Time Systems.",
+                    "A Secure Dynamic Copy Protocol in Real-Time Secure Database Systems.",
+                    "Performance Re-engineering of Embedded Real-Time Systems.",
+                    "A Software Synthesis Tool for Distributed Embedded System Design.",
+                    "Why SpecInt95 Should Not Be Used to Benchmark Embedded Systems Tools.",
+                    "Issues and Challenges in Developing Embedded Software for Information Appliances and Telecommunication Terminals."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1998",
+        "name": "LCTES 1998",
+        "info": "Montreal, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lctrts/1998",
+                "sub_name": "Languages, Compilers, and Tools for Embedded Systems, ACM SIGPLAN Workshop LCTES'98, Montreal, Canada, June 1998, Proceedings.",
+                "count": 21,
+                "papers": [
+                    "Integrating Path and Timing Analysis Using Instruction-Level Simulation Techniques.",
+                    "On Predicting Data Cache Behavior for Real-Time Systems.",
+                    "Automatic Accurate Time-Bound Analysis for High-Level Languages.",
+                    "Extending RT-Linux to Support Flexible Hard Real-Time Systems with Optional Components.",
+                    "Limited Preemptible Scheduling to Embrace Cache Memory in Real-Time Systems.",
+                    "A Uniform Reliable Multicast Protocol with Guaranteed Response Times.",
+                    "A Tool to Assist in Fine-Tuning and Debugging Embedded Real-Time Systems.",
+                    "Debugging Distributed Implementations of Modal Process Systems.",
+                    "Using InfernoTM to Execute JavaTM on Small Devices.",
+                    "TurboJ, a Java Bytecode-to-Native Compiler.",
+                    "Cache-Sensitive Pre-runtime Scheduling.",
+                    "Priority Assignment for Embedded Reactive Real-Time Systems.",
+                    "Mapping an Embedded Hard Real-Time Systems SDL Specification to an Analyzable Task Network - A Case Study.",
+                    "Efficient User-Level I/O in the ARX Real-Time Operating System.",
+                    "Machine Descriptions to Build Tools for Embedded Systems.",
+                    "Non-local Instruction Scheduling with Limited Code Growth.",
+                    "An Efficient Data Partitioning Method for Limited Memory Embedded Systems.",
+                    "A Design Environment for Counterflow Pipeline Synthesis.",
+                    "End-to-End Optimization in Heterogeneous Distributed Real-Time Systems.",
+                    "Using UML for Modeling Complex Real-Time Systems.",
+                    "Evaluating ASIC, DSP, and RISC Architectures for Embedded Applications."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1995",
+        "name": "LCT-RTS 1995",
+        "info": "La Jolla, California",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/lctrts/1995",
+                "sub_name": "Proceedings of the ACM SIGPLAN 1995 Workshop on Languages, Compilers, & Tools for Real-Time Systems (LCT-RTS 1995). La Jolla, California, USA, June 21-22, 1995.",
+                "count": 17,
+                "papers": [
+                    "Predicting the Worst-Case Execution Time of the Concurrent Execution of Instructions and Cycle-Stealing DMA I/O Operations.",
+                    "Scheduling of Hard Aperiodic Tasks in Hybrid Static/Dynamic Priority Systems.",
+                    "Worst-Case Execution Time Analysis on Modern Processors.",
+                    "Re-usable Software Design for Programmable Logic Controllers.",
+                    "Language Constructs and Transformation for Hard Real-time Systems.",
+                    "RTsynchronizer: Language Support for Real-Time Specifications in Distributed Systems.",
+                    "Software Synthesis for Real-Time Information Processing Systems.",
+                    "Verus: A Tool for Quantitative Analysis of Finite-State Real-Time Systems.",
+                    "Static Timing Analysis of Real-Time Systems.",
+                    "Performance Analysis of Embedded Software Using Implicit Path Enumeration.",
+                    "Supporting User-Friendly Analysis of Timing Constraints.",
+                    "The Cluster Compiler - A Tool for the Design of Time-Triggered Real-Time Systems.",
+                    "WindView: A Tool for Understanding Real-time Embedded Software Through System Visualization.",
+                    "Appropriate Interfaces Between Design Tools, Languages, Compilers and Runtimes in Real-Time Systems (Panel).",
+                    "Compiler Support for Software-Based Cache Partitioning.",
+                    "Automatic Generation of Scheduling and Communication Code in Real-Time Parallel Programs.",
+                    "The ControlShell Component-Based Real-Time Programming System, and its Application to the Marsokhod Martian Rover."
+                ]
+            }
+        ]
+    }
+]

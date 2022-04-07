@@ -1,0 +1,573 @@
+[
+    {
+        "year": "2019",
+        "name": "CASA 2019",
+        "info": "Paris, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ca/2019",
+                "sub_name": "Proceedings of the 32nd International Conference on Computer Animation and Social Agents, CASA 2019, Paris, France, July 01-03, 2019.",
+                "count": 18,
+                "papers": [
+                    "Transportation Strategies for Box-Manipulation in Crowd Simulation.",
+                    "Data-Driven Crowd Simulation with Generative Adversarial Networks.",
+                    "Learning how to analyse crowd behaviour using synthetic data.",
+                    "A Stage-Wise Path Planning Approach for Crowd Evacuation in Buildings.",
+                    "Fitting the Style: The Semantic Space for Emotions on Stylized Faces.",
+                    "Heterogeneous pedestrians behaviors through asymmetrical interaction.",
+                    "Capturing Subtle Motion Differences of Pedestrian Street Crossings.",
+                    "Optic Disc and Cup Segmentation Based on Enhanced SegNet.",
+                    "Detect Glaucoma with Image Segmentation and Transfer Learning.",
+                    "Depth Camera Based Fluid Reconstruction and its Solid-fluid Interaction.",
+                    "Design of Seamless Multi-modal Interaction Framework for Intelligent Virtual Agents in Wearable Mixed Reality Environment.",
+                    "Garment Preconditioning and Regional Simulation Omission for Trying-On Virtual Ensembles.",
+                    "Optimal Group Distribution based on Thermal and Psycho-Social Aspects.",
+                    "A Language Generation Toolkit for Expressing Agreement in Small Talk.",
+                    "Subjective Effects of Flying With an Autoscopic Self-Avatar in Third-Person Perspective Within an Immersive Mixed Reality.",
+                    "Virtual Agents from 360\u00b0 Video for Interactive Virtual Reality.",
+                    "Single-image Mesh Reconstruction and Pose Estimation via Generative Normal Map.",
+                    "A Novel Attention-based Neural Network for Video Scene Classification in Complex Background."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "CASA 2018",
+        "info": "Beijing, China",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ca/2018",
+                "sub_name": "Proceedings of the 31st International Conference on Computer Animation and Social Agents, CASA 2018, Beijing, China, May 21-23, 2018.",
+                "count": 18,
+                "papers": [
+                    "Towards a generic framework for multi-party dialogue with virtual humans.",
+                    "Increasing the feeling of social presence by incorporating realistic interactions in multi-party VR.",
+                    "Learning to Communicate via Supervised Attentional Message Processing.",
+                    "Socio-Cultural Effects of Virtual Counseling Interviewers as Mediated by Smartphone Video Conferencing.",
+                    "Player Experience Information Evaluation in 3D Virtual Environments.",
+                    "An Image Representation for the 3D Face Synthesis.",
+                    "Parallel Pencil Drawing Stylization via Structure-Aware Optimization.",
+                    "Saliency detection by aggregating complementary background template with foreground information.",
+                    "Large-scale 3D Point Cloud Classification Based On Feature Description Matrix By CNN.",
+                    "Automatic Re-topology and UV Remapping for 3D Scanned Objects based on Neural Network.",
+                    "Loop Detection and Correction of 3D Laser-Based SLAM with Visual Information.",
+                    "Geometric Primitives Based RGB-D SLAM for Low-texture Environment.",
+                    "Instant SLAM Initialization for Outdoor Omnidirectional Augmented Reality.",
+                    "Shape Deformation with a Stretching and Bending Energy.",
+                    "Physics-based control of walking virtual characters in low frequency simulations.",
+                    "A Rowing Game Based on Motion Similarity of Two Players.",
+                    "A Mobile Augmented Reality System For Illumination Consistency With Fisheye Camera Based On Client-Server Model.",
+                    "Design of Training Platform for Manned Submersible Vehicle Based on Virtual Reality Technology."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "CASA 2017",
+        "info": "Seoul, South Korea",
+        "venues": []
+    },
+    {
+        "year": "2016",
+        "name": "CASA 2016",
+        "info": "Geneva, Switzerland",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ca/2016",
+                "sub_name": "Proceedings of the 29th International Conference on Computer Animation and Social Agents, CASA 2016, Geneva, Switzerland, May 23-25, 2016.",
+                "count": 27,
+                "papers": [
+                    "Combining Memory and Emotion With Dialog on Social Companion: A Review.",
+                    "Modeling human-like non-rationality for social agents.",
+                    "Compact Modeling and Plausible Deformation of Human Lung Anatomy with Smooth Surfaces.",
+                    "Physical Modeling of Vascular Tissues and Stress Analysis Optimization Based on Real Soft Tissue Characteristics.",
+                    "Modeling Gap Seeking Behaviors for Agent-based Crowd Simulation.",
+                    "Practical Acceleration Strategies for the Predictive Visualization of Fading Phenomena.",
+                    "A 3D human motion refinement method based on sparse motion bases selection.",
+                    "ACUMEN: Activity-Centric Crowd Authoring Using Influence Maps.",
+                    "Simulation of Small Social Group Behaviors in Emergency Evacuation.",
+                    "Life-sized Group and Crowd simulation in Mobile AR.",
+                    "A Mobile System for Scene Monitoring and Object Retrieval.",
+                    "An Immersive Bidirectional System for Life-size 3D Communication.",
+                    "Hand Contact between Remote Users through Virtual Avatars.",
+                    "Bio-Inspired Virtual Populations: Adaptive Behavior with Affective Feedback.",
+                    "Joint-Triplet Motion Image and Local Binary Pattern for 3D Action Recognition Using Kinect.",
+                    "Rapid Photorealistic Blendshape Modeling from RGB-D Sensors.",
+                    "Real-Time Cloud Simulation Using Lennard-Jones Approximation.",
+                    "Understanding People's Mental Models of Mid-Air Interaction for Virtual Assembly and Shape Modeling.",
+                    "Aliveness metaphor for an evolutive gesture interaction based on coupling between a human and a virtual agent.",
+                    "From Expressive End-Effector Trajectories to Expressive Bodily Motions.",
+                    "One Step from the Locomotion to the Stepping Pattern.",
+                    "Exploring Spatial and Temporal Coherence to Strengthen Seam Carving in Video Retargeting.",
+                    "Efficient Simulation of Furniture Layout Taking into Account Lighting Environment.",
+                    "A Framework for Manipulating Multi-Perspective Image Using A Parametric Surface.",
+                    "A Hybrid Sound Model for 3D Audio Games with Real Walking.",
+                    "Dynamic Fluid Visualization Based on Multi-level Density.",
+                    "An evaluation of spatial presence, social presence, and interactions with various 3D displays."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "CASA 2015",
+        "info": "Singapore",
+        "venues": []
+    },
+    {
+        "year": "2014",
+        "name": "CASA 2014",
+        "info": "Houston, Texas, USA",
+        "venues": []
+    },
+    {
+        "year": "2013",
+        "name": "CASA 2013",
+        "info": "Istanbul, Turkey",
+        "venues": []
+    },
+    {
+        "year": "2012",
+        "name": "CASA 2012",
+        "info": "Singapore",
+        "venues": []
+    },
+    {
+        "year": "2011",
+        "name": "CASA 2011",
+        "info": "Chengdu, China",
+        "venues": []
+    },
+    {
+        "year": "2010",
+        "name": "CASA 2010",
+        "info": "Saint-Malo, France",
+        "venues": []
+    },
+    {
+        "year": "2009",
+        "name": "CASA 2009",
+        "info": "Amsterdam, The Netherlands",
+        "venues": []
+    },
+    {
+        "year": "2008",
+        "name": "CASA 2008",
+        "info": "Seoul, Korea",
+        "venues": []
+    },
+    {
+        "year": "2007",
+        "name": "CASA 2007",
+        "info": "Hasselt, Belgium",
+        "venues": []
+    },
+    {
+        "year": "2006",
+        "name": "CASA 2006",
+        "info": "Geneva, Switzerland",
+        "venues": []
+    },
+    {
+        "year": "2005",
+        "name": "CASA 2005",
+        "info": "Hong Kong",
+        "venues": []
+    },
+    {
+        "year": "2004",
+        "name": "CASA 2004",
+        "info": "Geneva, Switzerland",
+        "venues": []
+    },
+    {
+        "year": "2003",
+        "name": "CASA 2003",
+        "info": "New Brunswick, New Jersey, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ca/2003",
+                "sub_name": "16th International Conference on Computer Animation and Social Agents, CASA 2003, New Brunswick, NJ, USA, May 7-9, 2003.",
+                "count": 22,
+                "papers": [
+                    "Towards a Simulation of Conversations with Expressive Embodied Speakers and Listeners.",
+                    "Crafting the Illusion of Meaning: Template-Based Specification of Embodied Conversational Behavior.",
+                    "Language-Driven Nonverbal Communication in a Bilingual Conversational Agent.",
+                    "How Believable Are Real Faces? Towards a Perceptual Basis for Conversational Animation.",
+                    "Improvements on a Simple Muscle-Based 3D Face for Realistic Facial Expressions.",
+                    "Modeling Hair Using Level-of-Detail Representations.",
+                    "Bi-layered Mass-Spring Model for Fast Deformations of Flexible Linear Bodies.",
+                    "Melting and Flowing of Viscous Volumes.",
+                    "ElasticPaint: A Particle System for Feature Mapping with Minimum Distortion.",
+                    "A Procedural Approach to Animate Interactive Natural Sceneries.",
+                    "Expressive Gesture Animation Based on Non Parametric Learning of Sensory-Motor Models.",
+                    "Real-Time Reach Planning for Animated Characters Using Hardware Acceleration.",
+                    "Realistic Human Walking Paths.",
+                    "XSTEP: A Markup Language for Embodied Agents.",
+                    "Bottom-Up Visual Attention for Virtual Human Animation.",
+                    "Agent Chameleons: Agent Minds and Bodies.",
+                    "Modeling Virtual Ecosystems with the Proactive Guidance of Agents.",
+                    "Inserting Synthetic Characters into Live-Action Scenes of Multiple People.",
+                    "Modeling Individual Behaviors in Crowd Simulation.",
+                    "Reactive Pedestrian Path Following from Examples.",
+                    "Satisfying the Perceived Need for Free-Play in Pedagogically Oriented Interactive Dramas.",
+                    "Conceptual, Communicative and Pragmatic Aspects of Interaction Forms - Rich Interaction Model for Collaborative Virtual Environments."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2002",
+        "name": "CA 2002",
+        "info": "Geneva, Switzerland",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ca/2002",
+                "sub_name": "Computer Animation 2002, CA 2002, Geneva, Switzerland, June 19-21, 2002.",
+                "count": 34,
+                "papers": [
+                    "Issues with Lip Sync Animation: Can You Read My Lips?",
+                    "Making Discours Visible: Coding and Animating Conversational Facial Displays.",
+                    "CoArt: Co-articulation Region Analysis for Control of 2D Characters.",
+                    "Haptics Technologies and Cultural Heritage Applications.",
+                    "Virtual Climbing Plants Competing for Space.",
+                    "Randomly Accessible Procedural Animation of Physically Approximate Turbulent Motion.",
+                    "Interactively Evolving Virtual Environment Maps with Continuous Layered Pattern Functions.",
+                    "Point Representation Augmented to Surface Reconstruction in Image-based VR.",
+                    "Polyhedral Object Detection and Pose Estimation for Augmented Reality Applications.",
+                    "From Visual Input to Modeling Humans.",
+                    "Evaluating Video-Based Motion Capture.",
+                    "GENESIS: Generation of E-Population Based on Statistical Information.",
+                    "Homotopic Database Animation.",
+                    "AMOBA: A Database System for Annotating Captured Human Movements.",
+                    "Extensive and Efficient Search of Human Movements with Hierarchical Reinforcement Learning.",
+                    "Formational Parameters and Adaptive Prototype Instantiation for MPEG-4 Compliant Gesture Synthesis.",
+                    "A Web3D Toolbox for Creating H-Anim Compatible Actors.",
+                    "Specifying MPEG-4 Body Behaviors.",
+                    "Representing and Parameterizing Agent Behaviors.",
+                    "Behavioural Animation of Virtual Humans: What Kind of Laws and Rules?",
+                    "A Hybrid Dynamical Systems Approach to Intelligent Low-Level Navigation.",
+                    "Building Artificial Memory to Autonomous Agents using Dynamic and Hierarchical Finite State Machine.",
+                    "Knowledge Discovery and Memory Space as Asymmetric Information - the Architecture of the Internet Media Lab netzspannung.org.",
+                    "Employing Approximate 3D Models to Enrich Traditional Computer Assisted Animation.",
+                    "Avenues of Research in Dynamic Clothing.",
+                    "Bilayered Approximate Integration for Rapid and Plausible Animation of Virtual Cloth with Realistic Wrinkles.",
+                    "Accurate Simulation of Hip Joint Range of Motion.",
+                    "Anatomy-Based Joint Models for Virtual Human Skeletons.",
+                    "Removing Tetrahedra from a Manifold Mesh.",
+                    "Lip Synchronization for Song.",
+                    "Conversational Virtual Character for the Web.",
+                    "Prototyping and Transforming Visemes for Animated Speech.",
+                    "Model-based Animation of Coverbal Gesture.",
+                    "Spacetime Sweeping: An Interactive Dynamic Constraints Solver."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2001",
+        "name": "CA 2001",
+        "info": "Seoul, Korea",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ca/2001",
+                "sub_name": "The Fourteenth Conference on Computer Animation, CA 2001, Seoul, South Korea, November 7-8, 2001.",
+                "count": 27,
+                "papers": [
+                    "Realistic 3D facial animation parameters from mirror-reflected multi-view video.",
+                    "Analysis and synthesis of facial expressions with hand-generated muscle actuation basis.",
+                    "Face animation based on observed 3D speech dynamics.",
+                    "A physically-based model with adaptive refinement for facial animation.",
+                    "Adaptive gait generation via physiological controls.",
+                    "T4: a motion-capture-based goal-directed real-time responsive locomotion engine.",
+                    "Constrained framespace interpolation.",
+                    "Through-the-eyes control of a virtual humanoid.",
+                    "Pedestrians: creating agent behaviors through statistical analysis of observation data.",
+                    "Simulating virtual human crowds with a leader-follower model.",
+                    "Towards the Holodeck: building emotional virtual humans for training.",
+                    "Integration of optimization by genetic algorithms into an L-system-based animation system.",
+                    "AI-based animation for interactive storytelling.",
+                    "Collision resolutions in cloth simulation.",
+                    "Animation based in dynamic simulation involving irregular objects with non-homogeneous rugosities.",
+                    "An implicit finite element method for elastic solids in contact.",
+                    "Merging deformable and rigid body mechanics simulation.",
+                    "Virtual body morphing.",
+                    "Interactive modeling of the human musculature.",
+                    "Human spine posture estimation from video images based on connected vertebra spheres model.",
+                    "A layered approach to deformable modeling and animation.",
+                    "Automatic in-betweening in computer assisted animation by exploiting 2.5D modelling techniques.",
+                    "A new mathematical development for radiosity animation with Galerkin method.",
+                    "Automatic simplification of particle system dynamics.",
+                    "Real-time cloth simulation with sparse particles and curved faces.",
+                    "Real-time simulation of deformable objects: tools and application.",
+                    "Visually believable explosions in real time."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2000",
+        "name": "CA 2000",
+        "info": "Philadelphia, Pennsylvania, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ca/2000",
+                "sub_name": "Computer Animation 2000, CA 2000, Philadelphia, Pennsylvania, USA, May 3-5, 2000.",
+                "count": 29,
+                "papers": [
+                    "Preface.",
+                    "Chairs.",
+                    "Program Committee and Auxiliary Reviewers.",
+                    "Integrated System for Skin Deformation.",
+                    "Simulating 2D Tearing Phenomena for Interactive Medical Surgery Simulators.",
+                    "Adaptive Simulation of Soft Bodies in Real-Time.",
+                    "Moving Finite Elements for Simulating Creasing Phenomena of Nearly Unstretchable Sheet Materials.",
+                    "Algorithms for Generating Motion Trajectories Described by Prepositions.",
+                    "Animating by Multi-Level Sampling.",
+                    "Image based Animation from Learned Visual-Motor Models.",
+                    "High-Degree Temporal Antialiasing.",
+                    "An Integrated Approach towards the Representation, Manipulation and Reuse of Pre-Recorded Motion.",
+                    "Motion Processing using Variable Harmonic Components.",
+                    "Sensor Fusion for Motion Capture System based on System Identification.",
+                    "Skeleton-based Motion Capture for Robust Reconstruction of Human Motion.",
+                    "Computer Animation: Algorithms and Techniques - A Historical Review.",
+                    "Planning and Motion Control in Lifelike Gesture: A Refined Approach.",
+                    "Interpreting Movement Manner.",
+                    "A Thin Shell Volume for Modeling Human Hair.",
+                    "Virtual Humans Animation in Informed Urban Environments.",
+                    "Individual and Group Behaviors for Virtual Humans.",
+                    "Dynamic Sculpting and Animation of Free-form Subdivision Solids.",
+                    "Volume Sculpting and Keyframe Animation System.",
+                    "Space-Time and Higher Dimensional Modeling for Animation.",
+                    "Layered Animation using Displacement Maps.",
+                    "Accurate Collision Response on Polygonal Meshes.",
+                    "Fast, Fully-Automated Generation of Control Skeletons for Use in Animation.",
+                    "Towards an Architecture for Artificial Animated Creatures.",
+                    "An Interactive Generalized Motion Simulator (GMS) in an Object-Oriented Framework."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1999",
+        "name": "CA 1999",
+        "info": "Geneva, Switzerland",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ca/1999",
+                "sub_name": "Computer Animation 1999, CA 1999, Geneva, Switzerland, May 26-28, 1999.",
+                "count": 25,
+                "papers": [
+                    "Preface.",
+                    "Conference Committee.",
+                    "Program Committee.",
+                    "Animation of Human Walking in Virtual Environments.",
+                    "A Software System to Carry-out Virtual Experiments on Human Motion.",
+                    "High Level Specification and Control of Communication Gestures: The GESSYCA System.",
+                    "Alhambra: A System for Producing 2D Animation.",
+                    "Emotionally Expressive Agents.",
+                    "Skin Aging Estimation by Facial Simulation.",
+                    "Visible Volume Buffer for Efficient Hair Expression and Shadow Generation.",
+                    "A Hybrid Elastic Model Allowing Real-Time Cutting, Deformations and Force-Feedback for Surgery Training and Simulation.",
+                    "Real-Time Collision Detection for Virtual Surgery.",
+                    "Group Interaction in a Surround Screen Environment.",
+                    "Automatically Generating Virtual Guided Tours.",
+                    "Collaborative Animation over the Network.",
+                    "Fast Synthetic Vision, Memory, and Learning Models for Virtual Humans.",
+                    "Virtual Human Animation based on Movement Observation and Cognitive Behavior Models.",
+                    "A Behavioral Interface to Simulate Agent-Object Interactions in Real-Time.",
+                    "Human Motion Coordination: Example of a Juggler.",
+                    "Realistic Articulated Character Positioning and Balance Control in Interactive Environments.",
+                    "Recursive Dynamics and Optimal Control Techniques for Human Motion Planning.",
+                    "Virtual People: Capturing Human Models to Populate Virtual Worlds.",
+                    "MPEG-4 Compatible Faces from Orthogonal Photos.",
+                    "Virtual Reality Simulation Modeling for a Haptic Glove.",
+                    "Virtual Input Devices based on Motion Capture and Collision Detection."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1998",
+        "name": "CA 1998",
+        "info": "Philadelphia, Pennsylvania, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ca/1998",
+                "sub_name": "Computer Animation 1998, CA 1998, Philadelphia, Pennsylvania, USA, June 8-10, 1998.",
+                "count": 23,
+                "papers": [
+                    "Synthetic Motion Capture for Interactive Virtual Worlds.",
+                    "Real-Time Intelligent Characters for a Non-Visual Simulation Environment.",
+                    "Avatars \u00e1 la Snow Crash.",
+                    "Dynamic Autonomous Agents: Game Applications.",
+                    "Modeling and Deformation of the Human Body using an Anatomically-Based Approach.",
+                    "Efficient Network Transmission of Virtual Human Bodies.",
+                    "Animation of Synthetic Faces in MPEG-4.",
+                    "Facial Deformations for MPEG-4.",
+                    "Feature-based Surface Decomposition for Correspondence and Morphing Between Polyhedra.",
+                    "The SPHERIGON: A Simple Polygon Patch for Smoothing Quickly Your Polygonal Meshes.",
+                    "GASP: From Modular Programming to Distributed Execution.",
+                    "Interactive Animation of Soft Shadows.",
+                    "MikeTalk: A Talking Facial Display Based on Morphing Visemes.",
+                    "Sample-Based Synthesis of Photo-Realistic Talking Heads.",
+                    "Realistic Speech Animation of Synthetic Faces.",
+                    "Image Morphing of Facial Images Transformation based on Navier Elastic Body Splines.",
+                    "Real-Time Facial Animation based upon a Bank of 3D Facial Expressions.",
+                    "Active Voodoo Dolls: A Vision Based Input Device for Nonrigid Control.",
+                    "Vision-Based Animation of Digital Humans.",
+                    "Physically-based Animation of Volumetric Objects.",
+                    "Hybrid Anatomically Based Modeling of Animals.",
+                    "Technical Issues on Simulating Impulse and Friction in Three Dimensional Rigid Body Dynamics.",
+                    "A Compositional, Constraint-based Model of Statics."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1997",
+        "name": "CA 1997",
+        "info": "Geneva, Switzerland",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ca/1997",
+                "sub_name": "Computer Animation 1997, CA 1997, Geneva, Switzerland, June 4-7, 1997.",
+                "count": 20,
+                "papers": [
+                    "Fast Collision Detection among Multiple Moving Spheres.",
+                    "Emotional posturing: a method towards achieving emotional figure animation.",
+                    "Animating Flow Fields: Rendering of Oriented Line Integral Convolution.",
+                    "Collaborative Environments of IntelligentBox for Distributed 3D Graphic Applications.",
+                    "Interaction between Real and Virtual Humans in Augmented Reality.",
+                    "PROVIS : A Platform for Virtual Prototyping and Maintenance Tests.",
+                    "Capturing and analyzing stability of human body motions using video cameras.",
+                    "Automatic 3D Cloning and Real-Time Animation of a Human Face.",
+                    "Formal Description Of Auditory Scenes.",
+                    "An Animation Interface Designed for Motion Capture.",
+                    "Arc-Length-Based Axial Deformation and Length Preserved Animation.",
+                    "Dirichlet Free-Form Deformations and their Application to Hand Simulation.",
+                    "Assessment Criteria for 2D Shape Transformations in Animation.",
+                    "Autonomous Behavior Control of Virtual Actors Based on the AIR Model.",
+                    "Behavioural simulation in voxel space.",
+                    "Multilevel Modelling of Virtual Urban Environments for Behavioural Animation.",
+                    "Layered Modular Action Control for Communicative Humanoids.",
+                    "CASUS - An Object-oriented Three-dimensional Animation System for Event-oriented Simulators.",
+                    "Dynamic Behaviors for Computer Animation: the Use of Java.",
+                    "Virtual images as a \"line-test\" to real image animation."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1996",
+        "name": "CA 1996",
+        "info": "Geneva, Switzerland",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ca/1996",
+                "sub_name": "Computer Animation 1996, CA 1996, Geneva, Switzerland, June 3-4, 1996.",
+                "count": 22,
+                "papers": [
+                    "Networking Large-Scale Virtual Environments.",
+                    "Animation in the Virtual World.",
+                    "Real-Time Animation of a Virtual Arm and Its Collisions with a Virtual Environment.",
+                    "Adding Insight Through Animation In Augmented Reality.",
+                    "User-Controlled Physics-Based Animation for Articulated Figures.",
+                    "Physical Models of Loose Soils Dynamically Marked by a Moving Object.",
+                    "The Physical Modelling of Complex Physical Structures: The Mechanical Clockwork, Motion, Image and Sound.",
+                    "The Animation of Autonomous Actors Based on Production Rules.",
+                    "A Model of Nonverbal Communication and Interpersonal Relationship Between Virtual Actors.",
+                    "Modeling, Tracking and Interactive Animation of Faces and Heads Using Input from Video.",
+                    "3D Models Of The Lips For Realistic Speech Animation.",
+                    "Simulation of Static and Dynamic Wrinkles of Skin.",
+                    "Facial Animation.",
+                    "On The Silhouette Cartoon Animation.",
+                    "Integrating 2 1/2-D Computer Animation Techniques for Supporting Traditional Animation.",
+                    "Fast Contact Localization Between Deformable Polyhedra in Motion.",
+                    "Motion Fairing.",
+                    "A Motion Generator Framework.",
+                    "Efficient And Accurate Interference Detection For Polynomial Deformation.",
+                    "3D Measurement Technologies for Computer Animation.",
+                    "From Text Description to Animation Sequences.",
+                    "AniLan - An Animation Language."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1995",
+        "name": "CA 1995",
+        "info": "Geneva, Switzerland",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ca/1995",
+                "sub_name": "Computer Animation 1995, CA 1995, Geneva, Switzerland, April 19-21, 1995.",
+                "count": 24,
+                "papers": [
+                    "What Governs Autonomous Actors.",
+                    "The ALIVE system: full-body interaction with autonomous agents.",
+                    "Virtual actors living in a real world.",
+                    "A synthetic mobile robot.",
+                    "Disney meets Darwin-the evolution of funny animated figures.",
+                    "Networked virtual worlds.",
+                    "Creating animations using virtual reality ThatcherWorld: a case study.",
+                    "Motion planning for computer animation and virtual reality applications.",
+                    "Applying visual curve tracking to graphics.",
+                    "A C2-continuous B-spline quaternion curve interpolating a given sequence of solid orientations.",
+                    "A new set of tools to describe and tune trajectories.",
+                    "The Animachine renderer.",
+                    "A diffusion model for computer animation of diffuse ink painting.",
+                    "Modelling the computer animation process for parallel environments.",
+                    "IntelligentBox: a constructive visual software development system for interactive 3D graphic applications.",
+                    "AniGraph-a data structure for computer animation.",
+                    "Animating deformable models: different approaches.",
+                    "Quick tuning of a reference locomotion gait [computer animation].",
+                    "Realistic animation of legged running on rough terrain.",
+                    "Evaluation of human jaw articulation [computer animation].",
+                    "Topological modeling of human anatomy using medical data.",
+                    "Visualization of complex phenomena in string theory.",
+                    "An advanced technique for Meteosat cloud animation.",
+                    "Dynamic simulation of splashing fluids."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1994",
+        "name": "CA 1994",
+        "info": "Geneva, Switzerland",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/ca/1994",
+                "sub_name": "Computer Animation 1994, CA 1994, Geneva, Switzerland, May 25-28, 1994.",
+                "count": 22,
+                "papers": [
+                    "Global methods for simulating contacting flexible bodies.",
+                    "Posture interpolation with collision avoidance.",
+                    "A multilevel approach to surface response in dynamically deformable models.",
+                    "Image morphing using deformable surfaces.",
+                    "Modeling and animating the human tongue during speech production.",
+                    "Modeling of vascular expressions in facial animation.",
+                    "Langwidere: a new facial animation system.",
+                    "Towards the autonomous animation of multiple human figures.",
+                    "Terrain reasoning for human locomotion.",
+                    "NSAIL PLAN: an experience with constraint-based reasoning in planning and animation.",
+                    "Automatic derivation of curved human walking trajectories from synthetic vision.",
+                    "Autonomy, abduction, adaptation.",
+                    "Visually guided animation.",
+                    "Computer simulations of adaptive behavior in animals.",
+                    "REALISM: reusable elements for animation using local integrated simulation models.",
+                    "ExTwAnPaSy: an Extensible Two-dimensional Animation/Paint System.",
+                    "Modelling and interpolating cartoon characters.",
+                    "Integrating a scripting language into an interactive animation system.",
+                    "Computer animation of clouds.",
+                    "A particle system using CSG for description and visualization.",
+                    "Fast ray tracing of sequences by ray history evaluation.",
+                    "The AEIOU hypermedia project."
+                ]
+            }
+        ]
+    }
+]

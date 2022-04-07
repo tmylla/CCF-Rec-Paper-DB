@@ -1,0 +1,806 @@
+[
+    {
+        "year": "2021",
+        "name": "19th FAST 2021",
+        "info": "",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/fast/2021",
+                "sub_name": "19th USENIX Conference on File and Storage Technologies, FAST 2021, February 23-25, 2021.",
+                "count": 28,
+                "papers": [
+                    "ROART: Range-query Optimized Persistent ART.",
+                    "SpanDB: A Fast, Cost-Effective LSM-tree Based KV Store on Hybrid Storage.",
+                    "Evolution of Development Priorities in Key-value Stores Serving Large-scale Applications: The RocksDB Experience.",
+                    "REMIX: Efficient Range Query for LSM-trees.",
+                    "High Velocity Kernel File Systems with Bento.",
+                    "Scalable Persistent Memory File System with Kernel-Userspace Collaboration.",
+                    "Rethinking File Mapping for Persistent Memory.",
+                    "pFSCK: Accelerating File System Checking and Repair for Modern Storage.",
+                    "Pattern-Guided File Compression with User-Experience Enhancement for Log-Structured File System on Mobile Devices.",
+                    "ArchTM: Architecture-Aware, High Performance Transaction for Persistent Memory.",
+                    "SPHT: Scalable Persistent Hardware Transactions.",
+                    "The Dilemma between Deduplication and Locality: Can Both be Achieved?",
+                    "Remap-SSD: Safely and Efficiently Exploiting SSD Address Remapping to Eliminate Duplicate Writes.",
+                    "CheckFreq: Frequent, Fine-Grained DNN Checkpointing.",
+                    "Facebook's Tectonic Filesystem: Efficiency from Exascale.",
+                    "Exploiting Combined Locality for Wide-Stripe Erasure Coding in Distributed Storage.",
+                    "On the Feasibility of Parser-based Log Compression in Large-Scale Cloud Systems.",
+                    "CNSBench: A Cloud Native Storage Benchmark.",
+                    "Concordia: Distributed Shared Memory with In-Network Cache Coherence.",
+                    "eMRC: Efficient Miss Ratio Approximation for Multi-Tier Caching.",
+                    "The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus.",
+                    "A Community Cache with Complete Information.",
+                    "Learning Cache Replacement with CACHEUS.",
+                    "FusionRAID: Achieving Consistent Low Latency for Commodity SSD Arrays.",
+                    "Behemoth: A Flash-centric Training Accelerator for Extreme-scale DNNs.",
+                    "FlashNeuron: SSD-Enabled Large-Batch Training of Very Deep Neural Networks.",
+                    "D2FQ: Device-Direct Fair Queueing for NVMe SSDs.",
+                    "An In-Depth Study of Correlated Failures in Production SSD-Based Data Centers."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "name": "18th FAST 2020",
+        "info": "Santa Clara, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/fast/2020",
+                "sub_name": "18th USENIX Conference on File and Storage Technologies, FAST 2020, Santa Clara, CA, USA, February 24-27, 2020.",
+                "count": 23,
+                "papers": [
+                    "MAPX: Controlled Data Migration in the Expansion of Decentralized Object-Based Storage Systems.",
+                    "Lock-Free Collaboration Support for Cloud Storage Services with Operation Inference and Transformation.",
+                    "POLARDB Meets Computational Storage: Efficiently Support Analytical Workloads in Cloud-Native Relational Database.",
+                    "Carver: Finding Important Parameters for Storage System Tuning.",
+                    "Read as Needed: Building WiSER, a Flash-Optimized Search Engine.",
+                    "How to Copy Files.",
+                    "Uncovering Access, Reuse, and Sharing Characteristics of I/O-Intensive Files on Large-Scale Production HPC Systems.",
+                    "GIFT: A Coupon Based Throttle-and-Reward Mechanism for Fair and Efficient I/O Bandwidth Management on Parallel Storage Systems.",
+                    "Scalable Parallel Flash Firmware for Many-core Architectures.",
+                    "A Study of SSD Reliability in Large Scale Enterprise Storage Deployments.",
+                    "Making Disk Failure Predictions SMARTer!",
+                    "An Empirical Guide to the Behavior and Use of Scalable Persistent Memory.",
+                    "DC-Store: Eliminating Noisy Neighbor Containers using Deterministic I/O Performance and Resource Isolation.",
+                    "GoSeed: Generating an Optimal Seeding Plan for Deduplicated Storage.",
+                    "Characterizing, Modeling, and Benchmarking RocksDB Key-Value Workloads at Facebook.",
+                    "FPGA-Accelerated Compactions for LSM-based Key-Value Store.",
+                    "HotRing: A Hotspot-Aware In-Memory Key-Value Store.",
+                    "BCW: Buffer-Controlled Writes to HDDs for SSD-HDD Hybrid Storage Server.",
+                    "InfiniCache: Exploiting Ephemeral Serverless Functions to Build a Cost-Effective Memory Cache.",
+                    "Quiver: An Informed Storage Cache for Deep Learning.",
+                    "CRaft: An Erasure-coding-supported Version of Raft for Reducing Storage Cost and Network Cost.",
+                    "Hybrid Data Reliability for Emerging Key-Value Storage Devices.",
+                    "Strong and Efficient Consistency with Consistency-Aware Durability."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "17th FAST 2019",
+        "info": "Boston, MA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/fast/2019",
+                "sub_name": "17th USENIX Conference on File and Storage Technologies, FAST 2019, Boston, MA, February 25-28, 2019.",
+                "count": 26,
+                "papers": [
+                    "Reaping the performance of fast NVM storage with uDepot.",
+                    "Optimizing Systems for Byte-Addressable NVM by Reducing Bit Flipping.",
+                    "Write-Optimized Dynamic Hashing for Persistent Memory.",
+                    "Software Wear Management for Persistent Memories.",
+                    "Storage Gardening: Using a Virtualization Layer for Efficient Defragmentation in the WAFL File System.",
+                    "Pay Migration Tax to Homeland: Anchor-based Scalable Reference Counting for Multicores.",
+                    "Speculative Encryption on GPU Applied to Cryptographic File Systems.",
+                    "Sketching Volume Capacities in Deduplicated Storage.",
+                    "Finesse: Fine-Grained Feature Locality based Fast Resemblance Detection for Post-Deduplication Delta Compression.",
+                    "Sliding Look-Back Window Assisted Data Chunk Rewriting for Improving Deduplication Restore Performance.",
+                    "DistCache: Provable Load Balancing for Large-Scale Storage Systems with Distributed Caching.",
+                    "GearDB: A GC-free Key-Value Store on HM-SMR Drives with Gear Compaction.",
+                    "SPEICHER: Securing LSM-based Key-Value Stores using Shielded Execution.",
+                    "SLM-DB: Single-Level Key-Value Store with Persistent Memory.",
+                    "Ziggurat: A Tiered File System for Non-Volatile Main Memories and Disks.",
+                    "Orion: A Distributed File System for Non-Volatile Main Memory and RDMA-Capable Networks.",
+                    "INSTalytics: Cluster Filesystem Co-design for Big-data Analytics.",
+                    "GraphOne: A Data Store for Real-time Analytics on Evolving Graphs.",
+                    "Automatic, Application-Aware I/O Forwarding Resource Allocation.",
+                    "Design Tradeoffs for SSD Reliability.",
+                    "Fully Automatic Stream Management for Multi-Streamed SSDs Using Program Contexts.",
+                    "Large-Scale Graph Processing on Emerging Storage Devices.",
+                    "Fast Erasure Coding for Data Storage: A Comprehensive Study of the Acceleration Techniques.",
+                    "OpenEC: Toward Unified and Configurable Erasure Coding Management in Distributed Storage Systems.",
+                    "Cluster storage systems gotta have HeART: improving storage efficiency by exploiting disk-reliability heterogeneity.",
+                    "ScaleCheck: A Single-Machine Approach for Discovering Scalability Bugs in Large Distributed Systems."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "16th FAST 2018",
+        "info": "Oakland, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/fast/2018",
+                "sub_name": "16th USENIX Conference on File and Storage Technologies, FAST 2018, Oakland, CA, USA, February 12-15, 2018.",
+                "count": 23,
+                "papers": [
+                    "Fail-Slow at Scale: Evidence of Hardware Performance Faults in Large Production Systems.",
+                    "Protocol-Aware Recovery for Consensus-Based Storage.",
+                    "WAFL Iron: Repairing Live Enterprise File Systems.",
+                    "MQSim: A Framework for Enabling Realistic Studies of Modern Multi-Queue SSD Devices.",
+                    "PEN: Design and Evaluation of Partial-Erase for 3D NAND-Based High Density SSDs.",
+                    "The CASE of FEMU: Cheap, Accurate, Scalable and Extensible Flash Emulator.",
+                    "Spiffy: Enabling File-System Aware Storage Applications.",
+                    "Towards Robust File System Checkers.",
+                    "The Full Path to Full-Path Indexing.",
+                    "Clay Codes: Moulding MDS Codes to Yield an MSR Code.",
+                    "Towards Web-based Delta Synchronization for Cloud Storage Services.",
+                    "Stash in a Flash.",
+                    "Endurable Transient Inconsistency in Byte-Addressable Persistent B+-Tree.",
+                    "RFLUSH: Rethink the Flush.",
+                    "Barrier-Enabled IO Stack for Flash Storage.",
+                    "High-Performance Transaction Processing in Journaling File Systems.",
+                    "Designing a True Direct-Access File System with DevFS.",
+                    "FStream: Managing Flash Streams in the File System.",
+                    "Improving Docker Registry Design Based on Production Workload Analysis.",
+                    "RAID+: Deterministic and Balanced Data Distribution for Large Disk Enclosures.",
+                    "Logical Synchronous Replication in the Tintri VMstore File System.",
+                    "ALACC: Accelerating Restore Performance of Data Deduplication Systems Using Adaptive Look-Ahead Window Assisted Chunk Caching.",
+                    "UKSM: Swift Memory Deduplication via Hierarchical and Adaptive Memory Region Distilling."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "15th FAST 2017",
+        "info": "Santa Clara, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/fast/2017",
+                "sub_name": "15th USENIX Conference on File and Storage Technologies, FAST 2017, Santa Clara, CA, USA, February 27 - March 2, 2017.",
+                "count": 28,
+                "papers": [
+                    "Memory-Driven Computing.",
+                    "Algorithms and Data Structures for Efficient Free Space Reclamation in WAFL.",
+                    "Tiny-Tail Flash: Near-Perfect Elimination of Garbage Collection Tail Latencies in NAND SSDs.",
+                    "The Logic of Physical Garbage Collection in Deduplicating Storage.",
+                    "File Systems Fated for Senescence? Nonsense, Says Science!",
+                    "To FUSE or Not to FUSE: Performance of User-Space File Systems.",
+                    "Knockoff: Cheap Versions in the Cloud.",
+                    "HopsFS: Scaling Hierarchical File System Metadata Using NewSQL Databases.",
+                    "Evolving Ext4 for Shingled Disks.",
+                    "SMaRT: An Approach to Shingled Magnetic Recording Translation.",
+                    "Facilitating Magnetic Recording Technology Scaling for Data Center Hard Disk Drives through Filesystem-Level Transparent Local Erasure Coding.",
+                    "Redundancy Does Not Imply Fault Tolerance: Analysis of Distributed Storage Reactions to Single Errors and Corruptions.",
+                    "Omid, Reloaded: Scalable and Highly-Available Transaction Processing.",
+                    "Application Crash Consistency and Performance with CCFS.",
+                    "High Performance Metadata Integrity Protection in the WAFL Copy-on-Write File System.",
+                    "Mirador: An Active Control Plane for Datacenter Storage.",
+                    "Chronix: Long Term Storage and Retrieval Technology for Anomaly Detection in Operational Data.",
+                    "Crystal: Software-Defined Storage for Multi-Tenant Object Stores.",
+                    "WORT: Write Optimal Radix Tree for Persistent Memory Storage Systems.",
+                    "SHRD: Improving Spatial Locality in Flash Storage Accesses by Sequentializing in Host and Randomizing in Device.",
+                    "Graphene: Fine-Grained IO Management for Graph Computing.",
+                    "vNFS: Maximizing NFS Performance with Compounds and Vectorized I/O.",
+                    "On the Accuracy and Scalability of Intensive I/O Workload Replay.",
+                    "On the Performance Variation in Modern Storage Stacks.",
+                    "Enlightening the I/O Path: A Holistic Approach for Application Performance.",
+                    "LightNVM: The Linux Open-Channel SSD Subsystem.",
+                    "FlashBlox: Achieving Both Performance Isolation and Uniform Lifetime for Virtualized SSDs.",
+                    "DIDACache: A Deep Integration of Device and Application for Flash Based Key-Value Caching."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "14th FAST 2016",
+        "info": "Santa Clara, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/fast/2016",
+                "sub_name": "14th USENIX Conference on File and Storage Technologies, FAST 2016, Santa Clara, CA, USA, February 22-25, 2016.",
+                "count": 27,
+                "papers": [
+                    "Optimizing Every Operation in a Write-optimized File System.",
+                    "The Composite-file File System: Decoupling the One-to-One Mapping of Files and Metadata for Better Performance.",
+                    "Isotope: Transactional Isolation for Block Storage.",
+                    "BTrDB: Optimizing Storage System Design for Timeseries Processing.",
+                    "Environmental Conditions and Disk Reliability in Free-cooled Datacenters.",
+                    "Flash Reliability in Production: The Expected and the Unexpected.",
+                    "Opening the Chrysalis: On the Real Repair Performance of MSR Codes.",
+                    "The Devil Is in the Details: Implementing Flash Page Reuse with WOM Codes.",
+                    "Reducing Solid-State Storage Device Write Stress through Opportunistic In-place Delta Compression.",
+                    "Access Characteristic Guided Read and Write Cost Regulation for Performance Improvement on Flash Memory.",
+                    "WiscKey: Separating Keys from Values in SSD-conscious Storage.",
+                    "Towards Accurate and Fast Evaluation of Multi-Stage Log-structured Designs.",
+                    "Efficient and Available In-memory KV-Store with Hybrid Erasure Coding and Replication.",
+                    "Slacker: Fast Distribution with Lazy Docker Containers.",
+                    "sRoute: Treating the Storage Stack Like a Network.",
+                    "Flamingo: Enabling Evolvable HDD-based Near-Line Storage.",
+                    "PCAP: Performance-aware Power Capping for the Disk Drive in the Cloud.",
+                    "Mitigating Sync Amplification for Copy-on-write Virtual Disk.",
+                    "Uncovering Bugs in Distributed Storage Systems during Testing (Not in Production!).",
+                    "The Tail at Store: A Revelation from Millions of Hours of Disk and SSD Deployments.",
+                    "Estimating Unseen Deduplication - from Theory to Practice.",
+                    "OrderMergeDedup: Efficient, Failure-Consistent Deduplication on Flash.",
+                    "CacheDedup: In-line Deduplication for Flash Caching.",
+                    "Using Hints to Improve Inline Block-layer Deduplication.",
+                    "NOVA: A Log-structured File System for Hybrid Volatile/Non-volatile Main Memories.",
+                    "Application-Managed Flash.",
+                    "CloudCache: On-demand Flash Cache Management for Cloud Computing."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "13th FAST 2015",
+        "info": "Santa Clara, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/fast/2015",
+                "sub_name": "Proceedings of the 13th USENIX Conference on File and Storage Technologies, FAST 2015, Santa Clara, CA, USA, February 16-19, 2015.",
+                "count": 28,
+                "papers": [
+                    "CalvinFS: Consistent WAN Replication and Scalable Metadata Management for Distributed File Systems.",
+                    "Analysis of the ECMWF Storage Landscape.",
+                    "Efficient Intra-Operating System Protection Against Harmful DMAs.",
+                    "FlashGraph: Processing Billion-Node Graphs on an Array of Commodity SSDs.",
+                    "Host-side Filesystem Journaling for Durable Shared Storage.",
+                    "LADS: Optimizing Data Transfers Using Layout-Aware Data Scheduling.",
+                    "Having Your Cake and Eating It Too: Jointly Optimal Erasure Codes for I/O, Storage, and Network-bandwidth.",
+                    "Efficient MRC Construction with SHARDS.",
+                    "ANViL: Advanced Virtualization for Modern Non-Volatile Memory Devices.",
+                    "Reducing File System Tail Latencies with Chopper.",
+                    "Skylight-A Window on Shingled Disk Operation.",
+                    "Non-blocking Writes to Files.",
+                    "NV-Tree: Reducing Consistency Cost for NVM-based Single Level Systems.",
+                    "Towards SLO Complying SSDs Through OPS Isolation.",
+                    "Boosting Quasi-Asynchronous I/O for Better Responsiveness in Mobile Devices.",
+                    "Failure-Atomic Updates of Application Data in a Linux File System.",
+                    "A Tale of Two Erasure Codes in HDFS.",
+                    "How Much Can Data Compressibility Help to Improve NAND Flash Memory Lifetime?",
+                    "RAIDShield: Characterizing, Monitoring, and Proactively Protecting Against Disk Failures.",
+                    "Write Once, Get 50% Free: Saving SSD Erase Costs Using WOM Codes.",
+                    "F2FS: A New File System for Flash Storage.",
+                    "A Practical Implementation of Clustered Fault Tolerant Write Acceleration in a Virtualized Environment.",
+                    "BetrFS: A Right-Optimized Write-Optimized File System.",
+                    "SDGen: Mimicking Datasets for Content Generation in Storage Benchmarks.",
+                    "Design Tradeoffs for Data Deduplication Performance in Backup Workloads.",
+                    "Chronicle: Capture and Analysis of NFS Workloads at Line Rate.",
+                    "Reliable, Consistent, and Efficient Data Sync for Mobile Apps.",
+                    "RIPQ: Advanced Photo Caching on Flash for Facebook."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "12th FAST 2014",
+        "info": "Santa Clara, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/fast/2014",
+                "sub_name": "Proceedings of the 12th USENIX conference on File and Storage Technologies, FAST 2014, Santa Clara, CA, USA, February 17-20, 2014.",
+                "count": 24,
+                "papers": [
+                    "Log-structured memory for DRAM-based storage.",
+                    "Strata: scalable high-performance storage on virtualized non-volatile memory.",
+                    "Evaluating phase change memory for enterprise storage systems: a study of caching and tiering approaches.",
+                    "Wear unleveling: improving NAND flash lifetime by balancing page endurance.",
+                    "Lifetime improvement of NAND flash-based storage systems using dynamic program and erase scaling.",
+                    "ReconFS: a reconstructable file system on flash storage.",
+                    "Toward strong, usable access control for shared distributed data.",
+                    "On the energy overhead of mobile storage systems.",
+                    "ViewBox: integrating local file systems with cloud storage services.",
+                    "CRAID: online RAID upgrades using dynamic hot data reorganization.",
+                    "STAIR codes: a general family of erasure codes for tolerating device and sector failures in practical storage systems.",
+                    "Parity logging with reserved space: towards efficient updates and recovery in erasure-coded clustered storage.",
+                    "(Big)data in a virtualized world: volume, velocity, and variety in cloud datacenters.",
+                    "From research to practice: experiences engineering a production metadata database for a scale out file system.",
+                    "Analysis of HDFS under HBase: a facebook messages case study.",
+                    "Automatic identification of application I/O signatures from noisy server-side traces.",
+                    "Balancing fairness and efficiency in tiered storage systems with bottleneck-aware allocation.",
+                    "SpringFS: bridging agility and performance in elastic distributed storage.",
+                    "Migratory compression: coarse-grained data reordering to improve compressibility.",
+                    "Resolving journaling of journal anomaly in android I/O: multi-version B-tree with lazy split.",
+                    "Journaling of journal is (almost) free.",
+                    "Checking the integrity of transactional mechanisms.",
+                    "DC express: shortest latency protocol for reading phase change memory over PCI express.",
+                    "MultiLanes: providing virtualized storage for OS-level virtualization on many cores."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "11th FAST 2013",
+        "info": "San Jose, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/fast/2013",
+                "sub_name": "Proceedings of the 11th USENIX conference on File and Storage Technologies, FAST 2013, San Jose, CA, USA, February 12-15, 2013.",
+                "count": 24,
+                "papers": [
+                    "Ffsck: the fast file system checker.",
+                    "Building workload-independent storage with VT-trees.",
+                    "A study of Linux file system evolution.",
+                    "Write policies for host-side flash caches.",
+                    "Warming up storage-level caches with bonfire.",
+                    "Unioning of the buffer cache and journaling layers with non-volatile memory.",
+                    "Memory efficient sanitization of a deduplicated storage system.",
+                    "SD codes: erasure codes designed for how storage systems really fail.",
+                    "HARDFS: hardening HDFS with selective and lightweight versioning.",
+                    "Active flash: towards energy-efficient, in-situ data analytics on extreme-scale machines.",
+                    "MixApart: decoupled analytics for shared storage systems.",
+                    "Horus: fine-grained encryption-based security for large-scale storage.",
+                    "Concurrent deletion in a distributed content-addressable storage system with global deduplication.",
+                    "File recipe compression in data deduplication systems.",
+                    "Improving restore speed for backup systems that use inline chunk-based deduplication.",
+                    "Shroud: ensuring private access to large-scale data in the data center.",
+                    "Getting real: lessons in transitioning research simulations into hardware systems.",
+                    "To Zip or not to Zip: effective resource usage for real-time compression.",
+                    "LDPC-in-SSD: making advanced error correction codes work effectively in solid state drives.",
+                    "Extending the lifetime of flash-based storage through reducing write amplification from file systems.",
+                    "Understanding the robustness of SSDS under power fault.",
+                    "Gecko: contention-oblivious disk arrays for cloud storage.",
+                    "Screaming fast Galois field arithmetic using intel SIMD instructions.",
+                    "Virtual machine workloads: the case for new benchmarks for NAS."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "10th FAST 2012",
+        "info": "San Jose, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/fast/2012",
+                "sub_name": "Proceedings of the 10th USENIX conference on File and Storage Technologies, FAST 2012, San Jose, CA, USA, February 14-17, 2012.",
+                "count": 26,
+                "papers": [
+                    "De-indirection for flash-based SSDs with nameless writes.",
+                    "The bleak future of NAND flash memory.",
+                    "When poll is better than interrupt.",
+                    "Characteristics of backup workloads in production systems.",
+                    "WAN optimized replication of backup datasets using stream-informed delta compression.",
+                    "Power consumption in enterprise-scale backup storage systems.",
+                    "Recon: verifying file system consistency at runtime.",
+                    "Understanding performance implications of nested file systems in a virtualized environment.",
+                    "Consistency without ordering.",
+                    "Reducing SSD read latency via NAND flash program and erase suspension.",
+                    "Optimizing NAND flash-based SSDs via retention relaxation.",
+                    "SFS: random write considered harmful in solid state drives.",
+                    "FIOS: a fair, efficient flash I/O scheduler.",
+                    "Shredder: GPU-accelerated incremental storage and computation.",
+                    "Adding advanced storage controller functionality via low-overhead virtualization.",
+                    "ZZFS: a hybrid device and cloud file system for spontaneous users.",
+                    "Revisiting storage for smartphones.",
+                    "Serving large-scale batch computed data with project Voldemort.",
+                    "BlueSky: a cloud-backed file system for the enterprise.",
+                    "Rethinking erasure codes for cloud file systems: minimizing I/O for recovery and degraded reads.",
+                    "NCCloud: applying network coding for the storage repair in a cloud-of-clouds.",
+                    "Extracting flexible, replayable models from large block traces.",
+                    "scc: cluster storage provisioning informed by application characteristics and SLAs.",
+                    "iDedup: latency-aware, inline data deduplication for primary storage.",
+                    "Caching less for better performance: balancing cache size and update cost of flash memory cache in hybrid storage systems.",
+                    "Lifetime management of flash-based SSDs using recovery-aware dynamic throttling."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "9th FAST 2011",
+        "info": "San Jose, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/fast/2011",
+                "sub_name": "9th USENIX Conference on File and Storage Technologies, San Jose, CA, USA, February 15-17, 2011.",
+                "count": 20,
+                "papers": [
+                    "A Study of Practical Deduplication.",
+                    "Tradeoffs in Scalable Data Routing for Deduplication Clusters.",
+                    "Capo: Recapitulating Storage for Virtual Desktops.",
+                    "Exploiting Half-Wits: Smarter Storage for Low-Power Devices.",
+                    "Consistent and Durable Data Structures for Non-Volatile Byte-Addressable Memory.",
+                    "CAFTL: A Content-Aware Flash Translation Layer Enhancing the Lifespan of Flash Memory based Solid State Drives.",
+                    "Leveraging Value Locality in Optimizing NAND Flash-based SSDs.",
+                    "Reliably Erasing Data from Flash-Based Solid State Drives.",
+                    "A Scheduling Framework That Makes Any Disk Schedulers Non-Work-Conserving Solely Based on Request Characteristics.",
+                    "Improving Throughput for Small Disk Requests with Proximal I/O.",
+                    "FastScale: Accelerate RAID Scaling by Minimizing Data Migration.",
+                    "The SCADS Director: Scaling a Distributed Storage System Under Stringent Performance Requirements.",
+                    "Scale and Concurrency of GIGA+: File System Directories with Millions of Files.",
+                    "AONT-RS: Blending Security and Performance in Dispersed Storage Systems.",
+                    "Emulating Goliath Storage Systems with David.",
+                    "Just-in-Time Analytics on Large File Systems.",
+                    "Making the Common Case the Only Case with Anticipatory Memory Allocation.",
+                    "Exploiting Memory Device Wear-Out Dynamics to Improve NAND Flash Memory System Performance.",
+                    "FAST: Quick Application Launch on Solid-State Drives.",
+                    "Cost Effective Storage using Extent Based Dynamic Tiering."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "8th FAST 2010",
+        "info": "San Jose, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/fast/2010",
+                "sub_name": "8th USENIX Conference on File and Storage Technologies, San Jose, CA, USA, February 23-26, 2010.",
+                "count": 21,
+                "papers": [
+                    "quFiles: The Right File at the Right Time.",
+                    "Tracking Back References in a Write-Anywhere File System.",
+                    "End-to-end Data Integrity for File Systems: A ZFS Case Study.",
+                    "Black-Box Problem Diagnosis in Parallel File Systems.",
+                    "A Clean-Slate Look at Disk Scrubbing.",
+                    "Understanding Latent Sector Errors and How to Protect Against Them.",
+                    "DFS: A File System for Virtualized Flash Storage.",
+                    "Extending SSD Lifetimes with Disk-Based Write Caches.",
+                    "Write Endurance in Flash Drives: Measurements and Analysis.",
+                    "Accelerating Parallel Analysis of Scientific Simulation Data via Zazen.",
+                    "Efficient Object Storage Journaling in a Distributed Parallel File System.",
+                    "Panache: A Parallel File System Cache for Global File Access.",
+                    "BASIL: Automated IO Load Balancing Across Storage Devices.",
+                    "Discovery of Application Workloads from Network File Traces.",
+                    "Provenance for the Cloud.",
+                    "I/O Deduplication: Utilizing Content Similarity to Improve I/O Performance.",
+                    "HydraFS: A High-Throughput File System for the HYDRAstor Content-Addressable Storage System.",
+                    "Bimodal Content Defined Chunking for Backup Streams.",
+                    "Evaluating Performance and Energy in File System Server Workloads.",
+                    "SRCMap: Energy Proportional Storage Using Dynamic Consolidation.",
+                    "Membrane: Operating System Support for Restartable File Systems."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/tapp/2010",
+                "sub_name": "2nd Workshop on the Theory and Practice of Provenance, TaPP'10, San Jose, CA, USA, February 22, 2010.",
+                "count": 11,
+                "papers": [
+                    "A Graph Model of Data and Workflow Provenance.",
+                    "A Conceptual Model and Predicate Language for Data Selection and Projection Based on Provenance.",
+                    "On the Use of Abstract Workflows to Capture Scientific Process Provenance.",
+                    "Provenance-based Belief.",
+                    "Panda: A System for Provenance and Data.",
+                    "Towards Practical Incremental Recomputation for Scientists: An Implementation for the Python Language.",
+                    "Using Provenance to Extract Semantic File Attributes.",
+                    "Trusted Computing and Provenance: Better Together.",
+                    "Towards a Secure and Efficient System for End-to-End Provenance.",
+                    "Towards Query Interoperability: PASSing PLUS.",
+                    "Provenance Artifact Identification in the Atmospheric Composition Processing System (ACPS)."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/fast/2010sustainit",
+                "sub_name": "First USENIX Workshop on Sustainable Information Technology, SustainIT'10, San Jose, CA, USA, February 22, 2010.",
+                "count": 6,
+                "papers": [
+                    "Effects of Data Center Vibration on Compute System Performance.",
+                    "CFD-Based Operational Thermal Efficiency Improvement of a Production Data Center.",
+                    "Power-aware Proactive Storage-tiering Management for High-speed Tiered-storage Systems.",
+                    "Towards Energy Proportional Cloud for Data Processing Frameworks.",
+                    "Estimating Environmental Costs.",
+                    "The Green Switch: Designing for Sustainability in Mobile Computing."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "7th FAST 2009",
+        "info": "San Francisco, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/fast/2009",
+                "sub_name": "7th USENIX Conference on File and Storage Technologies, February 24-27, 2009, San Francisco, CA, USA. Proceedings.",
+                "count": 23,
+                "papers": [
+                    "The Case of the Fake Picasso: Preventing History Forgery with Secure Provenance.",
+                    "Causality-Based Versioning.",
+                    "Enabling Transactional File Access via Lightweight Kernel Extensions.",
+                    "Understanding Customer Problem Troubleshooting from Storage System Logs.",
+                    "DIADS: Addressing the \"My-Problem-or-Yours\" Syndrome with Integrated SAN and Database Diagnosis.",
+                    "Dynamic Resource Allocation for Database Servers Running on Virtual Storage.",
+                    "PARDA: Proportional Allocation of Resources for Distributed Storage Access.",
+                    "CA-NFS: A Congestion-Aware Network File System.",
+                    "Sparse Indexing: Large Scale, Inline Deduplication Using Sampling and Locality.",
+                    "Generating Realistic Impressions for File-System Benchmarking.",
+                    "Capture, Conversion, and Analysis of an Intense NFS Workload.",
+                    "Spyglass: Fast, Scalable Metadata Search for Large-Scale Storage Systems.",
+                    "Perspective: Semantic Data Management for the Home.",
+                    "BORG: Block-reORGanization for Self-optimizing Storage Systems.",
+                    "HYDRAstor: A Scalable Secondary Storage.",
+                    "Smoke and Mirrors: Reflecting Files at a Geographically Remote Location Without Loss of Performance.",
+                    "Cumulus: Filesystem Backup to the Cloud.",
+                    "WorkOut: I/O Workload Outsourcing for Boosting RAID Reconstruction Performance.",
+                    "A Performance Evaluation and Examination of Open-Source Erasure Coding Libraries for Storage.",
+                    "Tiered Fault Tolerance for Long-Term Integrity.",
+                    "A Systematic Approach to System State Restoration during Storage Controller Micro-Recovery.",
+                    "CLIC: CLient-Informed Caching for Storage Servers.",
+                    "Minuet: Rethinking Concurrency Control in Storage Area Networks."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/fast/2009tapp",
+                "sub_name": "First Workshop on the Theory and Practice of Provenance, TaPP'09, San Francisco, CA, USA, February 23, 2009, Proceedings.",
+                "count": 13,
+                "papers": [
+                    "A Formal Model of Provenance in Distributed Systems.",
+                    "Towards Semantics for Provenance Security.",
+                    "Scalable Access Controls for Lineage.",
+                    "On Explicit Provenance Management in RDF/S Graphs.",
+                    "Application of Named Graphs Towards Custom Provenance Views.",
+                    "Authenticity and Provenance in Long Term Digital Preservation: Modeling and Implementation in Preservation Aware Storage.",
+                    "Steps Toward Managing Lineage Metadata in Grid Clusters.",
+                    "A Framework for Fine-grained Data Integration and Curation, with Provenance, in a Dataspace.",
+                    "The Case for Browser Provenance.",
+                    "Provenance as Data Mining: Combining File System Metadata with Content Analysis.",
+                    "Story Book: An Efficient Extensible Provenance Framework.",
+                    "Making a Cloud Provenance-Aware.",
+                    "Transparently Gathering Provenance with Provenance Aware Condor."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "6th FAST 2008",
+        "info": "San Jose, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/fast/2008",
+                "sub_name": "6th USENIX Conference on File and Storage Technologies, FAST 2008, February 26-29, 2008, San Jose, CA, USA.",
+                "count": 21,
+                "papers": [
+                    "Pergamum: Replacing Tape with Energy Efficient, Reliable, Disk-Based Archival Storage.",
+                    "Scalable Performance of the Panasas Parallel File System.",
+                    "TierStore: A Distributed Filesystem for Challenged Networks in Developing Regions.",
+                    "On Multi-level Exclusive Caching: Offline Optimality and Why Promotions Are Better Than Demotions.",
+                    "AWOL: An Adaptive Write Optimizations Layer.",
+                    "TaP: Table-based Prefetching for Storage Caches.",
+                    "The RAID-6 Liberation Codes.",
+                    "Are Disks the Dominant Contributor for Storage Failures? A Comprehensive Study of Storage Subsystem Failure Characteristics.",
+                    "Parity Lost and Parity Regained.",
+                    "Enhancing Storage System Availability on Multi-Core Architectures with Recovery-Conscious Scheduling.",
+                    "Improving I/O Performance of Applications through Compiler-Directed Code Restructuring.",
+                    "Measurement and Analysis of TCP Throughput Collapse in Cluster-based Storage Systems.",
+                    "Portably Solving File TOCTTOU Races with Hardness Amplification.",
+                    "EIO: Error Handling is Occasionally Correct.",
+                    "An Analysis of Data Corruption in the Storage Stack.",
+                    "BPLRU: A Buffer Management Scheme for Improving Random Writes in Flash Storage.",
+                    "Write Off-Loading: Practical Power Management for Enterprise Storage.",
+                    "Avoiding the Disk Bottleneck in the Data Domain Deduplication File System.",
+                    "Towards Tamper-evident Storage on Patterned Media.",
+                    "SWEEPER: An Efficient Disaster Recovery Point Identification Mechanism.",
+                    "Using Utility to Provision Storage Systems."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "5th FAST 2007",
+        "info": "San Jose, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/fast/2007",
+                "sub_name": "5th USENIX Conference on File and Storage Technologies, FAST 2007, February 13-16, 2007, San Jose, CA, USA.",
+                "count": 21,
+                "papers": [
+                    "A System's Hackers Crash Course: Techniques that Find Lots of Bugs in Real (Storage) System Code.",
+                    "Disk Failures in the Real World: What Does an MTTF of 1, 000, 000 Hours Mean to You?",
+                    "Failure Trends in a Large Disk Drive Population.",
+                    "A Five-Year Study of File-System Metadata.",
+                    "Proportional-Share Scheduling for Distributed Storage Systems.",
+                    "Argon: Performance Insulation for Shared Storage Servers.",
+                    "Strong Accountability for Network Storage.",
+                    "Trends in Managing Data at the Petabyte Scale.",
+                    "Design and Implementation of Verifiable Audit Trails for a Versioning File System.",
+                    "Architectures for Controller Based CDP.",
+                    "Jumbo Store: Providing Efficient Incremental Upload and Versioning for a Utility Rendering Service.",
+                    "Data ONTAP GX: A Scalable Storage Cluster.",
+                    "//TRACE: Parallel Trace Replay with Approximate Causal Events.",
+                    "Karma: Know-It-All Replacement for a Multilevel Cache.",
+                    "AMP: Adaptive Multi-stream Prefetching in a Shared Cache.",
+                    "Nache: Design and Implementation of a Caching Proxy for NFSv4.",
+                    "TFS: A Transparent File System for Contributory Storage.",
+                    "Cobalt: Separating Content Distribution from Authorization in Distributed File Systems.",
+                    "PARAID: A Gear-Shifting Power-Aware RAID.",
+                    "REO: A Generic RAID Engine and Optimizer.",
+                    "PRO: A Popularity-based Multi-threaded Reconstruction Optimization for RAID-Structured Storage Systems."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/fast/2007lsf",
+                "sub_name": "2007 Linux Storage & Filesystem Workshop, LSF 2007, San Jose, CA, USA, February 12-13, 2007.",
+                "count": 12,
+                "papers": [
+                    "pNFS Over OSD.",
+                    "Object Storage and Applications.",
+                    "DualFS: A New Journaling File System for Linux.",
+                    "T10 Data Integrity Feature (Logical Block Guarding).",
+                    "Changes to Storage Standards.",
+                    "NFS topics in Linux.",
+                    "Modifications to the Storage Stack to Better Support tgt, sg, st and bsg.",
+                    "B-trees, Shadowing, and Clones.",
+                    "Reinitialization of Devices After a Soft-Reboot.",
+                    "Libata: Past, Present, and Future.",
+                    "Ext4: The Next Generation of Ext2/3 Filesystem.",
+                    "Storage & FS Challenges."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "4th FAST 2005",
+        "info": "San Francisco, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/fast/2005",
+                "sub_name": "Proceedings of the FAST '05 Conference on File and Storage Technologies, December 13-16, 2005, San Francisco, California, USA.",
+                "count": 26,
+                "papers": [
+                    "Greetings from a Filesystem User.",
+                    "A Logic of File Systems.",
+                    "Providing Tunable Consistency for a Parallel File Store.",
+                    "MicroHash: An Efficient Index Structure for Flash-Based Sensor Devices.",
+                    "Adaptive Data Placement for Wide-Area Sensing Services.",
+                    "Ursa Minor: Versatile Cluster-based Storage.",
+                    "Zodiac: Efficient Impact Analysis for Storage Area Networks.",
+                    "Journal-guided Resynchronization for Software RAID.",
+                    "DULO: An Effective Buffer Cache Management Scheme to Exploit Both Temporal and Spatial Localities.",
+                    "Second-Tier Cache Management Using Write Hints.",
+                    "WOW: Wise Ordering for Writes - Combining Spatial and Temporal Locality in Non-Volatile Caches.",
+                    "Secure Deletion for a Versioning File System.",
+                    "TOCTTOU Vulnerabilities in UNIX-Style File Systems: An Anatomical Study.",
+                    "A Security Model for Full-Text File System Search in Multi-User Environments.",
+                    "Matrix Methods for Lost Data Reconstruction in Erasure Codes.",
+                    "STAR: An Efficient Coding Scheme for Correcting Triple Storage Node Failures.",
+                    "WEAVER Codes: Highly Fault Tolerant Erasure Codes for Storage Systems.",
+                    "On Multidimensional Data and Modern Disks.",
+                    "Database-Aware Semantically-Smart Storage.",
+                    "Managing Prefetch Memory for Data-Intensive Online Servers.",
+                    "A Scalable and High Performance Software iSCSI Implementation.",
+                    "TAPER: Tiered Approach for Eliminating Redundancy in Replica Synchronization.",
+                    "VXA: A Virtual Architecture for Durable Compressed Archives.",
+                    "I/O System Performance Debugging Using Model-driven Anomaly Characterization.",
+                    "TBBT: Scalable and Accurate Trace Replay for File Server Evaluation.",
+                    "Accurate and Efficient Replaying of File System Traces."
+                ]
+            },
+            {
+                "sub_name_abbr": "conf/fast/2005worlds",
+                "sub_name": "Second USENIX Workshop on Real, Large Distributed Systems, WORLDS'05, San Francisco, CA, USA, December 13, 2005.",
+                "count": 12,
+                "papers": [
+                    "Non-Transitive Connectivity and DHTs.",
+                    "Why It Is Hard to Build a Long-Running Service on PlanetLab.",
+                    "Using PlanetLab for Network Research: Myths, Realities, and Best Practices.",
+                    "The Julia Content Distribution Network.",
+                    "Detecting Performance Anomalies in Global Applications.",
+                    "Bridging Local and Wide Area Networks for Overlay Distributed File Systems.",
+                    "Supporting Network Coordinates on PlanetLab.",
+                    "Fixing the Embarrassing Slowness of OpenDHT on PlanetLab.",
+                    "(Re)Design Considerations for Scalable Large-File Content Distribution.",
+                    "Experience with Some Principles for Building an Internet-Scale Reliable System.",
+                    "Deploying Virtual Machines as Sandboxes for the Grid.",
+                    "MON: On-Demand Overlays for Distributed System Management."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "3rd FAST 2004",
+        "info": "San Francisco, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/fast/2004",
+                "sub_name": "Proceedings of the FAST '04 Conference on File and Storage Technologies, March 31 - April 2, 2004, Grand Hyatt Hotel, San Francisco, California, USA.",
+                "count": 19,
+                "papers": [
+                    "Row-Diagonal Parity for Double Disk Failure Correction (Awarded Best Paper!).",
+                    "Improving Storage System Availability with D-GRAID (Awarded Best Student Paper!).",
+                    "Polus: Growing Storage QoS Management Beyond a \"4-Year Old Kid\".",
+                    "Buttress: A Toolkit for Flexible and High Fidelity I/O Benchmarking.",
+                    "Designing for Disasters.",
+                    "Scaling File Service Up and Out.",
+                    "Diamond: A Storage Architecture for Early Discard in Interactive Search.",
+                    "MEMS-based Storage Devices and Standard Disk Interfaces: A Square Peg in a Round Hole?",
+                    "A Performance Comparison of NFS and iSCSI for IP-Networked Storage.",
+                    "A Versatile and User-Oriented Versioning File System.",
+                    "Tracefs: A File System to Trace Them All.",
+                    "HyLog: A High Performance Approach to Managing Disk Layout.",
+                    "Atropos: A Disk Array Volume Manager for Orchestrated Use of Disks.",
+                    "C-Miner: Mining Block Correlations in Storage Systems.",
+                    "CAR: Clock with Adaptive Replacement.",
+                    "Circus: Opportunistic Block Reordering for Scalable Content Servers.",
+                    "A Framework for Building Unobtrusive Disk Maintenance Applications (Awarded Best Student Paper!).",
+                    "Integrating Portable and Distributed Storage.",
+                    "Segank: A Distributed Mobile Storage System."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "name": "2nd FAST 2003",
+        "info": "San Francisco, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/fast/2003",
+                "sub_name": "Proceedings of the FAST '03 Conference on File and Storage Technologies, March 31 - April 2, 2003, Cathedral Hill Hotel, San Francisco, California, USA.",
+                "count": 20,
+                "papers": [
+                    "Data Services - From Data to Containers.",
+                    "Pond: The OceanStore Prototype.",
+                    "Data Staging on Untrusted Surrogates.",
+                    "Plutus: Scalable Secure File Sharing on Untrusted Storage.",
+                    "Metadata Efficiency in Versioning File Systems.",
+                    "yFS: A Journaling File System Design for Handling Large Data Sets with Reduced Seeking.",
+                    "Semantically-Smart Disk Systems.",
+                    "Petabytes and Beyond.",
+                    "Using MEMS-Based Storage in Disk Arrays.",
+                    "Optimizing Probe-Based Storage.",
+                    "ARC: A Self-Tuning, Low Overhead Replacement Cache.",
+                    "Fa\u00e7ade: Virtual Storage Devices with Performance Guarantees.",
+                    "Design and Implementation of Semi-preemptible IO.",
+                    "Block-Level Security for Network-Attached Disks.",
+                    "The Direct Access File System.",
+                    "Making the Most Out of Direct-Access Network Attached Storage.",
+                    "Passive NFS Tracing of Email and Research Workloads.",
+                    "Modeling Hard-Disk Power Consumption.",
+                    "Storage Over IP: When Does Hardware Support Help?",
+                    "More Than an Interface - SCSI vs. ATA."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2002",
+        "name": "1st FAST 2002",
+        "info": "Monterey, California, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/fast/2002",
+                "sub_name": "Proceedings of the FAST '02 Conference on File and Storage Technologies, January 28-30, 2002, Monterey, California, USA.",
+                "count": 21,
+                "papers": [
+                    "Strong Security for Network-Attached Storage.",
+                    "A Framework for Evaluating Storage System Security.",
+                    "Enabling the Archival Storage of Signed Documents.",
+                    "WOLF - A Novel Reordering Write Buffer to Boost the Performance of Log-Structured File Systems.",
+                    "Storage-Aware Caching: Revisiting Caching for Heterogeneous Storage Systems.",
+                    "Timing-Accurate Storage Emulation.",
+                    "Venti: A New Approach to Archival Storage.",
+                    "Myriad: Cost-Effective Disaster Tolerance.",
+                    "SnapMirror: File-System-Based Asynchronous Mirroring for Disaster Recovery.",
+                    "Safety, Visibility, and Performance in a Wide-Area File System.",
+                    "Obtaining High Performance for Storage Outsourcing.",
+                    "PersonalRAID: Mobile Storage for Distributed and Disconnected Computers.",
+                    "Hippodrome: Running Circles Around Storage Administration.",
+                    "Selecting RAID Levels for Disk Arrays.",
+                    "Appia: Automatic Storage Area Network Fabric Design.",
+                    "Aqueduct: Online Data Migration with Performance Guarantees.",
+                    "GPFS: A Shared-Disk File System for Large Computing Clusters.",
+                    "Exploiting Inter-File Access Patterns Using Multi-Collective I/O.",
+                    "Track-Aligned Extents: Matching Access Patterns to Disk Drive Characteristics.",
+                    "Freeblock Scheduling Outside of Disk Firmware.",
+                    "Configuring and Scheduling an Eager-Writing Disk Array for a Transaction Processing Workload."
+                ]
+            }
+        ]
+    }
+]

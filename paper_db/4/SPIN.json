@@ -1,0 +1,761 @@
+[
+    {
+        "year": "2021",
+        "name": "27th SPIN 2021",
+        "info": "Virtual Event",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/spin/2021",
+                "sub_name": "Model Checking Software - 27th International Symposium, SPIN 2021, Virtual Event, July 12, 2021, Proceedings.",
+                "count": 10,
+                "papers": [
+                    "The Marriage Between Safety and Cybersecurity: Still Practicing.",
+                    "A Hands-On Introduction to Spatial Model Checking Using VoxLogicA - - Invited Contribution.",
+                    "Accelerating the Computation of Dead and Concurrent Places Using Reductions.",
+                    "Spotlight Abstraction in Model Checking Real-Time Task Schedulability.",
+                    "Verifying Pipeline Implementations in OpenMP.",
+                    "C-SMC: A Hybrid Statistical Model Checking and Concrete Runtime Engine for Analyzing C Programs.",
+                    "PatEC: Pattern-Based Equivalence Checking.",
+                    "Go2Pins: A Framework for the LTL Verification of Go Programs.",
+                    "Probabilistic Model Checking of Randomized Java Code.",
+                    "A Model-Checked I2C Specification."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "name": "26th SPIN 2019",
+        "info": "Beijing, China",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/spin/2019",
+                "sub_name": "Model Checking Software - 26th International Symposium, SPIN 2019, Beijing, China, July 15-16, 2019, Proceedings.",
+                "count": 14,
+                "papers": [
+                    "Model Verification Through Dependency Graphs.",
+                    "Model Checking Branching Time Properties for Incomplete Markov Chains.",
+                    "A Novel Decentralized LTL Monitoring Framework Using Formula Progression Table.",
+                    "From Dynamic State Machines to Promela.",
+                    "String Abstraction for Model Checking of C Programs.",
+                    "Swarm Model Checking on the GPU.",
+                    "Statistical Model Checking of Complex Robotic Systems.",
+                    "STAD: Stack Trace Based Automatic Software Misconfiguration Diagnosis via Value Dependency Graph.",
+                    "Extracting Safe Thread Schedules from Incomplete Model Checking Results.",
+                    "Learning Guided Enumerative Synthesis for Superoptimization.",
+                    "Applying Model Checking Approach with Floating Point Arithmetic for Verification of Air Collision Avoidance Maneuver Hybrid Model.",
+                    "Conformance Testing of Schedulers for DSL-based Model Checking.",
+                    "A Study of Learning Data Structure Invariants Using Off-the-shelf Tools.",
+                    "VeriVANca: An Actor-Based Framework for Formal Verification of Warning Message Dissemination Schemes in VANETs."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "name": "25th SPIN 2018",
+        "info": "Malaga, Spain",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/spin/2018",
+                "sub_name": "Model Checking Software - 25th International Symposium, SPIN 2018, Malaga, Spain, June 20-22, 2018, Proceedings.",
+                "count": 19,
+                "papers": [
+                    "Software Model Checking for Mobile Security - Collusion Detection in \\mathbb K K.",
+                    "Efficient Runtime Verification of First-Order Temporal Properties.",
+                    "Program Verification with Separation Logic.",
+                    "Petri Net Reductions for Counting Markings.",
+                    "Improving Generalization in Software IC3.",
+                    "Star-Topology Decoupling in SPIN.",
+                    "Joint Forces for Memory Safety Checking.",
+                    "Model-Checking HyperLTL for Pushdown Systems.",
+                    "A Branching Time Variant of CaRet.",
+                    "Control Strategies for Off-Line Testing of Timed Systems.",
+                    "An Extension of TRIANGLE Testbed with Model-Based Testing.",
+                    "Local Data Race Freedom with Non-multi-copy Atomicity.",
+                    "A Comparative Study of Decision Diagrams for Real-Time Model Checking.",
+                    "Lazy Reachability Checking for Timed Automata with Discrete Variables.",
+                    "From SysML to Model Checkers via Model Transformation.",
+                    "Genetic Synthesis of Concurrent Code Using Model Checking and Statistical Model Checking.",
+                    "Quantitative Model Checking for a Controller Design.",
+                    "Modelling Without a Modelling Language.",
+                    "Context-Updates Analysis and Refinement in Chisel."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "name": "24th SPIN 2017",
+        "info": "Santa Barbara, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/spin/2017",
+                "sub_name": "Proceedings of the 24th ACM SIGSOFT International SPIN Symposium on Model Checking of Software, Santa Barbara, CA, USA, July 10-14, 2017.",
+                "count": 25,
+                "papers": [
+                    "Cobra: fast structural code checking (keynote).",
+                    "Automated formal reasoning about amazon web services (keynote).",
+                    "SunDew: systematic automated security testing (keynote).",
+                    "The RERS 2017 challenge and workshop (invited paper).",
+                    "Distributed binary decision diagrams for symbolic reachability.",
+                    "Addressing challenges in obtaining high coverage when model checking Android applications.",
+                    "LeeTL: LTL with quantifications over model objects.",
+                    "Explicit state model checking with generalized B\u00fcchi and Rabin automata.",
+                    "Increasing usability of spin-based C code verification using a harness definition language: leveraging model-driven code checking to practitioners.",
+                    "Runtime enforcement using B\u00fcchi games.",
+                    "Runtime enforcement of reactive systems using synchronous enforcers.",
+                    "SIMPAL: a compositional reasoning framework for imperative programs.",
+                    "Verification-driven development of ICAROUS based on automatic reachability analysis: a preliminary case study.",
+                    "Formal verification of data-intensive applications through model checking modulo theories.",
+                    "Practical controller synthesis for MTL0, \u221e.",
+                    "An ordered approach to solving parity games in quasi polynomial time and quasi linear space.",
+                    "A hot method for synthesising cool controllers.",
+                    "Backward coverability with pruning for lossy channel systems.",
+                    "Model learning and model checking of SSH implementations.",
+                    "CARET model checking for malware detection.",
+                    "EdSketch: execution-driven sketching for Java.",
+                    "Stateless model checking of the Linux kernel's hierarchical read-copy-update (tree RCU).",
+                    "Optimizing parallel Korat using invalid ranges.",
+                    "Guided test case generation for mobile apps in the TRIANGLE project: work in progress.",
+                    "ExpoSE: practical symbolic execution of standalone JavaScript."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "name": "23rd SPIN 2016",
+        "info": "Eindhoven, The Netherlands",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/spin/2016",
+                "sub_name": "Model Checking Software - 23rd International Symposium, SPIN 2016, Co-located with ETAPS 2016, Eindhoven, The Netherlands, April 7-8, 2016, Proceedings.",
+                "count": 16,
+                "papers": [
+                    "Automated Analysis of Asynchronously Communicating Systems.",
+                    "Symbolic Game Semantics for Model Checking Program Families.",
+                    "Compositional Semantics and Analysis of Hierarchical Block Diagrams.",
+                    "Using SPIN for the Optimized Scheduling of Discrete Event Systems in Manufacturing.",
+                    "River Basin Management with Spin.",
+                    "ESBMCQtOM: A Bounded Model Checking Tool to Verify Qt Applications.",
+                    "Autonomous Agent Behaviour Modelled in PRISM - A Case Study.",
+                    "Certification for \u03bc-Calculus with Winning Strategies.",
+                    "Real-Time Strategy Synthesis for Timed-Arc Petri Net Games via Discretization.",
+                    "Finite-Horizon Bisimulation Minimisation for Probabilistic Systems.",
+                    "Schedulability Analysis of Distributed Real-Time Sensor Network Applications Using Actor-Based Model Checking.",
+                    "smid: A Black-Box Program Driver.",
+                    "On-the-Fly Model Checking for Extended Action-Based Probabilistic Operators.",
+                    "SymDIVINE: Tool for Control-Explicit Data-Symbolic State Space Exploration.",
+                    "A Tool Integrating Model Checking into a C Verification Toolset.",
+                    "Fair Testing and Stubborn Sets."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "name": "22nd SPIN 2015",
+        "info": "Stellenbosch, South Africa",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/spin/2015",
+                "sub_name": "Model Checking Software - 22nd International Symposium, SPIN 2015, Stellenbosch, South Africa, August 24-26, 2015, Proceedings.",
+                "count": 19,
+                "papers": [
+                    "String Analysis for Vulnerability Detection and Repair.",
+                    "ASTRA: A Tool for Abstract Interpretation of Graph Transformation Systems.",
+                    "Refinement Selection.",
+                    "From Helena Ensemble Specifications to Promela Verification Models.",
+                    "Fast, Dynamically-Sized Concurrent Hash Table.",
+                    "On Refinement of B\u00fcchi Automata for Explicit Model Checking.",
+                    "Practical Stutter-Invariance Checks for \u03c9-Regular Languages.",
+                    "MESS: Memory Performance Debugging on Embedded Multi-core Systems.",
+                    "DSVerifier: A Bounded Model Checking Tool for Digital Systems.",
+                    "Runtime Verification of Expected Energy Consumption in Smartphones.",
+                    "Directed Model Checking for PROMELA with Relaxation-Based Distance Functions.",
+                    "Benchmarking and Resource Measurement.",
+                    "PickLock: A Deadlock Prediction Approach under Nested Locking.",
+                    "Symbolic Causality Checking Using Bounded Model Checking.",
+                    "Model Counting for Complex Data Structures.",
+                    "Parallel SAT-Based Parameterised Three-Valued Model Checking.",
+                    "Comparative Analysis of Leakage Tools on Scalable Case Studies.",
+                    "Family-Based Model Checking Without a Family-Based Model Checker.",
+                    "IC-Cut: A Compositional Search Strategy for Dynamic Test Generation."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "name": "21st SPIN 2014",
+        "info": "San Jose, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/spin/2014",
+                "sub_name": "2014 International Symposium on Model Checking of Software, SPIN 2014, Proceedings, San Jose, CA, USA, July 21-23, 2014.",
+                "count": 20,
+                "papers": [
+                    "Approximating happens-before order: interplay between static analysis and state space traversal.",
+                    "Local state space construction for compositional verification of concurrent systems.",
+                    "Exploiting synchronization in the analysis of shared-memory asynchronous programs.",
+                    "Certification for configurable program analysis.",
+                    "Incremental bounded software model checking.",
+                    "An improvement of the piggyback algorithm for parallel model checking.",
+                    "Satisfiability modulo abstraction for separation logic with linked lists.",
+                    "Is there a best b\u00fcchi automaton for explicit model checking?",
+                    "Generic and efficient attacker models in SPIN.",
+                    "Towards a GPGPU-parallel SPIN model checker.",
+                    "Automatic handling of native methods in Java PathFinder.",
+                    "CTL+FO verification as constraint solving.",
+                    "Quantifying information leaks using reliability analysis.",
+                    "Toward parameterized verification of synchronous distributed applications.",
+                    "Towards a test automation framework for alloy.",
+                    "SpinCause: a tool for causality checking.",
+                    "Verige: verification with invariant generation engine.",
+                    "SpinRCP: the eclipse rich client platform integrated development environment for the spin model checker.",
+                    "TravMC2: higher-order model checking for alternating parity tree automata.",
+                    "Unit testing for SPIN: runspin and parsepan."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "name": "20th SPIN 2013",
+        "info": "Stony Brook, NY, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/spin/2013",
+                "sub_name": "Model Checking Software - 20th International Symposium, SPIN 2013, Stony Brook, NY, USA, July 8-9, 2013. Proceedings.",
+                "count": 22,
+                "papers": [
+                    "Reuse of Verification Results - Conditional Model Checking, Precision Reuse, and Verification Witnesses.",
+                    "Proving Properties of Concurrent Programs - (Extended Abstract).",
+                    "Verifying a Quantitative Relaxation of Linearizability via Refinement.",
+                    "A Map-Reduce Parallel Approach to Automatic Synthesis of Control Software.",
+                    "On-the-Fly Control Software Synthesis.",
+                    "Compositional Approach to Suspension and Other Improvements to LTL Translation.",
+                    "Regression Verification Using Impact Summaries.",
+                    "Abstraction-Based Guided Search for Hybrid Systems.",
+                    "Probabilistic Verification of Coordinated Multi-robot Missions.",
+                    "Synthesizing Controllers for Automation Tasks with Performance Guarantees.",
+                    "Specification and Validation of Link Reversal Routing via Graph Transformations.",
+                    "Local Model Checking of Weighted CTL with Upper-Bound Constraints.",
+                    "COMPLeTe - A COMmunication Protocol vaLidation Toolchain.",
+                    "Towards Modeling and Model Checking Fault-Tolerant Distributed Algorithms.",
+                    "Guard-Based Partial-Order Reduction.",
+                    "On the Synergy of Probabilistic Causality Computation and Causality Checking.",
+                    "Mining Sequential Patterns to Explain Concurrent Counterexamples.",
+                    "Automatic Equivalence Checking of UF+IA Programs.",
+                    "Expression Reduction from Programs in a Symbolic Binary Executor.",
+                    "Model Checking Unbounded Concurrent Lists.",
+                    "Property-Driven Benchmark Generation.",
+                    "Error-Completion in Interface Theories."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "name": "19. SPIN 2012",
+        "info": "Oxford, UK",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/spin/2012",
+                "sub_name": "Model Checking Software - 19th International Workshop, SPIN 2012, Oxford, UK, July 23-24, 2012. Proceedings.",
+                "count": 20,
+                "papers": [
+                    "Beyond First-Order Satisfaction: Fixed Points, Interpolants, Automata and Polynomials.",
+                    "High-Coverage Symbolic Patch Testing.",
+                    "Towards Automatic Synthesis of Software Verification Tools.",
+                    "Mining Models.",
+                    "Counterexample Explanation by Anomaly Detection.",
+                    "Combining the Sweep-Line Method with the Use of an External-Memory Priority Queue.",
+                    "A Compositional Minimization Approach for Large Asynchronous Design Verification.",
+                    "On Parallel Software Verification Using Boolean Equation Systems.",
+                    "Improving GPU Sparse Matrix-Vector Multiplication for Probabilistic Model Checking.",
+                    "Gossiping Girls Are All Alike.",
+                    "Formal Verification of Hierarchically Distributed Agent Based Protection Scheme in Smart Grid.",
+                    "Parallelizing the Spin Model Checker.",
+                    "Parallel Model Checking Using Abstraction.",
+                    "McPatom: A Predictive Analysis Tool for Atomicity Violation Using Model Checking.",
+                    "Parameterized Model Checking of Fine Grained Concurrency.",
+                    "mctau: Bridging the Gap between Modest and UPPAAL.",
+                    "FAuST: A Framework for Formal Verification, Automated Debugging, and Software Test Generation.",
+                    "Model Checking DSL-Generated C Source Code.",
+                    "SMTInterpol: An Interpolating SMT Solver.",
+                    "S2N: Model Transformation from SPIN to NuSMV - (Tool Paper)."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "name": "18. SPIN 2011",
+        "info": "Snowbird, UT, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/spin/2011",
+                "sub_name": "Model Checking Software - 18th International SPIN Workshop, Snowbird, UT, USA, July 14-15, 2011. Proceedings.",
+                "count": 14,
+                "papers": [
+                    "Model Checking Cell Fate Decisions.",
+                    "Property-Dependent Reductions for the Modal Mu-Calculus.",
+                    "String Abstractions for String Verification.",
+                    "Parallel Recursive State Compression for Free.",
+                    "Depth Bounded Explicit-State Model Checking.",
+                    "Randomized Backtracking in State Space Traversal.",
+                    "An Analytic Evaluation of SystemC Encodings in Promela.",
+                    "Building Extensible Specifications and Implementations of Promela with AbleP.",
+                    "Program Sketching via CTL* Model Checking.",
+                    "A Verification-Based Approach to Memory Fence Insertion in Relaxed Memory Systems.",
+                    "Model Checking Industrial Robot Systems.",
+                    "EpiSpin: An Eclipse Plug-In for Promela/Spin Using Spoofax.",
+                    "DiPro - A Tool for Probabilistic Counterexample Generation.",
+                    "dBug: Systematic Testing of Unmodified Distributed and Multi-threaded Systems."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "name": "17. SPIN 2010",
+        "info": "Enschede, The Netherlands",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/spin/2010",
+                "sub_name": "Model Checking Software - 17th International SPIN Workshop, Enschede, The Netherlands, September 27-29, 2010. Proceedings.",
+                "count": 18,
+                "papers": [
+                    "SMT-Based Software Model Checking.",
+                    "Symbolic Object Code Analysis.",
+                    "Experimental Comparison of Concolic and Random Testing for Java Card Applets.",
+                    "Combining SPIN with ns-2 for Protocol Optimization.",
+                    "Automatic Generation of Model Checking Scripts Based on Environment Modeling.",
+                    "Model Checking: Cleared for Take Off.",
+                    "Context-Enhanced Directed Model Checking.",
+                    "Efficient Explicit-State Model Checking on General Purpose Graphics Processors.",
+                    "The SpinJa Model Checker.",
+                    "On the Virtue of Patience: Minimizing B\u00fcchi Automata.",
+                    "Enacting Declarative Languages Using LTL: Avoiding Errors and Improving Performance.",
+                    "Nevertrace Claims for Model Checking.",
+                    "A False History of True Concurrency: From Petri to Tools.",
+                    "Analysing Mu-Calculus Properties of Pushdown Systems.",
+                    "Time-Bounded Reachability in Distributed Input/Output Interactive Probabilistic Chains.",
+                    "An Automata-Based Symbolic Approach for Verifying Programs on Relaxed Memory Models.",
+                    "Context-Bounded Translations for Concurrent Software: An Empirical Evaluation.",
+                    "One Stack to Run Them All - Reducing Concurrent Analysis to Sequential Analysis under Priority Scheduling."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2009",
+        "name": "16. SPIN 2009",
+        "info": "Grenoble, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/spin/2009",
+                "sub_name": "Model Checking Software, 16th International SPIN Workshop, Grenoble, France, June 26-28, 2009. Proceedings.",
+                "count": 22,
+                "papers": [
+                    "Software Model Checking Improving Security of a Billion Computers.",
+                    "On Quantitative Software Verification.",
+                    "The Quest for Correctness-Beyond a Posteriori Verification.",
+                    "Who Really Cares If the Program Crashes?.",
+                    "Tool Presentation: Teaching Concurrency and Model Checking.",
+                    "Fast, All-Purpose State Storage.",
+                    "Efficient Probabilistic Model Checking on General Purpose Graphics Processors.",
+                    "Improving Non-Progress Cycle Checks.",
+                    "Reduction of Verification Conditions for Concurrent System Using Mutually Atomic Transactions.",
+                    "Probabilistic Reachability for Parametric Markov Models.",
+                    "Extrapolation-Based Path Invariants for Abstraction Refinement of Fifo Systems.",
+                    "A Decision Procedure for Detecting Atomicity Violations for Communicating Processes with Locks.",
+                    "Eclipse Plug-In for Spin and st2msc Tools-Tool Presentation.",
+                    "Symbolic Analysis via Semantic Reinterpretation.",
+                    "EMMA: Explicit Model Checking Manager (Tool Presentation).",
+                    "Efficient Testing of Concurrent Programs with Abstraction-Guided Symbolic Execution.",
+                    "Subsumer-First: Steering Symbolic Reachability Analysis.",
+                    "Identifying Modeling Errors in Signatures by Model Checking.",
+                    "Towards Verifying Correctness of Wireless Sensor Network Applications Using Insense and Spin.",
+                    "Verification of GALS Systems by Combining Synchronous Languages and Process Calculi.",
+                    "Experience with Model Checking Linearizability.",
+                    "Automatic Discovery of Transition Symmetry in Multithreaded Programs Using Dynamic Analysis."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2008",
+        "name": "15. SPIN 2008",
+        "info": "Los Angeles, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/spin/2008",
+                "sub_name": "Model Checking Software, 15th International SPIN Workshop, Los Angeles, CA, USA, August 10-12, 2008, Proceedings.",
+                "count": 22,
+                "papers": [
+                    "Residual Checking of Safety Properties.",
+                    "The Case for Context-Bounded Verification of Concurrent Programs.",
+                    "Combining Static and Dynamic Reasoning for the Discovery of Program Properties.",
+                    "Using Dynamic Symbolic Execution to Improve Deductive Verification.",
+                    "Automated Evaluation of Secure Route Discovery in MANET Protocols.",
+                    "Model Checking Abstract Components within Concrete Software Environments.",
+                    "Generating Compact MTBDD-Representations from ProbmelaSpecifications.",
+                    "Dynamic Delayed Duplicate Detection for External Memory Model Checking.",
+                    "State Focusing: Lazy Abstraction for the Mu-Calculus.",
+                    "Efficient Modeling of Concurrent Systems in BMC.",
+                    "Tackling Large Verification Problems with the Swarm Tool.",
+                    "Formal Verification of a Flash Memory Device Driver - An Experience Report.",
+                    "Layered Duplicate Detection in External-Memory Model Checking.",
+                    "Dependency Analysis for Control Flow Cycles in Reactive Communicating Processes.",
+                    "Improved On-the-Fly Equivalence Checking Using Boolean Equation Systems.",
+                    "Resource-Aware Verification Using Randomized Exploration of Large State Spaces.",
+                    "Incremental Hashing for Spin.",
+                    "Verifying Compiler Based Refinement of BluespecTM.",
+                    "Symbolic Context-Bounded Analysis of Multithreaded Java Programs.",
+                    "Efficient Stateful Dynamic Partial Order Reduction.",
+                    "Symbolic String Verification: An Automata-Based Approach.",
+                    "Verifying Multi-threaded C Programs with SPIN."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2007",
+        "name": "14. SPIN 2007",
+        "info": "Berlin, Germany",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/spin/2007",
+                "sub_name": "Model Checking Software, 14th International SPIN Workshop, Berlin, Germany, July 1-3, 2007, Proceedings.",
+                "count": 20,
+                "papers": [
+                    "StackSnuffer: Curing Orion's Unsoundness.",
+                    "Tutorial: Parallel Model Checking.",
+                    "Local Abstraction-Refinement for the mu-Calculus.",
+                    "Minimal Counterexample Generation for SPIN.",
+                    "Generating Counter-Examples Through Randomized Guided Search.",
+                    "Distributed Dynamic Partial Order Reduction Based Verification of Threaded Software.",
+                    "Some Solutions to the Ignoring Problem.",
+                    "Cartesian Partial-Order Reduction.",
+                    "On-the-Fly Dynamic Dead Variable Analysis.",
+                    "SAT-Based Summarization for Boolean Programs.",
+                    "LTL Satisfiability Checking.",
+                    "An Embeddable Virtual Machine for State Space Generation.",
+                    "Scalable Multi-core LTL Model-Checking.",
+                    "A SystemC/TLM Semantics in Promelaand Its Possible Applications.",
+                    "Towards Model Checking Spatial Properties with SPIN.",
+                    "Model Extraction for ARINC 653 Based Avionics Software.",
+                    "BEEM: Benchmarks for Explicit Model Checkers.",
+                    "C.OPEN and ANNOTATOR: Tools for On-the-Fly Model Checking C Programs.",
+                    "ACSAR: Software Model Checking with Transfinite Refinement.",
+                    "Instrumenting C Programs with Nested Word Monitors."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2006",
+        "name": "13. SPIN 2006",
+        "info": "Vienna, Austria",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/spin/2006",
+                "sub_name": "Model Checking Software, 13th International SPIN Workshop, Vienna, Austria, March 30 - April 1, 2006, Proceedings.",
+                "count": 19,
+                "papers": [
+                    "Large-Scale Directed Model Checking LTL.",
+                    "Directed Model Checking with Distance-Preserving Abstractions.",
+                    "Adapting an AI Planning Heuristic for Directed Model Checking.",
+                    "Larger Automata and Less Work for LTL Model Checking.",
+                    "Don't Know in Probabilistic Systems.",
+                    "Symbolic Model Checking of Stochastic Systems: Theory and Implementation.",
+                    "Parallel and Distributed Model Checking in Eddy.",
+                    "Distributed On-the-Fly Model Checking and Test Case Generation.",
+                    "Bounded Model Checking of Software Using SMT Solvers Instead of SAT Solvers.",
+                    "Symbolic Execution with Abstract Subsumption Checking.",
+                    "Abstract Matching for Software Model Checking.",
+                    "A Parametric State Space for the Analysis of the Infinite Class of Stop-and-Wait Protocols.",
+                    "Verification of Medical Guidelines by Model Checking - A Case Study.",
+                    "Towards a Compositional SPIN.",
+                    "Exploiting Symmetry and Transactions for Partial Order Reduction of Rule Based Specifications.",
+                    "Partial-Order Reduction for General State Exploring Algorithms.",
+                    "A Counterexample-Guided Refinement Tool for Open Procedural Programs.",
+                    "jMosel: A Stand-Alone Tool and jABC Plugin for M2L(Str).",
+                    "Model Checking Dynamic States in GROOVE."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2005",
+        "name": "12. SPIN 2005",
+        "info": "San Francisco, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/spin/2005",
+                "sub_name": "Model Checking Software, 12th International SPIN Workshop, San Francisco, CA, USA, August 22-24, 2005, Proceedings.",
+                "count": 24,
+                "papers": [
+                    "Pushdown Model Checking for Security.",
+                    "Execution Generated Test Cases: How to Make Systems Code Crash Itself.",
+                    "Effective Bug Hunting with Spin and Modex.",
+                    "The BLAST Software Verification System.",
+                    "Model Checking Programs with Java PathFinder.",
+                    "An Incremental Heap Canonicalization Algorithm.",
+                    "Memory Efficient State Space Storage in Explicit Software Model Checking.",
+                    "Counterexample-Based Refinement for a Boundedness Test for CFSM Languages.",
+                    "Symbolic Model Checking for Asynchronous Boolean Programs.",
+                    "Improving Spin's Partial-Order Reduction for Breadth-First Search.",
+                    "Sound Transaction-Based Reduction Without Cycle Detection.",
+                    "Repairing Structurally Complex Data.",
+                    "Crafting a Promela Front-End with Abstract Data Types to Mitigate the Sensitivity of (Compositional) Analysis to Implementation Choices.",
+                    "Behavioural Models for Hierarchical Components.",
+                    "On-the-Fly Emptiness Checks for Generalized B\u00fcchi Automata.",
+                    "Stuttering Congruence for chi.",
+                    "Verifying Pattern-Generated LTL Formulas: A Case Study.",
+                    "Generic Verification of Security Protocols.",
+                    "Using SPIN and Eclipse for Optimized High-Level Modeling and Analysis of Computer Network Attack Models.",
+                    "Model Checking Machine Code with the GNU Debugger.",
+                    "Etch: An Enhanced Type Checking Tool for Promela.",
+                    "Enhanced Probabilistic Verification with 3Spin and 3Murphi.",
+                    "SPLAT: A Tool for Model-Checking and Dynamically-Enforcing Abstractions.",
+                    "Learning-Based Assume-Guarantee Verification (Tool Paper)."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2004",
+        "name": "11. SPIN 2004",
+        "info": "Barcelona, Spain",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/spin/2004",
+                "sub_name": "Model Checking Software, 11th International SPIN Workshop, Barcelona, Spain, April 1-3, 2004, Proceedings.",
+                "count": 22,
+                "papers": [
+                    "Formal Analysis of Processor Timing Models.",
+                    "Typical Structural Properties of State Spaces.",
+                    "State Caching Reconsidered.",
+                    "Directed Error Detection in C++ with the Assembly-Level Model Checker StEAM.",
+                    "Fast and Accurate Bitstate Verification for SPIN.",
+                    "Model-Driven Software Verification.",
+                    "Minimization of Counterexamples in SPIN.",
+                    "Black-Box Conformance Testing for Real-Time Systems.",
+                    "Validation of UML Models via a Mapping to Communicating Extended Timed Automata.",
+                    "Explicit State Model Checking with Hopper.",
+                    "SEQ.OPEN: A Tool for Efficient Trace-Based Verification.",
+                    "Model Checking Genetic Regulatory Networks Using GNA and CADP.",
+                    "Verification of Java Programs Using Symbolic Execution and Invariant Generation.",
+                    "Polynomial Time Image Computation with Interval-Definable Counters Systems.",
+                    "Using Fairness to Make Abstractions Work.",
+                    "A Scalable Incomplete Test for Message Buffer Overflow in Promela Models.",
+                    "Translation from Adapted UML to Promela for CORBA-Based Applications.",
+                    "Verifying Commit-Atomicity Using Model-Checking.",
+                    "Analysis of Distributed Spin Applied to Industrial-Scale Models.",
+                    "Verification of MPI-Based Software for Scientific Computation.",
+                    "Advanced SPIN Tutorial.",
+                    "IF Validation Environment Tutorial."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2003",
+        "name": "10. SPIN 2003",
+        "info": "Portland, OR, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/spin/2003",
+                "sub_name": "Model Checking Software, 10th International SPIN Workshop. Portland, OR, USA, May 9-10, 2003, Proceedings.",
+                "count": 17,
+                "papers": [
+                    "Optimal Scheduling Using Branch and Bound with SPIN 4.0.",
+                    "A Requirements Patterns-Driven Approach to Specify Systems and Check Properties.",
+                    "Formal Modeling and Analysis of an Avionics Triplex Sensor Voter.",
+                    "Distributed Explicit Fair Cycle Detection (Set Based Approach).",
+                    "Efficient Model Checking of Safety Properties.",
+                    "A Light-Weight Algorithm for Model Checking with Symmetry Reduction and Weak Fairness.",
+                    "A SAT Characterization of Boolean-Program Correctness.",
+                    "What Went Wrong: Explaining Counterexamples.",
+                    "A Nearly Memory-Optimal Data Structure for Sets and Mappings.",
+                    "Checking Consistency of SDL+MSC Specifications.",
+                    "Model Checking Publish-Subscribe Systems.",
+                    "A Methodology for Model-Checking Ad-hoc Networks.",
+                    "Promela Planning.",
+                    "Thread-Modular Model Checking.",
+                    "Unification & Sharing in Timed Automata Verification.",
+                    "The Maude LTL Model Checker and Its Implementation.",
+                    "Software Verification with BLAST."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2002",
+        "name": "9. SPIN 2002",
+        "info": "Grenoble, France",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/spin/2002",
+                "sub_name": "Model Checking of Software, 9th International SPIN Workshop, Grenoble, France, April 11-13, 2002, Proceedings.",
+                "count": 24,
+                "papers": [
+                    "SAT-Based Counterexample Guided Abstraction Refinement.",
+                    "Abstract Interpretation: Theory and Practice.",
+                    "SPIN Tutorial: How to Become a SPIN Doctor.",
+                    "Abstraction in Software Model Checking: Principles and Practice (Tutorial Overview and Bibliography).",
+                    "Symmetry Reduction Criteria for Software Model Checking.",
+                    "Bytecode Model Checking: An Experimental Analysis.",
+                    "The Influence of Software Module Systems on Modular Verification.",
+                    "Extending the Translation from SDL to Promela.",
+                    "Model Checking Knowledge and Time.",
+                    "Partial Order Reduction in Directed Model Checking.",
+                    "Local Parallel Model Checking for the Alternation-Free \u00b5-Calculus.",
+                    "The Agreement Problem Protocol Verification Environment.",
+                    "Bottleneck Analysis of a Gigabit Network Interface Card: Formal Verification Approach.",
+                    "Using SPIN to Verify Security Properties of Cryptographic Protocols.",
+                    "Modeling and Verification of Interactive Flexible Multimedia Presentations Using PROMELA/SPIN.",
+                    "SPINning Parallel Systems Software.",
+                    "Dynamic Bounds and Transition Merging for Local First Search.",
+                    "Comparing Symbolic and Explicit Model Checking of a Software System.",
+                    "Industrial Model Checking Based on Satisfiability Solvers.",
+                    "A Typical Testing Problem: Validating WML Cellphones.",
+                    "Heuristic Model Checking for Java Programs.",
+                    "System Specification and Verification Using High Level Concepts - A Tool Demonstration.",
+                    "Demonstration of an Automated Integrated Test Environment for Web-Based Applications.",
+                    "alpha SPIN: Extending SPIN with Abstraction."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2001",
+        "name": "8. SPIN 2001",
+        "info": "Toronto, Canada",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/spin/2001",
+                "sub_name": "Model Checking Software, 8th International SPIN Workshop, Toronto, Canada, May 19-20, 2001, Proceedings.",
+                "count": 20,
+                "papers": [
+                    "From Model Checking to a Temporal Proof.",
+                    "Model Checking if Your Life Depends on It a View from Intel's Trenches.",
+                    "Model-Checking Infinite State-Space Systems with Fine-Grained Abstractions Using SPIN.",
+                    "Implementing LTL Model Checking with Net Unfoldings.",
+                    "Directed Explicit Model Checking with HSF-SPIN.",
+                    "Addressing Dynamic Issues of Program Model Checking.",
+                    "Automatically Validating Temporal Safety Properties of Interfaces.",
+                    "Verification Experiments on the MASCARA Protocol.",
+                    "Using SPIN for Feature Interaction Analysis - A Case Study.",
+                    "Behavioural Analysis of the Enterprise JavaBeansTM Component Architecture.",
+                    "p2b: A Translation Utility for Linking Promela and Symbolic Model Checking (Tool Paper).",
+                    "Transformations for Model Checking Distributed Java Programs.",
+                    "Distributed LTL Model-Checking in SPIN.",
+                    "Parallel State Space Construction for Model-Checking.",
+                    "Model Checking Systems of Replicated Processes with Spin.",
+                    "A SPIN-Based Model Checker for Telecommunication Protocols.",
+                    "Modeling and Verifying a Price Model for Congestion Control in Computer Networks Using Promela/Spin.",
+                    "A Model Checking Project at Philips Research.",
+                    "Applications of Model Checking at Honeywell Laboratories.",
+                    "Coarse-Granular Model Checking in Practice."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "2000",
+        "name": "7. SPIN 2000",
+        "info": "Stanford, CA, USA",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/spin/2000",
+                "sub_name": "SPIN Model Checking and Software Verification, 7th International SPIN Workshop, Stanford, CA, USA, August 30 - September 1, 2000, Proceedings.",
+                "count": 20,
+                "papers": [
+                    "Symmetric Spin.",
+                    "Using Garbage Collection in Model Checking.",
+                    "Model Checking Based on Simultaneous Reachability Analysis.",
+                    "Testing SPIN's LTL Formula Conversion into B\u00fcchi Automata with Randomly Generated Input.",
+                    "Verification and Optimization of a PLC Control Schedule.",
+                    "Modeling the ASCB-D Synchronization Algorithm with SPIN: A Case Study.",
+                    "Bebop: A Symbolic Model Checker for Boolean Programs.",
+                    "Logic Verification of ANSI-C Code with SPIN.",
+                    "Interaction Abstraction for Compositional Finite State Systems.",
+                    "Correctness by Construction: Towards Verification in Hierarchical System Development.",
+                    "Linking STeP with SPIN.",
+                    "Abstraction of Communication Channels in Promela: A Case Study.",
+                    "A Language Framework for Expressing Checkable Properties of Dynamic Software.",
+                    "Model-Checking Multi-threaded Distributed Java Programs.",
+                    "Using Runtime Analysis to Guide Model Checking of Java Programs.",
+                    "Communication Topology Analysis for Concurrent Programs.",
+                    "Low-Fat Recipes for SPIN.",
+                    "Tutorial on FDR and Its Applications.",
+                    "The Temporal Rover and the ATG Rover.",
+                    "Runtime Checking of Multithreaded Applications with Visual Threads."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1999",
+        "name": "5. SPIN 1999",
+        "info": "Trento, Italy / 6. SPIN 1999",
+        "venues": [
+            {
+                "sub_name_abbr": "conf/spin/1999",
+                "sub_name": "Theoretical and Practical Aspects of SPIN Model Checking, 5th and 6th International SPIN Workshops, Trento, Italy, July 5, 1999, Toulouse, France, September 21 and 24 1999, Proceedings.",
+                "count": 20,
+                "papers": [
+                    "Integrated Formal Verification: Using Model Checking with Automated Abstraction, Invariant Generation, and Theorem Proving.",
+                    "Runtime Efficient State Compaction in SPIN.",
+                    "Distributed-Memory Model Checking with SPIN.",
+                    "Partial Order Reduction in Presence of Rendez-vous Communications with Unless Constructs and Weak Fairness.",
+                    "Divide, Abstract, and Model-Check.",
+                    "Formal Methods Adoption: What's Working, What's Not!",
+                    "Model Checking for Managers.",
+                    "Xspin/Project - Integrated Validation Management for Xspin.",
+                    "Analyzing Mode Confusion via Model Checking.",
+                    "Detecting Feature Interactions in the Terrestrial Trunked Radio (TETRA) Network Using Promela and Xspin.",
+                    "Java PathFinder, A Translator from Java to Promela.",
+                    "VIP: A Visual Interface for Promela.",
+                    "Events in Property Patterns.",
+                    "Assume-Guarantee Model Checking of Software: A Comparative Case Study.",
+                    "A Framework for Automatic Construction of Abstract Promela Models.",
+                    "Model Checking Operator Procedures.",
+                    "Applying Model Checking in Java Verification.",
+                    "The Engineering of a Model Checker: The Gnu i-Protocol Case Study Revisited.",
+                    "Embedding a Dialect of SDL in PROMELA.",
+                    "dSPIN: A Dynamic Extension of SPIN."
+                ]
+            }
+        ]
+    },
+    {
+        "year": "1998",
+        "name": "4. SPIN 1998",
+        "info": "Paris, France",
+        "venues": []
+    },
+    {
+        "year": "1997",
+        "name": "3. SPIN 1997",
+        "info": "Enschede, Netherlands",
+        "venues": []
+    },
+    {
+        "year": "1996",
+        "name": "2. SPIN 1996",
+        "info": "New Brunswick",
+        "venues": []
+    },
+    {
+        "year": "1995",
+        "name": "1. SPIN 1995",
+        "info": "Montreal, Canada",
+        "venues": []
+    }
+]
